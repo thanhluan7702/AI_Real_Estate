@@ -68,20 +68,6 @@ def crawl_data(driver, news_type):
         
     return record
 
-# def crawl_type_PJ(driver): 
-#     record = {} 
-    
-#     record['Loại tin'] = 'Dự án'
-#     record['Tiêu đề'] = driver.find_element(By.TAG_NAME, 'h2').text.strip()
-    
-#     table = [i.text for i in driver.find_elements(By.CLASS_NAME, 're__project-attr')]
-#     keys, values = table[0::2], table[1::2]
-#     for k, v in zip(keys, values): 
-#         record[k] = v 
-    
-    
-#     return record
-
 def process(news_type, part, iter = None): 
     lst_data = []
     
@@ -104,8 +90,6 @@ def process(news_type, part, iter = None):
             record = crawl_data(bot, news_type)
             lst_data.append(record)
             bot.quit()
-            break # debug
-        break # debug
     return lst_data
 
 ## crawling 
@@ -123,7 +107,6 @@ except FileNotFoundError:
     pass
 
 types_news = {'Nhà đất bán' : 'nha-dat-ban', 'Nhà đất cho thuê' : 'nha-dat-cho-thue'}
-# types_news = {'Nhà đất bán' : 'nha-dat-ban', 'Nhà đất cho thuê' : 'nha-dat-cho-thue', 'Dự án' : 'du-an-bat-dong-san'}
 
 for type, part in types_news.items(): 
     print(f'Crawling with {type} type')
