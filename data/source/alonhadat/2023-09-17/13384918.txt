@@ -1,0 +1,343 @@
+<div class="property">
+ <div class="title">
+  <h1>
+   🔥🔥SỞ HŨU 1 CĂN HOMESTAY DTSD 140M2 TẠI TT QUẬN HẢI CHÂU- DOANH THU 35TR/1 THÁNG
+  </h1>
+  <span class="date">
+   Ngày đăng: Hôm qua
+  </span>
+ </div>
+ <div class="detail text-content">
+  🔥🔥SỞ HŨU 1 CĂN HOMESTAY DTSD 140M2 TẠI TT QUẬN HẢI CHÂU- TÀI CHÍNH ĐẦU TƯ CHỈ NHỈNH 4 TỶ 
+❤️LÃI DÒNG CHO THUÊ 35TR/1 THÁNG. CỰC HIẾM .
+
++Vị trí nằm tại Trung Tâm Quận nhất tại Đà Nẵng 
+Khu vực buôn bán kinh doanh sầm uất nhất Đà Thành.
++Trước nhà ô tô tránh nhau.
++ Dt SD 2 Tầng 140m2
++ thiết kế chuẩn homestay cho người việt- người nước ngoài thuê dòng tiền ổn định.
++ Đánh giá 5 sao  đứng top trên booking.
+Liên Hệ E Trang Lee để biết thêm chi tiết
+ </div>
+ <div class="moreinfor">
+  <span class="price">
+   <span class="label">
+    Giá:
+   </span>
+   <span class="value">
+    4,75 tỷ
+   </span>
+  </span>
+  <span class="square">
+   <span class="label">
+    Diện tích:
+   </span>
+   <span class="value">
+    140 m
+    <sup>
+     2
+    </sup>
+   </span>
+  </span>
+  <div class="clear">
+  </div>
+ </div>
+ <div class="address">
+  <span class="label">
+   Địa chỉ tài sản:
+  </span>
+  <span class="value">
+   Đường Hoàng Diệu, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng
+  </span>
+ </div>
+ <div class="moreinfor1">
+  <div class="title">
+   Các thông tin khác
+  </div>
+  <div class="infor">
+   <table cellspacing="0" hspace="0" vspace="0">
+    <tbody>
+     <tr>
+      <td>
+       Mã tin
+      </td>
+      <td>
+       13384918
+      </td>
+      <td>
+       Hướng
+      </td>
+      <td>
+       _
+      </td>
+      <td>
+       Phòng ăn
+      </td>
+      <td>
+       <img src="/publish/img/check.gif"/>
+      </td>
+     </tr>
+     <tr>
+      <td>
+       Loại tin
+      </td>
+      <td>
+       Cần bán
+      </td>
+      <td>
+       Đường trước nhà
+      </td>
+      <td>
+       5,5m
+      </td>
+      <td>
+       Nhà bếp
+      </td>
+      <td>
+       <img src="/publish/img/check.gif"/>
+      </td>
+     </tr>
+     <tr>
+      <td>
+       Loại BDS
+      </td>
+      <td>
+       Nhà mặt tiền
+      </td>
+      <td>
+       Pháp lý
+      </td>
+      <td>
+       Sổ hồng/ Sổ đỏ
+      </td>
+      <td>
+       Sân thượng
+      </td>
+      <td>
+       ---
+      </td>
+     </tr>
+     <tr>
+      <td>
+       Chiều ngang
+      </td>
+      <td>
+       4m
+      </td>
+      <td>
+       Số lầu
+      </td>
+      <td>
+       2
+      </td>
+      <td>
+       Chổ để xe hơi
+      </td>
+      <td>
+       <img src="/publish/img/check.gif"/>
+      </td>
+     </tr>
+     <tr>
+      <td>
+       Chiều dài
+      </td>
+      <td>
+       ---
+      </td>
+      <td>
+       Số phòng ngủ
+      </td>
+      <td>
+       3
+      </td>
+      <td>
+       Chính chủ
+      </td>
+      <td>
+       ---
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+ </div>
+ <div class="image-tab">
+  <span class="view-image selected">
+   Hình ảnh
+  </span>
+ </div>
+ <div class="images">
+  <div class="imageview">
+   <img alt="🔥🔥SỞ HŨU 1 CĂN HOMESTAY DTSD 140M2 TẠI TT QUẬN HẢI CHÂU- DOANH THU 35TR/1 THÁNG" id="limage" onclick="showImage(this.src)" src="/files/properties/2023/9/12/images/013384918-2721-ban-nha-mat-tien-quan-hai-chau-gia-re.jpg"/>
+  </div>
+  <div class="image-list">
+   <span>
+    <img alt="🔥🔥SỞ HŨU 1 CĂN HOMESTAY DTSD 140M2 TẠI TT QUẬN HẢI CHÂU- DOANH THU 35TR/1 THÁNG - 0" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/9/12/images/013384918-2721-ban-nha-mat-tien-quan-hai-chau-gia-re.jpg"/>
+   </span>
+   <span>
+    <img alt="🔥🔥SỞ HŨU 1 CĂN HOMESTAY DTSD 140M2 TẠI TT QUẬN HẢI CHÂU- DOANH THU 35TR/1 THÁNG - 1" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/9/12/images/113384918-2721-ban-nha-mat-tien-da-nang-gia-re.jpg"/>
+   </span>
+   <span>
+    <img alt="🔥🔥SỞ HŨU 1 CĂN HOMESTAY DTSD 140M2 TẠI TT QUẬN HẢI CHÂU- DOANH THU 35TR/1 THÁNG - 2" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/9/12/images/213384918-2721-ban-nha-mat-tien-quan-hai-chau.jpg"/>
+   </span>
+   <span>
+    <img alt="🔥🔥SỞ HŨU 1 CĂN HOMESTAY DTSD 140M2 TẠI TT QUẬN HẢI CHÂU- DOANH THU 35TR/1 THÁNG - 3" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/9/12/images/313384918-2721-ban-nha-mat-tien-da-nang-chinh-chu.jpg"/>
+   </span>
+   <span>
+    <img alt="🔥🔥SỞ HŨU 1 CĂN HOMESTAY DTSD 140M2 TẠI TT QUẬN HẢI CHÂU- DOANH THU 35TR/1 THÁNG - 4" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/9/12/images/413384918-2721-ban-nha-mat-tien-quan-hai-chau-gia-re.jpg"/>
+   </span>
+  </div>
+ </div>
+ <div class="utility">
+  <span class="save" tabindex="0">
+   Lưu tin
+  </span>
+ </div>
+ <input id="hddDemand" type="hidden" value="1"/>
+ <input id="hddPropertyType" type="hidden" value="1"/>
+ <input id="hddPropertyId" type="hidden" value="13384918"/>
+ <input id="hddNguoiDang" type="hidden" user="0" value="667193"/>
+ <div class="reflect-form">
+  <div class="loading">
+  </div>
+  <div class="title">
+   Phản ánh tin rao vi phạm
+  </div>
+  <div class="notice">
+   Thông tin phản ánh của Quý khách giúp chúng tôi sàn lọc thông tin tốt hơn và loại trừ các nhà môi giới không trung thực. Xin trân trọng cám ơn.
+  </div>
+  <div class="content">
+   <div class="reason">
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="1"/>
+     <span>
+      Tài sản đã bán/cho thuê
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="2"/>
+     <span>
+      Tin không có thật
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="3"/>
+     <span>
+      Nội dung không đúng với thực tế
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="4"/>
+     <span>
+      Giá không đúng
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="5"/>
+     <span>
+      Không liên lạc được
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="6"/>
+     <span>
+      Địa chỉ bất động sản không đúng
+     </span>
+    </div>
+    <div class="clear">
+    </div>
+   </div>
+   <div class="other-reason">
+    <input class="reason-item" name="reason" type="radio" value="10"/>
+    <span>
+     Lý do khác:
+    </span>
+    <br/>
+    <textarea class="txtcontent" maxlength="240" placeholder="Nội dung phản ánh"></textarea>
+   </div>
+   <div class="check-ignore">
+    <input class="chkdayignore" type="checkbox"/>
+    <b class="bdayignore">
+     Tôi không muốn xem tin của người đăng này trong vòng:
+    </b>
+    <select class="dayignore" disabled="disabled" name="dayignore" style="color:red; background:#eeeeee;">
+     <option value="0">
+      Số ngày
+     </option>
+     <option value="1">
+      1 ngày
+     </option>
+     <option value="3">
+      3 ngày
+     </option>
+     <option value="7">
+      7 ngày
+     </option>
+     <option value="14">
+      14 ngày
+     </option>
+     <option value="21">
+      21 ngày
+     </option>
+     <option value="30">
+      30 ngày
+     </option>
+     <option value="60">
+      60 ngày
+     </option>
+     <option value="90">
+      90 ngày
+     </option>
+     <option value="180">
+      180 ngày
+     </option>
+     <option value="360">
+      360 ngày
+     </option>
+    </select>
+    <i>
+     Tất cả các tin của thành viên này sẽ ẩn đi với bạn trong khoảng thời gian bạn đã chọn.
+    </i>
+   </div>
+   <div>
+    <font style="color:blue">
+     Mã an toàn
+    </font>
+    :
+    <br/>
+    <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx" width="90"/>
+    <input class="captcha" id="captcha" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+    <input class="btnSubmit" type="button" value="Gửi phản ánh"/>
+   </div>
+  </div>
+ </div>
+ <div class="tags">
+  <span>
+   Có thể bạn muốn xem:
+  </span>
+  <a href="/nha-dat/can-ban/nha-mat-tien/3/da-nang.html">
+   Bán nhà Đà Nẵng
+  </a>
+  <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/584/quan-hai-chau.html">
+   Bán nhà Quận Hải Châu
+  </a>
+  <a href="/nha-dat/can-ban/nha-mat-tien/phuong-binh-thuan-quan-hai-chau-px1089.html">
+   Bán nhà Phường Bình Thuận
+  </a>
+  <a href="/nha-dat/can-ban/nha-mat-tien/duong-hoang-dieu-quan-hai-chau-dp2644.html">
+   Bán nhà Đường Hoàng Diệu
+  </a>
+ </div>
+ <div class="notices">
+  <h3>
+   Lưu ý:
+  </h3>
+  <p>
+   Các bạn đang xem tin đăng trong mục "
+   <b>
+    Mua bán nhà mặt phố, bán nhà mặt tiền  Quận Hải Châu, Đà Nẵng
+   </b>
+   ". Các thông tin rao vặt là do người đăng tin đăng tải toàn bộ thông tin. Chúng tôi hoàn toàn không chịu trách nhiệm về bất cứ thông tin nào liên qua đến các thông tin này. Chúng tôi luôn cố gắng để đưa các tin tức nhanh và chính xác nhất cho các bạn.
+  </p>
+ </div>
+</div>

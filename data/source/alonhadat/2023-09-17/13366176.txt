@@ -1,0 +1,309 @@
+<div class="property">
+ <div class="title">
+  <h1>
+   DTD 1100m ngang 20m, toà khách sạn biển Sơn Trà giá 180 tỷ
+  </h1>
+  <span class="date">
+   Ngày đăng: Hôm qua
+  </span>
+ </div>
+ <div class="detail text-content">
+  Chủ cần bán khách sạn biển Sơn Trà gần sát đường Võ Nguyên Giáp. Cách bãi tắm vài bước chân.
+Khu vực kinh doanh sầm uất.
+Mọi thông tin liên hệ Ms Phương để làm việc trực tiếp chủ.
+Có thể bán 500m, 700m đất theo mong muốn của quý khách.
+ </div>
+ <div class="moreinfor">
+  <span class="price">
+   <span class="label">
+    Giá:
+   </span>
+   <span class="value">
+    180 tỷ
+   </span>
+  </span>
+  <span class="square">
+   <span class="label">
+    Diện tích:
+   </span>
+   <span class="value">
+    1.100 m
+    <sup>
+     2
+    </sup>
+   </span>
+  </span>
+  <div class="clear">
+  </div>
+ </div>
+ <div class="address">
+  <span class="label">
+   Địa chỉ tài sản:
+  </span>
+  <span class="value">
+   Gần đường Võ Nguyên Giáp,  Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng
+  </span>
+ </div>
+ <div class="moreinfor1">
+  <div class="title">
+   Các thông tin khác
+  </div>
+  <div class="infor">
+   <table cellspacing="0" hspace="0" vspace="0">
+    <tbody>
+     <tr>
+      <td>
+       Mã tin
+      </td>
+      <td>
+       13366176
+      </td>
+      <td>
+       Hướng
+      </td>
+      <td>
+       Đông
+      </td>
+      <td>
+       Phòng ăn
+      </td>
+      <td>
+       <img src="/publish/img/check.gif"/>
+      </td>
+     </tr>
+     <tr>
+      <td>
+       Loại tin
+      </td>
+      <td>
+       Cần bán
+      </td>
+      <td>
+       Đường trước nhà
+      </td>
+      <td>
+       ---
+      </td>
+      <td>
+       Nhà bếp
+      </td>
+      <td>
+       <img src="/publish/img/check.gif"/>
+      </td>
+     </tr>
+     <tr>
+      <td>
+       Loại BDS
+      </td>
+      <td>
+       Nhà hàng, khách sạn
+      </td>
+      <td>
+       Pháp lý
+      </td>
+      <td>
+       Sổ hồng/ Sổ đỏ
+      </td>
+      <td>
+       Sân thượng
+      </td>
+      <td>
+       <img src="/publish/img/check.gif"/>
+      </td>
+     </tr>
+     <tr>
+      <td>
+       Chiều ngang
+      </td>
+      <td>
+       20m
+      </td>
+      <td>
+       Số lầu
+      </td>
+      <td>
+       4
+      </td>
+      <td>
+       Chổ để xe hơi
+      </td>
+      <td>
+       <img src="/publish/img/check.gif"/>
+      </td>
+     </tr>
+     <tr>
+      <td>
+       Chiều dài
+      </td>
+      <td>
+       ---
+      </td>
+      <td>
+       Số phòng ngủ
+      </td>
+      <td>
+       20
+      </td>
+      <td>
+       Chính chủ
+      </td>
+      <td>
+       ---
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+ </div>
+ <div class="images">
+ </div>
+ <div class="utility">
+  <span class="save" tabindex="0">
+   Lưu tin
+  </span>
+ </div>
+ <input id="hddDemand" type="hidden" value="1"/>
+ <input id="hddPropertyType" type="hidden" value="6"/>
+ <input id="hddPropertyId" type="hidden" value="13366176"/>
+ <input id="hddNguoiDang" type="hidden" user="0" value="833552"/>
+ <div class="reflect-form">
+  <div class="loading">
+  </div>
+  <div class="title">
+   Phản ánh tin rao vi phạm
+  </div>
+  <div class="notice">
+   Thông tin phản ánh của Quý khách giúp chúng tôi sàn lọc thông tin tốt hơn và loại trừ các nhà môi giới không trung thực. Xin trân trọng cám ơn.
+  </div>
+  <div class="content">
+   <div class="reason">
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="1"/>
+     <span>
+      Tài sản đã bán/cho thuê
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="2"/>
+     <span>
+      Tin không có thật
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="3"/>
+     <span>
+      Nội dung không đúng với thực tế
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="4"/>
+     <span>
+      Giá không đúng
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="5"/>
+     <span>
+      Không liên lạc được
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="6"/>
+     <span>
+      Địa chỉ bất động sản không đúng
+     </span>
+    </div>
+    <div class="clear">
+    </div>
+   </div>
+   <div class="other-reason">
+    <input class="reason-item" name="reason" type="radio" value="10"/>
+    <span>
+     Lý do khác:
+    </span>
+    <br/>
+    <textarea class="txtcontent" maxlength="240" placeholder="Nội dung phản ánh"></textarea>
+   </div>
+   <div class="check-ignore">
+    <input class="chkdayignore" type="checkbox"/>
+    <b class="bdayignore">
+     Tôi không muốn xem tin của người đăng này trong vòng:
+    </b>
+    <select class="dayignore" disabled="disabled" name="dayignore" style="color:red; background:#eeeeee;">
+     <option value="0">
+      Số ngày
+     </option>
+     <option value="1">
+      1 ngày
+     </option>
+     <option value="3">
+      3 ngày
+     </option>
+     <option value="7">
+      7 ngày
+     </option>
+     <option value="14">
+      14 ngày
+     </option>
+     <option value="21">
+      21 ngày
+     </option>
+     <option value="30">
+      30 ngày
+     </option>
+     <option value="60">
+      60 ngày
+     </option>
+     <option value="90">
+      90 ngày
+     </option>
+     <option value="180">
+      180 ngày
+     </option>
+     <option value="360">
+      360 ngày
+     </option>
+    </select>
+    <i>
+     Tất cả các tin của thành viên này sẽ ẩn đi với bạn trong khoảng thời gian bạn đã chọn.
+    </i>
+   </div>
+   <div>
+    <font style="color:blue">
+     Mã an toàn
+    </font>
+    :
+    <br/>
+    <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx" width="90"/>
+    <input class="captcha" id="captcha" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+    <input class="btnSubmit" type="button" value="Gửi phản ánh"/>
+   </div>
+  </div>
+ </div>
+ <div class="tags">
+  <span>
+   Có thể bạn muốn xem:
+  </span>
+  <a href="/nha-dat/can-ban/nha-hang-khach-san/3/da-nang.html">
+   Bán khách sạn Đà Nẵng
+  </a>
+  <a href="/nha-dat/can-ban/nha-hang-khach-san/da-nang/586/quan-son-tra.html">
+   Bán khách sạn Quận Sơn Trà
+  </a>
+  <a href="/nha-dat/can-ban/nha-hang-khach-san/phuong-an-hai-bac-quan-son-tra-px1112.html">
+   Bán khách sạn Phường An Hải Bắc
+  </a>
+ </div>
+ <div class="notices">
+  <h3>
+   Lưu ý:
+  </h3>
+  <p>
+   Các bạn đang xem tin đăng trong mục "
+   <b>
+    Cần bán nhà hàng, khách sạn Quận Sơn Trà, Đà Nẵng
+   </b>
+   ". Các thông tin rao vặt là do người đăng tin đăng tải toàn bộ thông tin. Chúng tôi hoàn toàn không chịu trách nhiệm về bất cứ thông tin nào liên qua đến các thông tin này. Chúng tôi luôn cố gắng để đưa các tin tức nhanh và chính xác nhất cho các bạn.
+  </p>
+ </div>
+</div>

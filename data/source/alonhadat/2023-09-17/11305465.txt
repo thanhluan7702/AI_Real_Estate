@@ -1,0 +1,339 @@
+<div class="property">
+ <div class="title">
+  <h1>
+   SẬP HẦM NHÀ 2 MÊ 95m2 ĐƯỜNG 7m5 - TÔN QUANG PHIỆT - GẦN CHỢ - VIEW CÔNG VIÊN - NHỈNH 4 TỶ
+  </h1>
+  <span class="date">
+   Ngày đăng: Hôm nay
+  </span>
+ </div>
+ <div class="detail text-content">
+  TRUNG TÂM QUẬN - VIEW CÔNG VIÊN - GẦN CHỢ NẠI HIÊN ĐÔNG - KINH DOANH ĐỈNH - GẦN BIỂN - ĐƯỜNG LỚN VỈA HÈ RỘNG - GIÁ TỐT NHẤT KHU VỰC
+Mô tả:
++ Đường 7.5m vỉa hè 4m thông ra Trần Nhân Tông, Trần Thánh Tông, Vân Đồn, cách chợ 50m, kinh doanh tốt.
++ Tích xung quanh: cách 2 trường học 80m, trước nhà là công viên cây xanh lớn rất mát mẻ, cách biển chưa tới 1km.
++ Khu vực giao thông thuận tiện, trung tâm tỏa ra các hướng quận.
++ Thiết kế: 3 phòng ngủ, phòng khách, bếp, 2 wc, phòng thờ, sân để xe, sân phơi.
++ Sổ đỏ chính chủ vuông đẹp, sẵn sàng giao dịch.
++ Chủ nhà thân thiện, có thương lượng cho khách hàng thiện chí.
++ Liên hệ Mr Thắng để được dẫn đi xem nhà, gặp và làm việc chính chủ giá tốt nhất.
+ </div>
+ <div class="moreinfor">
+  <span class="price">
+   <span class="label">
+    Giá:
+   </span>
+   <span class="value">
+    4,3 tỷ
+   </span>
+  </span>
+  <span class="square">
+   <span class="label">
+    Diện tích:
+   </span>
+   <span class="value">
+    95 m
+    <sup>
+     2
+    </sup>
+   </span>
+  </span>
+  <div class="clear">
+  </div>
+ </div>
+ <div class="address">
+  <span class="label">
+   Địa chỉ tài sản:
+  </span>
+  <span class="value">
+   Đường Tôn Quang Phiệt, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng
+  </span>
+ </div>
+ <div class="moreinfor1">
+  <div class="title">
+   Các thông tin khác
+  </div>
+  <div class="infor">
+   <table cellspacing="0" hspace="0" vspace="0">
+    <tbody>
+     <tr>
+      <td>
+       Mã tin
+      </td>
+      <td>
+       11305465
+      </td>
+      <td>
+       Hướng
+      </td>
+      <td>
+       _
+      </td>
+      <td>
+       Phòng ăn
+      </td>
+      <td>
+       <img src="/publish/img/check.gif"/>
+      </td>
+     </tr>
+     <tr>
+      <td>
+       Loại tin
+      </td>
+      <td>
+       Cần bán
+      </td>
+      <td>
+       Đường trước nhà
+      </td>
+      <td>
+       7,5m
+      </td>
+      <td>
+       Nhà bếp
+      </td>
+      <td>
+       <img src="/publish/img/check.gif"/>
+      </td>
+     </tr>
+     <tr>
+      <td>
+       Loại BDS
+      </td>
+      <td>
+       Nhà mặt tiền
+      </td>
+      <td>
+       Pháp lý
+      </td>
+      <td>
+       Sổ hồng/ Sổ đỏ
+      </td>
+      <td>
+       Sân thượng
+      </td>
+      <td>
+       <img src="/publish/img/check.gif"/>
+      </td>
+     </tr>
+     <tr>
+      <td>
+       Chiều ngang
+      </td>
+      <td>
+       5m
+      </td>
+      <td>
+       Số lầu
+      </td>
+      <td>
+       2
+      </td>
+      <td>
+       Chổ để xe hơi
+      </td>
+      <td>
+       <img src="/publish/img/check.gif"/>
+      </td>
+     </tr>
+     <tr>
+      <td>
+       Chiều dài
+      </td>
+      <td>
+       ---
+      </td>
+      <td>
+       Số phòng ngủ
+      </td>
+      <td>
+       3
+      </td>
+      <td>
+       Chính chủ
+      </td>
+      <td>
+       ---
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+ </div>
+ <div class="image-tab">
+  <span class="view-image selected">
+   Hình ảnh
+  </span>
+ </div>
+ <div class="images">
+  <div class="imageview">
+   <img alt="SẬP HẦM NHÀ 2 MÊ 95m2 ĐƯỜNG 7m5 - TÔN QUANG PHIỆT - GẦN CHỢ - VIEW CÔNG VIÊN - NHỈNH 4 TỶ" id="limage" onclick="showImage(this.src)" src="/files/properties/2022/8/4/images/011305465-0917-ban-nha-ton-quang-phiet-son-tra-gan-cho-view-cong-vien-kinh-doanh-dinh-chi-hon-5-ty.jpg"/>
+  </div>
+  <div class="image-list">
+   <span>
+    <img alt="SẬP HẦM NHÀ 2 MÊ 95m2 ĐƯỜNG 7m5 - TÔN QUANG PHIỆT - GẦN CHỢ - VIEW CÔNG VIÊN - NHỈNH 4 TỶ - 0" class="limage" onclick="showImage(this.src)" src="/files/properties/2022/8/4/images/011305465-0917-ban-nha-ton-quang-phiet-son-tra-gan-cho-view-cong-vien-kinh-doanh-dinh-chi-hon-5-ty.jpg"/>
+   </span>
+   <span>
+    <img alt="SẬP HẦM NHÀ 2 MÊ 95m2 ĐƯỜNG 7m5 - TÔN QUANG PHIỆT - GẦN CHỢ - VIEW CÔNG VIÊN - NHỈNH 4 TỶ - 1" class="limage" onclick="showImage(this.src)" src="/files/properties/2022/8/4/images/111305465-0917-ban-nha-mat-tien-da-nang-chinh-chu.jpg"/>
+   </span>
+   <span>
+    <img alt="SẬP HẦM NHÀ 2 MÊ 95m2 ĐƯỜNG 7m5 - TÔN QUANG PHIỆT - GẦN CHỢ - VIEW CÔNG VIÊN - NHỈNH 4 TỶ - 2" class="limage" onclick="showImage(this.src)" src="/files/properties/2022/8/4/images/211305465-0917-ban-nha-mat-tien-quan-son-tra.jpg"/>
+   </span>
+   <span>
+    <img alt="SẬP HẦM NHÀ 2 MÊ 95m2 ĐƯỜNG 7m5 - TÔN QUANG PHIỆT - GẦN CHỢ - VIEW CÔNG VIÊN - NHỈNH 4 TỶ - 3" class="limage" onclick="showImage(this.src)" src="/files/properties/2022/8/4/images/311305465-0917-ban-nha-mat-tien-quan-son-tra.jpg"/>
+   </span>
+  </div>
+ </div>
+ <div class="utility">
+  <span class="save" tabindex="0">
+   Lưu tin
+  </span>
+ </div>
+ <input id="hddDemand" type="hidden" value="1"/>
+ <input id="hddPropertyType" type="hidden" value="1"/>
+ <input id="hddPropertyId" type="hidden" value="11305465"/>
+ <input id="hddNguoiDang" type="hidden" user="0" value="769217"/>
+ <div class="reflect-form">
+  <div class="loading">
+  </div>
+  <div class="title">
+   Phản ánh tin rao vi phạm
+  </div>
+  <div class="notice">
+   Thông tin phản ánh của Quý khách giúp chúng tôi sàn lọc thông tin tốt hơn và loại trừ các nhà môi giới không trung thực. Xin trân trọng cám ơn.
+  </div>
+  <div class="content">
+   <div class="reason">
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="1"/>
+     <span>
+      Tài sản đã bán/cho thuê
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="2"/>
+     <span>
+      Tin không có thật
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="3"/>
+     <span>
+      Nội dung không đúng với thực tế
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="4"/>
+     <span>
+      Giá không đúng
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="5"/>
+     <span>
+      Không liên lạc được
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="6"/>
+     <span>
+      Địa chỉ bất động sản không đúng
+     </span>
+    </div>
+    <div class="clear">
+    </div>
+   </div>
+   <div class="other-reason">
+    <input class="reason-item" name="reason" type="radio" value="10"/>
+    <span>
+     Lý do khác:
+    </span>
+    <br/>
+    <textarea class="txtcontent" maxlength="240" placeholder="Nội dung phản ánh"></textarea>
+   </div>
+   <div class="check-ignore">
+    <input class="chkdayignore" type="checkbox"/>
+    <b class="bdayignore">
+     Tôi không muốn xem tin của người đăng này trong vòng:
+    </b>
+    <select class="dayignore" disabled="disabled" name="dayignore" style="color:red; background:#eeeeee;">
+     <option value="0">
+      Số ngày
+     </option>
+     <option value="1">
+      1 ngày
+     </option>
+     <option value="3">
+      3 ngày
+     </option>
+     <option value="7">
+      7 ngày
+     </option>
+     <option value="14">
+      14 ngày
+     </option>
+     <option value="21">
+      21 ngày
+     </option>
+     <option value="30">
+      30 ngày
+     </option>
+     <option value="60">
+      60 ngày
+     </option>
+     <option value="90">
+      90 ngày
+     </option>
+     <option value="180">
+      180 ngày
+     </option>
+     <option value="360">
+      360 ngày
+     </option>
+    </select>
+    <i>
+     Tất cả các tin của thành viên này sẽ ẩn đi với bạn trong khoảng thời gian bạn đã chọn.
+    </i>
+   </div>
+   <div>
+    <font style="color:blue">
+     Mã an toàn
+    </font>
+    :
+    <br/>
+    <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx" width="90"/>
+    <input class="captcha" id="captcha" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+    <input class="btnSubmit" type="button" value="Gửi phản ánh"/>
+   </div>
+  </div>
+ </div>
+ <div class="tags">
+  <span>
+   Có thể bạn muốn xem:
+  </span>
+  <a href="/nha-dat/can-ban/nha-mat-tien/3/da-nang.html">
+   Bán nhà Đà Nẵng
+  </a>
+  <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/586/quan-son-tra.html">
+   Bán nhà Quận Sơn Trà
+  </a>
+  <a href="/nha-dat/can-ban/nha-mat-tien/phuong-nai-hien-dong-quan-son-tra-px1116.html">
+   Bán nhà Phường Nại Hiên Đông
+  </a>
+  <a href="/nha-dat/can-ban/nha-mat-tien/duong-ton-quang-phiet-quan-son-tra-dp16736.html">
+   Bán nhà Đường Tôn Quang Phiệt
+  </a>
+ </div>
+ <div class="notices">
+  <h3>
+   Lưu ý:
+  </h3>
+  <p>
+   Các bạn đang xem tin đăng trong mục "
+   <b>
+    Mua bán nhà mặt phố, bán nhà mặt tiền  Quận Sơn Trà, Đà Nẵng
+   </b>
+   ". Các thông tin rao vặt là do người đăng tin đăng tải toàn bộ thông tin. Chúng tôi hoàn toàn không chịu trách nhiệm về bất cứ thông tin nào liên qua đến các thông tin này. Chúng tôi luôn cố gắng để đưa các tin tức nhanh và chính xác nhất cho các bạn.
+  </p>
+ </div>
+</div>

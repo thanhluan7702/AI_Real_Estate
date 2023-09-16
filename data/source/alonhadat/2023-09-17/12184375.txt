@@ -1,0 +1,369 @@
+<div class="property">
+ <div class="title">
+  <h1>
+   Chủ KẸT TIỀN - BÁN LỖ 4 TỶ Căn Shophouse Pavillon Ngay Trục Hóa Sơn 10
+  </h1>
+  <span class="date">
+   Ngày đăng: 12/09/2023
+  </span>
+ </div>
+ <div class="detail text-content">
+  CHỦ LÀM ĂN THUA LỖ CẦN BÁN LẠI CĂN NHÀ TÂM HUYẾT CHO AI THIỆN CHÍ, VÌ CẦN TIỀN NÊN BÁN GIÁ CẮT LỖ 4 TỶ
+Vị trí căn nhà : Nằm ngay tuyến phố Hóa Sơn 10, đối diện siêu thị LOTTE MART ĐÀ NẴNG
+– Diện tích đất: 120m2 (6m x 20m)
+- Diện tích sử dụng : 431,2
+– Diện tích xây dựng:411,9 – 4 tầng.
+- Hoàn thiện mặt ngoài ốp đá Marble cao cấp.
+- Hệ cửa double LoW EE 2 lớp cách âm chống nắng, chống tia tử ngoại, chống ồn.
+- Hệ ngói Fuji nhập khẩu từ Nhật.
+- Tuyến phố đi bộ quy hoạch 15m5
+- Liền kề trường Quốc Tế Sky - Line 20m.
+  + Cách công viên Châu Á Helio 400m.
+  + Chơ đêm Đà Nẵng 300m
+  + Cách sông Hàn 300m.
+  + Cách biển 2,5km.
+  + Cách Vinmec 2km.
+  + Sân bay Đà Nẵng 3,5km.
+  + Cách Phố cổ Hội An 20km.
+ </div>
+ <div class="moreinfor">
+  <span class="price">
+   <span class="label">
+    Giá:
+   </span>
+   <span class="value">
+    14,9 tỷ
+   </span>
+  </span>
+  <span class="square">
+   <span class="label">
+    Diện tích:
+   </span>
+   <span class="value">
+    120 m
+    <sup>
+     2
+    </sup>
+   </span>
+  </span>
+  <div class="clear">
+  </div>
+ </div>
+ <div class="address">
+  <span class="label">
+   Địa chỉ tài sản:
+  </span>
+  <span class="value">
+   Đường Hóa Sơn 10, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng
+  </span>
+ </div>
+ <div class="moreinfor1">
+  <div class="title">
+   Các thông tin khác
+  </div>
+  <div class="infor">
+   <table cellspacing="0" hspace="0" vspace="0">
+    <tbody>
+     <tr>
+      <td>
+       Mã tin
+      </td>
+      <td>
+       12184375
+      </td>
+      <td>
+       Hướng
+      </td>
+      <td>
+       _
+      </td>
+      <td>
+       Phòng ăn
+      </td>
+      <td>
+       ---
+      </td>
+     </tr>
+     <tr>
+      <td>
+       Loại tin
+      </td>
+      <td>
+       Cần bán
+      </td>
+      <td>
+       Đường trước nhà
+      </td>
+      <td>
+       15m
+      </td>
+      <td>
+       Nhà bếp
+      </td>
+      <td>
+       ---
+      </td>
+     </tr>
+     <tr>
+      <td>
+       Loại BDS
+      </td>
+      <td>
+       Biệt thự, nhà liền kề
+      </td>
+      <td>
+       Pháp lý
+      </td>
+      <td>
+       Sổ hồng/ Sổ đỏ
+      </td>
+      <td>
+       Sân thượng
+      </td>
+      <td>
+       ---
+      </td>
+     </tr>
+     <tr>
+      <td>
+       Chiều ngang
+      </td>
+      <td>
+       6m
+      </td>
+      <td>
+       Số lầu
+      </td>
+      <td>
+       4
+      </td>
+      <td>
+       Chổ để xe hơi
+      </td>
+      <td>
+       ---
+      </td>
+     </tr>
+     <tr>
+      <td>
+       Chiều dài
+      </td>
+      <td>
+       20m
+      </td>
+      <td>
+       Số phòng ngủ
+      </td>
+      <td>
+       4
+      </td>
+      <td>
+       Chính chủ
+      </td>
+      <td>
+       ---
+      </td>
+     </tr>
+     <tr>
+      <td>
+       Thuộc dự án
+      </td>
+      <td colspan="5">
+       <span class="project">
+        <a href="/du-an-nha-pho-regal-pavillon-da-nang-pj9988">
+         Nhà phố Regal Pavillon Đà Nẵng
+        </a>
+        (xem chi tiết dự án)
+       </span>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+ </div>
+ <div class="image-tab">
+  <span class="view-image selected">
+   Hình ảnh
+  </span>
+ </div>
+ <div class="images">
+  <div class="imageview">
+   <img alt="Chủ KẸT TIỀN - BÁN LỖ 4 TỶ Căn Shophouse Pavillon Ngay Trục Hóa Sơn 10" id="limage" onclick="showImage(this.src)" src="/files/properties/2023/3/24/images/012184375-1806-ban-biet-thu-nha-lien-ke-da-nang.jpg"/>
+  </div>
+  <div class="image-list">
+   <span>
+    <img alt="Chủ KẸT TIỀN - BÁN LỖ 4 TỶ Căn Shophouse Pavillon Ngay Trục Hóa Sơn 10 - 0" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/3/24/images/012184375-1806-ban-biet-thu-nha-lien-ke-da-nang.jpg"/>
+   </span>
+   <span>
+    <img alt="Chủ KẸT TIỀN - BÁN LỖ 4 TỶ Căn Shophouse Pavillon Ngay Trục Hóa Sơn 10 - 1" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/3/24/images/112184375-1806-ban-biet-thu-nha-lien-ke-da-nang-gia-re.jpg"/>
+   </span>
+   <span>
+    <img alt="Chủ KẸT TIỀN - BÁN LỖ 4 TỶ Căn Shophouse Pavillon Ngay Trục Hóa Sơn 10 - 2" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/3/24/images/212184375-1806-ban-biet-thu-nha-lien-ke-da-nang.jpg"/>
+   </span>
+   <span>
+    <img alt="Chủ KẸT TIỀN - BÁN LỖ 4 TỶ Căn Shophouse Pavillon Ngay Trục Hóa Sơn 10 - 3" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/3/24/images/312184375-1806-ban-biet-thu-nha-lien-ke-da-nang-gia-re.jpg"/>
+   </span>
+   <span>
+    <img alt="Chủ KẸT TIỀN - BÁN LỖ 4 TỶ Căn Shophouse Pavillon Ngay Trục Hóa Sơn 10 - 4" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/3/24/images/412184375-1806-ban-biet-thu-nha-lien-ke-quan-hai-chau-gia-re.jpg"/>
+   </span>
+   <span>
+    <img alt="Chủ KẸT TIỀN - BÁN LỖ 4 TỶ Căn Shophouse Pavillon Ngay Trục Hóa Sơn 10 - 5" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/3/24/images/512184375-1806-ban-biet-thu-nha-lien-ke-quan-hai-chau-gia-re.jpg"/>
+   </span>
+  </div>
+ </div>
+ <div class="utility">
+  <span class="save" tabindex="0">
+   Lưu tin
+  </span>
+ </div>
+ <input id="hddDemand" type="hidden" value="1"/>
+ <input id="hddPropertyType" type="hidden" value="3"/>
+ <input id="hddPropertyId" type="hidden" value="12184375"/>
+ <input id="hddNguoiDang" type="hidden" user="0" value="598978"/>
+ <div class="reflect-form">
+  <div class="loading">
+  </div>
+  <div class="title">
+   Phản ánh tin rao vi phạm
+  </div>
+  <div class="notice">
+   Thông tin phản ánh của Quý khách giúp chúng tôi sàn lọc thông tin tốt hơn và loại trừ các nhà môi giới không trung thực. Xin trân trọng cám ơn.
+  </div>
+  <div class="content">
+   <div class="reason">
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="1"/>
+     <span>
+      Tài sản đã bán/cho thuê
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="2"/>
+     <span>
+      Tin không có thật
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="3"/>
+     <span>
+      Nội dung không đúng với thực tế
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="4"/>
+     <span>
+      Giá không đúng
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="5"/>
+     <span>
+      Không liên lạc được
+     </span>
+    </div>
+    <div>
+     <input class="reason-item" name="reason" type="radio" value="6"/>
+     <span>
+      Địa chỉ bất động sản không đúng
+     </span>
+    </div>
+    <div class="clear">
+    </div>
+   </div>
+   <div class="other-reason">
+    <input class="reason-item" name="reason" type="radio" value="10"/>
+    <span>
+     Lý do khác:
+    </span>
+    <br/>
+    <textarea class="txtcontent" maxlength="240" placeholder="Nội dung phản ánh"></textarea>
+   </div>
+   <div class="check-ignore">
+    <input class="chkdayignore" type="checkbox"/>
+    <b class="bdayignore">
+     Tôi không muốn xem tin của người đăng này trong vòng:
+    </b>
+    <select class="dayignore" disabled="disabled" name="dayignore" style="color:red; background:#eeeeee;">
+     <option value="0">
+      Số ngày
+     </option>
+     <option value="1">
+      1 ngày
+     </option>
+     <option value="3">
+      3 ngày
+     </option>
+     <option value="7">
+      7 ngày
+     </option>
+     <option value="14">
+      14 ngày
+     </option>
+     <option value="21">
+      21 ngày
+     </option>
+     <option value="30">
+      30 ngày
+     </option>
+     <option value="60">
+      60 ngày
+     </option>
+     <option value="90">
+      90 ngày
+     </option>
+     <option value="180">
+      180 ngày
+     </option>
+     <option value="360">
+      360 ngày
+     </option>
+    </select>
+    <i>
+     Tất cả các tin của thành viên này sẽ ẩn đi với bạn trong khoảng thời gian bạn đã chọn.
+    </i>
+   </div>
+   <div>
+    <font style="color:blue">
+     Mã an toàn
+    </font>
+    :
+    <br/>
+    <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx" width="90"/>
+    <input class="captcha" id="captcha" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+    <input class="btnSubmit" type="button" value="Gửi phản ánh"/>
+   </div>
+  </div>
+ </div>
+ <div class="tags">
+  <span>
+   Có thể bạn muốn xem:
+  </span>
+  <a href="/nha-dat/can-ban/biet-thu-nha-lien-ke/3/da-nang.html">
+   Bán biệt thự Đà Nẵng
+  </a>
+  <a href="/nha-dat/can-ban/biet-thu-nha-lien-ke/da-nang/584/quan-hai-chau.html">
+   Bán biệt thự Quận Hải Châu
+  </a>
+  <a href="/nha-dat/can-ban/biet-thu-nha-lien-ke/phuong-hoa-cuong-nam-quan-hai-chau-px1094.html">
+   Bán biệt thự Phường Hòa Cường Nam
+  </a>
+  <a href="/nha-dat/can-ban/biet-thu-nha-lien-ke/duong-hoa-son-10-quan-hai-chau-dp28095.html">
+   Bán biệt thự Đường Hóa Sơn 10
+  </a>
+  <a href="/can-ban-biet-thu-nha-lien-ke/p9988/regal-pavillon-da-nang.html">
+   Bán biệt thự Regal Pavillon Đà Nẵng
+  </a>
+ </div>
+ <div class="notices">
+  <h3>
+   Lưu ý:
+  </h3>
+  <p>
+   Các bạn đang xem tin đăng trong mục "
+   <b>
+    Mua bán biệt thự, villa, bán nhà liền kề  Quận Hải Châu, Đà Nẵng
+   </b>
+   ". Các thông tin rao vặt là do người đăng tin đăng tải toàn bộ thông tin. Chúng tôi hoàn toàn không chịu trách nhiệm về bất cứ thông tin nào liên qua đến các thông tin này. Chúng tôi luôn cố gắng để đưa các tin tức nhanh và chính xác nhất cho các bạn.
+  </p>
+ </div>
+</div>
