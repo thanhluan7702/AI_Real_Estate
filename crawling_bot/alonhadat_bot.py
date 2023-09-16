@@ -6,6 +6,17 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 import re
 import json 
+from datetime import date
+import os 
+
+today = date.today() 
+
+path_txt = f'../data/source/alonhadat/{today}'
+
+try:
+    os.mkdir(path_txt)
+except:
+    pass 
 
 ## define function 
 def request(): 
@@ -24,11 +35,23 @@ def get_content(url):
 
 def create_url(id_page, type_news):
     dct = {'Cần bán':'can-ban', 'Cho thuê':'cho-thue', 'Cần mua':'can-mua', 'Cần thuê':'can-thue'} 
-    url = f'https://alonhadat.com.vn/nha-dat/{dct[type_news]}/trang--{id_page}.html'
+    # url = f'https://alonhadat.com.vn/nha-dat/{dct[type_news]}/trang--{id_page}.html' # general url 
+    url = f'https://alonhadat.com.vn/nha-dat/{dct[type_news]}/nha-dat/3/da-nang/trang--{id_page}.html'
     return url
 
+def save_html(soup, post_id):
+    html = soup.find('div', class_ = 'property').prettify()
+    
+    name_txt = f'{path_txt}/{post_id}.txt'
+    with open(name_txt, "w", encoding = 'utf-8') as f:
+        f.write(html)
+    return
+    
 def crawl_data(content, type_news, link): 
     record = {}
+    post_id = link.replace('.html', '').split('-')[-1]
+    
+    record['post_id'] = post_id
     record['Loại tin'] = type_news
     record['Tiêu đề'] = content.find('div', class_ = 'title').find('h1').text.strip()
     record['Mô tả'] = desc = re.sub(r'[\n\t\xa0]', '', ' '.join([t.text for t in content.find_all('div', class_ = re.compile('detail'))])).strip()
@@ -47,12 +70,16 @@ def crawl_data(content, type_news, link):
     for key, value in zip(keys, values): 
         record[key.strip()] = value.strip()
     record['URL'] = link
-    time.sleep(2)
+    record['date'] = str(today)
+    
+    time.sleep(10)
+    save_html(content, post_id)
+    # time.sleep(1)
     
     return record
 
 ## crawling 
-name_file = '../data/alo_nha_dat_data.json'
+name_file = f'../data/record/alonhadat/{today}.json'
 exist_data = [] 
 try:
     with open(name_file, "r", encoding="utf-8") as file:
@@ -67,7 +94,7 @@ except FileNotFoundError:
 
 try: 
     for type_news in ['Cần bán', 'Cho thuê', 'Cần mua', 'Cần thuê']: 
-        for id_page in range(1, 2): #limited
+        for id_page in range(1, 3): #limited
             print(f'Crawling with {type_news} on {id_page} page')
             soup = get_content(create_url(id_page, type_news))
             items = soup.findAll('div', class_ = 'content-item')
@@ -77,13 +104,13 @@ try:
             for item in items: 
                 links.append('https://alonhadat.com.vn/' + item.find('a')['href'])
 
+            print(f'Page have {len(links)}')
             for link in links: 
                 print(link)
                 content = get_content(link)
                 exist_data.append(crawl_data(content, type_news, link))
-            time.sleep(5)
 except Exception as e: 
     print(e)
 
 with open(name_file, "w", encoding="utf-8") as json_file:
-    json.dump(exist_data, json_file, ensure_ascii=False, indent=4)
+    json.dump(exist_data, json_file, ensure_ascii=False, indent=4) 

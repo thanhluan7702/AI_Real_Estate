@@ -8,8 +8,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 
-import json 
-import time
+import json     
+import time 
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -22,7 +22,7 @@ opt.add_argument("--disable-notifications")
 opt.add_argument("--disable-gpu")
 # opt.add_argument("--headless")
 opt.add_experimental_option("prefs", { \
-    "profile.default_content_setting_values.media_stream_mic": 1, 
+    "profile.default_content_setting_values.media_stream_mic": 1,       
     "profile.default_content_setting_values.media_stream_camera": 1,
     "profile.default_content_setting_values.geolocation": 1, 
     "profile.default_content_setting_values.notifications": 1 
@@ -65,7 +65,8 @@ def crawl_data(driver, news_type):
     values = [i.text for i in driver.find_elements(By.CLASS_NAME, 're__pr-specs-content-item-value')]
     for key, value in zip(keys, values): 
         record[key.strip()] = value.strip()
-        
+    
+    record['URL'] = driver.current_url
     return record
 
 def process(news_type, part, iter = None): 

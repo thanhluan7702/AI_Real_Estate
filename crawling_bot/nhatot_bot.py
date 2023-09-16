@@ -72,7 +72,7 @@ def crawl_data(driver, type_news):
 
 ## crawling
 name_file = '../data/nhatot_data.json'
-exist_data = [] 
+exist_data = []     
 try:
     with open(name_file, "r", encoding="utf-8") as file:
         for line in file:
