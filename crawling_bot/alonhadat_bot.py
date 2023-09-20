@@ -9,13 +9,17 @@ import json
 from datetime import date
 import os 
 
+flatform = 'alonhadat'
 today = date.today() 
+order = 0 # increase one when new run same day
 
-path_txt = f'../data/source/alonhadat/{today}'
+path_txt = f'../data/source/{flatform}/{today}'
 
+exist = False 
 try:
     os.mkdir(path_txt)
 except:
+    exist = True
     pass 
 
 ## define function 
@@ -40,7 +44,7 @@ def create_url(id_page, type_news):
     return url
 
 def save_html(soup, post_id):
-    html = soup.find('div', class_ = 'property').prettify()
+    html = soup.find('div', class_ = 'body').prettify()
     
     name_txt = f'{path_txt}/{post_id}.txt'
     with open(name_txt, "w", encoding = 'utf-8') as f:
@@ -72,29 +76,34 @@ def crawl_data(content, type_news, link):
     record['URL'] = link
     record['date'] = str(today)
     
+    contact = content.find('div', class_ = 'contact-info')
+    record['Liên hệ'] = contact.find('div', class_ = 'name').text.strip()
+    record['phone'] = contact.find('div', class_ = 'fone').text.split('(')[0]
+    
     time.sleep(10)
     save_html(content, post_id)
-    # time.sleep(1)
+    time.sleep(1)
     
     return record
 
 ## crawling 
-name_file = f'../data/record/alonhadat/{today}.json'
+name_file = f'../data/record/{flatform}/{today}_{order}.json'
 exist_data = [] 
 try:
     with open(name_file, "r", encoding="utf-8") as file:
-        for line in file:
-            try:
-                record = json.loads(line)
-                exist_data.append(record)
-            except json.decoder.JSONDecodeError as e:
-                pass 
+        exist_data = json.load(file)
+        # for line in file:
+        #     try:
+        #         record = json.loads(line)
+        #         exist_data.append(record)
+        #     except json.decoder.JSONDecodeError as e:
+        #         pass 
 except FileNotFoundError:
     pass
 
 try: 
     for type_news in ['Cần bán', 'Cho thuê', 'Cần mua', 'Cần thuê']: 
-        for id_page in range(1, 3): #limited
+        for id_page in range(1, 5): #limited
             print(f'Crawling with {type_news} on {id_page} page')
             soup = get_content(create_url(id_page, type_news))
             items = soup.findAll('div', class_ = 'content-item')
@@ -111,6 +120,7 @@ try:
                 exist_data.append(crawl_data(content, type_news, link))
 except Exception as e: 
     print(e)
+
 
 with open(name_file, "w", encoding="utf-8") as json_file:
     json.dump(exist_data, json_file, ensure_ascii=False, indent=4) 
