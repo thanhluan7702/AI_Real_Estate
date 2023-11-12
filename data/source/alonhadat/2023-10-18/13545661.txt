@@ -1,0 +1,2095 @@
+<div class="body">
+ <div class="top-link" id="ctl00_content_top_link" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a href="/" itemprop="item">
+    <span itemprop="name">
+     Trang chủ
+    </span>
+   </a>
+   <meta content="1" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban.html" itemprop="item">
+    <span itemprop="name">
+     Cần bán
+    </span>
+   </a>
+   <meta content="2" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-mat-tien.html" itemprop="item">
+    <span itemprop="name">
+     Bán nhà
+    </span>
+   </a>
+   <meta content="3" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-mat-tien/3/da-nang.html" itemprop="item">
+    <span itemprop="name">
+     Bán nhà Đà Nẵng
+    </span>
+   </a>
+   <meta content="4" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-mat-tien/da-nang/584/quan-hai-chau.html" itemprop="item">
+    <span itemprop="name">
+     Bán nhà  Hải Châu
+    </span>
+   </a>
+   <meta content="5" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-mat-tien/phuong-hoa-thuan-dong-quan-hai-chau-px1096.html" itemprop="item">
+    <span itemprop="name">
+     Bán nhà  Hòa Thuận Đông
+    </span>
+   </a>
+   <meta content="6" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-mat-tien/duong-nui-thanh-quan-hai-chau-dp2659.html" itemprop="item">
+    <span itemprop="name">
+     Bán nhà  Núi Thành
+    </span>
+   </a>
+   <meta content="7" itemprop="position"/>
+  </span>
+ </div>
+ <div class="top-line">
+ </div>
+ <div class="content plp" id="ctl00_content_pc_content">
+  <div id="left">
+   <div class="property">
+    <div class="title">
+     <h1>
+      🏡 Nhà Đang Cho Thuê Tại Núi Thành - Gần Trung Tâm Đà Nẵng, Cơ Hội Đầu Tư Tuyệt Vời!
+     </h1>
+     <span class="date">
+      Ngày đăng: Hôm nay
+     </span>
+    </div>
+    <div class="detail text-content">
+     🌟 Nhà đang cho thuê tại Núi Thành, với vị trí thuận lợi, chỉ cách trung tâm Đà Nẵng và Công viên Apec trong bán kính 1km.
+🏠 Ngôi nhà hiện đại, phù hợp để cho thuê, mang lại nguồn thu nhập ổn định.
+🌆 Nằm gần các điểm du lịch nổi tiếng như Công viên Apec, cầu Rồng, tạo lợi thế cho việc kinh doanh dịch vụ du lịch.
+📈 Với vị trí đắc địa, giá nhà có tiềm năng tăng cao theo thời gian.
+📑 Sổ đỏ chính chủ, pháp lý rõ ràng, an toàn cho quá trình giao dịch.
+🔑 Đây là dự án đầu tư lý tưởng, đặc biệt phù hợp cho những nhà đầu tư muốn sở hữu bất động sản có giá trị tăng cao.
+    </div>
+    <div class="moreinfor">
+     <span class="price">
+      <span class="label">
+       Giá:
+      </span>
+      <span class="value">
+       13,5 tỷ
+      </span>
+     </span>
+     <span class="square">
+      <span class="label">
+       Diện tích:
+      </span>
+      <span class="value">
+       83 m
+       <sup>
+        2
+       </sup>
+      </span>
+     </span>
+     <div class="clear">
+     </div>
+    </div>
+    <div class="address">
+     <span class="label">
+      Địa chỉ tài sản:
+     </span>
+     <span class="value">
+      Đường Núi Thành, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng
+     </span>
+    </div>
+    <div class="moreinfor1">
+     <div class="title">
+      Các thông tin khác
+     </div>
+     <div class="infor">
+      <table cellspacing="0" hspace="0" vspace="0">
+       <tbody>
+        <tr>
+         <td>
+          Mã tin
+         </td>
+         <td>
+          13545661
+         </td>
+         <td>
+          Hướng
+         </td>
+         <td>
+          _
+         </td>
+         <td>
+          Phòng ăn
+         </td>
+         <td>
+          <img src="/publish/img/check.gif"/>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Loại tin
+         </td>
+         <td>
+          Cần bán
+         </td>
+         <td>
+          Đường trước nhà
+         </td>
+         <td>
+          11m
+         </td>
+         <td>
+          Nhà bếp
+         </td>
+         <td>
+          <img src="/publish/img/check.gif"/>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Loại BDS
+         </td>
+         <td>
+          Nhà mặt tiền
+         </td>
+         <td>
+          Pháp lý
+         </td>
+         <td>
+          ---
+         </td>
+         <td>
+          Sân thượng
+         </td>
+         <td>
+          <img src="/publish/img/check.gif"/>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Chiều ngang
+         </td>
+         <td>
+          3,9m
+         </td>
+         <td>
+          Số lầu
+         </td>
+         <td>
+          2
+         </td>
+         <td>
+          Chổ để xe hơi
+         </td>
+         <td>
+          <img src="/publish/img/check.gif"/>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Chiều dài
+         </td>
+         <td>
+          22m
+         </td>
+         <td>
+          Số phòng ngủ
+         </td>
+         <td>
+          2
+         </td>
+         <td>
+          Chính chủ
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+    </div>
+    <div class="image-tab">
+     <span class="view-image selected">
+      Hình ảnh
+     </span>
+    </div>
+    <div class="images">
+     <div class="imageview">
+      <img alt="🏡 Nhà Đang Cho Thuê Tại Núi Thành - Gần Trung Tâm Đà Nẵng, Cơ Hội Đầu Tư Tuyệt Vời!" id="limage" onclick="showImage(this.src)" src="/files/properties/2023/10/18/images/013545661-5823-ban-nha-mat-tien-quan-hai-chau-chinh-chu.jpg"/>
+     </div>
+     <div class="image-list">
+      <span>
+       <img alt="🏡 Nhà Đang Cho Thuê Tại Núi Thành - Gần Trung Tâm Đà Nẵng, Cơ Hội Đầu Tư Tuyệt Vời! - 0" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/10/18/images/013545661-5823-ban-nha-mat-tien-quan-hai-chau-chinh-chu.jpg"/>
+      </span>
+      <span>
+       <img alt="🏡 Nhà Đang Cho Thuê Tại Núi Thành - Gần Trung Tâm Đà Nẵng, Cơ Hội Đầu Tư Tuyệt Vời! - 1" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/10/18/images/113545661-5823-ban-nha-mat-tien-da-nang-gia-re.jpg"/>
+      </span>
+      <span>
+       <img alt="🏡 Nhà Đang Cho Thuê Tại Núi Thành - Gần Trung Tâm Đà Nẵng, Cơ Hội Đầu Tư Tuyệt Vời! - 2" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/10/18/images/213545661-5823-ban-nha-mat-tien-quan-hai-chau-gia-re.jpg"/>
+      </span>
+     </div>
+    </div>
+    <div class="utility">
+     <span class="save" tabindex="0">
+      Lưu tin
+     </span>
+    </div>
+    <input id="hddDemand" type="hidden" value="1"/>
+    <input id="hddPropertyType" type="hidden" value="1"/>
+    <input id="hddPropertyId" type="hidden" value="13545661"/>
+    <input id="hddNguoiDang" type="hidden" user="0" value="838163"/>
+    <div class="reflect-form">
+     <div class="loading">
+     </div>
+     <div class="title">
+      Phản ánh tin rao vi phạm
+     </div>
+     <div class="notice">
+      Thông tin phản ánh của Quý khách giúp chúng tôi sàn lọc thông tin tốt hơn và loại trừ các nhà môi giới không trung thực. Xin trân trọng cám ơn.
+     </div>
+     <div class="content">
+      <div class="reason">
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="1"/>
+        <span>
+         Tài sản đã bán/cho thuê
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="2"/>
+        <span>
+         Tin không có thật
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="3"/>
+        <span>
+         Nội dung không đúng với thực tế
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="4"/>
+        <span>
+         Giá không đúng
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="5"/>
+        <span>
+         Không liên lạc được
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="6"/>
+        <span>
+         Địa chỉ bất động sản không đúng
+        </span>
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="other-reason">
+       <input class="reason-item" name="reason" type="radio" value="10"/>
+       <span>
+        Lý do khác:
+       </span>
+       <br/>
+       <textarea class="txtcontent" maxlength="240" placeholder="Nội dung phản ánh"></textarea>
+      </div>
+      <div class="check-ignore">
+       <input class="chkdayignore" type="checkbox"/>
+       <b class="bdayignore">
+        Tôi không muốn xem tin của người đăng này trong vòng:
+       </b>
+       <select class="dayignore" disabled="disabled" name="dayignore" style="color:red; background:#eeeeee;">
+        <option value="0">
+         Số ngày
+        </option>
+        <option value="1">
+         1 ngày
+        </option>
+        <option value="3">
+         3 ngày
+        </option>
+        <option value="7">
+         7 ngày
+        </option>
+        <option value="14">
+         14 ngày
+        </option>
+        <option value="21">
+         21 ngày
+        </option>
+        <option value="30">
+         30 ngày
+        </option>
+        <option value="60">
+         60 ngày
+        </option>
+        <option value="90">
+         90 ngày
+        </option>
+        <option value="180">
+         180 ngày
+        </option>
+        <option value="360">
+         360 ngày
+        </option>
+       </select>
+       <i>
+        Tất cả các tin của thành viên này sẽ ẩn đi với bạn trong khoảng thời gian bạn đã chọn.
+       </i>
+      </div>
+      <div>
+       <font style="color:blue">
+        Mã an toàn
+       </font>
+       :
+       <br/>
+       <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx" width="90"/>
+       <input class="captcha" id="captcha" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+       <input class="btnSubmit" type="button" value="Gửi phản ánh"/>
+      </div>
+     </div>
+    </div>
+    <div class="tags">
+     <span>
+      Có thể bạn muốn xem:
+     </span>
+     <a href="/nha-dat/can-ban/nha-mat-tien/3/da-nang.html">
+      Bán nhà Đà Nẵng
+     </a>
+     <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/584/quan-hai-chau.html">
+      Bán nhà Quận Hải Châu
+     </a>
+     <a href="/nha-dat/can-ban/nha-mat-tien/phuong-hoa-thuan-dong-quan-hai-chau-px1096.html">
+      Bán nhà Phường Hòa Thuận Đông
+     </a>
+     <a href="/nha-dat/can-ban/nha-mat-tien/duong-nui-thanh-quan-hai-chau-dp2659.html">
+      Bán nhà Đường Núi Thành
+     </a>
+    </div>
+    <div class="notices">
+     <h3>
+      Lưu ý:
+     </h3>
+     <p>
+      Các bạn đang xem tin đăng trong mục "
+      <b>
+       Mua bán nhà mặt phố, bán nhà mặt tiền  Quận Hải Châu, Đà Nẵng
+      </b>
+      ". Các thông tin rao vặt là do người đăng tin đăng tải toàn bộ thông tin. Chúng tôi hoàn toàn không chịu trách nhiệm về bất cứ thông tin nào liên qua đến các thông tin này. Chúng tôi luôn cố gắng để đưa các tin tức nhanh và chính xác nhất cho các bạn.
+     </p>
+    </div>
+   </div>
+   <!--property-->
+   <div class="randomvip-box" id="ctl00_content_random_vip_box">
+    <div class="title">
+     <h2>
+      Bất động sản nổi bật
+     </h2>
+    </div>
+    <div class="content" id="ctl00_content_randomvip">
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/-ngoi-nha-4-tang-su-ket-hop-hoan-hao-nam-giua-lotte-mart-va-trung-tam-the-tuyen-son-13531127.html">
+        <img alt="🏠 Ngôi Nhà 4 Tầng - Sự Kết Hợp Hoàn Hảo Nằm Giữa, Lotte Mart và Trung Tâm Thể Tuyên Sơn" src="/files/properties/2023/10/15/thumbnails/013531127-5758-ban-nha-mat-tien-da-nang-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/-ngoi-nha-4-tang-su-ket-hop-hoan-hao-nam-giua-lotte-mart-va-trung-tam-the-tuyen-son-13531127.html">
+         🏠 Ngôi Nhà 4 Tầng - Sự Kết Hợp Hoàn Hảo Nằm Giữa, Lotte Mart và Trung Tâm Thể Tuyên Sơn
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         12,5 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         150 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Hải Châu
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 7,5m">
+        7,5m
+       </span>
+       <span class="floors" title="4 lầu">
+        4 lầu
+       </span>
+       <span class="bedroom" title="8 phòng ngủ">
+        8 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/-nha-4-tang-tong-phuoc-pho-5-phong-ngu-dien-tich-61m2-phu-hop-cho-gia-dinh-lon-13548471.html">
+        <img alt="🏠 Nhà 4 Tầng Tống Phước Phổ, 5 Phòng Ngủ, Diện Tích 61m2 - Phù Hợp Cho Gia Đình Lớn" src="/files/properties/2023/10/18/thumbnails/013548471-3720-ban-nha-mat-tien-quan-hai-chau-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/-nha-4-tang-tong-phuoc-pho-5-phong-ngu-dien-tich-61m2-phu-hop-cho-gia-dinh-lon-13548471.html">
+         🏠 Nhà 4 Tầng Tống Phước Phổ, 5 Phòng Ngủ, Diện Tích 61m2 - Phù Hợp Cho Gia Đình Lớn
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         5,9 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         61 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Hải Châu
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 6m">
+        6m
+       </span>
+       <span class="floors" title="4 lầu">
+        4 lầu
+       </span>
+       <span class="bedroom" title="5 phòng ngủ">
+        5 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-nha-2-mat-tien-nguyen-son-khu-vuc-yen-tinh-10298901.html">
+        <img alt="Bán nhà 3 tầng 2 mặt tiền Nguyễn Sơn đường 7m5,Q Hải Châu, Dt 90m2, giá 7 tỷ" src="/files/properties/2022/5/27/thumbnails/010298901-4112-ban-nha-mat-tien-da-nang-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-nha-2-mat-tien-nguyen-son-khu-vuc-yen-tinh-10298901.html">
+         Bán nhà 3 tầng 2 mặt tiền Nguyễn Sơn đường 7m5,Q Hải Châu, Dt 90m2, giá 7 tỷ
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         7 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         90 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Hải Châu
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 7,5m">
+        7,5m
+       </span>
+       <span class="floors" title="3 lầu">
+        3 lầu
+       </span>
+       <span class="bedroom" title="4 phòng ngủ">
+        4 pn
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/nha-mat-tien-khuc-hao-trung-tam-son-tra-da-nang-100m2-duong-10-5m-gia-6-ty-x-13419366.html">
+        <img alt="💥TOÀ CĂN HỘ LÔ GÓC 3 MẶT THOÁNG - HOÀ CƯỜNG BẮC - TT HẢI CHÂU - 115m2 - DT 60TR/Tháng" src="/files/properties/2023/10/3/thumbnails/013419366-3101-ban-nha-mat-tien-da-nang.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/nha-mat-tien-khuc-hao-trung-tam-son-tra-da-nang-100m2-duong-10-5m-gia-6-ty-x-13419366.html">
+         💥TOÀ CĂN HỘ LÔ GÓC 3 MẶT THOÁNG - HOÀ CƯỜNG BẮC - TT HẢI CHÂU - 115m2 - DT 60TR/Tháng
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         14,9 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         115 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Hải Châu
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 6m">
+        6m
+       </span>
+       <span class="floors" title="5 lầu">
+        5 lầu
+       </span>
+       <span class="bedroom" title="15 phòng ngủ">
+        15 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/-hai-chau-32-ty-10mx28-5m-biet-thu-3-tang-mat-tien-30-thang-4-p-hoa-cuong-bac-13548021.html">
+        <img alt="[Hải Châu] 32 tỷ 10mx28,5m biệt thự 3 tầng, mặt tiền 30 tháng 4, P.Hòa Cường Bắc" src="/files/properties/2023/10/18/thumbnails/013548021-4843-ban-nha-mat-tien-quan-hai-chau-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/-hai-chau-32-ty-10mx28-5m-biet-thu-3-tang-mat-tien-30-thang-4-p-hoa-cuong-bac-13548021.html">
+         [Hải Châu] 32 tỷ 10mx28,5m biệt thự 3 tầng, mặt tiền 30 tháng 4, P.Hòa Cường Bắc
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         32 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         285 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Hải Châu
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 30m">
+        30m
+       </span>
+       <span class="floors" title="3 lầu">
+        3 lầu
+       </span>
+       <span class="bedroom" title="3 phòng ngủ">
+        3 pn
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-nha2-tang-duong-7-5m-ho-nguyen-trung-gan-le-thanh-nghi-q-hai-chau-dt-90m2-gia-5-9-ty-13544370.html">
+        <img alt="Bán nhà2 tầng đường(7,5m)Hồ Nguyên Trừng,gần Lê thanh Nghị,Q.Hải Châu.Dt 90m2 giá 5,9 tỷ" src="/files/properties/2023/10/18/thumbnails/013544370-4205-ban-nha-mat-tien-quan-hai-chau-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-nha2-tang-duong-7-5m-ho-nguyen-trung-gan-le-thanh-nghi-q-hai-chau-dt-90m2-gia-5-9-ty-13544370.html">
+         Bán nhà2 tầng đường(7,5m)Hồ Nguyên Trừng,gần Lê thanh Nghị,Q.Hải Châu.Dt 90m2 giá 5,9 tỷ
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         5,9 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         90 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Hải Châu
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 7,5m">
+        7,5m
+       </span>
+       <span class="floors" title="2 lầu">
+        2 lầu
+       </span>
+       <span class="bedroom" title="3 phòng ngủ">
+        3 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-nha-4-tang-dong-da-p-thuan-phuoc-hai-chau-vua-het-hop-dong-thue-35tr-1-thang-can-ban-13409347.html">
+        <img alt="Bán Nhà 4 Tầng Đống Đa P.Thuận Phước Hải Châu Vừa Hết Hợp Đồng Thuê 35tr/1 Thang Cần Bán" src="/files/properties/2023/9/18/thumbnails/013409347-3610-ban-nha-mat-tien-da-nang-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-nha-4-tang-dong-da-p-thuan-phuoc-hai-chau-vua-het-hop-dong-thue-35tr-1-thang-can-ban-13409347.html">
+         Bán Nhà 4 Tầng Đống Đa P.Thuận Phước Hải Châu Vừa Hết Hợp Đồng Thuê 35tr/1 Thang Cần Bán
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         11,2 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         54 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Hải Châu
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 24m">
+        24m
+       </span>
+       <span class="floors" title="4 lầu">
+        4 lầu
+       </span>
+       <span class="bedroom" title="4 phòng ngủ">
+        4 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/ban-dat-171m2-duong-nguyen-hoang-phuong-binh-hien-quan-hai-chau-gia-16-5-ty--13420867.html">
+        <img alt="Bán nhà 171m2 - Đường Nguyễn Hoàng - Phường Bình Hiên - Quận Hải Châu - Giá 16.5 Tỷ." src="/files/properties/2023/9/20/thumbnails/013420867-0634-ban-nha-mat-tien-da-nang-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-dat-171m2-duong-nguyen-hoang-phuong-binh-hien-quan-hai-chau-gia-16-5-ty--13420867.html">
+         Bán nhà 171m2 - Đường Nguyễn Hoàng - Phường Bình Hiên - Quận Hải Châu - Giá 16.5 Tỷ.
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         16,5 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         171 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Hải Châu
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 7,5m">
+        7,5m
+       </span>
+       <span class="floors" title="1 lầu">
+        1 lầu
+       </span>
+       <span class="bedroom" title="3 phòng ngủ">
+        3 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/ban-nha-2-tang-mt-duong-nguyen-thi-minh-khai-q-hai-chau-vi-tri-kinh-doanh-sam-uat-13283251.html">
+        <img alt="Bán nhà MT đường Nguyễn Thị Minh Khai - Q.Hải Châu - Vị trí đẹp - Ngang 8,15 m" src="/files/properties/default.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-nha-2-tang-mt-duong-nguyen-thi-minh-khai-q-hai-chau-vi-tri-kinh-doanh-sam-uat-13283251.html">
+         Bán nhà MT đường Nguyễn Thị Minh Khai - Q.Hải Châu - Vị trí đẹp - Ngang 8,15 m
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         30 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         162 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Hải Châu
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 10m">
+        10m
+       </span>
+       <span class="floors" title="2 lầu">
+        2 lầu
+       </span>
+       <span class="bedroom" title="3 phòng ngủ">
+        3 pn
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-nha-mat-tien-4-tang-ly-tu-trong-thach-thang-hai-chau-gia-chi-4-8-ty-13485349.html">
+        <img alt="Bán Nhà Mặt Tiền 4 Tầng Lý Tự Trọng,Thạch Thang,Hải Châu, Giá Chỉ 4,6 Tỷ" src="/files/properties/2023/10/18/thumbnails/013485349-4048-ban-nha-mat-tien-4-tang-ly-tu-trong-thach-thang-hai-chau-gia-chi-4-6-ty.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-nha-mat-tien-4-tang-ly-tu-trong-thach-thang-hai-chau-gia-chi-4-8-ty-13485349.html">
+         Bán Nhà Mặt Tiền 4 Tầng Lý Tự Trọng,Thạch Thang,Hải Châu, Giá Chỉ 4,6 Tỷ
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         4,6 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         30 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Hải Châu
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 7,5m">
+        7,5m
+       </span>
+       <span class="floors" title="4 lầu">
+        4 lầu
+       </span>
+       <span class="bedroom" title="4 phòng ngủ">
+        4 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <div class="relative-property">
+    <div>
+     <div class="content-header" id="ctl00_content_relative_property_title">
+      <h2>
+       Cần bán Nhà mặt tiền tại Quận Hải Châu
+      </h2>
+     </div>
+    </div>
+    <div class="content-items" id="ctl00_content_relative_property_content">
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/giam-gia-soc-nha-mat-tien-duong-hoang-dieu-con-duong-dat-do-nhat-thanh-pho-trung-tam-bu-13547169.html">
+         GIẢM GIÁ SỐC - NHÀ MẶT TIỀN ĐƯỜNG HOÀNG DIỆU, CON ĐƯỜNG ĐẮT ĐỎ NHẤT THÀNH PHỐ TRUNG TÂM BU
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/giam-gia-soc-nha-mat-tien-duong-hoang-dieu-con-duong-dat-do-nhat-thanh-pho-trung-tam-bu-13547169.html">
+        <img alt="GIẢM GIÁ SỐC - NHÀ MẶT TIỀN ĐƯỜNG HOÀNG DIỆU, CON ĐƯỜNG ĐẮT ĐỎ NHẤT THÀNH PHỐ TRUNG TÂM BU" src="/files/properties/default.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 10m">
+         10m
+        </span>
+        <span class="floors" title="3 lầu">
+         3 lầu
+        </span>
+        <span class="bedroom" title="3 phòng ngủ">
+         3 phòng ngủ
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         ---
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         98 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         11,5 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-mat-tien/duong-hoang-dieu-quan-hai-chau-dp2644.html">
+          Đường Hoàng Diệu
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-mat-tien/phuong-phuoc-ninh-quan-hai-chau-px1098.html">
+          Phường Phước Ninh
+         </a>
+         , Quận Hải Châu, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/ban-nha-mt-d-nguyen-thi-minh-khai-p-thach-thang-q-hai-chau-dt-60-m2-gia-16-ty-tl--13546358.html">
+         Bán nhà MT, Đ. Nguyễn Thị Minh Khai, P. Thạch Thang, Q. Hải Châu, DT: 60 m2 giá 16 tỷ TL;
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/ban-nha-mt-d-nguyen-thi-minh-khai-p-thach-thang-q-hai-chau-dt-60-m2-gia-16-ty-tl--13546358.html">
+        <img alt="Bán nhà MT, Đ. Nguyễn Thị Minh Khai, P. Thạch Thang, Q. Hải Châu, DT: 60 m2 giá 16 tỷ TL;" src="/files/properties/2023/10/18/thumbnails/013546358-3355-ban-nha-mat-tien-quan-hai-chau-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 10m">
+         10m
+        </span>
+        <span class="floors" title="3 lầu">
+         3 lầu
+        </span>
+        <span class="bedroom" title="3 phòng ngủ">
+         3 phòng ngủ
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         6x10m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         60 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         16 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-mat-tien/duong-nguyen-thi-minh-khai-quan-hai-chau-dp11819.html">
+          Đường Nguyễn Thị Minh Khai
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-mat-tien/phuong-thach-thang-quan-hai-chau-px1099.html">
+          Phường Thạch Thang
+         </a>
+         , Quận Hải Châu, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/-ban-nha-3t-lo-goc-2mt-hai-chau-trung-tam-155m2-gia-tot--13545953.html">
+         🌿BÁN NHÀ 3T LÔ GÓC 2MT HẢI CHÂU - TRUNG TÂM - 155m2 - GIÁ TỐT🌿
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/-ban-nha-3t-lo-goc-2mt-hai-chau-trung-tam-155m2-gia-tot--13545953.html">
+        <img alt="🌿BÁN NHÀ 3T LÔ GÓC 2MT HẢI CHÂU - TRUNG TÂM - 155m2 - GIÁ TỐT🌿" src="/files/properties/2023/10/18/thumbnails/013545953-3348-ban-nha-mat-tien-quan-hai-chau-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 7,5m">
+         7,5m
+        </span>
+        <span class="floors" title="3 lầu">
+         3 lầu
+        </span>
+        <span class="bedroom" title="5 phòng ngủ">
+         5 phòng ngủ
+        </span>
+        <span class="parking" title="có chỗ để ô tô">
+         chỗ để xe
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         8x20m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         155 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         Đông Nam
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         15 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-mat-tien/duong-to-huu-quan-hai-chau-dp10139.html">
+          Đường Tố Hữu
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-mat-tien/phuong-hoa-cuong-bac-quan-hai-chau-px1093.html">
+          Phường Hòa Cường Bắc
+         </a>
+         , Quận Hải Châu, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/ban-nha-4-tang-dep-thiet-ke-hien-dai-mt-duong-huynh-tan-phat-thu-nhap-30tr-th-gia-chi-1-13545922.html">
+         Bán  nhà 4 tầng đẹp thiết kế hiện đại  MT Đường Huỳnh Tấn Phát  thu nhập 30tr/th Giá TỐT
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/ban-nha-4-tang-dep-thiet-ke-hien-dai-mt-duong-huynh-tan-phat-thu-nhap-30tr-th-gia-chi-1-13545922.html">
+        <img alt="Bán  nhà 4 tầng đẹp thiết kế hiện đại  MT Đường Huỳnh Tấn Phát  thu nhập 30tr/th Giá TỐT" src="/files/properties/default.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 11m">
+         11m
+        </span>
+        <span class="floors" title="4 lầu">
+         4 lầu
+        </span>
+        <span class="bedroom" title="5 phòng ngủ">
+         5 phòng ngủ
+        </span>
+        <span class="parking" title="có chỗ để ô tô">
+         chỗ để xe
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         5x20m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         100 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         Tây
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         12,5 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-mat-tien/duong-huynh-tan-phat-quan-hai-chau-dp2647.html">
+          Đường Huỳnh Tấn Phát
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-mat-tien/phuong-hoa-cuong-nam-quan-hai-chau-px1094.html">
+          Phường Hòa Cường Nam
+         </a>
+         , Quận Hải Châu, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/ban-nha-2-tang-moi-2-mt-duong-y-lan-nguyen-phi-ngang-7-no-hau-gia-tot-chi-15-5-ty--13545761.html">
+         Bán Nhà 2 Tầng MỚI 2 MT Đường Ỷ Lan Nguyên Phi , Ngang 7 nở hậu , Giá Tốt Chỉ 15,5 Tỷ.
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/ban-nha-2-tang-moi-2-mt-duong-y-lan-nguyen-phi-ngang-7-no-hau-gia-tot-chi-15-5-ty--13545761.html">
+        <img alt="Bán Nhà 2 Tầng MỚI 2 MT Đường Ỷ Lan Nguyên Phi , Ngang 7 nở hậu , Giá Tốt Chỉ 15,5 Tỷ." src="/files/properties/default.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 7,5m">
+         7,5m
+        </span>
+        <span class="floors" title="2 lầu">
+         2 lầu
+        </span>
+        <span class="bedroom" title="4 phòng ngủ">
+         4 phòng ngủ
+        </span>
+        <span class="parking" title="có chỗ để ô tô">
+         chỗ để xe
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         7x21m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         180 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         15,5 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-mat-tien/duong-y-lan-nguyen-phi-quan-hai-chau-dp10167.html">
+          Đường Ỷ Lan Nguyên Phi
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-mat-tien/phuong-hoa-cuong-bac-quan-hai-chau-px1093.html">
+          Phường Hòa Cường Bắc
+         </a>
+         , Quận Hải Châu, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="viewmore">
+      <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/584/quan-hai-chau.html">
+       Xem thêm các tin khác
+      </a>
+     </div>
+    </div>
+    <!----end sale content----->
+   </div>
+  </div>
+  <!--left-->
+  <div id="right">
+   <div class="contact">
+    <div class="contact-info">
+     <div class="title">
+      Thông tin liên hệ
+     </div>
+     <div class="content">
+      <div class="name">
+       Nguyễn Thành Long
+      </div>
+      <div class="fone">
+       <a href="javascript:void(0)">
+        0934.343.001
+       </a>
+       <div class="dvviewphone">
+        <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx?a=1883" width="90"/>
+        <input class="captcha" id="captcha_viewphone" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+        <span class="viewphone">
+         (Bấm xem số điện thoại)
+        </span>
+       </div>
+      </div>
+      <div class="introduce">
+       Chuyên Môi giới, Mua bán, Kỷ gới, Cho thuê Nhà phố Đà Nẵng.
+Tư vấn miễn phí, cam kết chuẩn thông tin 100%.
+      </div>
+      <div class="review-box">
+       <span class="review-score">
+        Được đánh giá:
+       </span>
+       <span class="review-star">
+        <span class="rate" style="width:60%;">
+        </span>
+       </span>
+      </div>
+      <div class="view-more">
+       <a href="/nha-moi-gioi/lon-838163.html">
+        Xem thêm 79 tin khác của thành viên này
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="head-search">
+    Tìm kiếm nhà đất
+   </div>
+   <div class="search-box">
+    <div>
+     <input class="location" placeholder="Nhập địa điểm cần tìm" type="text"/>
+     <div class="suggesstion">
+      <div class="title">
+       Gợi ý
+      </div>
+      <ul>
+       <li>
+        <span>
+         Nhập tên đường/phố, phường/xã, quận/huyện, tỉnh/thành phố hoặc tên dự án. Ví dụ:
+         <br/>
+         <span style="color:#000000">
+          - Nguyễn Xí, Bình Thạnh
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Láng Hạ, Đống Đa
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Vũng Tàu
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Times City
+         </span>
+        </span>
+       </li>
+       <li>
+        <span>
+         Phải chọn các gợi ý chúng tôi đề xuất bên dưới để kết quả chính xác
+        </span>
+       </li>
+       <li>
+        <span>
+         Nếu không nhập địa điểm ở đây, Quý vị có thể chọn lựa khu vực bằng các ô phía dưới trong công cụ tìm kiếm này
+        </span>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="demand-container">
+     <div class="text">
+      Cần bán
+     </div>
+     <div class="view">
+      <div>
+       <ul>
+        <li name="can-ban">
+         Cần bán
+        </li>
+        <li name="cho-thue">
+         Cho thuê
+        </li>
+        <li name="can-mua">
+         Cần mua
+        </li>
+        <li name="can-thue">
+         Cần thuê
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="property-type-container multicolumns">
+     <div class="text">
+      Nhà mặt tiền
+     </div>
+     <div class="view">
+      <span class="exit">
+       Loại bất động sản
+      </span>
+      <div>
+       <ul>
+        <li name="nha">
+         NHÀ
+        </li>
+        <li name="nha-mat-tien" style="text-indent:20px;">
+         Nhà mặt tiền
+        </li>
+        <li name="nha-trong-hem" style="text-indent:20px;">
+         Nhà trong hẻm
+        </li>
+        <li name="biet-thu-nha-lien-ke">
+         Biệt thự, nhà liền kề
+        </li>
+        <li name="can-ho-chung-cu">
+         Căn hộ chung cư
+        </li>
+        <li name="phong-tro-nha-tro">
+         Phòng trọ, nhà trọ
+        </li>
+       </ul>
+       <ul>
+        <li name="van-phong">
+         Văn phòng
+        </li>
+        <li name="kho-xuong">
+         Kho, xưởng
+        </li>
+        <li name="nha-hang-khach-san">
+         Nhà hàng, khách sạn
+        </li>
+        <li name="shop-kiot-quan">
+         Shop, kiot, quán
+        </li>
+        <li name="trang-trai">
+         Trang trại
+        </li>
+       </ul>
+       <ul>
+        <li name="mat-bang">
+         Mặt bằng
+        </li>
+        <li name="dat-tho-cu-dat-o" style="font-weight:bold">
+         Đất thổ cư, đất ở
+        </li>
+        <li name="dat-nen-lien-ke-dat-du-an">
+         Đất nền, liền kề, đất dự án
+        </li>
+        <li name="dat-nong-lam-nghiep">
+         Đất nông, lâm nghiệp
+        </li>
+        <li name="cac-loai-khac">
+         Các loại khác
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="province-container multicolumns">
+     <div class="text" name="0">
+      --- Tỉnh/Thành --
+     </div>
+     <div class="view">
+      <span class="exit">
+       Tỉnh/Thành
+      </span>
+      <div>
+       <ul>
+        <h3>
+         Miền Nam
+        </h3>
+        <li name="2">
+         Hồ Chí Minh
+        </li>
+        <li name="7">
+         Bà Rịa-Vũng Tàu
+        </li>
+        <li name="14">
+         Bình Dương
+        </li>
+        <li name="23">
+         Đồng Nai
+        </li>
+        <li name="5">
+         Cần Thơ
+        </li>
+        <li name="39">
+         Long An
+        </li>
+        <li name="6">
+         An Giang
+        </li>
+        <li name="8">
+         Bạc Liêu
+        </li>
+        <li name="13">
+         Bến Tre
+        </li>
+        <li name="16">
+         Bình Phước
+        </li>
+        <li name="18">
+         Cà Mau
+        </li>
+        <li name="20">
+         Đắk Lắk
+        </li>
+        <li name="21">
+         Đăk Nông
+        </li>
+        <li name="24">
+         Đồng Tháp
+        </li>
+        <li name="25">
+         Gia Lai
+        </li>
+        <li name="29">
+         Hậu Giang
+        </li>
+        <li name="33">
+         Kiên Giang
+        </li>
+        <li name="34">
+         Kon Tum
+        </li>
+        <li name="36">
+         Lâm Đồng
+        </li>
+        <li name="51">
+         Sóc Trăng
+        </li>
+        <li name="53">
+         Tây Ninh
+        </li>
+        <li name="58">
+         Tiền Giang
+        </li>
+        <li name="59">
+         Trà Vinh
+        </li>
+        <li name="61">
+         Vĩnh Long
+        </li>
+       </ul>
+       <ul>
+        <h3>
+         Miền Trung
+        </h3>
+        <li name="15">
+         Bình Định
+        </li>
+        <li name="17">
+         Bình Thuận
+        </li>
+        <li name="3">
+         Đà Nẵng
+        </li>
+        <li name="28">
+         Hà Tĩnh
+        </li>
+        <li name="57">
+         Thừa Thiên-Huế
+        </li>
+        <li name="32">
+         Khánh Hòa
+        </li>
+        <li name="41">
+         Nghệ An
+        </li>
+        <li name="43">
+         Ninh Thuận
+        </li>
+        <li name="45">
+         Phú Yên
+        </li>
+        <li name="46">
+         Quảng Bình
+        </li>
+        <li name="47">
+         Quảng Nam
+        </li>
+        <li name="48">
+         Quảng Ngãi
+        </li>
+        <li name="50">
+         Quảng Trị
+        </li>
+       </ul>
+       <ul>
+        <h3>
+         Miền Bắc
+        </h3>
+        <li name="1">
+         Hà Nội
+        </li>
+        <li name="11">
+         Hải Dương
+        </li>
+        <li name="4">
+         Hải Phòng
+        </li>
+        <li name="9">
+         Bắc Kạn
+        </li>
+        <li name="10">
+         Bắc Giang
+        </li>
+        <li name="12">
+         Bắc Ninh
+        </li>
+        <li name="19">
+         Cao Bằng
+        </li>
+        <li name="22">
+         Điện Biên
+        </li>
+        <li name="26">
+         Hà Giang
+        </li>
+        <li name="27">
+         Hà Nam
+        </li>
+        <li name="30">
+         Hòa Bình
+        </li>
+        <li name="31">
+         Hưng Yên
+        </li>
+        <li name="37">
+         Lạng Sơn
+        </li>
+        <li name="38">
+         Lào Cai
+        </li>
+        <li name="35">
+         Lai Châu
+        </li>
+        <li name="40">
+         Nam Định
+        </li>
+        <li name="42">
+         Ninh Bình
+        </li>
+        <li name="44">
+         Phú Thọ
+        </li>
+        <li name="49">
+         Quảng Ninh
+        </li>
+        <li name="52">
+         Sơn La
+        </li>
+        <li name="54">
+         Thái Bình
+        </li>
+        <li name="55">
+         Thái Nguyên
+        </li>
+        <li name="56">
+         Thanh Hóa
+        </li>
+        <li name="60">
+         Tuyên Quang
+        </li>
+        <li name="62">
+         Vĩnh Phúc
+        </li>
+        <li name="63">
+         Yên Bái
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="district-container multicolumns">
+     <div class="text" name="0">
+      --- Quận/Huyện ---
+     </div>
+     <div class="view">
+      <span class="exit">
+       Quận/Huyện
+      </span>
+      <div class="district">
+      </div>
+      <div class="ajax-loading">
+      </div>
+     </div>
+    </div>
+    <div class="price-container multicolumns">
+     <div class="text" name="0">
+      ---------- Giá --------
+     </div>
+     <div class="view">
+      <span class="exit">
+       Mức giá
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         0 - 1 triệu
+        </li>
+        <li name="2">
+         1 - 3 triệu
+        </li>
+        <li name="3">
+         3 - 5 triệu
+        </li>
+        <li name="4">
+         5 - 10 triệu
+        </li>
+        <li name="5">
+         10 - 15 triệu
+        </li>
+        <li name="6">
+         15 - 20 triệu
+        </li>
+        <li name="7">
+         20 - 30 triệu
+        </li>
+        <li name="8">
+         30 - 40 triệu
+        </li>
+        <li name="9">
+         40 - 60 triệu
+        </li>
+       </ul>
+       <ul>
+        <li name="10">
+         60 - 80 triệu
+        </li>
+        <li name="11">
+         80 - 100 triệu
+        </li>
+        <li name="12">
+         100 - 300 triệu
+        </li>
+        <li name="13">
+         300 - 500 triệu
+        </li>
+        <li name="14">
+         500 - 800 triệu
+        </li>
+        <li name="15">
+         800 - 1 tỷ
+        </li>
+        <li name="16">
+         1 - 2 tỷ
+        </li>
+        <li name="17">
+         2 - 3 tỷ
+        </li>
+        <li name="18">
+         3 - 4 tỷ
+        </li>
+       </ul>
+       <ul>
+        <li name="19">
+         4 - 6 tỷ
+        </li>
+        <li name="20">
+         6 - 8 tỷ
+        </li>
+        <li name="21">
+         8 - 10 tỷ
+        </li>
+        <li name="22">
+         10 - 15 tỷ
+        </li>
+        <li name="23">
+         15 - 20 tỷ
+        </li>
+        <li name="24">
+         20 - 30 tỷ
+        </li>
+        <li name="25">
+         30 - 60 tỷ
+        </li>
+        <li name="26">
+         Trên 60 tỷ
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="square-container multicolumns">
+     <div class="text" name="0">
+      ----- Diện tích ---
+     </div>
+     <div class="view">
+      <span class="exit">
+       Diện tích
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         0 - 30m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="2">
+         30 - 50m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="3">
+         50 - 70m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="4">
+         70 - 100m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="5">
+         100 - 150m
+         <sup>
+          2
+         </sup>
+        </li>
+       </ul>
+       <ul>
+        <li name="6">
+         150 - 200
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="7">
+         200 - 250m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="8">
+         250 - 300m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="9">
+         300 - 350m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="10">
+         350 - 400m
+         <sup>
+          2
+         </sup>
+        </li>
+       </ul>
+       <ul>
+        <li name="11">
+         400 - 600m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="12">
+         600 - 800m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="13">
+         800 - 1000m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="14">
+         Trên 1000m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="direct-container multicolumns">
+     <div class="text" name="0">
+      ------ Hướng -----
+     </div>
+     <div class="view">
+      <span class="exit">
+       Hướng
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         Đông
+        </li>
+        <li name="6">
+         Đông Bắc
+        </li>
+        <li name="5">
+         Đông Nam
+        </li>
+       </ul>
+       <ul>
+        <li name="2">
+         Tây
+        </li>
+        <li name="8">
+         Tây Bắc
+        </li>
+        <li name="7">
+         Tây Nam
+        </li>
+       </ul>
+       <ul>
+        <li name="3">
+         Nam
+        </li>
+        <li name="4">
+         Bắc
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="button-search">
+     Tìm nhanh
+    </div>
+    <div class="advanced-search">
+     <a href="/tim-kiem-nang-cao.html" rel="nofollow">
+      Tìm kiếm nâng cao
+     </a>
+    </div>
+   </div>
+   <div class="banner-center">
+   </div>
+   <div class="right-navigation-box">
+    <div class="item groupbyproject" id="ctl00_content_groupByProject">
+     <div class="title">
+      <h2 id="ctl00_content_groupByPropertyProjectTitle">
+       Bán nhà mặt tiền tại các dự án ở Quận Hải Châu
+      </h2>
+     </div>
+     <div class="content" id="ctl00_content_groupByPropertyProjectContent">
+      <ul>
+       <li>
+        <a href="/can-ban-nha-mat-tien/p2036/halla-jade-residences.html" title="Ban nha Halla Jade Residences">
+         Bán nhà
+         <b>
+          Halla Jade Residences
+         </b>
+        </a>
+        (
+        <span class="number">
+         1
+        </span>
+        )
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="item groupbydistrict">
+     <div class="title">
+      <h2 id="ctl00_content_groupByPropertyDistrictTitle">
+       Bán nhà mặt tiền tại Đà Nẵng
+      </h2>
+     </div>
+     <div class="content" id="ctl00_content_groupByPropertyDistrict">
+      <ul>
+       <li>
+        <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/584/quan-hai-chau.html" title="Ban nha mat tien Quan Hai Chau">
+         Bán nhà
+         <b>
+          Quận Hải Châu
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/585/quan-thanh-khe.html" title="Ban nha mat tien Quan Thanh Khe">
+         Bán nhà
+         <b>
+          Quận Thanh Khê
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/586/quan-son-tra.html" title="Ban nha mat tien Quan Son Tra">
+         Bán nhà
+         <b>
+          Quận Sơn Trà
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/587/quan-ngu-hanh-son.html" title="Ban nha mat tien Quan Ngu Hanh Son">
+         Bán nhà
+         <b>
+          Quận Ngũ Hành Sơn
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/588/quan-lien-chieu.html" title="Ban nha mat tien Quan Lien Chieu">
+         Bán nhà
+         <b>
+          Quận Liên Chiểu
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/589/quan-cam-le.html" title="Ban nha mat tien Quan Cam Le">
+         Bán nhà
+         <b>
+          Quận Cẩm Lệ
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/590/huyen-hoa-vang.html" title="Ban nha mat tien Huyen Hoa Vang">
+         Bán nhà
+         <b>
+          Huyện Hòa Vang
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/712/huyen-hoang-sa.html" title="Ban nha mat tien Huyen Hoang Sa">
+         Bán nhà
+         <b>
+          Huyện Hoàng Sa
+         </b>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!--right-->
+  <div class="clear">
+  </div>
+ </div>
+</div>

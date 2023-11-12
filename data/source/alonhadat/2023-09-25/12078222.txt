@@ -1,0 +1,1621 @@
+<div class="body">
+ <div class="top-link" id="ctl00_content_top_link" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a href="/" itemprop="item">
+    <span itemprop="name">
+     Trang chủ
+    </span>
+   </a>
+   <meta content="1" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/cho-thue.html" itemprop="item">
+    <span itemprop="name">
+     Cho thuê
+    </span>
+   </a>
+   <meta content="2" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/cho-thue/kho-xuong.html" itemprop="item">
+    <span itemprop="name">
+     Cho thuê nhà xưởng
+    </span>
+   </a>
+   <meta content="3" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/cho-thue/kho-xuong/3/da-nang.html" itemprop="item">
+    <span itemprop="name">
+     Cho thuê nhà xưởng Đà Nẵng
+    </span>
+   </a>
+   <meta content="4" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/cho-thue/kho-xuong/da-nang/588/quan-lien-chieu.html" itemprop="item">
+    <span itemprop="name">
+     Cho thuê nhà xưởng  Liên Chiểu
+    </span>
+   </a>
+   <meta content="5" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/cho-thue/kho-xuong/phuong-hoa-khanh-bac-quan-lien-chieu-px1125.html" itemprop="item">
+    <span itemprop="name">
+     Cho thuê nhà xưởng  Hòa Khánh Bắc
+    </span>
+   </a>
+   <meta content="6" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/cho-thue/kho-xuong/duong-au-co-quan-lien-chieu-dp2972.html" itemprop="item">
+    <span itemprop="name">
+     Cho thuê nhà xưởng  Âu Cơ
+    </span>
+   </a>
+   <meta content="7" itemprop="position"/>
+  </span>
+ </div>
+ <div class="top-line">
+ </div>
+ <div class="content plp" id="ctl00_content_pc_content">
+  <div id="left">
+   <div class="property">
+    <div class="title">
+     <h1>
+      Hiện tại đang còn các kho cho thuê trong các khu công nghiêp tại đà nẵng.
+     </h1>
+     <span class="date">
+      Ngày đăng: Hôm qua
+     </span>
+    </div>
+    <div class="detail text-content">
+     Hiện tại đang còn các kho cho thuê trong các khu công nghiêp tại đà nẵng.
+Tất cả các kho đều kho bị ngập nước.
+1, Kho trong khu công nghiệp Hòa Khánh.
++ Kho 450m2.
++ Kho 550m2.
++ Kho 700m2.
++ Kho 750m2.
++ Kho 1000m2.
++ Kho 2000m2.
++ Kho 3000m2.
++ Kho 5000m2.
+2, Kho trong khu công nghiệp Hòa Cầm.
++ Kho 450m2.
++ Kho 800m2.
++ Kho 860m2.
++ Kho 1000m2.
++ Kho 1600m2.
++ Kho 3200m2.
++ Kho 6000m2.
++ Kho 8000m2.
+Đất cho thuê 2000m2, 3000m2.
+3, Kho trong khu công nghiệp Liên Chiểu.
++ Kho 900m2.
++ Kho 3000m2.
++ Kho 6000m2.
+4, Kho trong khu công nghiệp Thọ Quang.
+1 Kho 250m2.
++ Kho 300m2.
++ Kho 500m2.
++ Kho 1000m2.
++ Kho 2200m2.
++ Kho 4400m2.
+5, Kho trong khu công nghiệp An Đồn.
+1 Kho 150m2.
++ Kho 280m2.
++ Kho 400m2.
++ Kho 750m2.
++ Kho 1000m2.
++ Kho 2000m2.
+6, Kho trong cụm khu công nghiệp Hòa Nhơn.
++ Kho 100m2.
++ Kho 2500m2.
++ Đất cho thuê 5000m2, 6000m2, 8000m2, 10000m2.
+GIÁ CẢ THƯƠNG LƯỢNG
+Mô tả.
++ Kho kiên cố chiều cao nhất là 11,5m chợ thấp nhất là 7,5m.
++ Điên 3FA phục vụ sản xuất và chiếu sáng.
++ Hệ thống PCCC tự động.
++ Đường xe container vào tận nơi.
++ Bảo vệ 24/24.
++ Phù hợp với chứa hàng và sản xuất.
+Liên hệ Đức để xem kho.
+    </div>
+    <div class="moreinfor">
+     <span class="price">
+      <span class="label">
+       Giá:
+      </span>
+      <span class="value">
+       135 triệu / tháng
+      </span>
+     </span>
+     <span class="square">
+      <span class="label">
+       Diện tích:
+      </span>
+      <span class="value">
+       3.000 m
+       <sup>
+        2
+       </sup>
+      </span>
+     </span>
+     <div class="clear">
+     </div>
+    </div>
+    <div class="address">
+     <span class="label">
+      Địa chỉ tài sản:
+     </span>
+     <span class="value">
+      Đường Âu Cơ, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng
+     </span>
+    </div>
+    <div class="moreinfor1">
+     <div class="title">
+      Các thông tin khác
+     </div>
+     <div class="infor">
+      <table cellspacing="0" hspace="0" vspace="0">
+       <tbody>
+        <tr>
+         <td>
+          Mã tin
+         </td>
+         <td>
+          12078222
+         </td>
+         <td>
+          Hướng
+         </td>
+         <td>
+          _
+         </td>
+         <td>
+          Phòng ăn
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Loại tin
+         </td>
+         <td>
+          Cho thuê
+         </td>
+         <td>
+          Đường trước nhà
+         </td>
+         <td>
+          25m
+         </td>
+         <td>
+          Nhà bếp
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Loại BDS
+         </td>
+         <td>
+          Kho, xưởng
+         </td>
+         <td>
+          Pháp lý
+         </td>
+         <td>
+          Sổ hồng/ Sổ đỏ
+         </td>
+         <td>
+          Sân thượng
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Chiều ngang
+         </td>
+         <td>
+          70m
+         </td>
+         <td>
+          Số lầu
+         </td>
+         <td>
+          1
+         </td>
+         <td>
+          Chổ để xe hơi
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Chiều dài
+         </td>
+         <td>
+          35m
+         </td>
+         <td>
+          Số phòng ngủ
+         </td>
+         <td>
+          1
+         </td>
+         <td>
+          Chính chủ
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+    </div>
+    <div class="image-tab">
+     <span class="view-image selected">
+      Hình ảnh
+     </span>
+    </div>
+    <div class="images">
+     <div class="imageview">
+      <img alt="Hiện tại đang còn các kho cho thuê trong các khu công nghiêp tại đà nẵng." id="limage" onclick="showImage(this.src)" src="/files/properties/2022/11/18/images/012078222-2058-hien-tai-dang-con-cac-kho-cho-thue-trong-cac-khu-cong-nghiep-tai-da-nang-.jpg"/>
+     </div>
+     <div class="image-list">
+      <span>
+       <img alt="Hiện tại đang còn các kho cho thuê trong các khu công nghiêp tại đà nẵng. - 0" class="limage" onclick="showImage(this.src)" src="/files/properties/2022/11/18/images/012078222-2058-hien-tai-dang-con-cac-kho-cho-thue-trong-cac-khu-cong-nghiep-tai-da-nang-.jpg"/>
+      </span>
+      <span>
+       <img alt="Hiện tại đang còn các kho cho thuê trong các khu công nghiêp tại đà nẵng. - 1" class="limage" onclick="showImage(this.src)" src="/files/properties/2022/11/18/images/112078222-2058-cho-thue-kho-xuong-quan-lien-chieu-chinh-chu.jpg"/>
+      </span>
+      <span>
+       <img alt="Hiện tại đang còn các kho cho thuê trong các khu công nghiêp tại đà nẵng. - 2" class="limage" onclick="showImage(this.src)" src="/files/properties/2022/11/18/images/212078222-2058-cho-thue-kho-xuong-quan-lien-chieu.jpg"/>
+      </span>
+      <span>
+       <img alt="Hiện tại đang còn các kho cho thuê trong các khu công nghiêp tại đà nẵng. - 3" class="limage" onclick="showImage(this.src)" src="/files/properties/2022/11/18/images/312078222-2058-hien-tai-dang-con-cac-kho-cho-thue-trong-cac-khu-cong-nghiep-tai-da-nang-.jpg"/>
+      </span>
+      <span>
+       <img alt="Hiện tại đang còn các kho cho thuê trong các khu công nghiêp tại đà nẵng. - 4" class="limage" onclick="showImage(this.src)" src="/files/properties/2022/11/18/images/412078222-2058-cho-thue-kho-xuong-da-nang-chinh-chu.jpg"/>
+      </span>
+     </div>
+    </div>
+    <div class="utility">
+     <span class="save" tabindex="0">
+      Lưu tin
+     </span>
+    </div>
+    <input id="hddDemand" type="hidden" value="2"/>
+    <input id="hddPropertyType" type="hidden" value="5"/>
+    <input id="hddPropertyId" type="hidden" value="12078222"/>
+    <input id="hddNguoiDang" type="hidden" user="0" value="750879"/>
+    <div class="reflect-form">
+     <div class="loading">
+     </div>
+     <div class="title">
+      Phản ánh tin rao vi phạm
+     </div>
+     <div class="notice">
+      Thông tin phản ánh của Quý khách giúp chúng tôi sàn lọc thông tin tốt hơn và loại trừ các nhà môi giới không trung thực. Xin trân trọng cám ơn.
+     </div>
+     <div class="content">
+      <div class="reason">
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="1"/>
+        <span>
+         Tài sản đã bán/cho thuê
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="2"/>
+        <span>
+         Tin không có thật
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="3"/>
+        <span>
+         Nội dung không đúng với thực tế
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="4"/>
+        <span>
+         Giá không đúng
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="5"/>
+        <span>
+         Không liên lạc được
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="6"/>
+        <span>
+         Địa chỉ bất động sản không đúng
+        </span>
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="other-reason">
+       <input class="reason-item" name="reason" type="radio" value="10"/>
+       <span>
+        Lý do khác:
+       </span>
+       <br/>
+       <textarea class="txtcontent" maxlength="240" placeholder="Nội dung phản ánh"></textarea>
+      </div>
+      <div class="check-ignore">
+       <input class="chkdayignore" type="checkbox"/>
+       <b class="bdayignore">
+        Tôi không muốn xem tin của người đăng này trong vòng:
+       </b>
+       <select class="dayignore" disabled="disabled" name="dayignore" style="color:red; background:#eeeeee;">
+        <option value="0">
+         Số ngày
+        </option>
+        <option value="1">
+         1 ngày
+        </option>
+        <option value="3">
+         3 ngày
+        </option>
+        <option value="7">
+         7 ngày
+        </option>
+        <option value="14">
+         14 ngày
+        </option>
+        <option value="21">
+         21 ngày
+        </option>
+        <option value="30">
+         30 ngày
+        </option>
+        <option value="60">
+         60 ngày
+        </option>
+        <option value="90">
+         90 ngày
+        </option>
+        <option value="180">
+         180 ngày
+        </option>
+        <option value="360">
+         360 ngày
+        </option>
+       </select>
+       <i>
+        Tất cả các tin của thành viên này sẽ ẩn đi với bạn trong khoảng thời gian bạn đã chọn.
+       </i>
+      </div>
+      <div>
+       <font style="color:blue">
+        Mã an toàn
+       </font>
+       :
+       <br/>
+       <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx" width="90"/>
+       <input class="captcha" id="captcha" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+       <input class="btnSubmit" type="button" value="Gửi phản ánh"/>
+      </div>
+     </div>
+    </div>
+    <div class="tags">
+     <span>
+      Có thể bạn muốn xem:
+     </span>
+     <a href="/nha-dat/cho-thue/kho-xuong/3/da-nang.html">
+      Cho thuê nhà xưởng Đà Nẵng
+     </a>
+     <a href="/nha-dat/cho-thue/kho-xuong/da-nang/588/quan-lien-chieu.html">
+      Cho thuê nhà xưởng Quận Liên Chiểu
+     </a>
+     <a href="/nha-dat/cho-thue/kho-xuong/phuong-hoa-khanh-bac-quan-lien-chieu-px1125.html">
+      Cho thuê nhà xưởng Phường Hòa Khánh Bắc
+     </a>
+     <a href="/nha-dat/cho-thue/kho-xuong/duong-au-co-quan-lien-chieu-dp2972.html">
+      Cho thuê nhà xưởng Đường Âu Cơ
+     </a>
+    </div>
+    <div class="notices">
+     <h3>
+      Lưu ý:
+     </h3>
+     <p>
+      Các bạn đang xem tin đăng trong mục "
+      <b>
+       Cho thuê kho, xưởng Quận Liên Chiểu, Đà Nẵng
+      </b>
+      ". Các thông tin rao vặt là do người đăng tin đăng tải toàn bộ thông tin. Chúng tôi hoàn toàn không chịu trách nhiệm về bất cứ thông tin nào liên qua đến các thông tin này. Chúng tôi luôn cố gắng để đưa các tin tức nhanh và chính xác nhất cho các bạn.
+     </p>
+    </div>
+   </div>
+   <!--property-->
+   <div class="relative-property">
+    <div>
+     <div class="content-header" id="ctl00_content_relative_property_title">
+      <h2>
+       Cho thuê Kho, xưởng tại Quận Liên Chiểu
+      </h2>
+     </div>
+    </div>
+    <div class="content-items" id="ctl00_content_relative_property_content">
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/cho-thue-kho-xuong-tai-da-nang-700m2-800m2-2800m2-6000m2-7600m2-tu-45k-m2-th--13429574.html">
+         Cho thuê kho xưởng tại Đà Nẵng 700m2, 800m2, 2800m2, 6000m2, 7600m2 từ 45k/m2/th.
+        </a>
+       </div>
+       <div class="ct_date">
+        22/09/2023
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/cho-thue-kho-xuong-tai-da-nang-700m2-800m2-2800m2-6000m2-7600m2-tu-45k-m2-th--13429574.html">
+        <img alt="Cho thuê kho xưởng tại Đà Nẵng 700m2, 800m2, 2800m2, 6000m2, 7600m2 từ 45k/m2/th." src="/files/properties/2023/9/22/thumbnails/013429574-1116-cho-thue-kho-xuong-da-nang-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         ---
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         2.800 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         50 ngàn / m
+         <sup>
+          2
+         </sup>
+         / tháng
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/cho-thue/kho-xuong/duong-so-6-quan-lien-chieu-dp11822.html">
+          Đường số 6
+         </a>
+         ,
+         <a href="/nha-dat/cho-thue/kho-xuong/phuong-hoa-khanh-bac-quan-lien-chieu-px1125.html">
+          Phường Hòa Khánh Bắc
+         </a>
+         , Quận Liên Chiểu, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/thue-nha-xuong-dang-cap-tai-da-nang-dien-tich-lon-vi-tri-dac-dia-13428704.html">
+         Thuê Nhà Xưởng Đẳng Cấp tại Đà Nẵng - Diện Tích Lớn, Vị Trí Đắc Địa
+        </a>
+       </div>
+       <div class="ct_date">
+        22/09/2023
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/thue-nha-xuong-dang-cap-tai-da-nang-dien-tich-lon-vi-tri-dac-dia-13428704.html">
+        <img alt="Thuê Nhà Xưởng Đẳng Cấp tại Đà Nẵng - Diện Tích Lớn, Vị Trí Đắc Địa" src="/files/properties/2023/9/22/thumbnails/013428704-3645-cho-thue-kho-xuong-da-nang.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         ---
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         2.300 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         65 ngàn / m
+         <sup>
+          2
+         </sup>
+         / tháng
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/cho-thue/kho-xuong/duong-au-co-quan-lien-chieu-dp2972.html">
+          Đường Âu Cơ
+         </a>
+         ,
+         <a href="/nha-dat/cho-thue/kho-xuong/phuong-hoa-khanh-bac-quan-lien-chieu-px1125.html">
+          Phường Hòa Khánh Bắc
+         </a>
+         , Quận Liên Chiểu, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/cho-thue-kho-moi-xay-2-268m2-kien-co-kcn-hoa-khanh-13320853.html">
+         CHO THUÊ KHO MỚI XÂY 2.268m2 _ KIÊN CỐ _ KCN HÒA KHÁNH
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm qua
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/cho-thue-kho-moi-xay-2-268m2-kien-co-kcn-hoa-khanh-13320853.html">
+        <img alt="CHO THUÊ KHO MỚI XÂY 2.268m2 _ KIÊN CỐ _ KCN HÒA KHÁNH" src="/files/properties/2023/8/25/thumbnails/013320853-0206-cho-thue-kho-xuong-quan-lien-chieu-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 20m">
+         20m
+        </span>
+        <span class="floors" title="1 lầu">
+         1 lầu
+        </span>
+        <span class="bedroom" title="1 phòng ngủ">
+         1 phòng ngủ
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         50x50m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         2.268 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         140 triệu / tháng
+        </div>
+        <div class="ct_dis">
+         Quận Liên Chiểu, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/cho-thue-kho-kcn-hoa-khaanh-moi-dep-2268m-13320459.html">
+         Cho thuê kho KCN HOÀ KHAÁNH MỚI ĐẸP 2268m
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/cho-thue-kho-kcn-hoa-khaanh-moi-dep-2268m-13320459.html">
+        <img alt="Cho thuê kho KCN HOÀ KHAÁNH MỚI ĐẸP 2268m" src="/files/properties/2023/8/25/thumbnails/013320459-0853-cho-thue-nha-mat-tien-quan-lien-chieu-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 0m">
+         0m
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         ---
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         2.268 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         150 triệu / tháng
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/cho-thue/kho-xuong/duong-so-5-quan-lien-chieu-dp11821.html">
+          Đường số 5
+         </a>
+         ,
+         <a href="/nha-dat/cho-thue/kho-xuong/phuong-hoa-khanh-bac-quan-lien-chieu-px1125.html">
+          Phường Hòa Khánh Bắc
+         </a>
+         , Quận Liên Chiểu, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/xuong-kcn-hoa-khanh-cho-thue-2268m-soeue-dep-13319122.html">
+         XƯỞNG KCN HOÀ KHÁNH CHO THUÊ - 2268m soeue đẹp
+        </a>
+       </div>
+       <div class="ct_date">
+        20/09/2023
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/xuong-kcn-hoa-khanh-cho-thue-2268m-soeue-dep-13319122.html">
+        <img alt="XƯỞNG KCN HOÀ KHÁNH CHO THUÊ - 2268m soeue đẹp" src="/files/properties/2023/8/25/thumbnails/013319122-4819-xuong-kcn-hoa-khanh-cho-thue-2268m-soeue-dep.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 0m">
+         0m
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         ---
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         2.268 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         150 triệu / tháng
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/cho-thue/kho-xuong/duong-so-7-quan-lien-chieu-dp11823.html">
+          Đường số 7
+         </a>
+         ,
+         <a href="/nha-dat/cho-thue/kho-xuong/phuong-hoa-khanh-nam-quan-lien-chieu-px1126.html">
+          Phường Hòa Khánh Nam
+         </a>
+         , Quận Liên Chiểu, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="viewmore">
+      <a href="/nha-dat/cho-thue/kho-xuong/da-nang/588/quan-lien-chieu.html">
+       Xem thêm các tin khác
+      </a>
+     </div>
+    </div>
+    <!----end sale content----->
+   </div>
+  </div>
+  <!--left-->
+  <div id="right">
+   <div class="contact">
+    <div class="contact-info">
+     <div class="title">
+      Thông tin liên hệ
+     </div>
+     <div class="content">
+      <div class="name">
+       Bùi Văn Đức
+      </div>
+      <div class="fone">
+       <a href="javascript:void(0)">
+        0906.456.558
+       </a>
+       <div class="dvviewphone">
+        <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx?a=2899" width="90"/>
+        <input class="captcha" id="captcha_viewphone" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+        <span class="viewphone">
+         (Bấm xem số điện thoại)
+        </span>
+       </div>
+      </div>
+      <div class="introduce">
+      </div>
+      <div class="review-box">
+       <span class="review-score">
+        Được đánh giá:
+       </span>
+       <span class="review-star">
+        <span class="rate" style="width:60%;">
+        </span>
+       </span>
+      </div>
+      <div class="view-more">
+       <a href="/nha-moi-gioi/bui-750879.html">
+        Xem thêm 65 tin khác của thành viên này
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="head-search">
+    Tìm kiếm nhà đất
+   </div>
+   <div class="search-box">
+    <div>
+     <input class="location" placeholder="Nhập địa điểm cần tìm" type="text"/>
+     <div class="suggesstion">
+      <div class="title">
+       Gợi ý
+      </div>
+      <ul>
+       <li>
+        <span>
+         Nhập tên đường/phố, phường/xã, quận/huyện, tỉnh/thành phố hoặc tên dự án. Ví dụ:
+         <br/>
+         <span style="color:#000000">
+          - Nguyễn Xí, Bình Thạnh
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Láng Hạ, Đống Đa
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Vũng Tàu
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Times City
+         </span>
+        </span>
+       </li>
+       <li>
+        <span>
+         Phải chọn các gợi ý chúng tôi đề xuất bên dưới để kết quả chính xác
+        </span>
+       </li>
+       <li>
+        <span>
+         Nếu không nhập địa điểm ở đây, Quý vị có thể chọn lựa khu vực bằng các ô phía dưới trong công cụ tìm kiếm này
+        </span>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="demand-container">
+     <div class="text">
+      Cần bán
+     </div>
+     <div class="view">
+      <div>
+       <ul>
+        <li name="can-ban">
+         Cần bán
+        </li>
+        <li name="cho-thue">
+         Cho thuê
+        </li>
+        <li name="can-mua">
+         Cần mua
+        </li>
+        <li name="can-thue">
+         Cần thuê
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="property-type-container multicolumns">
+     <div class="text">
+      Nhà mặt tiền
+     </div>
+     <div class="view">
+      <span class="exit">
+       Loại bất động sản
+      </span>
+      <div>
+       <ul>
+        <li name="nha">
+         NHÀ
+        </li>
+        <li name="nha-mat-tien" style="text-indent:20px;">
+         Nhà mặt tiền
+        </li>
+        <li name="nha-trong-hem" style="text-indent:20px;">
+         Nhà trong hẻm
+        </li>
+        <li name="biet-thu-nha-lien-ke">
+         Biệt thự, nhà liền kề
+        </li>
+        <li name="can-ho-chung-cu">
+         Căn hộ chung cư
+        </li>
+        <li name="phong-tro-nha-tro">
+         Phòng trọ, nhà trọ
+        </li>
+       </ul>
+       <ul>
+        <li name="van-phong">
+         Văn phòng
+        </li>
+        <li name="kho-xuong">
+         Kho, xưởng
+        </li>
+        <li name="nha-hang-khach-san">
+         Nhà hàng, khách sạn
+        </li>
+        <li name="shop-kiot-quan">
+         Shop, kiot, quán
+        </li>
+        <li name="trang-trai">
+         Trang trại
+        </li>
+       </ul>
+       <ul>
+        <li name="mat-bang">
+         Mặt bằng
+        </li>
+        <li name="dat-tho-cu-dat-o" style="font-weight:bold">
+         Đất thổ cư, đất ở
+        </li>
+        <li name="dat-nen-lien-ke-dat-du-an">
+         Đất nền, liền kề, đất dự án
+        </li>
+        <li name="dat-nong-lam-nghiep">
+         Đất nông, lâm nghiệp
+        </li>
+        <li name="cac-loai-khac">
+         Các loại khác
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="province-container multicolumns">
+     <div class="text" name="0">
+      --- Tỉnh/Thành --
+     </div>
+     <div class="view">
+      <span class="exit">
+       Tỉnh/Thành
+      </span>
+      <div>
+       <ul>
+        <h3>
+         Miền Nam
+        </h3>
+        <li name="2">
+         Hồ Chí Minh
+        </li>
+        <li name="7">
+         Bà Rịa-Vũng Tàu
+        </li>
+        <li name="14">
+         Bình Dương
+        </li>
+        <li name="23">
+         Đồng Nai
+        </li>
+        <li name="5">
+         Cần Thơ
+        </li>
+        <li name="39">
+         Long An
+        </li>
+        <li name="6">
+         An Giang
+        </li>
+        <li name="8">
+         Bạc Liêu
+        </li>
+        <li name="13">
+         Bến Tre
+        </li>
+        <li name="16">
+         Bình Phước
+        </li>
+        <li name="18">
+         Cà Mau
+        </li>
+        <li name="20">
+         Đắk Lắk
+        </li>
+        <li name="21">
+         Đăk Nông
+        </li>
+        <li name="24">
+         Đồng Tháp
+        </li>
+        <li name="25">
+         Gia Lai
+        </li>
+        <li name="29">
+         Hậu Giang
+        </li>
+        <li name="33">
+         Kiên Giang
+        </li>
+        <li name="34">
+         Kon Tum
+        </li>
+        <li name="36">
+         Lâm Đồng
+        </li>
+        <li name="51">
+         Sóc Trăng
+        </li>
+        <li name="53">
+         Tây Ninh
+        </li>
+        <li name="58">
+         Tiền Giang
+        </li>
+        <li name="59">
+         Trà Vinh
+        </li>
+        <li name="61">
+         Vĩnh Long
+        </li>
+       </ul>
+       <ul>
+        <h3>
+         Miền Trung
+        </h3>
+        <li name="15">
+         Bình Định
+        </li>
+        <li name="17">
+         Bình Thuận
+        </li>
+        <li name="3">
+         Đà Nẵng
+        </li>
+        <li name="28">
+         Hà Tĩnh
+        </li>
+        <li name="57">
+         Thừa Thiên-Huế
+        </li>
+        <li name="32">
+         Khánh Hòa
+        </li>
+        <li name="41">
+         Nghệ An
+        </li>
+        <li name="43">
+         Ninh Thuận
+        </li>
+        <li name="45">
+         Phú Yên
+        </li>
+        <li name="46">
+         Quảng Bình
+        </li>
+        <li name="47">
+         Quảng Nam
+        </li>
+        <li name="48">
+         Quảng Ngãi
+        </li>
+        <li name="50">
+         Quảng Trị
+        </li>
+       </ul>
+       <ul>
+        <h3>
+         Miền Bắc
+        </h3>
+        <li name="1">
+         Hà Nội
+        </li>
+        <li name="11">
+         Hải Dương
+        </li>
+        <li name="4">
+         Hải Phòng
+        </li>
+        <li name="9">
+         Bắc Kạn
+        </li>
+        <li name="10">
+         Bắc Giang
+        </li>
+        <li name="12">
+         Bắc Ninh
+        </li>
+        <li name="19">
+         Cao Bằng
+        </li>
+        <li name="22">
+         Điện Biên
+        </li>
+        <li name="26">
+         Hà Giang
+        </li>
+        <li name="27">
+         Hà Nam
+        </li>
+        <li name="30">
+         Hòa Bình
+        </li>
+        <li name="31">
+         Hưng Yên
+        </li>
+        <li name="37">
+         Lạng Sơn
+        </li>
+        <li name="38">
+         Lào Cai
+        </li>
+        <li name="35">
+         Lai Châu
+        </li>
+        <li name="40">
+         Nam Định
+        </li>
+        <li name="42">
+         Ninh Bình
+        </li>
+        <li name="44">
+         Phú Thọ
+        </li>
+        <li name="49">
+         Quảng Ninh
+        </li>
+        <li name="52">
+         Sơn La
+        </li>
+        <li name="54">
+         Thái Bình
+        </li>
+        <li name="55">
+         Thái Nguyên
+        </li>
+        <li name="56">
+         Thanh Hóa
+        </li>
+        <li name="60">
+         Tuyên Quang
+        </li>
+        <li name="62">
+         Vĩnh Phúc
+        </li>
+        <li name="63">
+         Yên Bái
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="district-container multicolumns">
+     <div class="text" name="0">
+      --- Quận/Huyện ---
+     </div>
+     <div class="view">
+      <span class="exit">
+       Quận/Huyện
+      </span>
+      <div class="district">
+      </div>
+      <div class="ajax-loading">
+      </div>
+     </div>
+    </div>
+    <div class="price-container multicolumns">
+     <div class="text" name="0">
+      ---------- Giá --------
+     </div>
+     <div class="view">
+      <span class="exit">
+       Mức giá
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         0 - 1 triệu
+        </li>
+        <li name="2">
+         1 - 3 triệu
+        </li>
+        <li name="3">
+         3 - 5 triệu
+        </li>
+        <li name="4">
+         5 - 10 triệu
+        </li>
+        <li name="5">
+         10 - 15 triệu
+        </li>
+        <li name="6">
+         15 - 20 triệu
+        </li>
+        <li name="7">
+         20 - 30 triệu
+        </li>
+        <li name="8">
+         30 - 40 triệu
+        </li>
+        <li name="9">
+         40 - 60 triệu
+        </li>
+       </ul>
+       <ul>
+        <li name="10">
+         60 - 80 triệu
+        </li>
+        <li name="11">
+         80 - 100 triệu
+        </li>
+        <li name="12">
+         100 - 300 triệu
+        </li>
+        <li name="13">
+         300 - 500 triệu
+        </li>
+        <li name="14">
+         500 - 800 triệu
+        </li>
+        <li name="15">
+         800 - 1 tỷ
+        </li>
+        <li name="16">
+         1 - 2 tỷ
+        </li>
+        <li name="17">
+         2 - 3 tỷ
+        </li>
+        <li name="18">
+         3 - 4 tỷ
+        </li>
+       </ul>
+       <ul>
+        <li name="19">
+         4 - 6 tỷ
+        </li>
+        <li name="20">
+         6 - 8 tỷ
+        </li>
+        <li name="21">
+         8 - 10 tỷ
+        </li>
+        <li name="22">
+         10 - 15 tỷ
+        </li>
+        <li name="23">
+         15 - 20 tỷ
+        </li>
+        <li name="24">
+         20 - 30 tỷ
+        </li>
+        <li name="25">
+         30 - 60 tỷ
+        </li>
+        <li name="26">
+         Trên 60 tỷ
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="square-container multicolumns">
+     <div class="text" name="0">
+      ----- Diện tích ---
+     </div>
+     <div class="view">
+      <span class="exit">
+       Diện tích
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         0 - 30m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="2">
+         30 - 50m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="3">
+         50 - 70m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="4">
+         70 - 100m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="5">
+         100 - 150m
+         <sup>
+          2
+         </sup>
+        </li>
+       </ul>
+       <ul>
+        <li name="6">
+         150 - 200
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="7">
+         200 - 250m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="8">
+         250 - 300m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="9">
+         300 - 350m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="10">
+         350 - 400m
+         <sup>
+          2
+         </sup>
+        </li>
+       </ul>
+       <ul>
+        <li name="11">
+         400 - 600m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="12">
+         600 - 800m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="13">
+         800 - 1000m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="14">
+         Trên 1000m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="direct-container multicolumns">
+     <div class="text" name="0">
+      ------ Hướng -----
+     </div>
+     <div class="view">
+      <span class="exit">
+       Hướng
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         Đông
+        </li>
+        <li name="6">
+         Đông Bắc
+        </li>
+        <li name="5">
+         Đông Nam
+        </li>
+       </ul>
+       <ul>
+        <li name="2">
+         Tây
+        </li>
+        <li name="8">
+         Tây Bắc
+        </li>
+        <li name="7">
+         Tây Nam
+        </li>
+       </ul>
+       <ul>
+        <li name="3">
+         Nam
+        </li>
+        <li name="4">
+         Bắc
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="button-search">
+     Tìm nhanh
+    </div>
+    <div class="advanced-search">
+     <a href="/tim-kiem-nang-cao.html" rel="nofollow">
+      Tìm kiếm nâng cao
+     </a>
+    </div>
+   </div>
+   <div class="banner-center">
+   </div>
+   <div class="right-navigation-box">
+    <div class="item groupbyproject" id="ctl00_content_groupByProject">
+     <div class="title">
+      <h2 id="ctl00_content_groupByPropertyProjectTitle">
+       Cho thuê kho, xưởng tại các dự án ở Quận Liên Chiểu
+      </h2>
+     </div>
+     <div class="content" id="ctl00_content_groupByPropertyProjectContent">
+      <ul>
+       <li>
+        <a href="/cho-thue-kho-xuong/p10494/b-ocean.html" title="Cho thue nha xuong B.Ocean">
+         Cho thuê nhà xưởng
+         <b>
+          B.Ocean
+         </b>
+        </a>
+        (
+        <span class="number">
+         1
+        </span>
+        )
+       </li>
+       <li>
+        <a href="/cho-thue-kho-xuong/p6401/hoa-hiep-3.html" title="Cho thue nha xuong Hoa Hiep 3">
+         Cho thuê nhà xưởng
+         <b>
+          Hòa Hiệp 3
+         </b>
+        </a>
+        (
+        <span class="number">
+         1
+        </span>
+        )
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="item groupbydistrict">
+     <div class="title">
+      <h2 id="ctl00_content_groupByPropertyDistrictTitle">
+       Cho thuê kho xưởng tại Đà Nẵng
+      </h2>
+     </div>
+     <div class="content" id="ctl00_content_groupByPropertyDistrict">
+      <ul>
+       <li>
+        <a href="/nha-dat/cho-thue/kho-xuong/da-nang/584/quan-hai-chau.html" title="Cho thue kho xuong Quan Hai Chau">
+         Cho thuê nhà xưởng
+         <b>
+          Quận Hải Châu
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/cho-thue/kho-xuong/da-nang/585/quan-thanh-khe.html" title="Cho thue kho xuong Quan Thanh Khe">
+         Cho thuê nhà xưởng
+         <b>
+          Quận Thanh Khê
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/cho-thue/kho-xuong/da-nang/586/quan-son-tra.html" title="Cho thue kho xuong Quan Son Tra">
+         Cho thuê nhà xưởng
+         <b>
+          Quận Sơn Trà
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/cho-thue/kho-xuong/da-nang/587/quan-ngu-hanh-son.html" title="Cho thue kho xuong Quan Ngu Hanh Son">
+         Cho thuê nhà xưởng
+         <b>
+          Quận Ngũ Hành Sơn
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/cho-thue/kho-xuong/da-nang/588/quan-lien-chieu.html" title="Cho thue kho xuong Quan Lien Chieu">
+         Cho thuê nhà xưởng
+         <b>
+          Quận Liên Chiểu
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/cho-thue/kho-xuong/da-nang/589/quan-cam-le.html" title="Cho thue kho xuong Quan Cam Le">
+         Cho thuê nhà xưởng
+         <b>
+          Quận Cẩm Lệ
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/cho-thue/kho-xuong/da-nang/590/huyen-hoa-vang.html" title="Cho thue kho xuong Huyen Hoa Vang">
+         Cho thuê nhà xưởng
+         <b>
+          Huyện Hòa Vang
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/cho-thue/kho-xuong/da-nang/712/huyen-hoang-sa.html" title="Cho thue kho xuong Huyen Hoang Sa">
+         Cho thuê nhà xưởng
+         <b>
+          Huyện Hoàng Sa
+         </b>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!--right-->
+  <div class="clear">
+  </div>
+ </div>
+</div>

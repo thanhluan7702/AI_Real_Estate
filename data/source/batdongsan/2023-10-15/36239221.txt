@@ -1,0 +1,584 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="36239221" uid="1927926">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Bán nhà phố 4 tầng view sông Hàn, 411m2 đối diện Lotte Mart giá chỉ 13,5 tỷ đồng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án Regal Pavillon Đà Nẵng, Phường Hòa Cường Nam, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    120 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    4 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":36239221,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2022/12/31/20221231095538-2ff2_wm.jpg","vipType":0,"title":"Bán nhà phố 4 tầng view sông Hàn, 411m2 đối diện Lotte Mart giá chỉ 13,5 tỷ đồng","titleHiddenMobile":"Bán nhà phố 4 tầng view sông Hàn, 411m2 đối diện Lotte Mart giá chỉ 13,5 tỷ đồng","url":"https://batdongsan.com.vn/ban-nha-mat-pho-phuong-hoa-cuong-nam-prj-regal-pavillon-da-nang/ban-sieu-pham-cao-cap-ven-song-han-doi-dien-voi-truong-quoc-te-skyline-cong-vien-chau-a-pr36239221","productIdPrefix":"36239221$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-nha-mat-pho-phuong-hoa-cuong-nam-prj-regal-pavillon-da-nang/ban-sieu-pham-cao-cap-ven-song-han-doi-dien-voi-truong-quoc-te-skyline-cong-vien-chau-a-pr36239221&amp;t=Bán nhà phố 4 tầng view sông Hàn, 411m2 đối diện Lotte Mart giá chỉ 13,5 tỷ đồng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-nha-mat-pho-phuong-hoa-cuong-nam-prj-regal-pavillon-da-nang/ban-sieu-pham-cao-cap-ven-song-han-doi-dien-voi-truong-quoc-te-skyline-cong-vien-chau-a-pr36239221" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=36239221">
+   Nhất cận thị - nhị cận giang tam cận Lộ - câu thần chú muôn thuở khi đi mua bất động sản.
+   <br/>
+   <br/>
+   Nhà phố ven sông Hàn, lại nằm vị trí quận Hải Châu quận 1 của Đà Nẵng, chưa kể còn giao lộ với các tuyến đường chính 2/9, đường Tiên Sơn, đường Thăng Long ven sông Hàn.
+   <br/>
+   Với vị trí hiếm có trung tâm nên Regal Pavillon sở hữu được tiện ích cao cấp: Trường học quốc tế Skyline là hệ thống trường học nổi tiếng Đà Nẵng, công viên châu Á, siêu thị Lotte Mart...
+   <br/>
+   <br/>
+   Khu dân cư ở đây đông đúc, kinh doanh, ở, đầu tư cho thuê cũng rất thuận tiện, giá mặt bằng cho thuê tại khu vực này từ 50 - 60 triệu nguyên căn, 1 tầng thì tầm 10 - 15 triệu...
+   <br/>
+   <br/>
+   Cập nhật giỏ hàng tháng 5/2023.
+   <br/>
+   <br/>
+   1/ Mặt đường Hóa Sơn 10, B2 - 3 - x, 6x20=120m², hướng Tây Bắc, giá bán 15,5 tỷ đồng.
+   <br/>
+   2/ Mặt đường Nguyễn Lộ Trạch, 3 căn liền kề, mỗi căn 4 tầng 6x20, hướng Đông Nam, giá bán 14,9 tỷ đồng.
+   <br/>
+   3/ Mặt đường Nguyễn Lộ Trạch, B2 - 4 - 32, Đông Nam 411m² giá chỉ 13,5 tỷ đồng sau chiết khấu.
+   <br/>
+   <br/>
+   - Giá bán có hỗ trợ thuế thu nhập cá nhân.
+   <br/>
+   - Vỉa hè mỗi bên 4m,
+   <br/>
+   - Lòng đường 7m5.
+   <br/>
+   - Điện âm, hoàn thiện đồng bộ.
+   <br/>
+   - Có hỗ trợ vay ngân hàng.
+   <br/>
+   Tất cả có sổ hồng từng căn nhà, mua bán an tâm về pháp lý, dự án hiếm hoi Đà Nẵng có pháp lý rất chuẩn chỉnh.
+   <br/>
+   <br/>
+   Liên hệ Ms Diệp Ny đi xem nhà đẹp đẳng cấp hiếm có này
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="4240e612d14f4eb5bff2780af2faa447" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=36239221">
+    0903 222 ***
+   </span>
+   .
+   <br/>
+   Cảm ơn đã xem tin!
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      120 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      4 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      5 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng.
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Cơ bản.
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-ban-regal-pavillon-da-nang" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 20 tin đăng bán
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-khac-hai-chau-ddn/regal-pavillon-da-nang-pj3212" target="_blank">
+      <img alt="Regal Pavillon Đà Nẵng" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2017/11/11/hmcVYWuR/20171111082127-88c5.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       Regal Pavillon Đà Nẵng
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Đang cập nhật tiến độ" class="re__prj-card-config-value" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Đang cập nhật tiến độ
+       </span>
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="Giá 215 - 215 triệu/m²" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-money--sm">
+       </i>
+       215 - 215 triệu/m²
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Công ty CP Đất Xanh Miền Trung" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Công ty CP Đất Xanh Miền Trung
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver38ac7041.msvbds.pricing-insight.min.css" rel="stylesheet"/>
+ <div class="re__section pd-pricing-insight lazyload" data-func='new FrontEnd.Product.Details.PricingInsight({"prefixPrice":"","price":0.0,"min":104.16666666666667,"max":137.92,"avg":112.5,"isRent":"false"})' data-script="https://staticfile.batdongsan.com.vn/js/Product/Binnova/Details/filestatic.ver38ac7041.msvbds.FrontEnd.Product.Details.PricingInsight.min.js" tracking-id="ldp-listing-pricing-insight">
+  <h3 class="re__section-title">
+   Khoảng giá phổ biến
+   <span class="re__icon-info-circle--sm pricing-insight--info js__pricing-insight--info">
+    <span class="pricing-insight--note">
+     Thông tin được tổng hợp bởi Batdongsan.com.vn trong vòng 3 tháng gần nhất
+    </span>
+   </span>
+  </h3>
+  <div class="pricing-insight--sub-title">
+   Bán nhà mặt phố tại Regal Pavillon Đà Nẵng
+  </div>
+  <div class="pd-pricing-insight--border js__pd-pricing-insight--border">
+   <div class="pd-pricing-insight--content">
+    <div class="pricing-content-row-label">
+     <div class="pricing-avg-min pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg pricing-content-row">
+      <div class="pricing-content--r1">
+       Giá phổ biến nhất
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg-max pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+    <div class="bg-pricing">
+    </div>
+    <div class="bg-pricing-avg">
+    </div>
+    <div class="pricing-avg-min pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+        Giá phổ biến nhất
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg-max pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-product">
+     <div class="pricing-content">
+      <div class="pricing-content--r1">
+       Tin đang xem
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver38ac7041.msvbds.pricing-extent.min.css" rel="stylesheet"/>
+  <div class="re__clear-box">
+  </div>
+  <div class="re__pricing-insight-extented">
+   <div class="pricing-insight-row pricing-insight-title">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <strong>
+      Các dự án cùng khoảng giá
+     </strong>
+     <br/>
+     <span>
+      Trong vòng bán kính 5 km
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <strong>
+      Giá bán phổ biến nhất
+     </strong>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+    </div>
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-mat-pho-khu-do-thi-nam-cau-tuyen-son" target="_blank" tracking-id="ldp_to_pdp_price_nearby_projects" tracking-label="loc=Price of Nearby Projects, pos=1">
+      Khu đô thị Nam Cầu Tuyên Sơn
+     </a>
+     <span class="text-small">
+      (1,7 km)
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      60
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-mat-pho-khu-do-thi-nam-cau-tuyen-son" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=1">
+      <span class="labled-text-small">
+       20 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-mat-pho-euro-village-2" target="_blank" tracking-id="ldp_to_pdp_price_nearby_projects" tracking-label="loc=Price of Nearby Projects, pos=2">
+      Euro Village 2
+     </a>
+     <span class="text-small">
+      (2,5 km)
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      93,3
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-mat-pho-euro-village-2" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=2">
+      <span class="labled-text-small">
+       1 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-mat-pho-lang-chau-au-euro-village" target="_blank" tracking-id="ldp_to_pdp_price_nearby_projects" tracking-label="loc=Price of Nearby Projects, pos=3">
+      Làng Châu Âu (Euro Village)
+     </a>
+     <span class="text-small">
+      (2,6 km)
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      110
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-mat-pho-lang-chau-au-euro-village" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=3">
+      <span class="labled-text-small">
+       3 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row pricing-insight-row-view">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-mat-pho-regal-pavillon-da-nang" target="_blank" tracking-id="ldp_to_pdp_price_nearby_projects" tracking-label="loc=Price of Nearby Projects, pos=4">
+      Regal Pavillon Đà Nẵng
+     </a>
+     <span class="labled-text-small">
+      Đang xem
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      112,5
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-mat-pho-regal-pavillon-da-nang" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=4">
+      <span class="labled-text-small">
+       7 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt no-border">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.033109664917,108.224235534668&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/255x180/2023/03/02/20230302140653-9066.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Diệp Ny">
+     Diệp Ny
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/629eba57415bdfa6" tracking-id="user-listing-ldp">
+      Xem thêm 34 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=36239221">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-nha-mat-pho-phuong-hoa-cuong-bac" title="Bán nhà mặt phố phường Hòa Cường Bắc" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán nhà mặt phố phường Hòa Cường Bắc
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-nha-mat-pho-phuong-hoa-cuong-bac-hai-chau" title="Bán nhà mặt phố phường Hòa Cường Bắc Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán nhà mặt phố phường Hòa Cường Bắc Hải Châu
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    14/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    24/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    36239221
+   </span>
+  </div>
+ </div>
+</div>

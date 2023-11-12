@@ -1,0 +1,681 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="32253965" uid="1955895">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Bán nhà 2 mặt tiền đường ngay Sông Hàn, 3.5 tầng trung tâm TP Đà Nẵng, giá rẻ
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Trương Quốc Dung, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    10,85 tỷ
+   </span>
+   <span class="ext">
+    ~75,33 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    144 m²
+   </span>
+   <span class="ext">
+    Mặt tiền 6 m
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    3 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":32253965,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2022/01/20/20220120172114-e31f_wm.jpg","vipType":0,"title":"Bán nhà 2 mặt tiền đường ngay Sông Hàn, 3.5 tầng trung tâm TP Đà Nẵng, giá rẻ","titleHiddenMobile":"Bán nhà 2 mặt tiền đường ngay Sông Hàn, 3.5 tầng trung tâm TP Đà Nẵng, giá rẻ","url":"https://batdongsan.com.vn/ban-nha-mat-pho-duong-truong-quoc-dung-phuong-nai-hien-dong/ban-2-tien-ngay-song-han-trung-tam-tp-da-nang-gia-re-pr32253965","productIdPrefix":"32253965$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-nha-mat-pho-duong-truong-quoc-dung-phuong-nai-hien-dong/ban-2-tien-ngay-song-han-trung-tam-tp-da-nang-gia-re-pr32253965&amp;t=Bán nhà 2 mặt tiền đường ngay Sông Hàn, 3.5 tầng trung tâm TP Đà Nẵng, giá rẻ" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-nha-mat-pho-duong-truong-quoc-dung-phuong-nai-hien-dong/ban-2-tien-ngay-song-han-trung-tam-tp-da-nang-gia-re-pr32253965" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=32253965">
+   Một căn nhà 2 mặt tiền đường, ngay Sông Hàn, 3,5 tầng trung tâm Đà Nẵng, giá rẻ.
+   <br/>
+   Nằm ngay trung tâm Đà Nẵng, sở hữu vị trí đắc địa ngay Sông Hàn cách cầu Sông Hàn 1km.
+   <br/>
+   Vị trí trung tâm các tiện đầy đủ như: Ngay sông bãi đậu xe cho cư dân, công viên, bến du thuyền, trường học các cấp, bệnh viện, cơ quan nhà nước, bãi tắm, trung tâm thương mại,...
+   <br/>
+   Diện tích: 6*24m, thổ cư 100%.
+   <br/>
+   Diện tích xây dựng: 495m².
+   <br/>
+   Số tầng 3 tầng.
+   <br/>
+   Thời gian sử dụng: Lâu dài.
+   <br/>
+   Hai mặt tiền đường: 17,5m và 24m.
+   <br/>
+   Mua lời ngay vì: Giá rẻ hơn thị trường - khu dân cư đông đúc - sổ đỏ có sẵn công chứng ngay.
+   <br/>
+   Liên hệ ngay:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="7301071c0d5db334b9d33534a094c7c7" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=32253965">
+    0842 800 ***
+   </span>
+   để hỗ trợ tư vấn và đi xem nhà thực tế.
+   <br/>
+   P/s: Cảm ơn anh chị đã đọc bài.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      144 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      10,85 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-home">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mặt tiền
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      6 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-road">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Đường vào
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      24 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đông - Nam
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-private-house">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng ban công
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đông - Nam
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3 tầng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ có sẵn.
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Hoàn thiện mặt ngoài, bàn giao phần thô phía trong.
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.verbabfb824.msvbds.pricing-insight.min.css" rel="stylesheet"/>
+ <div class="re__section pd-pricing-insight js__pricing-insight--info lazyload" data-func='new FrontEnd.Product.Details.PricingInsightLazyload({"SimilarProduct":null,"ProductLocation":null,"AreaDisplay":null,"AreaDisplayExtention":null,"PriceDisplay":null,"PriceDisplayExtention":null,"DoneTitle":null,"IsExpiredSixMonths":false,"ExpirationType":0,"IsExpired":false,"IsSponsoredListing":false,"VipTypeDisplay":null,"VipBeginDate":null,"CategoryDisplay":null,"NoteText":null,"TopBankLink":null,"FullImageUrls":null,"List360Images":null,"Project":null,"MainEnterprise":null,"EnterpriseLogo":null,"EnterpriseLogoUrl":null,"ProductCountByUser":0,"OtherListingCountByUser":-1,"Tags":null,"TagsScope":null,"TagCategory":null,"EncryptedUserId":null,"RawUrlOrigin":null,"RawUrl":null,"Direction":0,"OriginTitle":null,"IsFavorated":false,"FullUrl":null,"IsHomeEN":false,"Images":null,"CaptionImgs":null,"Is360":false,"IsImage":false,"IsAddon":false,"AvatarInfo":null,"AvatarInfoWap":null,"LastUpTime":null,"LastUpDateTime":"0001-01-01T00:00:00","TitleClass":null,"PriceSort":0.0,"AreaSort":0.0,"Area":null,"AddressList":null,"TitleExtented":null,"IsExtented":true,"PricingInsight":null,"ListPricingInsightExtented":null,"PricingHistoryModel":null,"PricingHistoryCheckDisplay":null,"StrPricingInsightExtented":null,"IsType":false,"BrokerInfo":null,"AgentProfileLink":null,"NewTitleClass":"vip-normal","IsForLand":false,"IsForRent":false,"DistanceValue":0,"CategoryIdsAsStringLeadgen":null,"CityCodeLeadgen":null,"DistrictIdsAsStringLeadgen":null,"PriceAsStrLeadgen":null,"Fullname":null,"Mobile":null,"Note":null,"MarkedProductInfoAsJson":"{\"productId\":32253965,\"avatarinfowap\":null,\"vipType\":0,\"title\":null,\"titleHiddenMobile\":null,\"url\":null,\"productIdPrefix\":\"32253965$\"}","ProductId":32253965,"Title":null,"Description":null,"ShortDescription":null,"ProductAlias":null,"VipOrder":0,"IsVideo":null,"Is3DScan":null,"VideoUrl":null,"VideoId":null,"CreateDate":"0001-01-01T00:00:00","CreateByUser":0,"UpdateByUser":null,"LastUpdate":null,"PublishDate":null,"HideDate":null,"ComputedPrice":null,"MapStatus":null,"Status":0,"BasicInfo":null,"ContactInfo":null,"OtherInfo":null,"VipInfo":null,"MatterPort":null,"ProductTag":null,"Category":null,"SimilarProducts":null,"CateId":163,"ProjectId":0,"DistrictId":49,"StreetId":0,"WardId":266,"CityCode":"DDN","ProductType":38,"IsUnpublished":false,"ProjectInfo":null,"ProjectNetInfo":null,"StreetInfo":null,"WardInfo":null,"DistrictInfo":null,"CityInfo":null,"CateInfo":null,"IsDisplay":false,"SourceNews":null,"SupportUser":null,"AssignToUser":null,"AssignByUser":null,"ProductFavorited":null,"StartDate":"0001-01-01T00:00:00","EndDate":"0001-01-01T00:00:00","VipType":0,"DisplayedVipType":5,"IsPreview":false,"ConvertedPrice":null,"IsVerified":false,"IndividualAvatar":null,"IndividualGender":null,"UserAvatar":null,"UserType":null,"ListingType":null,"IsDiamondDuplicate":false,"AgentProfile":null,"TitleHiddenMobile":null,"DescriptionHiddenMobile":null})' data-prefix="~" data-price="75.33" data-script="https://staticfile.batdongsan.com.vn/js/Product/Binnova/Details/filestatic.verbabfb824.msvbds.FrontEnd.Product.Details.PricingInsight.min.js" data-url="/Product/ProductDetail/GetPricingInsight" tracking-id="ldp-listing-pricing-insight">
+  <h3 class="re__section-title">
+   Khoảng giá phổ biến
+   <span class="re__icon-info-circle--sm pricing-insight--info js__pricing-insight--info">
+    <span class="pricing-insight--note">
+     Thông tin được tổng hợp bởi Batdongsan.com.vn trong vòng 3 tháng gần nhất
+    </span>
+   </span>
+  </h3>
+  <div class="pricing-insight--sub-title js__pricing-insight--sub-title">
+  </div>
+  <div class="pd-pricing-insight--border">
+   <div class="pd-pricing-insight--content">
+    <div class="pricing-content-row-label">
+     <div class="pricing-avg-min pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg pricing-content-row">
+      <div class="pricing-content--r1">
+       Giá phổ biến nhất
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg-max pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+    <div class="bg-pricing">
+    </div>
+    <div class="bg-pricing-avg">
+    </div>
+    <div class="pricing-avg-min pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+        Giá phổ biến nhất
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg-max pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-product">
+     <div class="pricing-content">
+      <div class="pricing-content--r1">
+       Tin đang xem
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.verbabfb824.msvbds.pricing-extent.min.css" rel="stylesheet"/>
+  <div class="re__clear-box">
+  </div>
+  <div class="re__pricing-insight-extented">
+   <div class="pricing-insight-row pricing-insight-title">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <strong>
+      So sánh giá khu vực lân cận
+     </strong>
+     <br/>
+     <span>
+      Trong Quận Sơn Trà
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <strong>
+      Giá bán phổ biến nhất
+     </strong>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+    </div>
+   </div>
+   <div class="pricing-insight-row pricing-insight-row-view">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-nai-hien-dong" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=1">
+      Phường Nại Hiên Đông
+     </a>
+     <span class="labled-text-small">
+      Đang xem
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      66
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-nai-hien-dong" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=1">
+      <span class="labled-text-small">
+       13 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-man-thai" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=2">
+      Phường Mân Thái
+     </a>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      66
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-man-thai" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=2">
+      <span class="labled-text-small">
+       14 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-tho-quang" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=3">
+      Phường Thọ Quang
+     </a>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      82
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-tho-quang" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=3">
+      <span class="labled-text-small">
+       14 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-an-hai-dong" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=4">
+      Phường An Hải Đông
+     </a>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      126
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-an-hai-dong" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=4">
+      <span class="labled-text-small">
+       18 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-an-hai-bac" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=5">
+      Phường  An Hải Bắc
+     </a>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      152
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-an-hai-bac" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=5">
+      <span class="labled-text-small">
+       49 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt no-border">
+   </div>
+   <div class="pricing-insight-row pricing-insight-row-hide">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-an-hai-tay" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=6">
+      Phường An Hải Tây
+     </a>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      153
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-an-hai-tay" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=6">
+      <span class="labled-text-small">
+       15 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt pricing-insight-row-bt-hide">
+   </div>
+   <div class="pricing-insight-row pricing-insight-row-hide">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-phuoc-my" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=7">
+      Phường Phước Mỹ
+     </a>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      298
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-phuoc-my" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=7">
+      <span class="labled-text-small">
+       69 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt pricing-insight-row-bt-hide">
+   </div>
+  </div>
+  <div class="re__pricing-insight-extented-bottom">
+   <a class="re__btn re__btn-pr-ghost--sm re__btn-icon-right--sm view-less js__pricing-insight-ex-view-less" href="javascript:void(0)" rel="nofollow" style="">
+    <span>
+     Thu gọn
+    </span>
+    <i class="re__icon-chevron-up--sm">
+    </i>
+   </a>
+   <a class="re__btn re__btn-pr-ghost--sm re__btn-icon-right--sm js__pricing-insight-ex-view-more" href="javascript:void(0)" rel="nofollow" tracking-id="click_see_more_price_nearby_projects">
+    <span>
+     Xem thêm
+    </span>
+    <i class="re__icon-chevron-down--sm">
+    </i>
+   </a>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0939432338186,108.225201755542&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/255x180/2022/08/04/20220804095018-9c71.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Nguyễn Anh Đài">
+     Nguyễn Anh Đài
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/6a90cc4b27fff90b" tracking-id="user-listing-ldp">
+      Xem thêm 38 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=32253965">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-phuong-nai-hien-dong" title="Nhà mặt phố Nại Hiên Đông " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Nại Hiên Đông
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-duong-truong-quoc-dung-45" title="Nhà mặt phố Trương Quốc Dung " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Trương Quốc Dung
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-da-nang/3pn" title="Nhà mặt phố Đà Nẵng 3 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Đà Nẵng 3 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-duong-nai-hien-dong-49" title="Nhà mặt phố Nại Hiên Đông Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Nại Hiên Đông Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-duong-tran-hung-dao-49" title="Nhà mặt phố Trần Hưng Đạo Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Trần Hưng Đạo Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-phuong-tho-quang" title="Nhà mặt phố Thọ Quang Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Thọ Quang Sơn Trà
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    02/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    12/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    32253965
+   </span>
+  </div>
+ </div>
+</div>

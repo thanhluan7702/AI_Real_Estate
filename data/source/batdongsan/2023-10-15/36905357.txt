@@ -1,0 +1,331 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="36905357" uid="739364">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cho thuê Shophouse Khối đế The Ori giá từ 3,5tr - 15tr/tháng full nội thất: Lh:
+  <span class="hidden-mobile m-on-title" raw="8e612a28f69f016be9d741e2b8ed191f">
+   0965 192 ***
+  </span>
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án The Ori Garden, Đường Mê Linh, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    11 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    67,7 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":36905357,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/04/04/20230404074214-0e48_wm.jpeg","vipType":0,"title":"Cho thuê Shophouse Khối đế The Ori giá từ 3,5tr - 15tr/tháng full nội thất: Lh: &lt;span class=\"hidden-mobile m-on-title\" raw=\"8e612a28f69f016be9d741e2b8ed191f\"&gt;0965 192 ***&lt;/span&gt;","titleHiddenMobile":"Cho thuê Shophouse Khối đế The Ori giá từ 3,5tr - 15tr/tháng full nội thất: Lh: &lt;span class=\"hidden-mobile m-on-title\" raw=\"8e612a28f69f016be9d741e2b8ed191f\"&gt;0965 192 ***&lt;/span&gt;","url":"https://batdongsan.com.vn/cho-thue-shophouse-nha-pho-thuong-mai-duong-me-linh-phuong-hoa-hiep-nam-prj-the-ori-garden/cho-can-ho-va-khoi-de-gia-tu-3-5tr-15tr-thang-full-noi-that-lh-0965192772-pr36905357","productIdPrefix":"36905357$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-shophouse-nha-pho-thuong-mai-duong-me-linh-phuong-hoa-hiep-nam-prj-the-ori-garden/cho-can-ho-va-khoi-de-gia-tu-3-5tr-15tr-thang-full-noi-that-lh-0965192772-pr36905357&amp;t=Cho thuê Shophouse Khối đế The Ori giá từ 3,5tr - 15tr/tháng full nội thất: Lh: 0965 192 ***" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-shophouse-nha-pho-thuong-mai-duong-me-linh-phuong-hoa-hiep-nam-prj-the-ori-garden/cho-can-ho-va-khoi-de-gia-tu-3-5tr-15tr-thang-full-noi-that-lh-0965192772-pr36905357" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=36905357">
+   Với quần thể 10 toà cao 21 tầng - số lượng căn hộ lên đến 3000 căn hộ. Thì mô hình thuê Shophouse kinh doanh luôn được ưu chuộng.
+   <br/>
+   Tiềm xin cập nhật một vài căn Shophouse vị trí đẹp, kinh doanh tốt cho AC có nhu cầu: Căn hộ từ 3,5 triệu - 4 triệu/tháng.
+   <br/>
+   1. Căn CT1 - CH 01 - xx, diện tích thông thuỷ: 67.7m² - ngang: 6.4m.
+   <br/>
+   - View nội khu.
+   <br/>
+   - Đối diện bể bơi.
+   <br/>
+   - Giá cho thuê: 11 triệu/tháng (có bớt).
+   <br/>
+   2. Căn CT2 - CH01 - xx, diện tích thông thuỷ: 67.8m² - ngang: 6.4m.
+   <br/>
+   - Mặt tiền đường 7.5m trục chính dự án.
+   <br/>
+   - Giá cho thuê: 11 triệu/tháng (có bớt).
+   <br/>
+   3. Căn góc siêu đẹp:
+   <br/>
+   - Căn CT3 - CH01 - xx, diện tích thông thuỷ: 83.8m², mặt tiền 8.3 và 9.2m.
+   <br/>
+   - View nội khu.
+   <br/>
+   - Đối diện khu vui chơi trẻ em, cạnh công viên bên Shophouse.
+   <br/>
+   - Giá cho thuê: 14tr/tháng (có bớt).
+   <br/>
+   4. Căn CT4 - CH01 - xx, diện tích thông thuỷ: 68.3m² - ngang: 6.1m.
+   <br/>
+   - View nội khu - đối diện khu vui chơi trẻ em.
+   <br/>
+   - Giá cho thuê: 11 triệu/tháng (có bớt).
+   <br/>
+   5. Căn view ngoại khu 7.5 triệu.
+   <br/>
+   Với số lượng dân cư ước chừng gần 6.000 người - Tiềm năng kinh doanh rất lớn.
+   <br/>
+   LH:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="8e612a28f69f016be9d741e2b8ed191f" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=36905357">
+    0965 192 ***
+   </span>
+   Chiến.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      67,7 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      11 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-cho-thue-the-ori-garden" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 20 tin đăng cho thuê
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-nha-o-xa-hoi-lien-chieu-ddn/the-ori-garden-pj5370" target="_blank">
+      <img alt="The Ori Garden" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2021/08/22/20210822223733-adf7.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       The Ori Garden
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Khởi công tháng 4/2021" class="re__prj-card-config-value" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Khởi công tháng 4/2021
+       </span>
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="Giá 31,4 - 68 triệu/tháng" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-money--sm">
+       </i>
+       31,4 - 68 triệu/tháng
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="3358 căn hộ" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-home--sm">
+       </i>
+       3.358
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="10 tòa nhà" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-building--sm">
+       </i>
+       10
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Công ty Cổ phần Đầu tư Sài Gòn - Đà Nẵng" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Công ty Cổ phần Đầu tư Sài Gòn - Đà Nẵng
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.09237289428711,108.1265869140625&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2022/03/04/20220304203413-7728_wm.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Nguyễn Văn Chiến">
+     Nguyễn Văn Chiến
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/c52f8b376e9232a6" tracking-id="user-listing-ldp">
+      Xem thêm 1 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=36905357">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-shophouse-nha-pho-thuong-mai-du-an-the-ori-garden" title="Cho thuê shophouse nhà phố thương mại dự án The Ori Garden" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê shophouse nhà phố thương mại dự án The Ori Garden
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-shophouse-nha-pho-thuong-mai-the-ori-garden-lien-chieu" title="Cho thuê shophouse nhà phố thương mại The Ori Garden Liên Chiểu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê shophouse nhà phố thương mại The Ori Garden Liên Chiểu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-shophouse-nha-pho-thuong-mai-the-ori-garden" title="Cho thuê shophouse nhà phố thương mại The Ori Garden" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê shophouse nhà phố thương mại The Ori Garden
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    10/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    20/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    36905357
+   </span>
+  </div>
+ </div>
+</div>

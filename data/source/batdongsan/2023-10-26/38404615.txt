@@ -1,0 +1,295 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38404615" uid="2549375">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Sang nhượng nhà hàng muối tiêu Đường 2/9, Đà Nẵng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường 2/9, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    68 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    600 m²
+   </span>
+   <span class="ext">
+    3 tầng
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38404615,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/10/26/20231026095548-fa4c_wm.jpg","vipType":0,"title":"Sang nhượng nhà hàng muối tiêu Đường 2/9, Đà Nẵng","titleHiddenMobile":"Sang nhượng nhà hàng muối tiêu Đường 2/9, Đà Nẵng","url":"https://batdongsan.com.vn/cho-thue-sang-nhuong-cua-hang-ki-ot-duong-2-9-1-phuong-hoa-cuong-bac/-nha-muoi-tieu-2-9-da-nang-pr38404615","productIdPrefix":"38404615$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-sang-nhuong-cua-hang-ki-ot-duong-2-9-1-phuong-hoa-cuong-bac/-nha-muoi-tieu-2-9-da-nang-pr38404615&amp;t=Sang nhượng nhà hàng muối tiêu Đường 2/9, Đà Nẵng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-sang-nhuong-cua-hang-ki-ot-duong-2-9-1-phuong-hoa-cuong-bac/-nha-muoi-tieu-2-9-da-nang-pr38404615" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38404615">
+   Chính chủ định cư nước ngoài cần sang nhượng Nhà Hàng kết hợp quán nhậu với concept Garden", mặt tiền đường 2/9, chuyển nhượng lại toàn bộ quán, vào chỉ việc bán.
+   <br/>
+   <br/>
+   Diện tích 600m², gồm 3 tầng, có 3 phòng VIP, 1 phòng bếp, 1 phòng kho, mỗi tầng có khu WC nam nữ riêng biệt.
+   <br/>
+   ---
+   <br/>
+   Quán vẫn đang hoạt động tốt, có thương hiệu, lượng khách quen, doanh thu ổn định.
+   <br/>
+   - Chuyển nhượng lại tất cả từ phần mềm quản lý.
+   <br/>
+   - Đã có một lượng lớn khách quen thuộc.
+   <br/>
+   - Địa điểm gần công viên APEC &amp; Cầu Rồng, nằm trên trục đường chính, gần trung tâm và trường học, trục ngân hàng tài chính và cao ốc văn phòng, dân cư đông đúc.
+   <br/>
+   Nhà Hàng có 3 phòng VIP (Thiết kế sang trọng): 2 phòng 30m² (20 người), 1 phòng 50m²(40 người) hệ thống karaoke chuẩn từng phòng.
+   <br/>
+   <br/>
+   - Có Fanpage gần 3.5k lượt theo dõi, lượng booking page khá tốt.
+   <br/>
+   - Hệ thống âm thanh loa khu vực ngoài trời, màn hình led, máy chiếu.
+   <br/>
+   - Hệ thống bếp mới chuyên nghiệp và hiện đại.
+   <br/>
+   - Giá thuê đất 68tr/tháng (hợp đồng 5 năm, thanh toán 1 tháng / lần.
+   <br/>
+   <br/>
+   Để lại hết toàn bộ: Hê thống cơ sở vật chất bàn ghế, tủ đông, tủ mát, kệ inox lớn nhỏ, hệ thống bếp (khò, ga, bếp từ, lò vi sóng, hệ thống hút mùi... ), Hệ thống máy chiếu 200inch,; Hệ thống giải trí Loa và đèn chiếu trung tâm, Hệ thống máy tính điều khiển trung tâm, hệ thống camera kiểm soát, Hệ thống máy chấm công, máy in bill, phần mềm quản lý tính tiền, máy POD.
+   <br/>
+   <br/>
+   * Nằm ở vị trí trung tâm, mặt tiền đường 2/9, Tuyến đường chính xe lưu thông nhiều, mặt đường to, vỉa hè rộng. Có bãi để xe riêng.
+   <br/>
+   Không cần set up gì cả, chỉ cần vào kinh doanh.
+   <br/>
+   <br/>
+   Liên hệ:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="fe7f5f198fc548a6a9fe778207b2466a" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=38404615">
+    0932 596 ***
+   </span>
+   Ms Trân).
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      600 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      68 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3 tầng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Hợp đồng mua bán
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="2">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0792406,108.2149453&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   P
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Nhật Trân Phạm">
+     Nhật Trân Phạm
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38404615">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-sang-nhuong-cua-hang-ki-ot-phuong-hoa-cuong-bac" title="Cửa hàng Hòa Cường Bắc Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cửa hàng Hòa Cường Bắc Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-sang-nhuong-cua-hang-ki-ot-duong-2-9-1-46" title="Cửa hàng 2 9 Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cửa hàng 2 9 Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-sang-nhuong-cua-hang-ki-ot-hai-chau-ddn" title="Cửa hàng Hải Châu Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cửa hàng Hải Châu Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-sang-nhuong-cua-hang-ki-ot-da-nang" title="Cửa hàng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cửa hàng Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    26/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    05/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38404615
+   </span>
+  </div>
+ </div>
+</div>

@@ -1,0 +1,460 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38230324" uid="282554">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Chính chủ bán gấp villa 330m2 giá công khai 12,4 tỷ ngay sân golf BRG Đà Nẵng, có sổ LH:
+  <span class="hidden-mobile m-on-title" raw="cc0036d41b6754b98071d0abb3f00fe4">
+   0905 235 ***
+  </span>
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án The Point, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    12,4 tỷ
+   </span>
+   <span class="ext">
+    ~37,58 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    330 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    4 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38230324,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/10/03/20231003094738-7dd7_wm.jpg","vipType":0,"title":"Chính chủ bán gấp villa 330m2 giá công khai 12,4 tỷ ngay sân golf BRG Đà Nẵng, có sổ LH: &lt;span class=\"hidden-mobile m-on-title\" raw=\"cc0036d41b6754b98071d0abb3f00fe4\"&gt;0905 235 ***&lt;/span&gt;","titleHiddenMobile":"Chính chủ bán gấp villa 330m2 giá công khai 12,4 tỷ ngay sân golf BRG Đà Nẵng, có sổ LH: &lt;span class=\"hidden-mobile m-on-title\" raw=\"cc0036d41b6754b98071d0abb3f00fe4\"&gt;0905 235 ***&lt;/span&gt;","url":"https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hai-prj-the-point/chinh-chu-ban-gap-villa-330m-gia-cong-khai-13-5-ty-ngay-san-golf-brg-da-nang-co-so-lh-pr38230324","productIdPrefix":"38230324$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hai-prj-the-point/chinh-chu-ban-gap-villa-330m-gia-cong-khai-13-5-ty-ngay-san-golf-brg-da-nang-co-so-lh-pr38230324&amp;t=Chính chủ bán gấp villa 330m2 giá công khai 12,4 tỷ ngay sân golf BRG Đà Nẵng, có sổ LH: 0905 235 ***" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hai-prj-the-point/chinh-chu-ban-gap-villa-330m-gia-cong-khai-13-5-ty-ngay-san-golf-brg-da-nang-co-so-lh-pr38230324" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38230324">
+   Tôi phải bán căn biệt thự tâm huyết của mình, tôi đã rất chăm chút từng chi tiết từ bên ngoài đến nội thất. Căn villas này có 330m đất, có hồ bơi, khu vực BBQ, vườn tiểu cảnh, sân thượng... Nội thất nhập khẩu 100% bố trí hợp lí đầy đủ công năng. Có thể khai thác vận hành cho thuê.
+   <br/>
+   ------------------------
+   <br/>
+   Chi tiết căn villa:
+   <br/>
+   - Diện tích đất: 330m². (15x23).
+   <br/>
+   - Diện tích sử dụng: 529m².
+   <br/>
+   - Nhà 3 tầng, có thể thiết kế 4PN, 5WC, hồ bơi, garage, thang máy, sân vườn, ban công rộng rãi.
+   <br/>
+   - Có quản lý, an ninh 24/7.
+   <br/>
+   - Tình trạng, đã xây dựng hoàn thiện full nội thất.
+   <br/>
+   - Được sở hữu lâu dài, cách biển 700m.
+   <br/>
+   Điểm nổi trội căn nhà:
+   <br/>
+   - Tiện ích nội khu cao cấp: Siêu thị nhập khẩu cao cấp, nhà hàng châu Âu, khu sáng tạo trẻ em, yoga, gym, sân thể thao (tennis, bóng chuyền, cầu lông) công viên trẻ em ngoài trời, nhạc nước.
+   <br/>
+   - Các vật liệu hoàn thiện cao cấp, bảo hành 10 - 30 năm.
+   <br/>
+   - Thiết kế nhà cực sang trọng, không gian mở nên tất cả các phòng sinh hoạt trong nhà đều có view 3 chiều nhìn ra không gian thiên nhiên tuyệt đẹp bên ngoài.
+   <br/>
+   - Xung quanh nhiều cây xanh và diện tích mặt nước, nên không khí rất trong lành, nơi ở nghỉ dưỡng lý tưởng.
+   <br/>
+   - Cách bãi biển Mỹ Khê chỉ 12 phút, liền kề KĐT FPT, gần chuỗi resort lớn trên đường biển Võ Nguyên Giáp như: Furama, Ocean, Sheraton, Naman Retreat,...
+   <br/>
+   - Thiết kế 3 tầng, mật độ xây dựng căn villa 60% kết hợp sân vườn cây xanh, bể tiểu cảnh phong thủy, garage 2 ô tô, bể bơi vô cực Panorama riêng.
+   <br/>
+   - Toàn bộ tường ốp đá Marble Oman của ý, sử dụng kính hai lớp cách âm - nhiệt của Schuco Đức, giúp tận dụng tầm nhìn tối đa ra không gian view kênh sinh thái, sông Cổ Cò - sân golf xung quanh.
+   <br/>
+   * Liên hệ tôi
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="cc0036d41b6754b98071d0abb3f00fe4" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38230324">
+    0905 235 ***
+   </span>
+   trao đổi trực tiếp, không làm việc qua môi giới, xin cảm ơn.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      330 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      12,4 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      4 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      5 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-ban-the-point" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 20 tin đăng bán
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-khac-ngu-hanh-son-ddn/the-point-pj1985" target="_blank">
+      <img alt="The Point" class="lazyload" src="https://file1.batdongsan.com.vn/crop320x320.466708.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       The Point
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Đang cập nhật tiến độ" class="re__prj-card-config-value re__wrap-long-text" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Đang cập nhật tiến độ
+       </span>
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Tập đoàn VinaCapital" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Tập đoàn VinaCapital
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.vereda6bdec.msvbds.pricing-insight.min.css" rel="stylesheet"/>
+ <div class="re__section pd-pricing-insight js__pricing-insight--info lazyload" data-func='new FrontEnd.Product.Details.PricingInsightLazyload({"SimilarProduct":null,"ProductLocation":null,"AreaDisplay":null,"AreaDisplayExtention":null,"PriceDisplay":null,"PriceDisplayExtention":null,"DoneTitle":null,"IsExpiredSixMonths":false,"ExpirationType":0,"IsExpired":false,"IsSponsoredListing":false,"VipTypeDisplay":null,"VipBeginDate":null,"CategoryDisplay":null,"NoteText":null,"TopBankLink":null,"FullImageUrls":null,"List360Images":null,"Project":null,"MainEnterprise":null,"EnterpriseLogo":null,"EnterpriseLogoUrl":null,"ProductCountByUser":0,"OtherListingCountByUser":-1,"Tags":null,"TagsScope":null,"TagCategory":null,"EncryptedUserId":null,"RawUrlOrigin":null,"RawUrl":null,"Direction":0,"OriginTitle":null,"IsFavorated":false,"FullUrl":null,"IsHomeEN":false,"Images":null,"CaptionImgs":null,"Is360":false,"IsImage":false,"IsAddon":false,"AvatarInfo":null,"AvatarInfoWap":null,"LastUpTime":null,"LastUpDateTime":"0001-01-01T00:00:00","TitleClass":null,"PriceSort":0.0,"AreaSort":0.0,"Area":null,"AddressList":null,"TitleExtented":null,"IsExtented":false,"PricingInsight":null,"ListPricingInsightExtented":null,"PricingHistoryModel":null,"PricingHistoryCheckDisplay":null,"StrPricingInsightExtented":null,"IsType":false,"BrokerInfo":null,"AgentProfileLink":null,"NewTitleClass":"vip-normal","IsForLand":false,"IsForRent":false,"DistanceValue":0,"CategoryIdsAsStringLeadgen":null,"CityCodeLeadgen":null,"DistrictIdsAsStringLeadgen":null,"PriceAsStrLeadgen":null,"Fullname":null,"Mobile":null,"Note":null,"MarkedProductInfoAsJson":"{\"productId\":38230324,\"avatarinfowap\":null,\"vipType\":0,\"title\":null,\"titleHiddenMobile\":null,\"url\":null,\"productIdPrefix\":\"38230324$\"}","ProductId":38230324,"Title":null,"Description":null,"ShortDescription":null,"ProductAlias":null,"VipOrder":0,"IsVideo":null,"Is3DScan":null,"VideoUrl":null,"VideoId":null,"CreateDate":"0001-01-01T00:00:00","CreateByUser":0,"UpdateByUser":null,"LastUpdate":null,"PublishDate":null,"HideDate":null,"ComputedPrice":null,"MapStatus":null,"Status":0,"BasicInfo":null,"ContactInfo":null,"OtherInfo":null,"VipInfo":null,"MatterPort":null,"ProductTag":null,"Category":null,"SimilarProducts":null,"CateId":325,"ProjectId":1985,"DistrictId":48,"StreetId":0,"WardId":271,"CityCode":"DDN","ProductType":38,"IsUnpublished":false,"ProjectInfo":null,"ProjectNetInfo":null,"StreetInfo":null,"WardInfo":null,"DistrictInfo":null,"CityInfo":null,"CateInfo":null,"IsDisplay":false,"SourceNews":null,"SupportUser":null,"AssignToUser":null,"AssignByUser":null,"ProductFavorited":null,"StartDate":"0001-01-01T00:00:00","EndDate":"0001-01-01T00:00:00","VipType":0,"DisplayedVipType":5,"IsPreview":false,"ConvertedPrice":null,"IsVerified":false,"IndividualAvatar":null,"IndividualGender":null,"UserAvatar":null,"UserType":null,"ListingType":null,"IsDiamondDuplicate":false,"AgentProfile":null,"TitleHiddenMobile":null,"DescriptionHiddenMobile":null})' data-prefix="~" data-price="37.58" data-script="https://staticfile.batdongsan.com.vn/js/Product/Binnova/Details/filestatic.vereda6bdec.msvbds.FrontEnd.Product.Details.PricingInsight.min.js" data-url="/Product/ProductDetail/GetPricingInsight" tracking-id="ldp-listing-pricing-insight">
+  <h3 class="re__section-title">
+   Khoảng giá phổ biến
+   <span class="re__icon-info-circle--sm pricing-insight--info js__pricing-insight--info">
+    <span class="pricing-insight--note">
+     Thông tin được tổng hợp bởi Batdongsan.com.vn trong vòng 3 tháng gần nhất
+    </span>
+   </span>
+  </h3>
+  <div class="pricing-insight--sub-title js__pricing-insight--sub-title">
+  </div>
+  <div class="pd-pricing-insight--border">
+   <div class="pd-pricing-insight--content">
+    <div class="pricing-content-row-label">
+     <div class="pricing-avg-min pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg pricing-content-row">
+      <div class="pricing-content--r1">
+       Giá phổ biến nhất
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg-max pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+    <div class="bg-pricing">
+    </div>
+    <div class="bg-pricing-avg">
+    </div>
+    <div class="pricing-avg-min pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+        Giá phổ biến nhất
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg-max pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-product">
+     <div class="pricing-content">
+      <div class="pricing-content--r1">
+       Tin đang xem
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=15.9786577224731,108.27596282959&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2023/10/04/20231004120035-b5f7.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Nguyễn Hữu Hùng">
+     Nguyễn Hữu Hùng
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/bf79e95cdfa2497a" tracking-id="user-listing-ldp">
+      Xem thêm 6 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38230324">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-biet-thu-lien-ke-the-point/dt-tu-300m2-den-500m2" title="Biệt thự The Point từ 300 m2 đến 500 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự The Point từ 300 m2 đến 500 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-biet-thu-lien-ke-phuong-hoa-hai" title="Biệt thự Hòa Hải Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự Hòa Hải Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-biet-thu-lien-ke-ngu-hanh-son-ddn" title="Biệt thự Ngũ Hành Sơn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự Ngũ Hành Sơn Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-biet-thu-lien-ke-da-nang/4pn" title="Biệt thự Đà Nẵng 4 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự Đà Nẵng 4 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-biet-thu-lien-ke-da-nang/gia-tu-10-ty-den-20-ty" title="Biệt thự Đà Nẵng từ 10 tỉ đến 20 tỉ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự Đà Nẵng từ 10 tỉ đến 20 tỉ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-resort-da-nang" title="Bán resort Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán resort Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    03/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    13/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38230324
+   </span>
+  </div>
+ </div>
+</div>

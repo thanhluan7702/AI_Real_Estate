@@ -1,0 +1,247 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38016546" uid="2159430">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Tổng hợp các VP cho thuê trống nguyên sàn, diện tích từ 150m2 trở lên
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Trần Văn Dư, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    220 nghìn/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    100 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38016546,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/08/30/20230830155833-54f6_wm.jpg","vipType":0,"title":"Tổng hợp các VP cho thuê trống nguyên sàn, diện tích từ 150m2 trở lên","titleHiddenMobile":"Tổng hợp các VP cho thuê trống nguyên sàn, diện tích từ 150m2 trở lên","url":"https://batdongsan.com.vn/cho-thue-van-phong-duong-tran-van-du-phuong-my-an/tong-hop-cac-vp-cho-trong-nguyen-san-dien-tich-tu-150m2-tro-len-pr38016546","productIdPrefix":"38016546$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-van-phong-duong-tran-van-du-phuong-my-an/tong-hop-cac-vp-cho-trong-nguyen-san-dien-tich-tu-150m2-tro-len-pr38016546&amp;t=Tổng hợp các VP cho thuê trống nguyên sàn, diện tích từ 150m2 trở lên" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-van-phong-duong-tran-van-du-phuong-my-an/tong-hop-cac-vp-cho-trong-nguyen-san-dien-tich-tu-150m2-tro-len-pr38016546" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38016546">
+   VP đường Lê Duẩn.
+   <br/>
+   Trống: Tầng 3, 4 - 460m²/sàn 163,000vnđ/m²/th (chưa VAT).
+   <br/>
+   Tuyến đường sầm uất, bàn giao nguyên sàn gạch men, cấu trúc tòa chuyên nghiệp.
+   <br/>
+   <br/>
+   VP đường Đống Đa.
+   <br/>
+   Trống: 450m² (tầng 3).
+   <br/>
+   Gia: 177,000vnd/m² (chưa VAT).
+   <br/>
+   Setup sẵn bàn ghế, có thang máy, tòa nhà lớn đẹp, không gian yên tĩnh, thoáng mát, ánh sáng tự nhiên, bãi xe rộng rãi.
+   <br/>
+   <br/>
+   VP đường Trần Văn Dư.
+   <br/>
+   Diện tích cho thuê: 100m² (trống tầng 3) Giá cho thuê: 220,000vnđ/ m²/ th (chưa VAT).
+   <br/>
+   Sàn mới, lắp sẵn gạch men, trần. Hệ thống đèn điện, điều hòa đảm bảo, khu vực yên tĩnh, an ninh cao.
+   <br/>
+   <br/>
+   VP đường Lý Thường Kiệt.
+   <br/>
+   Trống: 2300m² (tầng 3) 280,000vnd/m² (chưa VAT).
+   <br/>
+   Thiết kế hiện đại, bàn giao sàn trần cơ bản, cơ sở hạ tầng tối ưu, khu vực đông đúc, chất lượng dịch vụ và an ninh tòa đảm bảo.
+   <br/>
+   <br/>
+   VP đường Nguyễn Văn Linh.
+   <br/>
+   Trống: Hơn 550m²(tầng 8) 363,000vnd/m² (chưa VAT).
+   <br/>
+   Bàn giao sàn thô, sẵn cửa kính, chỗ để xe rộng rãi, thang máy đảm bảo công năng.
+   <br/>
+   <br/>
+   Cảm ơn bạn đã đọc tin.
+   <br/>
+   Liên hệ tôi để được cung cấp các thông tin văn phòng cho thuê phù hợp với mọi nhu cầu!
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      100 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      220 nghìn/m²
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0416287,108.2453128&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   D
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Thúy Dung">
+     Thúy Dung
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/52c802de49e1805c" tracking-id="user-listing-ldp">
+      Xem thêm 8 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38016546">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-my-an" title="Văn phòng Mỹ An Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Mỹ An Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-duong-tran-van-du-48" title="Văn phòng Trần Văn Dư Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Trần Văn Dư Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-ngu-hanh-son-ddn" title="Văn phòng Ngũ Hành Sơn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Ngũ Hành Sơn Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-da-nang" title="Văn phòng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    10/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    20/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38016546
+   </span>
+  </div>
+ </div>
+</div>

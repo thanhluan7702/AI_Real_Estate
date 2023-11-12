@@ -1,0 +1,252 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38159699" uid="2159430">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Tham khảo list tòa nhà văn phòng nguyên tòa mới 100% đa tiện ích
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Phố Phan Đăng Lưu, Phường Khuê Trung, Cẩm Lệ, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    96 nghìn/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    2.600 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38159699,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/09/22/20230922110451-0f55_wm.jpg","vipType":0,"title":"Tham khảo list tòa nhà văn phòng nguyên tòa mới 100% đa tiện ích","titleHiddenMobile":"Tham khảo list tòa nhà văn phòng nguyên tòa mới 100% đa tiện ích","url":"https://batdongsan.com.vn/cho-thue-van-phong-pho-phan-dang-luu-phuong-khue-trung/tham-khao-list-toa-nha-nguyen-toa-moi-100-da-tien-ich-pr38159699","productIdPrefix":"38159699$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-van-phong-pho-phan-dang-luu-phuong-khue-trung/tham-khao-list-toa-nha-nguyen-toa-moi-100-da-tien-ich-pr38159699&amp;t=Tham khảo list tòa nhà văn phòng nguyên tòa mới 100% đa tiện ích" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-van-phong-pho-phan-dang-luu-phuong-khue-trung/tham-khao-list-toa-nha-nguyen-toa-moi-100-da-tien-ich-pr38159699" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38159699">
+   VP đường Phan Đăng Lưu.
+   <br/>
+   Tổng DT: 2600m² - kết cấu 9 tầng nổi và 1 tầng hầm (tầng 1 - 4 là văn phòng tầng 5 trở lên là căn hộ).
+   <br/>
+   Giá: 96,000vnd/m²/tháng.
+   <br/>
+   Ưu điểm: Tòa thiết kế hiện đại, lắp kính xung quanh, đảm bảo ánh sáng, thu hút tầm nhìn Chất lượng dịch vụ tốt, đảm bảo an ninh Tầng hầm đỗ xe thoáng Trang thiết bị, công năng đầy đủ, hệ thống đèn điện, nước, điều hòa, thang máy di chuyển..
+   <br/>
+   <br/>
+   VP đường Giang Châu.
+   <br/>
+   Tổng dt cho thuê: 1100m² - kết cấu 7 tầng.
+   <br/>
+   Giá: Từ 161.000vnd/m²/ tháng.
+   <br/>
+   Ưu điểm: Tòa nhà đón gió, ánh sáng tự nhiên. Cơ sở hạ tầng tốt, sẵn các trang thiết bị nội thất cơ bản. Nằm tại vị trí dọc bờ sông, tuyến đường lớn, giao thông đi lại dễ dàng, gần các điểm trung tâm của thành phố. Tòa nhà thu hút được tầm nhìn, có view cao.
+   <br/>
+   <br/>
+   VP đường 29/3.
+   <br/>
+   Diện tích: 163m² - 237m²/sàn (Tổng diện tích: Hơn 1200m²).
+   <br/>
+   Giá: 207,000vnd/m²/tháng.
+   <br/>
+   Ưu điểm: Đầy đủ dịch vụ chuyên nghiệp: Bảo vệ 24/7, hệ thống an ninh, camera, thang máy, PCCC, điều hòa trung tâm, nguồn điện dự phòng. Tòa nhà 2 mặt tiền nằm ở tuyến đường lớn thuận tiện di chuyển, không gian thoáng mát, yên tĩnh, chỗ để xe máy và xe ô tô rộng rãi.
+   <br/>
+   <br/>
+   VP đường Phan Đăng Lưu.
+   <br/>
+   Tổng dt cho thuê hơn 2200m² (Tầng trệt 265.5m²; các tầng khác - 292m²/tầng; tầng 8 - 266m²).
+   <br/>
+   Giá: Từ 230.000vnd/m²/tháng.
+   <br/>
+   Ưu điểm: Giao thông thuận lợi. Gần sân bay Đà Nẵng. Tòa thiết kế hiện đại, đảm bảo ánh sáng, thu hút tầm nhìn. Trang thiết bị, công năng đầy đủ, có hệ thống đèn điện, nước, điều hòa, thang máy.
+   <br/>
+   <br/>
+   VP đường Nguyễn Tri Phương.
+   <br/>
+   Tổng dt cho thuê: 1855m² - Kết cấu 8 tầng (tầng trệt 125m², tầng 2 - 200m², tầng 3 đến tầng 7 - 240m²/tầng, tầng 8 - 330m²).
+   <br/>
+   Giá: Từ 252,000 đ/m²/tháng.
+   <br/>
+   Ưu điểm: Nằm ở vị trí lô góc đường Nguyễn Tri Phương, gần sân bay, bệnh viện, chợ, trường học,... Tòa nhà thiết kế không gian mở, sàn trống suốt, diện tích rộng, thích hợp mở văn phòng, công ty.
+   <br/>
+   <br/>
+   VP đường Nguyễn Chí Thanh.
+   <br/>
+   Diện tích sàn: 250m²/ sàn - 8 tầng nổi, 1 tầng hầm, 1 tầng tum.
+   <br/>
+   Giá: Thương lượng.
+   <br/>
+   Ưu điểm: Đầy đủ các hệ thống công năng nguyên căn hiện đại, tiện nghi. An ninh cao. Tầng hầm đỗ xe rộng rãi. Không gian thoáng, sàn trống dễ dàng sắp xếp theo nhu cầu. Giao thông thuận tiện di chuyển.
+   <br/>
+   <br/>
+   Tỷ giá 23,000vnd.
+   <br/>
+   <br/>
+   Thông tin đến quý khách hàng.
+   <br/>
+   Vui lòng liên hệ tôi để được tư vấn cụ thể thêm các mẫu văn phòng phù hợp với nhu cầu của bạn!
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2.600 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      96 nghìn/m²
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0359071,108.2131678&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   D
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Thúy Dung">
+     Thúy Dung
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/52c802de49e1805c" tracking-id="user-listing-ldp">
+      Xem thêm 8 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38159699">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-lo-goc-da-nang" title="Thuê lô góc Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê lô góc Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    10/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    20/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38159699
+   </span>
+  </div>
+ </div>
+</div>

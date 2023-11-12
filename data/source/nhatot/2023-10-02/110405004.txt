@@ -1,0 +1,714 @@
+<div class="row base">
+ <div class="Styles_googleDfpAdViewTop__DsrUF text-center">
+  <div>
+   <div data-google-query-id="CPuV9IO31oEDFbDhFgUdlxcBaA" id="rgpt-80" style="display: none;">
+    <div id="google_ads_iframe_/325540922/oneweb_des_top_adview_728x90_970x90_9__container__" style="border: 0pt none; width: 728px; height: 0px;">
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="row" style="width: 100%; overflow: auto; display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
+  <div class="col-sm-12">
+   <div>
+    <div class="BreadCrumb_wrapperOverflow__Iycpy">
+     <ol class="BreadCrumb_breadcrumb__zGT1y" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+      <li class="BreadCrumb_breadcrumbItem__M8Q4i BreadCrumb_link__KeNbI" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+       <meta content="1" itemprop="position"/>
+       <a href="https://www.nhatot.com" itemprop="item">
+        <span itemprop="name">
+         Nhà Tốt
+        </span>
+       </a>
+      </li>
+      <li class="BreadCrumb_breadcrumbItem__M8Q4i BreadCrumb_link__KeNbI" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+       <meta content="2" itemprop="position"/>
+       <a href="https://www.nhatot.com/thue-can-ho-chung-cu" itemprop="item">
+        <span itemprop="name">
+         Thuê Căn hộ Chung cư
+        </span>
+       </a>
+      </li>
+      <li class="BreadCrumb_breadcrumbItem__M8Q4i BreadCrumb_link__KeNbI" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+       <meta content="3" itemprop="position"/>
+       <a href="https://www.nhatot.com/thue-can-ho-chung-cu-da-nang" itemprop="item">
+        <span itemprop="name">
+         Thuê Căn hộ Chung cư Đà Nẵng
+        </span>
+       </a>
+      </li>
+      <li class="BreadCrumb_breadcrumbItem__M8Q4i BreadCrumb_link__KeNbI" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+       <meta content="4" itemprop="position"/>
+       <a href="https://www.nhatot.com/thue-can-ho-chung-cu-quan-cam-le-da-nang" itemprop="item">
+        <span itemprop="name">
+         Thuê Căn hộ Chung cư Quận Cẩm Lệ
+        </span>
+       </a>
+      </li>
+      <li class="BreadCrumb_breadcrumbItem__M8Q4i" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+       <span itemprop="name" style="color: rgb(34, 34, 34);">
+        Căn hộ Gần Đại học Duy Tân - Ở tối đa 3 người - Giá 6,5 Triệu
+       </span>
+       <meta content="5" itemprop="position"/>
+      </li>
+     </ol>
+     <i aria-label="Prev" class="BreadCrumb_iconPrev__2wAMN false" role="button" tabindex="0">
+     </i>
+     <i aria-label="Next" class="BreadCrumb_iconNext__r0oRt BreadCrumb_iconNextActive__wem8y" role="button" tabindex="0">
+     </i>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div style="margin: 10px 0px;">
+  <div>
+  </div>
+ </div>
+ <div class="col-md-8">
+  <div class="DetailView_adviewCointainer__rdzwn">
+   <div>
+    <div class="AdImage_adImageWrapper__HkN6D" style='background-image: url("https://static.chotot.com/storage/logo/svg/chotot-logo-text.svg"); background-position: center center; background-repeat: no-repeat; background-color: rgb(238, 238, 238); background-size: 50%;'>
+     <div id="adview-carousel-placeholder" style="display: none; position: absolute; overflow: scroll; width: 100%; max-height: 450px;">
+      <img alt="https://cdn.chotot.com/R1K4UIqDgfrglKOts6YRPEQnBpIOnzPEkJiy008iO8w/preset:view/plain/aeeb14bd966416747edc270d3803c422-2845619732687715509.jpg" height="auto" src="https://cdn.chotot.com/R1K4UIqDgfrglKOts6YRPEQnBpIOnzPEkJiy008iO8w/preset:view/plain/aeeb14bd966416747edc270d3803c422-2845619732687715509.jpg" style="object-fit: contain;" width="100%"/>
+      <img alt="https://cdn.chotot.com/l3RVKtV9kKye40EXHrOWj-B677EF_QgDnfddJSeo3gA/preset:view/plain/e9c4aa8873477c352c4b7a318b5523db-2845619732741013356.jpg" height="auto" src="https://cdn.chotot.com/l3RVKtV9kKye40EXHrOWj-B677EF_QgDnfddJSeo3gA/preset:view/plain/e9c4aa8873477c352c4b7a318b5523db-2845619732741013356.jpg" style="object-fit: contain;" width="100%"/>
+      <img alt="https://cdn.chotot.com/sdyYiZBpjjwdT9K2KHi80o632Y3WxmAvTZoPyMF53mc/preset:view/plain/e18f9c7aca8baf1c76413c011876ab8a-2845619719969777332.jpg" height="auto" src="https://cdn.chotot.com/sdyYiZBpjjwdT9K2KHi80o632Y3WxmAvTZoPyMF53mc/preset:view/plain/e18f9c7aca8baf1c76413c011876ab8a-2845619719969777332.jpg" style="object-fit: contain;" width="100%"/>
+      <img alt="https://cdn.chotot.com/wQppsnzOGWu2AXastJCvaJibhi9gEwALiAA3m1ZvSIg/preset:view/plain/7feea2f77e08244315f5a439bf20255e-2845619734051895169.jpg" height="auto" src="https://cdn.chotot.com/wQppsnzOGWu2AXastJCvaJibhi9gEwALiAA3m1ZvSIg/preset:view/plain/7feea2f77e08244315f5a439bf20255e-2845619734051895169.jpg" style="object-fit: contain;" width="100%"/>
+      <img alt="https://cdn.chotot.com/3oYfv9JDCB11KharLQtzeyQlXe6ERbjesdtg22XhkKI/preset:view/plain/91dd02f314f52c8d5ce826b766da1c69-2845619732887897845.jpg" height="auto" src="https://cdn.chotot.com/3oYfv9JDCB11KharLQtzeyQlXe6ERbjesdtg22XhkKI/preset:view/plain/91dd02f314f52c8d5ce826b766da1c69-2845619732887897845.jpg" style="object-fit: contain;" width="100%"/>
+      <img alt="https://cdn.chotot.com/eWaanYh9v1AlNneEAT6yNDwZbZiIhmri-w4deVlwygE/preset:view/plain/2c472cf6aba87e3e7f67cc352ca1036a-2845619731826979824.jpg" height="auto" src="https://cdn.chotot.com/eWaanYh9v1AlNneEAT6yNDwZbZiIhmri-w4deVlwygE/preset:view/plain/2c472cf6aba87e3e7f67cc352ca1036a-2845619731826979824.jpg" style="object-fit: contain;" width="100%"/>
+      <img alt="https://cdn.chotot.com/Sj_FfGD1r3wdfxn1ggnvIkqmre_o9sVAkUBoWdYpNM8/preset:view/plain/e3cb3f208a7922bb3a195f0f6072f5eb-2845619732150298292.jpg" height="auto" src="https://cdn.chotot.com/Sj_FfGD1r3wdfxn1ggnvIkqmre_o9sVAkUBoWdYpNM8/preset:view/plain/e3cb3f208a7922bb3a195f0f6072f5eb-2845619732150298292.jpg" style="object-fit: contain;" width="100%"/>
+      <img alt="https://cdn.chotot.com/a1mp-Yd9PY36vsdN7yh35Zt2ZAZ7lclxXVxHXV2FQRw/preset:view/plain/2639bed6ae1db47f4c8d87244ab1e98c-2845619733548571649.jpg" height="auto" src="https://cdn.chotot.com/a1mp-Yd9PY36vsdN7yh35Zt2ZAZ7lclxXVxHXV2FQRw/preset:view/plain/2639bed6ae1db47f4c8d87244ab1e98c-2845619733548571649.jpg" style="object-fit: contain;" width="100%"/>
+      <img alt="https://cdn.chotot.com/JOO8ReWWQiEE5WL5nYOXPoOpwIYGVffipu69Zl5776s/preset:view/plain/916e8ba29d9ddb6cec94dcf3dc78a2ed-2845619727335106228.jpg" height="auto" src="https://cdn.chotot.com/JOO8ReWWQiEE5WL5nYOXPoOpwIYGVffipu69Zl5776s/preset:view/plain/916e8ba29d9ddb6cec94dcf3dc78a2ed-2845619727335106228.jpg" style="object-fit: contain;" width="100%"/>
+      <img alt="https://cdn.chotot.com/aNU6CRYYj3Kt573cNaDH8cnty3Iv6IJ_9QuD1rMz4xQ/preset:view/plain/d4a62d30dae7938d1071b662d9f1358f-2845619732635815564.jpg" height="auto" src="https://cdn.chotot.com/aNU6CRYYj3Kt573cNaDH8cnty3Iv6IJ_9QuD1rMz4xQ/preset:view/plain/d4a62d30dae7938d1071b662d9f1358f-2845619732635815564.jpg" style="object-fit: contain;" width="100%"/>
+      <img alt="https://cdn.chotot.com/MwJxhE_XRNBVxzMaTWP5NkcZ-qd2xGYecDZ0buHK-QI/preset:view/plain/a5bcfacea7b76827e369b3c89ea25bc3-2845619730204556469.jpg" height="auto" src="https://cdn.chotot.com/MwJxhE_XRNBVxzMaTWP5NkcZ-qd2xGYecDZ0buHK-QI/preset:view/plain/a5bcfacea7b76827e369b3c89ea25bc3-2845619730204556469.jpg" style="object-fit: contain;" width="100%"/>
+     </div>
+     <div>
+      <div class="AdImage_galleryPreview__RGawb" style="position: relative;">
+       <div class="AdImage_sliderImage__ddiFA">
+        <div class="AdImage_sliderWrapper___jIpt">
+         <div class="AdImage_imageWrapper__j1z2m">
+          <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+           <img alt="Căn hộ Gần Đại học Duy Tân - Ở tối đa 3 người - Giá 6,5 Triệu" data-nimg="fill" decoding="async" role="presentation" src="https://cdn.chotot.com/R1K4UIqDgfrglKOts6YRPEQnBpIOnzPEkJiy008iO8w/preset:view/plain/aeeb14bd966416747edc270d3803c422-2845619732687715509.jpg" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+          </span>
+         </div>
+        </div>
+       </div>
+       <span class="AdImage_imgPosition__PIaiL">
+        1 / 12
+       </span>
+      </div>
+      <div class="AdImage_gallerySlider__QeuHQ">
+       <div class="slick-slider sc-1nl301i-0 iCcejU AdImage_imageSlider__ICkDC slick-initialized" dir="ltr">
+        <button aria-label="Prev" class="AdImage_button__ho9Jx AdImage_Prev__ciQdk AdImage_buttonGallery__if1rz" tabindex="0" type="button">
+         <i>
+         </i>
+        </button>
+        <div class="slick-list">
+         <div class="slick-track" style="width: 1464px; opacity: 1; transform: translate3d(0px, 0px, 0px);">
+          <div aria-hidden="false" class="slick-slide slick-active slick-current" data-index="0" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_ AdImage_sliderItemActive__BnbtB" data-index="0" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Căn hộ Gần Đại học Duy Tân - Ở tối đa 3 người - Giá 6,5 Triệu" data-nimg="fill" decoding="async" role="presentation" src="https://cdn.chotot.com/R1K4UIqDgfrglKOts6YRPEQnBpIOnzPEkJiy008iO8w/preset:view/plain/aeeb14bd966416747edc270d3803c422-2845619732687715509.jpg" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div aria-hidden="false" class="slick-slide slick-active" data-index="1" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_" data-index="1" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Căn hộ Gần Đại học Duy Tân - Ở tối đa 3 người - Giá 6,5 Triệu" data-nimg="fill" decoding="async" role="presentation" src="https://cdn.chotot.com/l3RVKtV9kKye40EXHrOWj-B677EF_QgDnfddJSeo3gA/preset:view/plain/e9c4aa8873477c352c4b7a318b5523db-2845619732741013356.jpg" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+              <noscript>
+              </noscript>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div aria-hidden="false" class="slick-slide slick-active" data-index="2" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_" data-index="2" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Căn hộ Gần Đại học Duy Tân - Ở tối đa 3 người - Giá 6,5 Triệu" data-nimg="fill" decoding="async" role="presentation" src="https://cdn.chotot.com/sdyYiZBpjjwdT9K2KHi80o632Y3WxmAvTZoPyMF53mc/preset:view/plain/e18f9c7aca8baf1c76413c011876ab8a-2845619719969777332.jpg" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+              <noscript>
+              </noscript>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div aria-hidden="false" class="slick-slide slick-active" data-index="3" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_" data-index="3" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Căn hộ Gần Đại học Duy Tân - Ở tối đa 3 người - Giá 6,5 Triệu" data-nimg="fill" decoding="async" role="presentation" src="https://cdn.chotot.com/wQppsnzOGWu2AXastJCvaJibhi9gEwALiAA3m1ZvSIg/preset:view/plain/7feea2f77e08244315f5a439bf20255e-2845619734051895169.jpg" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+              <noscript>
+              </noscript>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div aria-hidden="false" class="slick-slide slick-active" data-index="4" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_" data-index="4" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Căn hộ Gần Đại học Duy Tân - Ở tối đa 3 người - Giá 6,5 Triệu" data-nimg="fill" decoding="async" role="presentation" src="https://cdn.chotot.com/3oYfv9JDCB11KharLQtzeyQlXe6ERbjesdtg22XhkKI/preset:view/plain/91dd02f314f52c8d5ce826b766da1c69-2845619732887897845.jpg" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+              <noscript>
+              </noscript>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div aria-hidden="true" class="slick-slide" data-index="5" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_" data-index="5" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Căn hộ Gần Đại học Duy Tân - Ở tối đa 3 người - Giá 6,5 Triệu" data-nimg="fill" decoding="async" role="presentation" src="https://cdn.chotot.com/eWaanYh9v1AlNneEAT6yNDwZbZiIhmri-w4deVlwygE/preset:view/plain/2c472cf6aba87e3e7f67cc352ca1036a-2845619731826979824.jpg" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+              <noscript>
+              </noscript>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div aria-hidden="true" class="slick-slide" data-index="6" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_" data-index="6" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Căn hộ Gần Đại học Duy Tân - Ở tối đa 3 người - Giá 6,5 Triệu" data-nimg="fill" decoding="async" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+              <noscript>
+              </noscript>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div aria-hidden="true" class="slick-slide" data-index="7" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_" data-index="7" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Căn hộ Gần Đại học Duy Tân - Ở tối đa 3 người - Giá 6,5 Triệu" data-nimg="fill" decoding="async" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+              <noscript>
+              </noscript>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div aria-hidden="true" class="slick-slide" data-index="8" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_" data-index="8" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Căn hộ Gần Đại học Duy Tân - Ở tối đa 3 người - Giá 6,5 Triệu" data-nimg="fill" decoding="async" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+              <noscript>
+              </noscript>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div aria-hidden="true" class="slick-slide" data-index="9" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_" data-index="9" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Căn hộ Gần Đại học Duy Tân - Ở tối đa 3 người - Giá 6,5 Triệu" data-nimg="fill" decoding="async" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+              <noscript>
+              </noscript>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div aria-hidden="true" class="slick-slide" data-index="10" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_" data-index="10" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Căn hộ Gần Đại học Duy Tân - Ở tối đa 3 người - Giá 6,5 Triệu" data-nimg="fill" decoding="async" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+              <noscript>
+              </noscript>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div aria-hidden="true" class="slick-slide" data-index="11" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_" data-index="11" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Căn hộ Gần Đại học Duy Tân - Ở tối đa 3 người - Giá 6,5 Triệu" data-nimg="fill" decoding="async" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+              <noscript>
+              </noscript>
+             </span>
+             <div class="AdImage_sliderCtaOverlay__3LSxM">
+              <div class="AdImage_sliderCtaOverlayWrapper__6CQ9Q">
+               <img alt="" src="https://static.chotot.com/storage/chotot-icons/svg/adview-cta-button.svg"/>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <button aria-label="Next" class="AdImage_button__ho9Jx AdImage_Next__TX7EW AdImage_buttonGallery__if1rz" tabindex="0" type="button">
+         <i>
+         </i>
+        </button>
+       </div>
+      </div>
+     </div>
+     <div class="AdImage_imageCaption__aUFNp">
+      <span class="AdImage_imageCaptionText__ScM56">
+       Tin môi giới đăng 15 giờ trước
+      </span>
+     </div>
+    </div>
+   </div>
+   <div class="DetailView_adviewPtyItem__V_sof">
+    <div class="AdDecriptionVeh_adDecriptionWrapper__bleBW">
+     <h1 class="AdDecriptionVeh_adTitle__vEuKD" itemprop="name">
+      Căn hộ Gần Đại học Duy Tân - Ở tối đa 3 người - Giá 6,5 Triệu
+     </h1>
+     <div class="AdDecriptionVeh_priceWrapper__y7Aj6">
+      <meta content="1" itemprop="position"/>
+      <div class="AdDecriptionVeh_adPrice__UTqQV" itemprop="price">
+       <span>
+        <div>
+         <span class="AdDecriptionVeh_priceWrapper__y7Aj6 AdDecriptionVeh_priceWrapperVeh__mBdrn">
+          <span class="AdDecriptionVeh_price__u_N83">
+           <span itemprop="price">
+            6,5 triệu/tháng
+            <span class="AdDecriptionVeh_squareMetre__eG8lb">
+             - 45 m
+             <sup>
+              2
+             </sup>
+            </span>
+           </span>
+           <span itemprop="priceCurrency" style="display: none;">
+            đ
+           </span>
+          </span>
+          <div class="AdDecriptionVeh_actionWrapper__ijwfS AdDecriptionVeh_actionWrapperVeh__qvMzX">
+           <div class="sc-i36vn2-1 gEmCbl">
+            <button type="button">
+            </button>
+            <button aria-expanded="false" aria-haspopup="true" class="styles_btnShareSocial__ARzC2" id="share_social_btn" type="button">
+             <img alt="share icon" src="https://static.chotot.com/storage/icons/svg/share-new.svg"/>
+             <span style="font-size: 12px;">
+              <!--sse-->
+              Chia sẻ
+              <!--/sse-->
+             </span>
+            </button>
+            <div aria-labelledby="share_social_btn" class="sc-i36vn2-0 ieIOfc" style="position: absolute; top: 0px; left: 0px; opacity: 0; pointer-events: none;">
+             <div style="margin-bottom: 10px;">
+              <span>
+               Chia sẻ qua:
+              </span>
+              <a class="sc-htpNat emcEhg">
+               <img alt="facebook" height="40" loading="lazy" src="https://static.chotot.com/storage/chotot-icons/svg/circle-facebook.svg" width="40"/>
+              </a>
+              <a class="sc-htpNat emcEhg">
+               <img alt="messenger" height="40" loading="lazy" src="https://static.chotot.com/storage/chotot-icons/svg/circle-messenger.svg" width="40"/>
+              </a>
+              <span class="sc-ifAKCX eGJmLz">
+               <a class="sc-htpNat emcEhg">
+                <img alt="copy" height="40" loading="lazy" src="https://static.chotot.com/storage/chotot-icons/svg/circle-copylink.svg" width="40"/>
+               </a>
+              </span>
+             </div>
+            </div>
+           </div>
+           <div class="SaveAd_saveAdWrapper___sBMh AdDecriptionVeh_saveAd__HXlG9">
+            <button class="SaveAd_btnSavedAd__jwoYd SaveAd_btnSavedAdVeh__IbhEh" id="btn_save_ad" type="button">
+             <img alt="like" height="20" loading="lazy" src="https://static.chotot.com/storage/icons/saveAd/save-ad.svg" width="20"/>
+             <span>
+              Lưu tin
+             </span>
+            </button>
+           </div>
+          </div>
+         </span>
+         <div class="AdDecriptionVeh_date__SpYR1">
+          <div class="col-xs-12 no-padding">
+           <div class="media margin-top-05" style="display: flex; align-items: start;">
+            <div class="media-left media-middle">
+             <img alt="location" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/location.svg"/>
+            </div>
+            <div class="media-body media-middle AdParam_address__5wp1F AdParam_addressClickable__coDWA" role="button" tabindex="0">
+             <span class="fz13">
+              Phan Đăng Lưu, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng
+              <span class="AdParam_addressClickableLoadMap__FLeKT" role="button" tabindex="0">
+               Xem bản đồ
+               <img alt="see project" src="https://static.chotot.com/storage/default_images/project/rightIcon.svg"/>
+              </span>
+             </span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="AdDecriptionVeh_date__SpYR1">
+          <img alt="location" src="https://static.chotot.com/storage/icons/svg/order_timer.svg" width="20px"/>
+          <span>
+           Đăng 15 giờ trước
+          </span>
+         </div>
+         <div class="AdDecriptionVeh_date__SpYR1">
+         </div>
+         <div class="AdDecriptionVeh_date__SpYR1">
+          <img alt="location" height="20px" src="https://static.chotot.com/storage/icons/svg/shield.svg" width="20px"/>
+          <span>
+           Tin đã được kiểm duyệt.
+          </span>
+          <a class="AdDecriptionVeh_link__t_Y_n" href="https://trogiup.chotot.com/nguoi-ban/tai-sao-chotot-vn-duyet-tin-truoc-khi-dang/" rel="noreferrer nofollow" style="margin-left: 8px;" target="_blank">
+           Tìm hiểu thêm
+          </a>
+         </div>
+        </div>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="DetailView_adviewPtyItem__V_sof">
+    <div class="AdParam_adParamTitle__bU__w">
+     Đặc điểm bất động sản
+    </div>
+    <div class="AdParam_adParamContainerVeh__Vz4Zt">
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/ad_type.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="ad_type">
+          Cho thuê
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Diện tích" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/size.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Diện tích:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="size">
+          45 m²
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Số phòng ngủ" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/rooms.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Số phòng ngủ:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="rooms">
+          1 phòng
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Số phòng vệ sinh" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/toilets.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Số phòng vệ sinh:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="toilets">
+          1 phòng
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Loại hình căn hộ" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/apartment_type.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Loại hình căn hộ:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="apartment_type">
+          Căn hộ dịch vụ, mini
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="DetailView_adviewPtyItem__V_sof">
+    <div class="d-lg-block styles_adBodyExpand__7S0HS">
+     <div class="styles_adBodyTitle__JrqDu">
+      Mô tả chi tiết
+     </div>
+     <p class="styles_adBody__vGW74" itemprop="description">
+      🏤 Căn hộ  - Nội thất đầy đủ - Thoáng mát - Chỉ vào và ở thôi
+💲Giá 6,5 triệu/tháng 
+
+Với Diện tích 45m2 Bao gồm: 
+💥1 phòng ngủ, 1 toilet
+💥 Đầy đủ nội thất
+Trang bị: 
+⚡2 Giường, Tủ để đồ
+⚡Máy Lạnh, giặt treo tường
+⚡Máy Giặt, Máy sấy
+⚡Máy Nóng lạnh
+⚡Bếp từ, Bình siêu tốc, Nồi cơm điện, Tủ bếp, Chén bát
+⚡Tủ lạnh, Tivi, Bàn ăn ghế…
+
+
+Tiện ích :
+✔️Gần chợ Đầu Mối, Gần trường đại học Đông Á, Đại học Kiến trúc, Đại học Duy Tân, ✔️Đi xe ra biển 5 phút 
+✔️Wifi Free, Nước 80k/người, điện 3k8/số
+✔️Giặt máy chạy Chung, Free tiền điện
+✔️Giờ giấc tự do - Thanh toán linh hoạt
+✔️ KHÔNG Ở CHUNG CHỦ - TỰ MỞ KHOÁ BẰNG V N TAY 
+✔️ CÓ THANG MÁY - QUẸT BẰNG THẺ TỪ FREE
+✔️Căn đầy đủ tiện nghi - Giá Yêu Thương
+
+
+📩📩 Liên hệ
+     </p>
+     <div style="margin: 5px 0px 15px;">
+      <div class="false col-xs-12 no-padding">
+       <div class="InlineShowPhoneButton_wrapper__NtHmX">
+        <div class="InlineShowPhoneButton_linkContact__YEWbK InlineShowPhoneButton_phoneHidden__GJPGi">
+         <span>
+          Nhấn để hiện số: 089958 ***
+         </span>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <button class="styles_button__SVZnw" type="button">
+     Thu gọn
+     <svg class="styles_isExpanse__c8Ipj" height="18" viewBox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+      <g fill="none" fill-rule="evenodd">
+       <path d="M1.125 3L6.75 8 1.125 13" stroke="#38699F" stroke-linecap="round" stroke-width="1.5" transform="translate(1 1)">
+       </path>
+       <path d="M0 0H9V16H0z" opacity=".01" stroke="#FFF" stroke-width=".1" transform="translate(1 1)">
+       </path>
+      </g>
+     </svg>
+    </button>
+   </div>
+   <div class="DetailView_adviewPtyItem__V_sof">
+    <div>
+     <div class="col-xs-12 no-padding">
+      <div class="AdParam_adMapImage__Ysu7w">
+       <h2>
+        Địa điểm bất động sản
+       </h2>
+       <img alt="Căn hộ Gần Đại học Duy Tân - Ở tối đa 3 người - Giá 6,5 Triệu" role="button" src="https://cdn.chotot.com/admincentre/location/16x024632_108x213350_c.jpg" tabindex="0" title="Căn hộ Gần Đại học Duy Tân - Ở tối đa 3 người - Giá 6,5 Triệu"/>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="d-none">
+    <div class="Styles_reportWrapper__74GS_">
+     <div class="Styles_reportBtn__izL5E">
+      <button class="btn btn-default btn-xs Styles_reportBad__4g9zg" id="report-bad-ad-btn" type="button">
+       Báo tin không hợp lệ
+      </button>
+      <button class="btn btn-default btn-xs Styles_reportBad__4g9zg" type="button">
+       Báo tin đã bán
+      </button>
+      <a class="Styles_insertSimilarAd__DHfAJ" href="https://www.chotot.com/dang-tin?category=1010" rel="nofollow noreferrer" target="_blank">
+       Đăng nhanh - Bán gọn
+      </a>
+     </div>
+     <div class="Styles_buyerProtect__5zjc4">
+      <div class="sc-htoDjs dpMCsK">
+       <img alt="mua bán an toàn" class="sc-dnqmqq iGIZUt" src="https://static.chotot.com/storage/marketplace/shield-iconx4.png"/>
+       <div class="sc-iwsKbI ldVnoa">
+        <em>
+         Tin đăng này đã được kiểm duyệt. Nếu gặp vấn đề, vui lòng báo cáo tin đăng hoặc liên hệ CSKH để được trợ giúp.
+         <a href="http://trogiup.chotot.com/ban-hang-tai-chotot-vn/kiem-duyet-tin/tai-sao-chotot-vn-duyet-tin-truoc-khi-dang/?utm_source=chotot&amp;utm_medium=user_protection&amp;utm_campaign=user_protection_ad_view" rel="noopener" target="_blank">
+          Xem thêm ››
+         </a>
+        </em>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="col-md-4 no-padding dtView">
+  <div>
+   <div>
+   </div>
+   <div class="" style="position: fixed; top: 120px; width: 318.663px;">
+    <div class="d-lg-block d-none" style="background-color: white; padding-bottom: 10px;">
+     <div class="SellerProfile_profileWrapper__ubLwW SellerProfile_profileWrapperVeh__BVDOo" itemprop="seller" itemscope="" itemtype="http://schema.org/Person">
+      <a class="SellerProfile_sellerWrapperVeh__UFHlO" href="https://www.chotot.com/user/a4b9abb1634e83e7e396ecab8b022773#xtatc=INT-10-[Adview]" rel="nofollow" target="_blank">
+       <div role="presentation">
+        <div class="img-thumbnail img-circle Avatar_imageWrapper__6tGNZ Avatar_defaultSize__a_WTh">
+         <span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;">
+          <span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;">
+           <img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2746%27%20height=%2746%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"/>
+          </span>
+          <img class="img-circle Avatar_image__HiPeb Avatar_defaultSize__a_WTh" data-nimg="intrinsic" decoding="async" src="https://cdn.chotot.com/uac2/25491702" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+         </span>
+        </div>
+       </div>
+       <div class="SellerProfile_nameBounder__btDeS" role="button" tabindex="0">
+        <div class="SellerProfile_flexDiv__IEgQl">
+         <div class="SellerProfile_nameDivVeh__vE94K">
+          <b role="presentation" style="margin-right: 5px; font-size: 14px;">
+           FPT PLAZA HOME
+          </b>
+         </div>
+         <button class="SellerProfile_secondaryButtonPty__DN1Sa" type="button">
+          Xem trang
+          <img alt="&gt;" src="https://static.chotot.com/storage/icons/svg/next-orange.svg"/>
+         </button>
+        </div>
+        <div class="SellerProfile_statusOnlineDivVeh__kgmx4">
+         <div class="SellerProfile_shopIconWrapper__mXmWK" role="presentation">
+          <img alt="https://static.chotot.com/storage/default_images/pty/pro-pty-icon.svg" height="16px" src="https://static.chotot.com/storage/default_images/pty/pro-pty-icon.svg" width="16px"/>
+         </div>
+         Môi Giới
+        </div>
+        <div class="SellerProfile_statusOnlineDivVeh__kgmx4">
+         <div class="SellerProfile_offlineBullet__by5mZ">
+          •
+         </div>
+         Hoạt động 4 giờ trước
+        </div>
+       </div>
+      </a>
+      <div class="SellerProfile_inforWrapper__KXg71">
+      </div>
+     </div>
+    </div>
+    <div style="background-color: white;">
+     <div class="IntersectBox" style="min-height: 100px;">
+      <div class="ChatTemplate_chatTempWrapper__uAELZ">
+       <div class="ChatTemplate_titleChatTemp__IWGIA ChatTemplate_titleChatTempVeh__CcvPa">
+        Liên hệ với người bán
+        <div class="ChatTemplate_inforItem__CoFv1">
+         <div class="ChatTemplate_inforText__sbLZ7">
+          <span class="">
+           Phản hồi:
+          </span>
+          <span>
+           ---
+          </span>
+         </div>
+        </div>
+       </div>
+       <div class="ChatTemplate_templateItemWrapper__AP8xV">
+        <ul class="ChatTemplate_templateMessage__a_aks">
+         <li class="ChatTemplate_templateItem__7p1c6 ChatTemplate_templateItemVeh__rCiXd" role="menuitem">
+          Căn hộ này còn không ạ ?
+         </li>
+         <li class="ChatTemplate_templateItem__7p1c6 ChatTemplate_templateItemVeh__rCiXd" role="menuitem">
+          Thời hạn thuê tối đa là bao lâu?
+         </li>
+         <li class="ChatTemplate_templateItem__7p1c6 ChatTemplate_templateItemVeh__rCiXd" role="menuitem">
+          Thời gian thuê tối thiểu là bao lâu?
+         </li>
+         <li class="ChatTemplate_templateItem__7p1c6 ChatTemplate_templateItemVeh__rCiXd" role="menuitem">
+          Căn hộ có sẳn nội thất chưa ạ?
+         </li>
+         <li class="ChatTemplate_templateItem__7p1c6 ChatTemplate_templateItemVeh__rCiXd" role="menuitem">
+          Có thêm chi phí phát sinh gì nữa không?
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="LeadButton_wrapperLeadButtonDesktop__SVKE8" style="padding: 8px 12px;">
+       <div class="LeadButton_showPhoneButton__1BIwH LeadButton_showPhoneButtonVeh__54zfM">
+        <div class="ShowPhoneButton_wrapper__B627I">
+         <div class="ShowPhoneButton_phoneButton__p5Cvt ShowPhoneButton_phoneNotClicked__dlQn_">
+          <div class="ShowPhoneButton_flexDiv__3qpNj">
+           <span>
+            <img alt="loadingIcon" class="ShowPhoneButton_icon__wsnZ5" src="https://static.chotot.com/storage/chotot-icons/svg/white-phone.svg"/>
+            089958 ***
+           </span>
+           <span>
+            BẤM ĐỂ HIỆN SỐ
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="LeadButton_chatDesktopButton__HSQyg">
+        <a class="btn LeadButton_buttonChatDesktop__gbYM9" href="https://chat.chotot.com/chatroom/join/MjU0OTE3MDJ8MTEwNDA1MDA0" rel="nofollow">
+         <img alt="chat" src="https://static.chotot.com/storage/chotot-icons/png/chat_green.png"/>
+         <span class="text-success">
+          <span>
+           CHAT VỚI NGƯỜI BÁN
+          </span>
+         </span>
+        </a>
+       </div>
+      </div>
+      <div class="LeadButton_wrapperLeadButtonMobileVEH__qiqML">
+       <a class="btn LeadButton_buttonSupportMobile__JPIBr" id="call_phone_btn">
+        <img alt="call" src="https://static.chotot.com/storage/chotot-icons/png/call.png" width="20"/>
+        <div>
+         Gọi điện
+        </div>
+       </a>
+       <a class="btn LeadButton_buttonDefault__pB0PM LeadButton_HozDivider__x7f0d" href="https://chat.chotot.com/chatroom/join/MjU0OTE3MDJ8MTEwNDA1MDA0" id="chat_btn" rel="nofollow">
+        <img alt="chat" src="https://static.chotot.com/storage/chotot-icons/png/chat.png"/>
+        <span class="text-success">
+         Chat
+        </span>
+       </a>
+       <a class="btn LeadButton_buttonDefault__pB0PM LeadButton_HozDivider__x7f0d" id="sms_btn">
+        <img alt="sms" src="https://static.chotot.com/storage/icons/svg/secondary_sms.svg"/>
+        <span class="text-success">
+         Nhắn tin
+        </span>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="d-lg-block d-none">
+     <div class="styles_helpboxWrapper__97D4i">
+      <div class="styles_helpboxItem__oJx4l">
+       <img alt="Cần trợ giúp" src="https://storage.googleapis.com/static-chotot-com/storage/chotot-icons/svg/support.svg"/>
+       <a href="https://trogiup.chotot.com/" rel="noopener noreferrer">
+        Cần trợ giúp
+       </a>
+      </div>
+      <div class="styles_helpboxItem__oJx4l">
+       <img alt="Báo cáo tin đăng này" src="https://storage.googleapis.com/static-chotot-com/storage/chotot-icons/svg/warning_grey.svg"/>
+       <button class="styles_buttonReport__hhOIr" type="button">
+        Báo cáo tin đăng này
+       </button>
+      </div>
+     </div>
+     <div class="Styles_rightHandSiteAdView__O90bj">
+      <div>
+       <div data-google-query-id="CKW69IO31oEDFcmnlgodkoYGHA" id="rgpt-81" style="display: none;">
+        <div id="google_ads_iframe_/325540922/oneweb_des_RHS3_Adview_300x250_9__container__" style="border: 0pt none; width: 300px; height: 0px;">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

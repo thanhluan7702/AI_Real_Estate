@@ -1,0 +1,402 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38222622" uid="2399326">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Căn duy nhất thấp tầng của dự án Sun Cosmo Đà Nẵng sử dụng lâu dài
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án Sun Cosmo Residence, Đường Trần Thị Lý, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    100 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    6 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38222622,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/10/02/20231002104250-e7f1_wm.jpg","vipType":0,"title":"Căn duy nhất thấp tầng của dự án Sun Cosmo Đà Nẵng sử dụng lâu dài","titleHiddenMobile":"Căn duy nhất thấp tầng của dự án Sun Cosmo Đà Nẵng sử dụng lâu dài","url":"https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-tran-thi-ly-phuong-my-an-prj-sun-cosmo-residence/c-duy-nhat-thap-tg-cua-du-da-ng-su-dung-lau-dai-pr38222622","productIdPrefix":"38222622$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-tran-thi-ly-phuong-my-an-prj-sun-cosmo-residence/c-duy-nhat-thap-tg-cua-du-da-ng-su-dung-lau-dai-pr38222622&amp;t=Căn duy nhất thấp tầng của dự án Sun Cosmo Đà Nẵng sử dụng lâu dài" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-tran-thi-ly-phuong-my-an-prj-sun-cosmo-residence/c-duy-nhat-thap-tg-cua-du-da-ng-su-dung-lau-dai-pr38222622" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38222622">
+   Townhouse tại dự án Sun Cosmo Residence - sự lựa chọn đầu tư sáng suốt.
+   <br/>
+   The Cosmo - Sun Cosmo Residence Da Nang được quy hoạch để trở thành biểu tượng thương mại và sầm uất bậc nhất Đà thành với những căn Townhouse vừa ở, vừa kinh doanh linh hoạt:
+   <br/>
+   Vị trí trung tâm của trung tâm, liền kề các khu phố kinh doanh sầm uất bậc nhất Đà thành: Nguyễn Văn Thoại - Lý Tự Trọng - Cầu Trần Thị Lý, thừa hưởng trọn vẹn nguồn khách quốc tế cực lớn.
+   <br/>
+   Thiết kế townhouse từ 6 - 7 tầng, tối đa diện tích để đề cao tính thương mại, mang đến lợi nhuận vượt trội, kinh doanh chắc thắng.
+   <br/>
+   Bàn giao hoàn thiện cơ bản để gia chủ được tự do sáng tạo không gian, thỏa mãn mọi nhu cầu sử dụng.
+   <br/>
+   Quy hoạch đồng bộ, tạo nên điểm nhấn sôi động toàn khu phố trung tâm bên sông Hàn.
+   <br/>
+   Biên độ tăng giá ổn định từ tốc độ phát triển không ngừng của hệ thống hạ tầng giao thông, cơ sở vật chất.
+   <br/>
+   Từ định hướng trở thành Thành phố đáng sống, đáng đến, đáng đầu tư của Đà Nẵng, việc sở hữu Townhouse - Sun Cosmo Residence Da Nang chính là cơ hội cho những nhà đầu tư muốn hái quả ngọt lâu dài và bền vững tại TP sông Hàn.
+   <br/>
+   Liên hệ ngay để nhận tư vấn chi tiết và chính xác nhất về dự án từ Chủ đầu tư!
+   <br/>
+   -----------------------
+   <br/>
+   <br/>
+   Thành Phố Quốc Tế - Giao Lộ Hoàng Kim.
+   <br/>
+   Hotline:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="a79049a7bc1c65466af3a4e631ce59a5" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38222622">
+    0965 162 ***
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      100 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-home">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mặt tiền
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      6 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-road">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Đường vào
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      20 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Bắc
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-private-house">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng ban công
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Nam
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      7 tầng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      6 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      5 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Không nội thất
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-ban-sun-cosmo-residence" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 82 tin đăng bán
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-khu-phuc-hop-ngu-hanh-son-ddn/sun-cosmo-residence-pj5823" target="_blank">
+      <img alt="Sun Cosmo Residence" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2023/03/29/20230329153719-8b6a_wm.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       Sun Cosmo Residence
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: 6/2023: Đang bán khu cao tầng" class="re__prj-card-config-value re__wrap-long-text" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        6/2023: Đang bán khu cao tầng
+       </span>
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Tập đoàn Sun Group" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Tập đoàn Sun Group
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.05078125,108.23290252685547&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/255x180/2023/05/30/20230530112051-7414.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Lê Đức Anh">
+     Lê Đức Anh
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38222622">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-biet-thu-lien-ke-sun-cosmo-residence/dt-tu-80m2-den-100m2" title="Biệt thự Sun Cosmo Residence từ 80 m2 đến 100 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự Sun Cosmo Residence từ 80 m2 đến 100 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-biet-thu-lien-ke-phuong-my-an" title="Biệt thự Mỹ An Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự Mỹ An Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-biet-thu-lien-ke-duong-tran-thi-ly-48" title="Biệt thự Trần Thị Lý Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự Trần Thị Lý Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-biet-thu-lien-ke-ngu-hanh-son-ddn" title="Biệt thự Ngũ Hành Sơn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự Ngũ Hành Sơn Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-biet-thu-lien-ke-da-nang/6pn" title="Biệt thự Đà Nẵng 6 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự Đà Nẵng 6 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-biet-thu-lien-ke-duong-tran-thi-ly-prj-sun-cosmo-residence" title="Biệt thự Sun Cosmo Residence Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự Sun Cosmo Residence Ngũ Hành Sơn
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    02/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    12/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38222622
+   </span>
+  </div>
+ </div>
+</div>

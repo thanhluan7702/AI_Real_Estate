@@ -1,0 +1,240 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="37424127" uid="482492">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Văn phòng cho công ty từ 15 - 20 nhân sự, giá dưới 20 triệu - Phu Real - Tìm nhanh - Giá tốt
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Lê Đình Lý, Phường Hòa Thuận Tây, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    20 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    120 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":37424127,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/09/18/20230918104544-9ff4_wm.jpg","vipType":0,"title":"Văn phòng cho công ty từ 15 - 20 nhân sự, giá dưới 20 triệu - Phu Real - Tìm nhanh - Giá tốt","titleHiddenMobile":"Văn phòng cho công ty từ 15 - 20 nhân sự, giá dưới 20 triệu - Phu Real - Tìm nhanh - Giá tốt","url":"https://batdongsan.com.vn/cho-thue-van-phong-duong-le-dinh-ly-phuong-hoa-thuan-tay/cho-cho-cong-ty-tu-10-15-nhan-su-trung-tam-gia-duoi-20-trieu-0917-39-1717-pr37424127","productIdPrefix":"37424127$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-van-phong-duong-le-dinh-ly-phuong-hoa-thuan-tay/cho-cho-cong-ty-tu-10-15-nhan-su-trung-tam-gia-duoi-20-trieu-0917-39-1717-pr37424127&amp;t=Văn phòng cho công ty từ 15 - 20 nhân sự, giá dưới 20 triệu - Phu Real - Tìm nhanh - Giá tốt" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-van-phong-duong-le-dinh-ly-phuong-hoa-thuan-tay/cho-cho-cong-ty-tu-10-15-nhan-su-trung-tam-gia-duoi-20-trieu-0917-39-1717-pr37424127" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=37424127">
+   Phú Real hân hạnh chào các vị trí Trung tâm, tiện giới thiệu, quảng bá thương hiệu đến quý công ty.
+   <br/>
+   - Lê Đình Lý: 120m² giá 20 triệu/ tháng.
+   <br/>
+   - Lê Đình Lý: 80m² giá 15 triệu/ tháng.
+   <br/>
+   - Quang Trung: 70m² giá chỉ 12 triệu/ tháng.
+   <br/>
+   <br/>
+   Và nhiều vị trí khác...
+   <br/>
+   - Cơ Sở vật chất kiên cố, sạch sẽ,
+   <br/>
+   - Dịch vụ chuyên ngiệp, nhiệt tình với khách hàng.
+   <br/>
+   - Tiến độ thanh toán hợp lý: 3 tháng/ lần + cọc 2 tháng.
+   <br/>
+   <br/>
+   - Liên hệ
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="ce7de1a0a3fec8750aaeac78a5fc1777" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=37424127">
+    0917 391 ***
+   </span>
+   Phú Real để được hỗ trợ tìm Văn phòng nhanh nhât - giá hợp lý nhất!
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      120 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      20 triệu/tháng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0556378,108.2118336&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   D
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Phú Đinh">
+     Phú Đinh
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/4d3056ed87e91700" tracking-id="user-listing-ldp">
+      Xem thêm 5 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=37424127">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-hoa-thuan-tay" title="Văn phòng Hòa Thuận Tây " tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hòa Thuận Tây
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-duong-le-dinh-ly-45" title="Văn phòng Lê Đình Lý " tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Lê Đình Lý
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-da-nang" title="Văn phòng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-hai-chau-i" title="Văn phòng Hải Châu I Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hải Châu I Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-binh-thuan" title="Văn phòng Bình Thuận Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Bình Thuận Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-duong-quang-trung-46" title="Văn phòng Quang Trung Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Quang Trung Hải Châu
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    11/09/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    11/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    37424127
+   </span>
+  </div>
+ </div>
+</div>

@@ -1,0 +1,1990 @@
+<div class="body">
+ <div class="top-link" id="ctl00_content_top_link" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a href="/" itemprop="item">
+    <span itemprop="name">
+     Trang chủ
+    </span>
+   </a>
+   <meta content="1" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban.html" itemprop="item">
+    <span itemprop="name">
+     Cần bán
+    </span>
+   </a>
+   <meta content="2" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an.html" itemprop="item">
+    <span itemprop="name">
+     Bán đất
+    </span>
+   </a>
+   <meta content="3" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/3/da-nang.html" itemprop="item">
+    <span itemprop="name">
+     Bán đất Đà Nẵng
+    </span>
+   </a>
+   <meta content="4" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/da-nang/589/quan-cam-le.html" itemprop="item">
+    <span itemprop="name">
+     Bán đất  Cẩm Lệ
+    </span>
+   </a>
+   <meta content="5" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/phuong-hoa-xuan-quan-cam-le-px1132.html" itemprop="item">
+    <span itemprop="name">
+     Bán đất  Hòa Xuân
+    </span>
+   </a>
+   <meta content="6" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/duong-vu-thanh-nam-quan-cam-le-dp27875.html" itemprop="item">
+    <span itemprop="name">
+     Bán đất  Vũ Thành Năm
+    </span>
+   </a>
+   <meta content="7" itemprop="position"/>
+  </span>
+ </div>
+ <div class="top-line">
+ </div>
+ <div class="content plp" id="ctl00_content_pc_content">
+  <div id="left">
+   <div class="property">
+    <div class="title">
+     <h1>
+      Bán 125m2 đất Vũ Thành Năm ,Hòa Xuân view công viên giá 5 tỷ 3
+     </h1>
+     <span class="date">
+      Ngày đăng: Hôm nay
+     </span>
+    </div>
+    <div class="detail text-content">
+     - Bán đất đường Vũ Thành Năm,Hòa Xuân,Cẩm Lệ
+- Diện tích : 125m2 ( Ngang 5m x Dài 25m )
+- Hướng Bắc
+- Đường 7m5 lề 10m
+- Khu vực dân cư hiện hữu
+- Đối diện block biệt thự khang trang
+- Giá bán : 5 tỷ 3
+- Liên hệ để xem đất
+    </div>
+    <div class="moreinfor">
+     <span class="price">
+      <span class="label">
+       Giá:
+      </span>
+      <span class="value">
+       5,3 tỷ
+      </span>
+     </span>
+     <span class="square">
+      <span class="label">
+       Diện tích:
+      </span>
+      <span class="value">
+       125 m
+       <sup>
+        2
+       </sup>
+      </span>
+     </span>
+     <div class="clear">
+     </div>
+    </div>
+    <div class="address">
+     <span class="label">
+      Địa chỉ tài sản:
+     </span>
+     <span class="value">
+      Đường Vũ Thành Năm, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng
+     </span>
+    </div>
+    <div class="moreinfor1">
+     <div class="title">
+      Các thông tin khác
+     </div>
+     <div class="infor">
+      <table cellspacing="0" hspace="0" vspace="0">
+       <tbody>
+        <tr>
+         <td>
+          Mã tin
+         </td>
+         <td>
+          13270474
+         </td>
+         <td>
+          Hướng
+         </td>
+         <td>
+          Đông Bắc
+         </td>
+         <td>
+          Phòng ăn
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Loại tin
+         </td>
+         <td>
+          Cần bán
+         </td>
+         <td>
+          Đường trước nhà
+         </td>
+         <td>
+          7,5m
+         </td>
+         <td>
+          Nhà bếp
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Loại BDS
+         </td>
+         <td>
+          Đất nền, liền kề, đất dự án
+         </td>
+         <td>
+          Pháp lý
+         </td>
+         <td>
+          Sổ hồng/ Sổ đỏ
+         </td>
+         <td>
+          Sân thượng
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Chiều ngang
+         </td>
+         <td>
+          5m
+         </td>
+         <td>
+          Số lầu
+         </td>
+         <td>
+          ---
+         </td>
+         <td>
+          Chổ để xe hơi
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Chiều dài
+         </td>
+         <td>
+          25m
+         </td>
+         <td>
+          Số phòng ngủ
+         </td>
+         <td>
+          ---
+         </td>
+         <td>
+          Chính chủ
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+    </div>
+    <div class="image-tab">
+     <span class="view-image selected">
+      Hình ảnh
+     </span>
+    </div>
+    <div class="images">
+     <div class="imageview">
+      <img alt="Bán 125m2 đất Vũ Thành Năm ,Hòa Xuân view công viên giá 5 tỷ 3" id="limage" onclick="showImage(this.src)" src="/files/properties/2023/8/14/images/013270474-1004-ban-dat-nen-lien-ke-dat-du-an-da-nang-chinh-chu.jpg"/>
+     </div>
+     <div class="image-list">
+      <span>
+       <img alt="Bán 125m2 đất Vũ Thành Năm ,Hòa Xuân view công viên giá 5 tỷ 3 - 0" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/8/14/images/013270474-1004-ban-dat-nen-lien-ke-dat-du-an-da-nang-chinh-chu.jpg"/>
+      </span>
+      <span>
+       <img alt="Bán 125m2 đất Vũ Thành Năm ,Hòa Xuân view công viên giá 5 tỷ 3 - 1" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/8/14/images/113270474-1004-ban-dat-nen-lien-ke-dat-du-an-quan-cam-le.jpg"/>
+      </span>
+     </div>
+    </div>
+    <div class="utility">
+     <span class="save" tabindex="0">
+      Lưu tin
+     </span>
+    </div>
+    <input id="hddDemand" type="hidden" value="1"/>
+    <input id="hddPropertyType" type="hidden" value="12"/>
+    <input id="hddPropertyId" type="hidden" value="13270474"/>
+    <input id="hddNguoiDang" type="hidden" user="0" value="238357"/>
+    <div class="reflect-form">
+     <div class="loading">
+     </div>
+     <div class="title">
+      Phản ánh tin rao vi phạm
+     </div>
+     <div class="notice">
+      Thông tin phản ánh của Quý khách giúp chúng tôi sàn lọc thông tin tốt hơn và loại trừ các nhà môi giới không trung thực. Xin trân trọng cám ơn.
+     </div>
+     <div class="content">
+      <div class="reason">
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="1"/>
+        <span>
+         Tài sản đã bán/cho thuê
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="2"/>
+        <span>
+         Tin không có thật
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="3"/>
+        <span>
+         Nội dung không đúng với thực tế
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="4"/>
+        <span>
+         Giá không đúng
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="5"/>
+        <span>
+         Không liên lạc được
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="6"/>
+        <span>
+         Địa chỉ bất động sản không đúng
+        </span>
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="other-reason">
+       <input class="reason-item" name="reason" type="radio" value="10"/>
+       <span>
+        Lý do khác:
+       </span>
+       <br/>
+       <textarea class="txtcontent" maxlength="240" placeholder="Nội dung phản ánh"></textarea>
+      </div>
+      <div class="check-ignore">
+       <input class="chkdayignore" type="checkbox"/>
+       <b class="bdayignore">
+        Tôi không muốn xem tin của người đăng này trong vòng:
+       </b>
+       <select class="dayignore" disabled="disabled" name="dayignore" style="color:red; background:#eeeeee;">
+        <option value="0">
+         Số ngày
+        </option>
+        <option value="1">
+         1 ngày
+        </option>
+        <option value="3">
+         3 ngày
+        </option>
+        <option value="7">
+         7 ngày
+        </option>
+        <option value="14">
+         14 ngày
+        </option>
+        <option value="21">
+         21 ngày
+        </option>
+        <option value="30">
+         30 ngày
+        </option>
+        <option value="60">
+         60 ngày
+        </option>
+        <option value="90">
+         90 ngày
+        </option>
+        <option value="180">
+         180 ngày
+        </option>
+        <option value="360">
+         360 ngày
+        </option>
+       </select>
+       <i>
+        Tất cả các tin của thành viên này sẽ ẩn đi với bạn trong khoảng thời gian bạn đã chọn.
+       </i>
+      </div>
+      <div>
+       <font style="color:blue">
+        Mã an toàn
+       </font>
+       :
+       <br/>
+       <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx" width="90"/>
+       <input class="captcha" id="captcha" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+       <input class="btnSubmit" type="button" value="Gửi phản ánh"/>
+      </div>
+     </div>
+    </div>
+    <div class="tags">
+     <span>
+      Có thể bạn muốn xem:
+     </span>
+     <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/3/da-nang.html">
+      Bán đất Đà Nẵng
+     </a>
+     <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/da-nang/589/quan-cam-le.html">
+      Bán đất Quận Cẩm Lệ
+     </a>
+     <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/phuong-hoa-xuan-quan-cam-le-px1132.html">
+      Bán đất Phường Hòa Xuân
+     </a>
+     <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/duong-vu-thanh-nam-quan-cam-le-dp27875.html">
+      Bán đất Đường Vũ Thành Năm
+     </a>
+    </div>
+    <div class="notices">
+     <h3>
+      Lưu ý:
+     </h3>
+     <p>
+      Các bạn đang xem tin đăng trong mục "
+      <b>
+       Mua bán đất nền, phân lô, bán đất liền kề, đất dự án  Quận Cẩm Lệ, Đà Nẵng
+      </b>
+      ". Các thông tin rao vặt là do người đăng tin đăng tải toàn bộ thông tin. Chúng tôi hoàn toàn không chịu trách nhiệm về bất cứ thông tin nào liên qua đến các thông tin này. Chúng tôi luôn cố gắng để đưa các tin tức nhanh và chính xác nhất cho các bạn.
+     </p>
+    </div>
+   </div>
+   <!--property-->
+   <div class="randomvip-box" id="ctl00_content_random_vip_box">
+    <div class="title">
+     <h2>
+      Bất động sản nổi bật
+     </h2>
+    </div>
+    <div class="content" id="ctl00_content_randomvip">
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/ban-dat-biet-thu-ton-that-duong-ky-view-song-kep-vet-cay-xanh-hoa-xuan-13417772.html">
+        <img alt="Bán đất biệt thự Ton thất dương kỵ view sông kẹp vệt cây xanh hoà xuân" src="/files/properties/2023/9/19/thumbnails/013417772-3946-ban-dat-biet-thu-ton-that-duong-ky-view-song-kep-vet-cay-xanh-hoa-xuan.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-dat-biet-thu-ton-that-duong-ky-view-song-kep-vet-cay-xanh-hoa-xuan-13417772.html">
+         Bán đất biệt thự Ton thất dương kỵ view sông kẹp vệt cây xanh hoà xuân
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         15,3 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         300 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Cẩm Lệ
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 7m">
+        7m
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-nhanh-lo-goc-duong-do-doc-loc-hoa-xuan-163m2-13421050.html">
+        <img alt="Bán nhanh lô góc đường Đô Đốc Lộc, Hoà Xuân. 163m2" src="/files/properties/2023/9/20/thumbnails/013421050-2956-ban-nhanh-lo-goc-duong-do-doc-loc-hoa-xuan-163m2.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-nhanh-lo-goc-duong-do-doc-loc-hoa-xuan-163m2-13421050.html">
+         Bán nhanh lô góc đường Đô Đốc Lộc, Hoà Xuân. 163m2
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         8,2 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         163 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Cẩm Lệ
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 7,5m">
+        7,5m
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-dat-duong-bui-trang-chuoc-lo-kep-cong-sat-goc-le-quang-chi-13417921.html">
+        <img alt="Bán đất đường bùi trang chước lô kẹp cống sát góc lê quảng chí" src="/files/properties/2023/9/19/thumbnails/013417921-3357-ban-dat-nen-lien-ke-dat-du-an-quan-cam-le.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-dat-duong-bui-trang-chuoc-lo-kep-cong-sat-goc-le-quang-chi-13417921.html">
+         Bán đất đường bùi trang chước lô kẹp cống sát góc lê quảng chí
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         4,8 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         100 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Cẩm Lệ
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 10m">
+        10m
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/ban-dat-biet-thu-duong-bui-thien-ngo-dau-duong-250m2-huong-dong-nam-13417941.html">
+        <img alt="Bán đất biệt thự đường Bùi thiện ngộ đầu đường 250m2 hướng đông nam" src="/files/properties/2023/9/19/thumbnails/013417941-4258-ban-dat-nen-lien-ke-dat-du-an-da-nang.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-dat-biet-thu-duong-bui-thien-ngo-dau-duong-250m2-huong-dong-nam-13417941.html">
+         Bán đất biệt thự đường Bùi thiện ngộ đầu đường 250m2 hướng đông nam
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         9,2 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         250 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Cẩm Lệ
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 7m">
+        7m
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/-can-ban-dat-nguyen-phuoc-lan-dao-1-dat-dep-canh-lo-goc-ngay-nga-4-duong-thong-gia-tot-13401471.html">
+        <img alt="- Cần Bán Đất Nguyễn Phước Lan Đảo 1 - Đất Đẹp Cạnh Lô Góc Ngay Ngã 4 Đường Thông Gía Tốt" src="/files/properties/2023/9/18/thumbnails/013401471-1640-ban-dat-nen-lien-ke-dat-du-an-quan-cam-le-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/-can-ban-dat-nguyen-phuoc-lan-dao-1-dat-dep-canh-lo-goc-ngay-nga-4-duong-thong-gia-tot-13401471.html">
+         - Cần Bán Đất Nguyễn Phước Lan Đảo 1 - Đất Đẹp Cạnh Lô Góc Ngay Ngã 4 Đường Thông Gía Tốt
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         12,5 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         100 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Cẩm Lệ
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 33m">
+        33m
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-dat-duong-trung-luong-18-hoa-xuan-cam-le-moi-nhat-13421998.html">
+        <img alt="Bán đất đường trung lương 18 hoà xuân cẩm lệ Mới nhất" src="/files/properties/2023/9/20/thumbnails/013421998-4003-ban-dat-nen-lien-ke-dat-du-an-da-nang-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-dat-duong-trung-luong-18-hoa-xuan-cam-le-moi-nhat-13421998.html">
+         Bán đất đường trung lương 18 hoà xuân cẩm lệ Mới nhất
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         4,6 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         120 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Cẩm Lệ
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 7m">
+        7m
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-nhanh-lo-goc-duong-do-doc-loc-hoa-xuan-163m2-13421189.html">
+        <img alt="Bán nhanh lô góc đường Đô Đốc Lộc, Hoà Xuân. 163m2" src="/files/properties/2023/9/20/thumbnails/013421189-4619-ban-dat-nen-lien-ke-dat-du-an-da-nang-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-nhanh-lo-goc-duong-do-doc-loc-hoa-xuan-163m2-13421189.html">
+         Bán nhanh lô góc đường Đô Đốc Lộc, Hoà Xuân. 163m2
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         820 triệu
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         163 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Cẩm Lệ
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 7,5m">
+        7,5m
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/chinh-chu-gui-ban-lo-dat-duong-trung-luong-18-huong-dat-dong-bac-13407528.html">
+        <img alt="Chính chủ gửi bán lô đất đường Trung Lương 18   + Hướng đất: Đông Bắc" src="/files/properties/2023/9/17/thumbnails/013407528-5502-chinh-chu-gui-ban-lo-dat-duong-trung-luong-18-huong-dat-dong-bac.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/chinh-chu-gui-ban-lo-dat-duong-trung-luong-18-huong-dat-dong-bac-13407528.html">
+         Chính chủ gửi bán lô đất đường Trung Lương 18   + Hướng đất: Đông Bắc
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         4,5 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         120 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Cẩm Lệ
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 7,5m">
+        7,5m
+       </span>
+      </div>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <div class="relative-property">
+    <div>
+     <div class="content-header" id="ctl00_content_relative_property_title">
+      <h2>
+       Cần bán Đất nền, liền kề, đất dự án tại Quận Cẩm Lệ
+      </h2>
+     </div>
+    </div>
+    <div class="content-items" id="ctl00_content_relative_property_content">
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/can-ban-dat-duong-bui-trang-chuoc-hoa-xuan-kep-cong-le-quang-chi-13416855.html">
+         Cần bán đất đường Bùi Trang Chước, Hòa Xuân kẹp cống Lê Quãng Chí
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/can-ban-dat-duong-bui-trang-chuoc-hoa-xuan-kep-cong-le-quang-chi-13416855.html">
+        <img alt="Cần bán đất đường Bùi Trang Chước, Hòa Xuân kẹp cống Lê Quãng Chí" src="/files/properties/2023/9/19/thumbnails/013416855-2243-ban-dat-nen-lien-ke-dat-du-an-quan-cam-le-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 10m">
+         10m
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         5x20m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         100 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         Tây Nam
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         4,8 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/duong-bui-trang-chuoc-quan-cam-le-dp27259.html">
+          Đường Bùi Trang Chước
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/phuong-hoa-xuan-quan-cam-le-px1132.html">
+          Phường Hòa Xuân
+         </a>
+         , Quận Cẩm Lệ, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/ban-lo-goc-duong-10m5-bui-trang-chuoc-nguyen-thi-sau-hoa-xuan-cam-le-da-nang-13409938.html">
+         Bán lô góc đường 10m5 Bùi Trang Chước &amp; Nguyễn Thị Sáu Hòa Xuân Cẩm Lệ Đà Nẵng
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/ban-lo-goc-duong-10m5-bui-trang-chuoc-nguyen-thi-sau-hoa-xuan-cam-le-da-nang-13409938.html">
+        <img alt="Bán lô góc đường 10m5 Bùi Trang Chước &amp; Nguyễn Thị Sáu Hòa Xuân Cẩm Lệ Đà Nẵng" src="/files/properties/default.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 10m">
+         10m
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         6x20m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         119 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         Đông Bắc
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         6 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/duong-bui-trang-chuoc-quan-cam-le-dp27259.html">
+          Đường Bùi Trang Chước
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/phuong-hoa-xuan-quan-cam-le-px1132.html">
+          Phường Hòa Xuân
+         </a>
+         , Quận Cẩm Lệ, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/dat-duong-7m5-ngo-huy-dien-dao-1-hoa-xuan-quan-cam-le-tp-da-nang-13409395.html">
+         Đất đường 7m5 Ngô Huy Diễn, Đảo 1 Hoà Xuân.Quận  Cẩm Lệ . TP Đà Nẵng
+        </a>
+       </div>
+       <div class="ct_date">
+        18/09/2023
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/dat-duong-7m5-ngo-huy-dien-dao-1-hoa-xuan-quan-cam-le-tp-da-nang-13409395.html">
+        <img alt="Đất đường 7m5 Ngô Huy Diễn, Đảo 1 Hoà Xuân.Quận  Cẩm Lệ . TP Đà Nẵng" src="/files/properties/default.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 7,5m">
+         7,5m
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         5x22,5m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         112 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         5 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/duong-ngo-huy-dien-quan-cam-le-dp17398.html">
+          Đường Ngô Huy Diễn
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/phuong-hoa-xuan-quan-cam-le-px1132.html">
+          Phường Hòa Xuân
+         </a>
+         , Quận Cẩm Lệ, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/ban-dat-duong-7-5m-yen-the-da-nang-13396033.html">
+         Bán đất đường 7,5m yên thế đà nẵng
+        </a>
+       </div>
+       <div class="ct_date">
+        14/09/2023
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/ban-dat-duong-7-5m-yen-the-da-nang-13396033.html">
+        <img alt="Bán đất đường 7,5m yên thế đà nẵng" src="/files/properties/default.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 7,5m">
+         7,5m
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         5x26m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         130 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         Tây Nam
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         4,9 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/duong-yen-the-quan-cam-le-dp3057.html">
+          Đường Yên Thế
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/phuong-hoa-an-quan-cam-le-px1128.html">
+          Phường Hòa An
+         </a>
+         , Quận Cẩm Lệ, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/ban-240m2-dat-duong-ha-duy-phien-hoa-xuan-cam-le-13393942.html">
+         Bán 240m2 đất đường Hà Duy Phiên,Hòa Xuân,Cẩm Lệ
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/ban-240m2-dat-duong-ha-duy-phien-hoa-xuan-cam-le-13393942.html">
+        <img alt="Bán 240m2 đất đường Hà Duy Phiên,Hòa Xuân,Cẩm Lệ" src="/files/properties/2023/9/14/thumbnails/013393942-5039-ban-dat-nen-lien-ke-dat-du-an-da-nang-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 5,5m">
+         5,5m
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         10x24m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         240 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         Đông
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         5,2 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/duong-ha-duy-phien-quan-cam-le-dp17305.html">
+          Đường Hà Duy Phiên
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/phuong-hoa-xuan-quan-cam-le-px1132.html">
+          Phường Hòa Xuân
+         </a>
+         , Quận Cẩm Lệ, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="viewmore">
+      <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/da-nang/589/quan-cam-le.html">
+       Xem thêm các tin khác
+      </a>
+     </div>
+    </div>
+    <!----end sale content----->
+   </div>
+  </div>
+  <!--left-->
+  <div id="right">
+   <div class="contact">
+    <div class="contact-info">
+     <div class="title">
+      Thông tin liên hệ
+     </div>
+     <div class="content">
+      <div class="name">
+       Võ Thanh An
+      </div>
+      <div class="fone">
+       <a href="javascript:void(0)">
+        0935.808.748
+       </a>
+       <div class="dvviewphone">
+        <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx?a=3323" width="90"/>
+        <input class="captcha" id="captcha_viewphone" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+        <span class="viewphone">
+         (Bấm xem số điện thoại)
+        </span>
+       </div>
+      </div>
+      <div class="introduce">
+       -Bán và tư vấn đất nền chính khu vực hòa xuân,nam hòa xuân,nam cẩm lệ,nam nguyễn tri phương
+-Nhận ký gửi đất khu vực trung tâm thành phố đà nẵng nói chung và khu vực hòa xuân nói riêng
+      </div>
+      <div class="review-box">
+       <span class="review-score">
+        Được đánh giá:
+       </span>
+       <span class="review-star">
+        <span class="rate" style="width:50%;">
+        </span>
+       </span>
+      </div>
+      <div class="view-more">
+       <a href="/nha-moi-gioi/093-238357.html">
+        Xem thêm 169 tin khác của thành viên này
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="head-search">
+    Tìm kiếm nhà đất
+   </div>
+   <div class="search-box">
+    <div>
+     <input class="location" placeholder="Nhập địa điểm cần tìm" type="text"/>
+     <div class="suggesstion">
+      <div class="title">
+       Gợi ý
+      </div>
+      <ul>
+       <li>
+        <span>
+         Nhập tên đường/phố, phường/xã, quận/huyện, tỉnh/thành phố hoặc tên dự án. Ví dụ:
+         <br/>
+         <span style="color:#000000">
+          - Nguyễn Xí, Bình Thạnh
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Láng Hạ, Đống Đa
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Vũng Tàu
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Times City
+         </span>
+        </span>
+       </li>
+       <li>
+        <span>
+         Phải chọn các gợi ý chúng tôi đề xuất bên dưới để kết quả chính xác
+        </span>
+       </li>
+       <li>
+        <span>
+         Nếu không nhập địa điểm ở đây, Quý vị có thể chọn lựa khu vực bằng các ô phía dưới trong công cụ tìm kiếm này
+        </span>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="demand-container">
+     <div class="text">
+      Cần bán
+     </div>
+     <div class="view">
+      <div>
+       <ul>
+        <li name="can-ban">
+         Cần bán
+        </li>
+        <li name="cho-thue">
+         Cho thuê
+        </li>
+        <li name="can-mua">
+         Cần mua
+        </li>
+        <li name="can-thue">
+         Cần thuê
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="property-type-container multicolumns">
+     <div class="text">
+      Nhà mặt tiền
+     </div>
+     <div class="view">
+      <span class="exit">
+       Loại bất động sản
+      </span>
+      <div>
+       <ul>
+        <li name="nha">
+         NHÀ
+        </li>
+        <li name="nha-mat-tien" style="text-indent:20px;">
+         Nhà mặt tiền
+        </li>
+        <li name="nha-trong-hem" style="text-indent:20px;">
+         Nhà trong hẻm
+        </li>
+        <li name="biet-thu-nha-lien-ke">
+         Biệt thự, nhà liền kề
+        </li>
+        <li name="can-ho-chung-cu">
+         Căn hộ chung cư
+        </li>
+        <li name="phong-tro-nha-tro">
+         Phòng trọ, nhà trọ
+        </li>
+       </ul>
+       <ul>
+        <li name="van-phong">
+         Văn phòng
+        </li>
+        <li name="kho-xuong">
+         Kho, xưởng
+        </li>
+        <li name="nha-hang-khach-san">
+         Nhà hàng, khách sạn
+        </li>
+        <li name="shop-kiot-quan">
+         Shop, kiot, quán
+        </li>
+        <li name="trang-trai">
+         Trang trại
+        </li>
+       </ul>
+       <ul>
+        <li name="mat-bang">
+         Mặt bằng
+        </li>
+        <li name="dat-tho-cu-dat-o" style="font-weight:bold">
+         Đất thổ cư, đất ở
+        </li>
+        <li name="dat-nen-lien-ke-dat-du-an">
+         Đất nền, liền kề, đất dự án
+        </li>
+        <li name="dat-nong-lam-nghiep">
+         Đất nông, lâm nghiệp
+        </li>
+        <li name="cac-loai-khac">
+         Các loại khác
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="province-container multicolumns">
+     <div class="text" name="0">
+      --- Tỉnh/Thành --
+     </div>
+     <div class="view">
+      <span class="exit">
+       Tỉnh/Thành
+      </span>
+      <div>
+       <ul>
+        <h3>
+         Miền Nam
+        </h3>
+        <li name="2">
+         Hồ Chí Minh
+        </li>
+        <li name="7">
+         Bà Rịa-Vũng Tàu
+        </li>
+        <li name="14">
+         Bình Dương
+        </li>
+        <li name="23">
+         Đồng Nai
+        </li>
+        <li name="5">
+         Cần Thơ
+        </li>
+        <li name="39">
+         Long An
+        </li>
+        <li name="6">
+         An Giang
+        </li>
+        <li name="8">
+         Bạc Liêu
+        </li>
+        <li name="13">
+         Bến Tre
+        </li>
+        <li name="16">
+         Bình Phước
+        </li>
+        <li name="18">
+         Cà Mau
+        </li>
+        <li name="20">
+         Đắk Lắk
+        </li>
+        <li name="21">
+         Đăk Nông
+        </li>
+        <li name="24">
+         Đồng Tháp
+        </li>
+        <li name="25">
+         Gia Lai
+        </li>
+        <li name="29">
+         Hậu Giang
+        </li>
+        <li name="33">
+         Kiên Giang
+        </li>
+        <li name="34">
+         Kon Tum
+        </li>
+        <li name="36">
+         Lâm Đồng
+        </li>
+        <li name="51">
+         Sóc Trăng
+        </li>
+        <li name="53">
+         Tây Ninh
+        </li>
+        <li name="58">
+         Tiền Giang
+        </li>
+        <li name="59">
+         Trà Vinh
+        </li>
+        <li name="61">
+         Vĩnh Long
+        </li>
+       </ul>
+       <ul>
+        <h3>
+         Miền Trung
+        </h3>
+        <li name="15">
+         Bình Định
+        </li>
+        <li name="17">
+         Bình Thuận
+        </li>
+        <li name="3">
+         Đà Nẵng
+        </li>
+        <li name="28">
+         Hà Tĩnh
+        </li>
+        <li name="57">
+         Thừa Thiên-Huế
+        </li>
+        <li name="32">
+         Khánh Hòa
+        </li>
+        <li name="41">
+         Nghệ An
+        </li>
+        <li name="43">
+         Ninh Thuận
+        </li>
+        <li name="45">
+         Phú Yên
+        </li>
+        <li name="46">
+         Quảng Bình
+        </li>
+        <li name="47">
+         Quảng Nam
+        </li>
+        <li name="48">
+         Quảng Ngãi
+        </li>
+        <li name="50">
+         Quảng Trị
+        </li>
+       </ul>
+       <ul>
+        <h3>
+         Miền Bắc
+        </h3>
+        <li name="1">
+         Hà Nội
+        </li>
+        <li name="11">
+         Hải Dương
+        </li>
+        <li name="4">
+         Hải Phòng
+        </li>
+        <li name="9">
+         Bắc Kạn
+        </li>
+        <li name="10">
+         Bắc Giang
+        </li>
+        <li name="12">
+         Bắc Ninh
+        </li>
+        <li name="19">
+         Cao Bằng
+        </li>
+        <li name="22">
+         Điện Biên
+        </li>
+        <li name="26">
+         Hà Giang
+        </li>
+        <li name="27">
+         Hà Nam
+        </li>
+        <li name="30">
+         Hòa Bình
+        </li>
+        <li name="31">
+         Hưng Yên
+        </li>
+        <li name="37">
+         Lạng Sơn
+        </li>
+        <li name="38">
+         Lào Cai
+        </li>
+        <li name="35">
+         Lai Châu
+        </li>
+        <li name="40">
+         Nam Định
+        </li>
+        <li name="42">
+         Ninh Bình
+        </li>
+        <li name="44">
+         Phú Thọ
+        </li>
+        <li name="49">
+         Quảng Ninh
+        </li>
+        <li name="52">
+         Sơn La
+        </li>
+        <li name="54">
+         Thái Bình
+        </li>
+        <li name="55">
+         Thái Nguyên
+        </li>
+        <li name="56">
+         Thanh Hóa
+        </li>
+        <li name="60">
+         Tuyên Quang
+        </li>
+        <li name="62">
+         Vĩnh Phúc
+        </li>
+        <li name="63">
+         Yên Bái
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="district-container multicolumns">
+     <div class="text" name="0">
+      --- Quận/Huyện ---
+     </div>
+     <div class="view">
+      <span class="exit">
+       Quận/Huyện
+      </span>
+      <div class="district">
+      </div>
+      <div class="ajax-loading">
+      </div>
+     </div>
+    </div>
+    <div class="price-container multicolumns">
+     <div class="text" name="0">
+      ---------- Giá --------
+     </div>
+     <div class="view">
+      <span class="exit">
+       Mức giá
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         0 - 1 triệu
+        </li>
+        <li name="2">
+         1 - 3 triệu
+        </li>
+        <li name="3">
+         3 - 5 triệu
+        </li>
+        <li name="4">
+         5 - 10 triệu
+        </li>
+        <li name="5">
+         10 - 15 triệu
+        </li>
+        <li name="6">
+         15 - 20 triệu
+        </li>
+        <li name="7">
+         20 - 30 triệu
+        </li>
+        <li name="8">
+         30 - 40 triệu
+        </li>
+        <li name="9">
+         40 - 60 triệu
+        </li>
+       </ul>
+       <ul>
+        <li name="10">
+         60 - 80 triệu
+        </li>
+        <li name="11">
+         80 - 100 triệu
+        </li>
+        <li name="12">
+         100 - 300 triệu
+        </li>
+        <li name="13">
+         300 - 500 triệu
+        </li>
+        <li name="14">
+         500 - 800 triệu
+        </li>
+        <li name="15">
+         800 - 1 tỷ
+        </li>
+        <li name="16">
+         1 - 2 tỷ
+        </li>
+        <li name="17">
+         2 - 3 tỷ
+        </li>
+        <li name="18">
+         3 - 4 tỷ
+        </li>
+       </ul>
+       <ul>
+        <li name="19">
+         4 - 6 tỷ
+        </li>
+        <li name="20">
+         6 - 8 tỷ
+        </li>
+        <li name="21">
+         8 - 10 tỷ
+        </li>
+        <li name="22">
+         10 - 15 tỷ
+        </li>
+        <li name="23">
+         15 - 20 tỷ
+        </li>
+        <li name="24">
+         20 - 30 tỷ
+        </li>
+        <li name="25">
+         30 - 60 tỷ
+        </li>
+        <li name="26">
+         Trên 60 tỷ
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="square-container multicolumns">
+     <div class="text" name="0">
+      ----- Diện tích ---
+     </div>
+     <div class="view">
+      <span class="exit">
+       Diện tích
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         0 - 30m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="2">
+         30 - 50m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="3">
+         50 - 70m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="4">
+         70 - 100m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="5">
+         100 - 150m
+         <sup>
+          2
+         </sup>
+        </li>
+       </ul>
+       <ul>
+        <li name="6">
+         150 - 200
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="7">
+         200 - 250m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="8">
+         250 - 300m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="9">
+         300 - 350m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="10">
+         350 - 400m
+         <sup>
+          2
+         </sup>
+        </li>
+       </ul>
+       <ul>
+        <li name="11">
+         400 - 600m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="12">
+         600 - 800m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="13">
+         800 - 1000m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="14">
+         Trên 1000m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="direct-container multicolumns">
+     <div class="text" name="0">
+      ------ Hướng -----
+     </div>
+     <div class="view">
+      <span class="exit">
+       Hướng
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         Đông
+        </li>
+        <li name="6">
+         Đông Bắc
+        </li>
+        <li name="5">
+         Đông Nam
+        </li>
+       </ul>
+       <ul>
+        <li name="2">
+         Tây
+        </li>
+        <li name="8">
+         Tây Bắc
+        </li>
+        <li name="7">
+         Tây Nam
+        </li>
+       </ul>
+       <ul>
+        <li name="3">
+         Nam
+        </li>
+        <li name="4">
+         Bắc
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="button-search">
+     Tìm nhanh
+    </div>
+    <div class="advanced-search">
+     <a href="/tim-kiem-nang-cao.html" rel="nofollow">
+      Tìm kiếm nâng cao
+     </a>
+    </div>
+   </div>
+   <div class="banner-center">
+   </div>
+   <div class="right-navigation-box">
+    <div class="item groupbyproject" id="ctl00_content_groupByProject">
+     <div class="title">
+      <h2 id="ctl00_content_groupByPropertyProjectTitle">
+       Bán đất nền, liền kề, đất dự án tại các dự án ở Quận Cẩm Lệ
+      </h2>
+     </div>
+     <div class="content" id="ctl00_content_groupByPropertyProjectContent">
+      <ul>
+       <li>
+        <a href="/can-ban-dat-nen-lien-ke-dat-du-an/p6789/euro-village-2.html" title="Ban dat Euro Village 2">
+         Bán đất
+         <b>
+          Euro Village 2
+         </b>
+        </a>
+        (
+        <span class="number">
+         22
+        </span>
+        )
+       </li>
+       <li>
+        <a href="/can-ban-dat-nen-lien-ke-dat-du-an/p766/khu-do-thi-sinh-thai-hoa-xuan.html" title="Ban dat Khu do thi sinh thai Hoa Xuan">
+         Bán đất
+         <b>
+          Khu đô thị sinh thái Hoà Xuân
+         </b>
+        </a>
+        (
+        <span class="number">
+         13
+        </span>
+        )
+       </li>
+       <li>
+        <a href="/can-ban-dat-nen-lien-ke-dat-du-an/p694/hoa-xuan-dream-home.html" title="Ban dat Hoa Xuan - Dream Home">
+         Bán đất
+         <b>
+          Hoà Xuân - Dream Home
+         </b>
+        </a>
+        (
+        <span class="number">
+         6
+        </span>
+        )
+       </li>
+       <li>
+        <a href="/can-ban-dat-nen-lien-ke-dat-du-an/p692/nam-cau-nguyen-tri-phuong.html" title="Ban dat Nam cau Nguyen Tri Phuong">
+         Bán đất
+         <b>
+          Nam cầu Nguyễn Tri Phương
+         </b>
+        </a>
+        (
+        <span class="number">
+         4
+        </span>
+        )
+       </li>
+       <li>
+        <a href="/can-ban-dat-nen-lien-ke-dat-du-an/p9928/nam-cau-cam-le.html" title="Ban dat Nam Cau Cam Le">
+         Bán đất
+         <b>
+          Nam Cầu Cẩm Lệ
+         </b>
+        </a>
+        (
+        <span class="number">
+         3
+        </span>
+        )
+       </li>
+       <li>
+        <a href="/can-ban-dat-nen-lien-ke-dat-du-an/p1766/yen-the-bac-son.html" title="Ban dat Yen The Bac Son">
+         Bán đất
+         <b>
+          Yên Thế Bắc Sơn
+         </b>
+        </a>
+        (
+        <span class="number">
+         2
+        </span>
+        )
+       </li>
+       <li>
+        <a href="/can-ban-dat-nen-lien-ke-dat-du-an/p693/phuoc-ly.html" title="Ban dat Phuoc Ly">
+         Bán đất
+         <b>
+          Phước Lý
+         </b>
+        </a>
+        (
+        <span class="number">
+         2
+        </span>
+        )
+       </li>
+       <li>
+        <a href="/can-ban-dat-nen-lien-ke-dat-du-an/p4544/phong-bac.html" title="Ban dat Phong Bac">
+         Bán đất
+         <b>
+          Phong Bắc
+         </b>
+        </a>
+        (
+        <span class="number">
+         1
+        </span>
+        )
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="item groupbydistrict">
+     <div class="title">
+      <h2 id="ctl00_content_groupByPropertyDistrictTitle">
+       Bán đất nền tại Đà Nẵng
+      </h2>
+     </div>
+     <div class="content" id="ctl00_content_groupByPropertyDistrict">
+      <ul>
+       <li>
+        <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/da-nang/584/quan-hai-chau.html" title="Ban dat nen Quan Hai Chau">
+         Bán đất
+         <b>
+          Quận Hải Châu
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/da-nang/585/quan-thanh-khe.html" title="Ban dat nen Quan Thanh Khe">
+         Bán đất
+         <b>
+          Quận Thanh Khê
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/da-nang/586/quan-son-tra.html" title="Ban dat nen Quan Son Tra">
+         Bán đất
+         <b>
+          Quận Sơn Trà
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/da-nang/587/quan-ngu-hanh-son.html" title="Ban dat nen Quan Ngu Hanh Son">
+         Bán đất
+         <b>
+          Quận Ngũ Hành Sơn
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/da-nang/588/quan-lien-chieu.html" title="Ban dat nen Quan Lien Chieu">
+         Bán đất
+         <b>
+          Quận Liên Chiểu
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/da-nang/589/quan-cam-le.html" title="Ban dat nen Quan Cam Le">
+         Bán đất
+         <b>
+          Quận Cẩm Lệ
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/da-nang/590/huyen-hoa-vang.html" title="Ban dat nen Huyen Hoa Vang">
+         Bán đất
+         <b>
+          Huyện Hòa Vang
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/da-nang/712/huyen-hoang-sa.html" title="Ban dat nen Huyen Hoang Sa">
+         Bán đất
+         <b>
+          Huyện Hoàng Sa
+         </b>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!--right-->
+  <div class="clear">
+  </div>
+ </div>
+</div>

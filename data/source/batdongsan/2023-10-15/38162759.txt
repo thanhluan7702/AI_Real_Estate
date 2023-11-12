@@ -1,0 +1,278 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38162759" uid="1251270">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cho thuê biệt thự Fusion 4 PN Ngũ Hành Sơn, Đà Nẵng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án Fusion Resort &amp; Villas Da Nang, Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    146 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    700 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    4 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38162759,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/09/22/20230922162602-77c1_wm.jpg","vipType":0,"title":"Cho thuê biệt thự Fusion 4 PN Ngũ Hành Sơn, Đà Nẵng","titleHiddenMobile":"Cho thuê biệt thự Fusion 4 PN Ngũ Hành Sơn, Đà Nẵng","url":"https://batdongsan.com.vn/cho-thue-nha-biet-thu-lien-ke-duong-truong-sa-phuong-hoa-hai-prj-fusion-resort-villas-da-nang/cho-4-pn-ngu-hanh-son-nang-pr38162759","productIdPrefix":"38162759$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-nha-biet-thu-lien-ke-duong-truong-sa-phuong-hoa-hai-prj-fusion-resort-villas-da-nang/cho-4-pn-ngu-hanh-son-nang-pr38162759&amp;t=Cho thuê biệt thự Fusion 4 PN Ngũ Hành Sơn, Đà Nẵng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-nha-biet-thu-lien-ke-duong-truong-sa-phuong-hoa-hai-prj-fusion-resort-villas-da-nang/cho-4-pn-ngu-hanh-son-nang-pr38162759" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38162759">
+   Địa chỉ: Ngũ Hành Sơn, Đà Nẵng, Việt Nam.
+   <br/>
+   Diện tích: 700m².
+   <br/>
+   Giá thuê: 6000$/tháng/tháng.
+   <br/>
+   <br/>
+   Nằm ở vị trí được săn đón nhiều nhất trong số các điểm nghỉ dưỡng cao cấp của Đà Nẵng và Hội An.
+   <br/>
+   <br/>
+   Nép mình sau dự án là sân golf BRG, Montgomerie Links.
+   <br/>
+   <br/>
+   Được thiết kế hoàn hảo với sự chú ý tỉ mỉ đến từng chi tiết, dự án mang phong cách nghỉ dưỡng hiện đại này kết hợp hoàn hảo giữa vật liệu sang trọng và tiện nghi cao cấp, tạo nên một không gian vừa tinh tế vừa hòa hợp với thiên nhiên.
+   <br/>
+   <br/>
+   Cư dân tại Fusion Villas Đà Nẵng được tiếp cận hàng loạt tiện ích hàng đầu trong khu phức hợp nghỉ dưỡng, bao gồm nhà hàng tinh tế, hồ bơi vô cực, bồn tắm nước nóng, câu lạc bộ bãi biển, tiện nghi chăm sóc sức khỏe và spa.
+   <br/>
+   Liên hệ:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="c1c341cc262bda7c7c0f7b19d41589cc" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=38162759">
+    0905 399 ***
+   </span>
+   - Anh Tân.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      700 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      146 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      4 phòng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-cho-thue-fusion-resort-villas-da-nang" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 2 tin đăng cho thuê
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-khu-nghi-duong-sinh-thai-ngu-hanh-son-ddn/fusion-resort-villas-da-nang-pj5542" target="_blank">
+      <img alt="Fusion Resort &amp; Villas Da Nang" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2022/04/01/20220401133239-7786.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       Fusion Resort &amp; Villas Da Nang
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Dự kiến 6/2023 bàn giao biệt thự giai đoạn 2" class="re__prj-card-config-value" data-microtip-position="bottom" data-microtip-size="large" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Dự kiến 6/2023 bàn giao biệt thự giai đoạn 2
+       </span>
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="Giá 99,48 - 136,72 triệu/tháng" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-money--sm">
+       </i>
+       99,48 - 136,72 triệu/tháng
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Tập đoàn VinaCapital" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Tập đoàn VinaCapital
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=15.992631912231445,108.26937103271484&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2022/10/29/20221029154650-3562.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Trương Văn Tân">
+     Trương Văn Tân
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/632810d3b9578425" tracking-id="user-listing-ldp">
+      Xem thêm 1 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38162759">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    13/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    23/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38162759
+   </span>
+  </div>
+ </div>
+</div>

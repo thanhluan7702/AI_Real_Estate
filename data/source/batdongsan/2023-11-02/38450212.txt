@@ -1,0 +1,391 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38450212" uid="2470415">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Biệt thự nghỉ dưỡng ở Hyatt Resort đẳng cấp giới thượng lưu ở lâu dài và doanh thu cao
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án Hyatt Regency, Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    600 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    2 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38450212,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/11/01/20231101142739-1195_wm.jpg","vipType":0,"title":"Biệt thự nghỉ dưỡng ở Hyatt Resort đẳng cấp giới thượng lưu ở lâu dài và doanh thu cao","titleHiddenMobile":"Biệt thự nghỉ dưỡng ở Hyatt Resort đẳng cấp giới thượng lưu ở lâu dài và doanh thu cao","url":"https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-truong-sa-phuong-hoa-hai-prj-hyatt-regency-danang-residences/-va-can-ho-nghi-o-resort-dang-cap-gioi-ong-luu-o-lau-dai-va-doanh-cao-pr38450212","productIdPrefix":"38450212$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-truong-sa-phuong-hoa-hai-prj-hyatt-regency-danang-residences/-va-can-ho-nghi-o-resort-dang-cap-gioi-ong-luu-o-lau-dai-va-doanh-cao-pr38450212&amp;t=Biệt thự nghỉ dưỡng ở Hyatt Resort đẳng cấp giới thượng lưu ở lâu dài và doanh thu cao" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-truong-sa-phuong-hoa-hai-prj-hyatt-regency-danang-residences/-va-can-ho-nghi-o-resort-dang-cap-gioi-ong-luu-o-lau-dai-va-doanh-cao-pr38450212" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38450212">
+   - Tọa lạc tại trục đường Trường Sa, Hyatt Regency Danang Resort And Spa với không gian nghỉ dưỡng riêng tư bên bờ biển Sơn Thuỷ quyến rũ. Căn biệt thự sở hữu vị trí đắc địa:
+   <br/>
+   + Hyatt Regency Danang Resort and Spa tọa lạc tại vị trí có giao thông thuận tiện.
+   <br/>
+   + Nằm ngay dưới chân núi Ngũ Hành Sơn và được bao quanh bởi các di sản văn hoá thế giới.
+   <br/>
+   + Đi Hội An (cách 10 km); Mỹ Sơn (40 km), Huế (80 km).
+   <br/>
+   + Chỉ tầm 15 phút để đến với sân bay quốc tế Đà Nẵng, đến trung tâm TP Đà Nẵng chỉ với 10 phút đi xe.
+   <br/>
+   + Trong bán kính 5km dự án dễ dàng đến với các tiện ích đẳng cấp quốc tế như: Sân Golf Montgemerie Links, Sân Golf Greg Norman, Casino Quốc Tế, các resort, khách sạn đạt tiêu chuẩn 5 sao cũng liền kề gần đó.
+   <br/>
+   + Ngoài ra dự án còn sở hữu hàng loạt tiện ích khác như công an quận, trường học, quán cafe, nhà hàng, chùa chiền trong khu vực làm tăng thêm sự tiện nghi và đầy đủ cho cư dân sinh sống nơi đây.
+   <br/>
+   <br/>
+   - Thông tin tiện ích:
+   <br/>
+   + 3 tòa tháp hướng biển và 27 biệt thự hướng biển.
+   <br/>
+   + Toà A: 9 tầng - Toà B: 12 tầng - Toà C: 6 tầng.
+   <br/>
+   + Diện tích căn hộ từ 75m² đến 224m² (căn hộ penthouse).
+   <br/>
+   + Căn biệt thự có cùng thiết kế với 3 phòng ngủ, diện tích sử dụng xấp xỉ 300m². Nằm trên các khu đất có diện tích từ 450 - 680m².
+   <br/>
+   + Thư giãn làm đẹp tại dịch vụ Spa &amp; Massage đẳng cấp.
+   <br/>
+   + Tập thể dục tại phòng tập tiêu chuẩn quốc tế.
+   <br/>
+   + Thưởng thức những món ngon tại nhà hàng ẩm thực hàn Beach House.
+   <br/>
+   + Thư giãn thoả mái cùng gia đình và bạn bè tại hồ bơi vô cực.
+   <br/>
+   + Tận hưởng nhiều hoạt động vui chơi giải trí khách như tennis, squash và racquetball.
+   <br/>
+   + Giải trí phong cách thương lưu tại Sân golf Colin Montgomerie Signature Links Golf Course.
+   <br/>
+   + Bên cạnh các tiện ích sẵn có tại khu nghỉ mát, các chủ nhân Hyatt cũng có thể hưởng thụ tiện ích tại sân Gôn Montgomerie Links được đầu tư bởi tập đoàn Indochina Land do gôn thủ nổi tiếng Montgomerie Links thiết kế.
+   <br/>
+   <br/>
+   - Thông tin cần bán:
+   <br/>
+   <br/>
+   + Villa 3PN Hyatt hồ bơi riêng mặt biển (doanh thu 150tr/th).
+   <br/>
+   + Villa 3PN Hyatt hồ bơi riêng hướng biển (đang tham gia chtr cho thuê Hyatt - rental pool).
+   <br/>
+   <br/>
+   * Giá bán: Thương lượng cho người thiện chí, sổ hồng sở hữu lâu dài.
+   <br/>
+   * Liên hệ ngay để được em tư vấn và dẫn trải nghiệm.
+   <br/>
+   * Sẵn sàng hỗ trợ, tư vấn 24/7.
+   <br/>
+   * Chuyên cho thuê, mua bán tất cả căn hộ, biệt thự, bds khắp Đà Nẵng.
+   <br/>
+   Không mua bây giờ thì bao giờ mới mua.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      600 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đông
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-ban-hyatt-regency-danang-residences" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 20 tin đăng bán
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-khu-nghi-duong-sinh-thai-ngu-hanh-son-ddn/hyatt-regency-danang-residences-pj681" target="_blank">
+      <img alt="Hyatt Regency Danang Residences" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2021/01/13/hmcVYWuR/20210113101930-331a.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       Hyatt Regency Danang Residences
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Đang cập nhật tiến độ" class="re__prj-card-config-value re__wrap-long-text" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Đang cập nhật tiến độ
+       </span>
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Công ty TNHH Indochina Land" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Công ty TNHH Indochina Land
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="1">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0130214691162,108.263740539551&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2023/07/20/20230720140754-308f.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Mã Hồng Phúc">
+     Mã Hồng Phúc
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/4a176ae8e4fac854" tracking-id="user-listing-ldp">
+      Xem thêm 4 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38450212">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-biet-thu-lien-ke-hyatt-regency-danang-residences/dt-tu-100m2-den-150m2" title="Biệt thự HYATT REGENCY từ 100 m2 đến 150 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự HYATT REGENCY từ 100 m2 đến 150 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-biet-thu-lien-ke-phuong-hoa-hai" title="Biệt thự Hòa Hải Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự Hòa Hải Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-biet-thu-lien-ke-duong-truong-sa-48" title="Biệt thự Trường Sa Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự Trường Sa Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-biet-thu-lien-ke-ngu-hanh-son-ddn" title="Biệt thự Ngũ Hành Sơn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự Ngũ Hành Sơn Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-biet-thu-lien-ke-da-nang/2pn" title="Biệt thự Đà Nẵng 2 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự Đà Nẵng 2 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-khach-san-da-nang" title="Bán khách sạn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán khách sạn Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    01/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    11/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38450212
+   </span>
+  </div>
+ </div>
+</div>

@@ -1,0 +1,305 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38000359" uid="588386">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Top 8 + VP cho thuê có bãi đỗ xe rộng tại trung tâm TP - Mizuland
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Trưng Nữ Vương, Phường Nam Dương, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    184 nghìn/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    234 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38000359,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/08/28/20230828103449-5ddc_wm.jpg","vipType":0,"title":"Top 8 + VP cho thuê có bãi đỗ xe rộng tại trung tâm TP - Mizuland","titleHiddenMobile":"Top 8 + VP cho thuê có bãi đỗ xe rộng tại trung tâm TP - Mizuland","url":"https://batdongsan.com.vn/cho-thue-van-phong-duong-trung-nu-vuong-phuong-nam-duong/top-8-vp-cho-co-bai-do-xe-rong-tai-tam-tp-mizuland-pr38000359","productIdPrefix":"38000359$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-van-phong-duong-trung-nu-vuong-phuong-nam-duong/top-8-vp-cho-co-bai-do-xe-rong-tai-tam-tp-mizuland-pr38000359&amp;t=Top 8 + VP cho thuê có bãi đỗ xe rộng tại trung tâm TP - Mizuland" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-van-phong-duong-trung-nu-vuong-phuong-nam-duong/top-8-vp-cho-co-bai-do-xe-rong-tai-tam-tp-mizuland-pr38000359" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38000359">
+   Tòa nhà đường Nguyễn Hữu Thọ.
+   <br/>
+   Diện tích trống: 234m²(T2); 288m²(T4).
+   <br/>
+   Gía: 184.000vnd/m²/tháng (chưa VAT).
+   <br/>
+   Mô tả: Tại tuyến đường lớn, giao thông thoáng, gần trung tâm quận Cẩm Lệ, bên trong tòa được trang bị đầy đủ các thiết bị công năng cơ bản, đầy đủ tiện nghi, đảm bảo chất lượng dịch vụ nguyên tòa.
+   <br/>
+   Mã: TN3363.
+   <br/>
+   <br/>
+   Tòa nhà đường Hùng Vương.
+   <br/>
+   Diện tích trống: 96m²(T1); 43m²(T5); 708m²(T6,7); 110 - 212m²(T10); 94m²(T9); 221m²(T12).
+   <br/>
+   Gía: Từ 207.000vnd/m²/tháng (chưa bao gồm phí DV và VAT).
+   <br/>
+   Mô tả: Tòa nhà lớn hạng B, sẵn trần sàn cơ bản, không gian cực thoáng, view tầng cao, gần các điểm trung tâm tiện ích, hầm đỗ xe rộng.
+   <br/>
+   Mã: TN3231.
+   <br/>
+   <br/>
+   Tòa nhà đường Nguyễn Văn Linh.
+   <br/>
+   Diện tích trống: 45m²(T8,9); 90m²(T9); 73m²(T6).
+   <br/>
+   Gía: Từ 227.000vnd/m²/tháng (chưa VAT).
+   <br/>
+   Mô tả: Tòa nhà lớn ngay khu vực trung tâm, tích hợp nhiều tiện ích trong tòa, có hầm đỗ xe rộng, dịch vụ an ninh chuyên nghiệp, đảm bảo tiện nghi sử dụng.
+   <br/>
+   Mã: TN0049.
+   <br/>
+   <br/>
+   Toà nhà đường Hải Phòng.
+   <br/>
+   Diện tích trống: 352m²(T3,4,5,22); 141m²(T11); 194m²(T1).
+   <br/>
+   Giá: Từ 368.000 vnd/m²/tháng (chưa VAT).
+   <br/>
+   Mô tả: Tòa nhà có sẵn sàn, trần, hệ thống điều hòa, hệ thống đèn chiếu sáng; Mỗi tầng sẽ có 1 phòng pantry cao cấp và hiện đại, được sử dụng free; Bãi đỗ xe rộng rãi, view tầng cao đẹp.
+   <br/>
+   Mã: TN0078.
+   <br/>
+   <br/>
+   Tòa nhà đường Nguyễn Văn Linh.
+   <br/>
+   Diện tích trống: 434m² (T2 - 6); 378m²(T9); 474m²(T10, 12, 12A, 15).
+   <br/>
+   Gía: Từ 391.000vnd/m²/tháng (chưa VAT).
+   <br/>
+   Mô tả: Tòa nhà có thiết kế mới lạ, tích hợp ngân hàng lớn, cơ sở hạ tầng tốt, dịch vụ tòa chuyên nghiệp, ngay tuyến đường tài chính, view thành phố.
+   <br/>
+   Mã: TN3314.
+   <br/>
+   <br/>
+   Tòa nhà đường Nguyễn Văn Linh.
+   <br/>
+   Diện tích trống: 700m² (T8).
+   <br/>
+   Gía: 414.000vnd/m²/tháng (chưa VAT).
+   <br/>
+   Mô tả: Thiết kế đẹp thu hút tầm nhìn, kết hợp không gian xanh nguyên tòa, không gian thoáng, công năng hiện đại, có cửa sổ kính quanh tòa, an ninh cao, có khu vực đỗ xe rộng.
+   <br/>
+   Mã: TN3230.
+   <br/>
+   <br/>
+   Tý giá: 23.000vnd.
+   <br/>
+   <br/>
+   Xem thêm các tòa nhà cho thuê văn phòng tại đây:
+   <br/>
+   <a href="https://mizuland.vn/loai/van-phong-trong-toa-nha" rel="nofollow" target="_blank">
+    https://mizuland.vn/loai/van-phong-trong-toa-nha
+   </a>
+   <br/>
+   <br/>
+   Link Zalo: https://zalo.me/2133494340083163446
+   <br/>
+   <br/>
+   Cảm ơn quý anh chị đã đọc tin sản phẩm văn phòng cho thuê Mizuland. Nếu anh chị có thắc mắc hay nhu cầu tìm thuê văn phòng,
+   <br/>
+   Vui lòng gọi điện đến số hotline hoặc nhắn tin qua zalo để được tư vấn miễn phí.
+   <br/>
+   ------------------------
+   <br/>
+   Công ty TNHH LLC Mizuki chuyên kinh doanh - tư vấn BĐS thương mại tại Đà Nẵng: Cho thuê văn phòng, cho thuê khách sạn kinh doanh,
+   <br/>
+   Cho thuê mặt bằng kinh doanh,... Với quy trình minh bạch, pháp lý rõ ràng cùng danh sách hơn 200 tòa nhà văn phòng tại Đà Nẵng.
+   <br/>
+   Tất cả đều được thực hiện một cách nhanh chóng, công tâm và miễn phí.
+   <br/>
+   ------------------------
+   <br/>
+   Công ty TNHH LLC Mizuki.
+   <br/>
+   Website: https://mizuland.vn/
+   <br/>
+   Địa chỉ VP: Tầng 1, 06 Trần Phú, P. Thạch Thang, Q. Hải Châu, TP. Đà Nẵng.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      234 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      184 nghìn/m²
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="1">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0504437,108.2153731&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2018/01/16/20180116102509-1a6e.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Mizuland">
+     Mizuland
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/9b39db30e487d89e" tracking-id="user-listing-ldp">
+      Xem thêm 38 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38000359">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-nam-duong" title="Văn phòng Nam Dương Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Nam Dương Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-duong-trung-nu-vuong-46" title="Văn phòng Trưng Nữ Vương Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Trưng Nữ Vương Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-hai-chau-ddn" title="Văn phòng Hải Châu Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hải Châu Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-da-nang" title="Văn phòng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    18/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    25/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin VIP Bạc
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38000359
+   </span>
+  </div>
+ </div>
+</div>

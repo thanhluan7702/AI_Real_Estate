@@ -1,0 +1,615 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38259649" uid="603179">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Bán nhà 95m2 (5x19m) kèm nhà đẹp như hình KDT Nam Việt Á, để lại nội thất vip
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án Nam Cầu Tuyên Sơn - Nam Việt Á, Đường Mỹ Đa Tây 5, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng.
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    4,69 tỷ
+   </span>
+   <span class="ext">
+    ~49,37 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    95 m²
+   </span>
+   <span class="ext">
+    Mặt tiền 5 m
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    2 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38259649,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/10/06/20231006140008-4cc7_wm.jpeg","vipType":0,"title":"Bán nhà 95m2 (5x19m) kèm nhà đẹp như hình KDT Nam Việt Á, để lại nội thất vip","titleHiddenMobile":"Bán nhà 95m2 (5x19m) kèm nhà đẹp như hình KDT Nam Việt Á, để lại nội thất vip","url":"https://batdongsan.com.vn/ban-nha-rieng-duong-my-da-tay-5-phuong-khue-my-prj-khu-do-thi-nam-cau-tuyen-son/ban-dat-95m2-5x19-kem-dep-nhu-hinh-kdt-viet-a-de-lai-noi-that-vip-l-he-pr38259649","productIdPrefix":"38259649$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-nha-rieng-duong-my-da-tay-5-phuong-khue-my-prj-khu-do-thi-nam-cau-tuyen-son/ban-dat-95m2-5x19-kem-dep-nhu-hinh-kdt-viet-a-de-lai-noi-that-vip-l-he-pr38259649&amp;t=Bán nhà 95m2 (5x19m) kèm nhà đẹp như hình KDT Nam Việt Á, để lại nội thất vip" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-nha-rieng-duong-my-da-tay-5-phuong-khue-my-prj-khu-do-thi-nam-cau-tuyen-son/ban-dat-95m2-5x19-kem-dep-nhu-hinh-kdt-viet-a-de-lai-noi-that-vip-l-he-pr38259649" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38259649">
+   Bán nhà 95m² (5x19m) kèm nhà đẹp như hình KDT Nam Việt Á, để lại nội thất Vip.
+   <br/>
+   LH:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="13b261a5103f9450b029b0325129647a" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38259649">
+    0935 605 ***
+   </span>
+   Mr. Thái.
+   <br/>
+   ------
+   <br/>
+   - Diện tích: 95m² (5x19m).
+   <br/>
+   - Hướng: Đông lệch Bắc.
+   <br/>
+   - Đường: Tuy Lý Vương, Nam Việt Á, Đà Nẵng.
+   <br/>
+   - Giá: 4tỷ69 (thương lượng thêm chính chủ).
+   <br/>
+   <br/>
+   Not: Nhà đẹp như hình, lô sát góc.
+   <br/>
+   -------
+   <br/>
+   Liên hệ:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="13b261a5103f9450b029b0325129647a" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38259649">
+    0935 605 ***
+   </span>
+   Mr. Thái.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      95 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      4,69 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-home">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mặt tiền
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      5 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-road">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Đường vào
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      7,5 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đông - Bắc
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ trao tay
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ công năng.
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-ban-khu-do-thi-nam-cau-tuyen-son" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 114 tin đăng bán
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-khu-do-thi-moi-ngu-hanh-son-ddn/khu-do-thi-nam-cau-tuyen-son-pj1791" target="_blank">
+      <img alt="Khu đô thị Nam Cầu Tuyên Sơn" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2017/04/22/hmcVYWuR/20170422103247-400d.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       Khu đô thị Nam Cầu Tuyên Sơn
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Đã bàn giao" class="re__prj-card-config-value re__wrap-long-text" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Đã bàn giao
+       </span>
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Công ty CP Đầu tư Xây dựng và Phát triển hạ tầng Nam Việt Á" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Công ty CP Đầu tư Xây dựng và Phát triển hạ tầng Nam Việt Á
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver1be749a2.msvbds.pricing-insight.min.css" rel="stylesheet"/>
+ <div class="re__section pd-pricing-insight lazyload" data-func='new FrontEnd.Product.Details.PricingInsight({"prefixPrice":"~","price":49.37,"min":47.38967771016453,"max":81.19047619047619,"avg":61.226666666666674,"isRent":"false"})' data-script="https://staticfile.batdongsan.com.vn/js/Product/Binnova/Details/filestatic.ver1be749a2.msvbds.FrontEnd.Product.Details.PricingInsight.min.js" tracking-id="ldp-listing-pricing-insight">
+  <h3 class="re__section-title">
+   Khoảng giá phổ biến
+   <span class="re__icon-info-circle--sm pricing-insight--info js__pricing-insight--info">
+    <span class="pricing-insight--note">
+     Thông tin được tổng hợp bởi Batdongsan.com.vn trong vòng 3 tháng gần nhất
+    </span>
+   </span>
+  </h3>
+  <div class="pricing-insight--sub-title">
+   Bán nhà riêng tại Khu đô thị Nam Cầu Tuyên Sơn
+  </div>
+  <div class="pd-pricing-insight--border js__pd-pricing-insight--border">
+   <div class="pd-pricing-insight--content">
+    <div class="pricing-content-row-label">
+     <div class="pricing-avg-min pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg pricing-content-row">
+      <div class="pricing-content--r1">
+       Giá phổ biến nhất
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg-max pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+    <div class="bg-pricing">
+    </div>
+    <div class="bg-pricing-avg">
+    </div>
+    <div class="pricing-avg-min pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+        Giá phổ biến nhất
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg-max pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-product">
+     <div class="pricing-content">
+      <div class="pricing-content--r1">
+       Tin đang xem
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver1be749a2.msvbds.pricing-extent.min.css" rel="stylesheet"/>
+  <div class="re__clear-box">
+  </div>
+  <div class="re__pricing-insight-extented">
+   <div class="pricing-insight-row pricing-insight-title">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <strong>
+      Các dự án cùng khoảng giá
+     </strong>
+     <br/>
+     <span>
+      Trong vòng bán kính 5 km
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <strong>
+      Giá bán phổ biến nhất
+     </strong>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+    </div>
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-rieng-dream-home-kdt-hoa-xuan" target="_blank" tracking-id="ldp_to_pdp_price_nearby_projects" tracking-label="loc=Price of Nearby Projects, pos=1">
+      Dream Home (KĐT Hòa Xuân)
+     </a>
+     <span class="text-small">
+      (1,5 km)
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      37,5
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-rieng-dream-home-kdt-hoa-xuan" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=1">
+      <span class="labled-text-small">
+       1 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-rieng-kdt-nam-cau-nguyen-tri-phuong" target="_blank" tracking-id="ldp_to_pdp_price_nearby_projects" tracking-label="loc=Price of Nearby Projects, pos=2">
+      KĐT Nam cầu Nguyễn Tri Phương
+     </a>
+     <span class="text-small">
+      (3,3 km)
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      48,5
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-rieng-kdt-nam-cau-nguyen-tri-phuong" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=2">
+      <span class="labled-text-small">
+       1 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row pricing-insight-row-view">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-rieng-khu-do-thi-nam-cau-tuyen-son" target="_blank" tracking-id="ldp_to_pdp_price_nearby_projects" tracking-label="loc=Price of Nearby Projects, pos=3">
+      Khu đô thị Nam Cầu Tuyên Sơn
+     </a>
+     <span class="labled-text-small">
+      Đang xem
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      61,2
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-rieng-khu-do-thi-nam-cau-tuyen-son" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=3">
+      <span class="labled-text-small">
+       10 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-rieng-khu-do-thi-hoa-quy" target="_blank" tracking-id="ldp_to_pdp_price_nearby_projects" tracking-label="loc=Price of Nearby Projects, pos=4">
+      Khu đô thị Hòa Quý
+     </a>
+     <span class="text-small">
+      (3,4 km)
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      65,2
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-rieng-khu-do-thi-hoa-quy" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=4">
+      <span class="labled-text-small">
+       1 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt no-border">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.029903411865234,108.24016571044922&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   N
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Thai Van Nguyen">
+     Thai Van Nguyen
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/9deb62a75f69ef9b" tracking-id="user-listing-ldp">
+      Xem thêm 3 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38259649">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-rieng-khu-do-thi-nam-cau-tuyen-son/dt-tu-80m2-den-100m2" title="Nhà riêng Nam Cầu Tuyên Sơn Nam Việt Á từ 80 m2 đến 100 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà riêng Nam Cầu Tuyên Sơn Nam Việt Á từ 80 m2 đến 100 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-rieng-phuong-khue-my" title="Nhà riêng Khuê Mỹ Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà riêng Khuê Mỹ Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-rieng-duong-my-da-tay-5-48" title="Nhà riêng Mỹ Đa Tây 5 Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà riêng Mỹ Đa Tây 5 Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-rieng-ngu-hanh-son-ddn" title="Nhà riêng Ngũ Hành Sơn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà riêng Ngũ Hành Sơn Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-rieng-da-nang/2pn" title="Nhà riêng Đà Nẵng 2 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà riêng Đà Nẵng 2 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-rieng-da-nang/gia-tu-3-ty-den-5-ty" title="Nhà riêng Đà Nẵng từ 3 tỉ đến 5 tỉ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà riêng Đà Nẵng từ 3 tỉ đến 5 tỉ
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    07/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    14/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin VIP Bạc
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38259649
+   </span>
+  </div>
+ </div>
+</div>

@@ -1,0 +1,2156 @@
+<div class="body">
+ <div class="top-link" id="ctl00_content_top_link" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a href="/" itemprop="item">
+    <span itemprop="name">
+     Trang chủ
+    </span>
+   </a>
+   <meta content="1" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban.html" itemprop="item">
+    <span itemprop="name">
+     Cần bán
+    </span>
+   </a>
+   <meta content="2" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-mat-tien.html" itemprop="item">
+    <span itemprop="name">
+     Bán nhà
+    </span>
+   </a>
+   <meta content="3" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-mat-tien/3/da-nang.html" itemprop="item">
+    <span itemprop="name">
+     Bán nhà Đà Nẵng
+    </span>
+   </a>
+   <meta content="4" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-mat-tien/da-nang/586/quan-son-tra.html" itemprop="item">
+    <span itemprop="name">
+     Bán nhà  Sơn Trà
+    </span>
+   </a>
+   <meta content="5" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-mat-tien/phuong-man-thai-quan-son-tra-px1115.html" itemprop="item">
+    <span itemprop="name">
+     Bán nhà  Mân Thái
+    </span>
+   </a>
+   <meta content="6" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-mat-tien/duong-tan-thai-5-quan-son-tra-dp2837.html" itemprop="item">
+    <span itemprop="name">
+     Bán nhà  Tân Thái 5
+    </span>
+   </a>
+   <meta content="7" itemprop="position"/>
+  </span>
+ </div>
+ <div class="top-line">
+ </div>
+ <div class="content plp" id="ctl00_content_pc_content">
+  <div id="left">
+   <div class="property">
+    <div class="title">
+     <h1>
+      BÁN NHÀ Mt 3m75 Đường Tân Thái 8 ,Nhà Gác đúc  mới kiến cố,Giá tốt
+     </h1>
+     <span class="date">
+      Ngày đăng: Hôm qua
+     </span>
+    </div>
+    <div class="detail text-content">
+     Bán nhà cấp 4 mê lửng đường Tân Thái 8, p Mân Thái. Quận Sơn Trà. 
++ Vị trí: Gần công viên tượng đài Mân Thái, gần trường học, bệnh viện. Chợ Mân Thái. Và nhiều nhà hàng hải sản.  gần trường THCS Nguyễn Chí Thanh. Ngay gần Bãi Tắm Mân Thái. 
++ Dt: 5x17=75m2. Dts:113m2. Đường 3,75m đã có quyết định lên đường 5,5m.
++ Nhà hướng Đông . Công năng: gồm có 1 phòng khách rộng 3 phòng ngủ . 1 Phòng bếp. 2wc. 
+Giá bán: 3Tỷ7  bán đến công chứng
+    </div>
+    <div class="moreinfor">
+     <span class="price">
+      <span class="label">
+       Giá:
+      </span>
+      <span class="value">
+       3,7 tỷ
+      </span>
+     </span>
+     <span class="square">
+      <span class="label">
+       Diện tích:
+      </span>
+      <span class="value">
+       75 m
+       <sup>
+        2
+       </sup>
+      </span>
+     </span>
+     <div class="clear">
+     </div>
+    </div>
+    <div class="address">
+     <span class="label">
+      Địa chỉ tài sản:
+     </span>
+     <span class="value">
+      Đường Tân Thái 5, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng
+     </span>
+    </div>
+    <div class="moreinfor1">
+     <div class="title">
+      Các thông tin khác
+     </div>
+     <div class="infor">
+      <table cellspacing="0" hspace="0" vspace="0">
+       <tbody>
+        <tr>
+         <td>
+          Mã tin
+         </td>
+         <td>
+          12876519
+         </td>
+         <td>
+          Hướng
+         </td>
+         <td>
+          Đông
+         </td>
+         <td>
+          Phòng ăn
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Loại tin
+         </td>
+         <td>
+          Cần bán
+         </td>
+         <td>
+          Đường trước nhà
+         </td>
+         <td>
+          3,7m
+         </td>
+         <td>
+          Nhà bếp
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Loại BDS
+         </td>
+         <td>
+          Nhà mặt tiền
+         </td>
+         <td>
+          Pháp lý
+         </td>
+         <td>
+          Sổ hồng/ Sổ đỏ
+         </td>
+         <td>
+          Sân thượng
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Chiều ngang
+         </td>
+         <td>
+          5m
+         </td>
+         <td>
+          Số lầu
+         </td>
+         <td>
+          1
+         </td>
+         <td>
+          Chổ để xe hơi
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Chiều dài
+         </td>
+         <td>
+          15m
+         </td>
+         <td>
+          Số phòng ngủ
+         </td>
+         <td>
+          3
+         </td>
+         <td>
+          Chính chủ
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+    </div>
+    <div class="image-tab">
+     <span class="view-image selected">
+      Hình ảnh
+     </span>
+    </div>
+    <div class="images">
+     <div class="imageview">
+      <img alt="BÁN NHÀ Mt 3m75 Đường Tân Thái 8 ,Nhà Gác đúc  mới kiến cố,Giá tốt" id="limage" onclick="showImage(this.src)" src="/files/properties/2023/5/16/images/012876519-0623-ban-nha-mt-3m75-duong-tan-thai-8-nha-gac-duc-moi-kien-co-gia-tot.jpg"/>
+     </div>
+    </div>
+    <div class="utility">
+     <span class="save" tabindex="0">
+      Lưu tin
+     </span>
+    </div>
+    <input id="hddDemand" type="hidden" value="1"/>
+    <input id="hddPropertyType" type="hidden" value="1"/>
+    <input id="hddPropertyId" type="hidden" value="12876519"/>
+    <input id="hddNguoiDang" type="hidden" user="0" value="784270"/>
+    <div class="reflect-form">
+     <div class="loading">
+     </div>
+     <div class="title">
+      Phản ánh tin rao vi phạm
+     </div>
+     <div class="notice">
+      Thông tin phản ánh của Quý khách giúp chúng tôi sàn lọc thông tin tốt hơn và loại trừ các nhà môi giới không trung thực. Xin trân trọng cám ơn.
+     </div>
+     <div class="content">
+      <div class="reason">
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="1"/>
+        <span>
+         Tài sản đã bán/cho thuê
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="2"/>
+        <span>
+         Tin không có thật
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="3"/>
+        <span>
+         Nội dung không đúng với thực tế
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="4"/>
+        <span>
+         Giá không đúng
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="5"/>
+        <span>
+         Không liên lạc được
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="6"/>
+        <span>
+         Địa chỉ bất động sản không đúng
+        </span>
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="other-reason">
+       <input class="reason-item" name="reason" type="radio" value="10"/>
+       <span>
+        Lý do khác:
+       </span>
+       <br/>
+       <textarea class="txtcontent" maxlength="240" placeholder="Nội dung phản ánh"></textarea>
+      </div>
+      <div class="check-ignore">
+       <input class="chkdayignore" type="checkbox"/>
+       <b class="bdayignore">
+        Tôi không muốn xem tin của người đăng này trong vòng:
+       </b>
+       <select class="dayignore" disabled="disabled" name="dayignore" style="color:red; background:#eeeeee;">
+        <option value="0">
+         Số ngày
+        </option>
+        <option value="1">
+         1 ngày
+        </option>
+        <option value="3">
+         3 ngày
+        </option>
+        <option value="7">
+         7 ngày
+        </option>
+        <option value="14">
+         14 ngày
+        </option>
+        <option value="21">
+         21 ngày
+        </option>
+        <option value="30">
+         30 ngày
+        </option>
+        <option value="60">
+         60 ngày
+        </option>
+        <option value="90">
+         90 ngày
+        </option>
+        <option value="180">
+         180 ngày
+        </option>
+        <option value="360">
+         360 ngày
+        </option>
+       </select>
+       <i>
+        Tất cả các tin của thành viên này sẽ ẩn đi với bạn trong khoảng thời gian bạn đã chọn.
+       </i>
+      </div>
+      <div>
+       <font style="color:blue">
+        Mã an toàn
+       </font>
+       :
+       <br/>
+       <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx" width="90"/>
+       <input class="captcha" id="captcha" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+       <input class="btnSubmit" type="button" value="Gửi phản ánh"/>
+      </div>
+     </div>
+    </div>
+    <div class="tags">
+     <span>
+      Có thể bạn muốn xem:
+     </span>
+     <a href="/nha-dat/can-ban/nha-mat-tien/3/da-nang.html">
+      Bán nhà Đà Nẵng
+     </a>
+     <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/586/quan-son-tra.html">
+      Bán nhà Quận Sơn Trà
+     </a>
+     <a href="/nha-dat/can-ban/nha-mat-tien/phuong-man-thai-quan-son-tra-px1115.html">
+      Bán nhà Phường Mân Thái
+     </a>
+     <a href="/nha-dat/can-ban/nha-mat-tien/duong-tan-thai-5-quan-son-tra-dp2837.html">
+      Bán nhà Đường Tân Thái 5
+     </a>
+    </div>
+    <div class="notices">
+     <h3>
+      Lưu ý:
+     </h3>
+     <p>
+      Các bạn đang xem tin đăng trong mục "
+      <b>
+       Mua bán nhà mặt phố, bán nhà mặt tiền  Quận Sơn Trà, Đà Nẵng
+      </b>
+      ". Các thông tin rao vặt là do người đăng tin đăng tải toàn bộ thông tin. Chúng tôi hoàn toàn không chịu trách nhiệm về bất cứ thông tin nào liên qua đến các thông tin này. Chúng tôi luôn cố gắng để đưa các tin tức nhanh và chính xác nhất cho các bạn.
+     </p>
+    </div>
+   </div>
+   <!--property-->
+   <div class="randomvip-box" id="ctl00_content_random_vip_box">
+    <div class="title">
+     <h2>
+      Bất động sản nổi bật
+     </h2>
+    </div>
+    <div class="content" id="ctl00_content_randomvip">
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/nha-3-tang-mat-tien-duong-an-trung-dong-1-quan-son-tra-tp-da-nang-gia-3-5-ty--13419803.html">
+        <img alt="Nhà 3 tầng mặt tiền đường An Trung Đông 1, quận Sơn Trà, TP Đà Nẵng giá 3,5 tỷ." src="/files/properties/2023/9/20/thumbnails/013419803-3645-ban-nha-mat-tien-quan-son-tra.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/nha-3-tang-mat-tien-duong-an-trung-dong-1-quan-son-tra-tp-da-nang-gia-3-5-ty--13419803.html">
+         Nhà 3 tầng mặt tiền đường An Trung Đông 1, quận Sơn Trà, TP Đà Nẵng giá 3,5 tỷ.
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,5 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         40 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Sơn Trà
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 6m">
+        6m
+       </span>
+       <span class="floors" title="3 lầu">
+        3 lầu
+       </span>
+       <span class="bedroom" title="4 phòng ngủ">
+        4 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-nha-2-tang-mt-duong-ta-my-duat-nha-dep-de-lai-noi-that-gia-6ty3-12999414.html">
+        <img alt="BÁN NHÀ 2 Tầng MT Đường Tạ Mỹ Duật,Nhà Đẹp để Lại Nội Thất Giá 6ty3" src="/files/properties/2023/6/12/thumbnails/012999414-1136-ban-nha-2-tang-mt-duong-ta-my-duat-nha-dep-de-lai-noi-that-gia-6ty3.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-nha-2-tang-mt-duong-ta-my-duat-nha-dep-de-lai-noi-that-gia-6ty3-12999414.html">
+         BÁN NHÀ 2 Tầng MT Đường Tạ Mỹ Duật,Nhà Đẹp để Lại Nội Thất Giá 6ty3
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         6,3 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         75 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Sơn Trà
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 5,5m">
+        5,5m
+       </span>
+       <span class="floors" title="2 lầu">
+        2 lầu
+       </span>
+       <span class="bedroom" title="2 phòng ngủ">
+        2 pn
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-gap-nha-mat-tien-duong-tan-thai-5-gan-bien-man-thai-son-tra-gia-tot-13434525.html">
+        <img alt="Bán gấp nhà mặt tiền đường Tân Thái 5 gần biển Mân Thái. Sơn Trà. Giá tốt" src="/files/properties/2023/9/23/thumbnails/013434525-1848-ban-nha-mat-tien-da-nang.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-gap-nha-mat-tien-duong-tan-thai-5-gan-bien-man-thai-son-tra-gia-tot-13434525.html">
+         Bán gấp nhà mặt tiền đường Tân Thái 5 gần biển Mân Thái. Sơn Trà. Giá tốt
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,8 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         75 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Sơn Trà
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 3,7m">
+        3,7m
+       </span>
+       <span class="floors" title="1 lầu">
+        1 lầu
+       </span>
+       <span class="bedroom" title="3 phòng ngủ">
+        3 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/chinh-chu-can-ban-khach-san-gan-vo-nguyen-giap-500m2-15-tang-110-ty-bien-pham-van-dong-13387226.html">
+        <img alt="Chính chủ cần bán Khách sạn gần Võ Nguyên Giáp 500m2 15 tầng 110 tỷ Biển Phạm Văn Đồng" src="/files/properties/2023/9/12/thumbnails/013387226-3004-ban-nha-mat-tien-da-nang.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/chinh-chu-can-ban-khach-san-gan-vo-nguyen-giap-500m2-15-tang-110-ty-bien-pham-van-dong-13387226.html">
+         Chính chủ cần bán Khách sạn gần Võ Nguyên Giáp 500m2 15 tầng 110 tỷ Biển Phạm Văn Đồng
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         110 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         500 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Sơn Trà
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 11m">
+        11m
+       </span>
+       <span class="floors" title="15 lầu">
+        15 lầu
+       </span>
+       <span class="bedroom" title="80 phòng ngủ">
+        80 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/ban-nha-dep-3-tang-duong-10m5-quan-son-tra-gia-re-7-6-ty-13260323.html">
+        <img alt="Bán nhà đẹp 3 tầng đường 10m5 quận Sơn Trà giá rẻ 7.6 tỷ" src="/files/properties/default.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-nha-dep-3-tang-duong-10m5-quan-son-tra-gia-re-7-6-ty-13260323.html">
+         Bán nhà đẹp 3 tầng đường 10m5 quận Sơn Trà giá rẻ 7.6 tỷ
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         7,6 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         117 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Sơn Trà
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 10m">
+        10m
+       </span>
+       <span class="floors" title="3 lầu">
+        3 lầu
+       </span>
+       <span class="bedroom" title="4 phòng ngủ">
+        4 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/lo-goc-o-to-do-cua-trung-tam-quan-son-tra-107m-gia-5-7x-ty-13085029.html">
+        <img alt="LÔ GÓC - Ô TÔ ĐỖ CỬA - TRUNG TÂM QUẬN SƠN TRÀ 107m GIÁ 5.7X TỶ" src="/files/properties/2023/7/1/thumbnails/013085029-3106-ban-nha-mat-tien-quan-son-tra-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/lo-goc-o-to-do-cua-trung-tam-quan-son-tra-107m-gia-5-7x-ty-13085029.html">
+         LÔ GÓC - Ô TÔ ĐỖ CỬA - TRUNG TÂM QUẬN SƠN TRÀ 107m GIÁ 5.7X TỶ
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         4,75 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         107 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Sơn Trà
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 6m">
+        6m
+       </span>
+       <span class="floors" title="2 lầu">
+        2 lầu
+       </span>
+       <span class="bedroom" title="3 phòng ngủ">
+        3 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-nha-mat-tien-an-trung-12-quan-son-tra-dang-cho-thue-kinh-doanh-spa-13433067.html">
+        <img alt="BÁN NHÀ MẶT TIỀN AN TRUNG 12 _ QUẬN SƠN TRÀ_ ĐANG CHO THUÊ KINH DOANH SPA" src="/files/properties/2023/9/23/thumbnails/013433067-4929-ban-nha-mat-tien-quan-son-tra.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-nha-mat-tien-an-trung-12-quan-son-tra-dang-cho-thue-kinh-doanh-spa-13433067.html">
+         BÁN NHÀ MẶT TIỀN AN TRUNG 12 _ QUẬN SƠN TRÀ_ ĐANG CHO THUÊ KINH DOANH SPA
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,85 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         60 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Sơn Trà
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 4m">
+        4m
+       </span>
+       <span class="floors" title="2 lầu">
+        2 lầu
+       </span>
+       <span class="bedroom" title="3 phòng ngủ">
+        3 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/ban-can-nha-5-tang-hai-mat-tien-duong-15m-gan-cau-song-han-gia-chi-12-5-ty-13430037.html">
+        <img alt="Bán căn nhà 5 tầng Hai Mặt tiền đường 15m Gần cầu Sông Hàn - Gía chỉ 12,5 tỷ" src="/files/properties/2023/9/22/thumbnails/013430037-0524-ban-nha-mat-tien-da-nang-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-can-nha-5-tang-hai-mat-tien-duong-15m-gan-cau-song-han-gia-chi-12-5-ty-13430037.html">
+         Bán căn nhà 5 tầng Hai Mặt tiền đường 15m Gần cầu Sông Hàn - Gía chỉ 12,5 tỷ
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         12,5 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         112 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Sơn Trà
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 15m">
+        15m
+       </span>
+       <span class="floors" title="5 lầu">
+        5 lầu
+       </span>
+       <span class="bedroom" title="7 phòng ngủ">
+        7 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/-dat-mat-tien-ho-han-thuong-duong-18m-dt-5-x-20m-100m2-gan-song-han-vi-tri-dep-10514486.html">
+        <img alt="🌹 Nhà 3 Tầng Hồ Hán Thương : Đường 18m - DT 5 x 20m = 100m2 Sát Sông Giá 6tỷ6" src="/files/properties/2022/4/29/thumbnails/010514486-0708-ban-dat-tho-cu-dat-o-quan-son-tra-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/-dat-mat-tien-ho-han-thuong-duong-18m-dt-5-x-20m-100m2-gan-song-han-vi-tri-dep-10514486.html">
+         🌹 Nhà 3 Tầng Hồ Hán Thương : Đường 18m - DT 5 x 20m = 100m2 Sát Sông Giá 6tỷ6
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         6,6 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         100 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Sơn Trà
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 18m">
+        18m
+       </span>
+       <span class="floors" title="4 lầu">
+        4 lầu
+       </span>
+       <span class="bedroom" title="3 phòng ngủ">
+        3 pn
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/sap-ham-ban-nhanh-mat-tien-kinh-doanh-dinh-cao-bien-son-tra-tiem-nang-cuc-dai--13405902.html">
+        <img alt="SẬP HẦM, BÁN NHANH - MẶT TIỀN KINH DOANH ĐỈNH CAO BIỂN SƠN TRÀ- TIỀM NĂNG CỰC ĐẠI." src="/files/properties/2023/9/17/thumbnails/013405902-2237-ban-nha-mat-tien-da-nang-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/sap-ham-ban-nhanh-mat-tien-kinh-doanh-dinh-cao-bien-son-tra-tiem-nang-cuc-dai--13405902.html">
+         SẬP HẦM, BÁN NHANH - MẶT TIỀN KINH DOANH ĐỈNH CAO BIỂN SƠN TRÀ- TIỀM NĂNG CỰC ĐẠI.
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         9,1 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         90 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Sơn Trà
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 11m">
+        11m
+       </span>
+       <span class="floors" title="1 lầu">
+        1 lầu
+       </span>
+       <span class="bedroom" title="1 phòng ngủ">
+        1 pn
+       </span>
+      </div>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <div class="relative-property">
+    <div>
+     <div class="content-header" id="ctl00_content_relative_property_title">
+      <h2>
+       Cần bán Nhà mặt tiền tại Quận Sơn Trà
+      </h2>
+     </div>
+    </div>
+    <div class="content-items" id="ctl00_content_relative_property_content">
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/can-tien-kinh-doanh-ban-gap-gia-soc-nha-2-tang-view-song-han-mat-me-duong-tran-hung-13433396.html">
+         CẤN TIỀN KINH DOANH – BÁN GẤP GIÁ SỐC- NHÀ 2 TẦNG- VIEW SÔNG HÀN MÁT MẺ - ĐƯỜNG TRẦN HƯNG
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm qua
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/can-tien-kinh-doanh-ban-gap-gia-soc-nha-2-tang-view-song-han-mat-me-duong-tran-hung-13433396.html">
+        <img alt="CẤN TIỀN KINH DOANH – BÁN GẤP GIÁ SỐC- NHÀ 2 TẦNG- VIEW SÔNG HÀN MÁT MẺ - ĐƯỜNG TRẦN HƯNG" src="/files/properties/default.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 5m">
+         5m
+        </span>
+        <span class="floors" title="2 lầu">
+         2 lầu
+        </span>
+        <span class="bedroom" title="2 phòng ngủ">
+         2 phòng ngủ
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         ---
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         81 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,6 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-mat-tien/duong-tran-hung-dao-quan-son-tra-dp2844.html">
+          Đường Trần Hưng Đạo
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-mat-tien/phuong-an-hai-bac-quan-son-tra-px1112.html">
+          Phường An Hải Bắc
+         </a>
+         , Quận Sơn Trà, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/ban-nha-2-tang-duong-hoa-lu-gan-duong-duong-van-nga-son-tra-tp-da-nang-13432602.html">
+         Bán nhà 2 tầng.đường hoa lư. Gần đường Dương vân Nga Sơn Trà TP Đà Nẵng
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/ban-nha-2-tang-duong-hoa-lu-gan-duong-duong-van-nga-son-tra-tp-da-nang-13432602.html">
+        <img alt="Bán nhà 2 tầng.đường hoa lư. Gần đường Dương vân Nga Sơn Trà TP Đà Nẵng" src="/files/properties/2023/9/22/thumbnails/013432602-4953-ban-nha-mat-tien-quan-son-tra-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 5m5m">
+         5m5m
+        </span>
+        <span class="floors" title="2 lầu">
+         2 lầu
+        </span>
+        <span class="bedroom" title="3 phòng ngủ">
+         3 phòng ngủ
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         4x18m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         72 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,79 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-mat-tien/duong-hoa-lu-quan-son-tra-dp2772.html">
+          Đường Hoa Lư
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-mat-tien/phuong-nai-hien-dong-quan-son-tra-px1116.html">
+          Phường Nại Hiên Đông
+         </a>
+         , Quận Sơn Trà, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/-can-ban-nha-cap-4-mt-duong-nguyen-dang-tuyen-khu-dau-tuyen-son-tra-da-nang-13430181.html">
+         💎Cần bán nhà cấp 4 MT đường Nguyễn Đăng Tuyển,Khu đầu tuyến Sơn Trà.Đà Nẵng
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/-can-ban-nha-cap-4-mt-duong-nguyen-dang-tuyen-khu-dau-tuyen-son-tra-da-nang-13430181.html">
+        <img alt="💎Cần bán nhà cấp 4 MT đường Nguyễn Đăng Tuyển,Khu đầu tuyến Sơn Trà.Đà Nẵng" src="/files/properties/2023/9/22/thumbnails/013430181-2241-ban-nha-mat-tien-da-nang.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 5,5m">
+         5,5m
+        </span>
+        <span class="floors" title="1 lầu">
+         1 lầu
+        </span>
+        <span class="bedroom" title="2 phòng ngủ">
+         2 phòng ngủ
+        </span>
+        <span class="parking" title="có chỗ để ô tô">
+         chỗ để xe
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         5x18m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         90 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         Tây Bắc
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,3 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-mat-tien/duong-nguyen-dang-tuyen-quan-son-tra-dp2820.html">
+          Đường Nguyễn Đăng Tuyển
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-mat-tien/phuong-tho-quang-quan-son-tra-px1118.html">
+          Phường Thọ Quang
+         </a>
+         , Quận Sơn Trà, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/ban-nha-mat-tien-duongthe-lu-an-hai-bac-son-tra-da-nang-142m2-gia-3-97-ty-tl-13429865.html">
+         Bán nhà mặt tiền đườngThế Lữ, An Hải Bắc, Sơn Trà, Đà Nẵng 142m2 giá 3.97 tỷ TL
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm qua
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/ban-nha-mat-tien-duongthe-lu-an-hai-bac-son-tra-da-nang-142m2-gia-3-97-ty-tl-13429865.html">
+        <img alt="Bán nhà mặt tiền đườngThế Lữ, An Hải Bắc, Sơn Trà, Đà Nẵng 142m2 giá 3.97 tỷ TL" src="/files/properties/default.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 7,5m">
+         7,5m
+        </span>
+        <span class="floors" title="1 lầu">
+         1 lầu
+        </span>
+        <span class="bedroom" title="3 phòng ngủ">
+         3 phòng ngủ
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         ---
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         142 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,97 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-mat-tien/duong-the-lu-quan-son-tra-dp11126.html">
+          Đường Thế Lữ
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-mat-tien/phuong-an-hai-bac-quan-son-tra-px1112.html">
+          Phường An Hải Bắc
+         </a>
+         , Quận Sơn Trà, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/can-ban-nha-me-duc-115m-mat-tien-5m5-nai-hien-dong-11-13428758.html">
+         Cần bán nhà mê đúc 115m mặt tiền 5m5 Nại Hiên Đông 11
+        </a>
+       </div>
+       <div class="ct_date">
+        22/09/2023
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/can-ban-nha-me-duc-115m-mat-tien-5m5-nai-hien-dong-11-13428758.html">
+        <img alt="Cần bán nhà mê đúc 115m mặt tiền 5m5 Nại Hiên Đông 11" src="/files/properties/2023/9/22/thumbnails/013428758-4237-ban-nha-mat-tien-quan-son-tra.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 5,5m">
+         5,5m
+        </span>
+        <span class="floors" title="1 lầu">
+         1 lầu
+        </span>
+        <span class="bedroom" title="4 phòng ngủ">
+         4 phòng ngủ
+        </span>
+        <span class="parking" title="có chỗ để ô tô">
+         chỗ để xe
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         5x23m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         115 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         Tây Nam
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,95 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-mat-tien/duong-nai-hien-dong-11-quan-son-tra-dp2795.html">
+          Đường Nại Hiên Đông 11
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-mat-tien/phuong-nai-hien-dong-quan-son-tra-px1116.html">
+          Phường Nại Hiên Đông
+         </a>
+         , Quận Sơn Trà, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="viewmore">
+      <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/586/quan-son-tra.html">
+       Xem thêm các tin khác
+      </a>
+     </div>
+    </div>
+    <!----end sale content----->
+   </div>
+  </div>
+  <!--left-->
+  <div id="right">
+   <div class="contact">
+    <div class="contact-info">
+     <div class="title">
+      Thông tin liên hệ
+     </div>
+     <div class="content">
+      <div class="name">
+       Tuấn Kiệt
+      </div>
+      <div class="fone">
+       <a href="javascript:void(0)">
+        0932.597.943
+       </a>
+       <div class="dvviewphone">
+        <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx?a=2376" width="90"/>
+        <input class="captcha" id="captcha_viewphone" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+        <span class="viewphone">
+         (Bấm xem số điện thoại)
+        </span>
+       </div>
+      </div>
+      <div class="introduce">
+      </div>
+      <div class="review-box">
+       <span class="review-score">
+        Được đánh giá:
+       </span>
+       <span class="review-star">
+        <span class="rate" style="width:60%;">
+        </span>
+       </span>
+      </div>
+      <div class="view-more">
+       <a href="/nha-moi-gioi/anh-784270.html">
+        Xem thêm 45 tin khác của thành viên này
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="head-search">
+    Tìm kiếm nhà đất
+   </div>
+   <div class="search-box">
+    <div>
+     <input class="location" placeholder="Nhập địa điểm cần tìm" type="text"/>
+     <div class="suggesstion">
+      <div class="title">
+       Gợi ý
+      </div>
+      <ul>
+       <li>
+        <span>
+         Nhập tên đường/phố, phường/xã, quận/huyện, tỉnh/thành phố hoặc tên dự án. Ví dụ:
+         <br/>
+         <span style="color:#000000">
+          - Nguyễn Xí, Bình Thạnh
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Láng Hạ, Đống Đa
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Vũng Tàu
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Times City
+         </span>
+        </span>
+       </li>
+       <li>
+        <span>
+         Phải chọn các gợi ý chúng tôi đề xuất bên dưới để kết quả chính xác
+        </span>
+       </li>
+       <li>
+        <span>
+         Nếu không nhập địa điểm ở đây, Quý vị có thể chọn lựa khu vực bằng các ô phía dưới trong công cụ tìm kiếm này
+        </span>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="demand-container">
+     <div class="text">
+      Cần bán
+     </div>
+     <div class="view">
+      <div>
+       <ul>
+        <li name="can-ban">
+         Cần bán
+        </li>
+        <li name="cho-thue">
+         Cho thuê
+        </li>
+        <li name="can-mua">
+         Cần mua
+        </li>
+        <li name="can-thue">
+         Cần thuê
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="property-type-container multicolumns">
+     <div class="text">
+      Nhà mặt tiền
+     </div>
+     <div class="view">
+      <span class="exit">
+       Loại bất động sản
+      </span>
+      <div>
+       <ul>
+        <li name="nha">
+         NHÀ
+        </li>
+        <li name="nha-mat-tien" style="text-indent:20px;">
+         Nhà mặt tiền
+        </li>
+        <li name="nha-trong-hem" style="text-indent:20px;">
+         Nhà trong hẻm
+        </li>
+        <li name="biet-thu-nha-lien-ke">
+         Biệt thự, nhà liền kề
+        </li>
+        <li name="can-ho-chung-cu">
+         Căn hộ chung cư
+        </li>
+        <li name="phong-tro-nha-tro">
+         Phòng trọ, nhà trọ
+        </li>
+       </ul>
+       <ul>
+        <li name="van-phong">
+         Văn phòng
+        </li>
+        <li name="kho-xuong">
+         Kho, xưởng
+        </li>
+        <li name="nha-hang-khach-san">
+         Nhà hàng, khách sạn
+        </li>
+        <li name="shop-kiot-quan">
+         Shop, kiot, quán
+        </li>
+        <li name="trang-trai">
+         Trang trại
+        </li>
+       </ul>
+       <ul>
+        <li name="mat-bang">
+         Mặt bằng
+        </li>
+        <li name="dat-tho-cu-dat-o" style="font-weight:bold">
+         Đất thổ cư, đất ở
+        </li>
+        <li name="dat-nen-lien-ke-dat-du-an">
+         Đất nền, liền kề, đất dự án
+        </li>
+        <li name="dat-nong-lam-nghiep">
+         Đất nông, lâm nghiệp
+        </li>
+        <li name="cac-loai-khac">
+         Các loại khác
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="province-container multicolumns">
+     <div class="text" name="0">
+      --- Tỉnh/Thành --
+     </div>
+     <div class="view">
+      <span class="exit">
+       Tỉnh/Thành
+      </span>
+      <div>
+       <ul>
+        <h3>
+         Miền Nam
+        </h3>
+        <li name="2">
+         Hồ Chí Minh
+        </li>
+        <li name="7">
+         Bà Rịa-Vũng Tàu
+        </li>
+        <li name="14">
+         Bình Dương
+        </li>
+        <li name="23">
+         Đồng Nai
+        </li>
+        <li name="5">
+         Cần Thơ
+        </li>
+        <li name="39">
+         Long An
+        </li>
+        <li name="6">
+         An Giang
+        </li>
+        <li name="8">
+         Bạc Liêu
+        </li>
+        <li name="13">
+         Bến Tre
+        </li>
+        <li name="16">
+         Bình Phước
+        </li>
+        <li name="18">
+         Cà Mau
+        </li>
+        <li name="20">
+         Đắk Lắk
+        </li>
+        <li name="21">
+         Đăk Nông
+        </li>
+        <li name="24">
+         Đồng Tháp
+        </li>
+        <li name="25">
+         Gia Lai
+        </li>
+        <li name="29">
+         Hậu Giang
+        </li>
+        <li name="33">
+         Kiên Giang
+        </li>
+        <li name="34">
+         Kon Tum
+        </li>
+        <li name="36">
+         Lâm Đồng
+        </li>
+        <li name="51">
+         Sóc Trăng
+        </li>
+        <li name="53">
+         Tây Ninh
+        </li>
+        <li name="58">
+         Tiền Giang
+        </li>
+        <li name="59">
+         Trà Vinh
+        </li>
+        <li name="61">
+         Vĩnh Long
+        </li>
+       </ul>
+       <ul>
+        <h3>
+         Miền Trung
+        </h3>
+        <li name="15">
+         Bình Định
+        </li>
+        <li name="17">
+         Bình Thuận
+        </li>
+        <li name="3">
+         Đà Nẵng
+        </li>
+        <li name="28">
+         Hà Tĩnh
+        </li>
+        <li name="57">
+         Thừa Thiên-Huế
+        </li>
+        <li name="32">
+         Khánh Hòa
+        </li>
+        <li name="41">
+         Nghệ An
+        </li>
+        <li name="43">
+         Ninh Thuận
+        </li>
+        <li name="45">
+         Phú Yên
+        </li>
+        <li name="46">
+         Quảng Bình
+        </li>
+        <li name="47">
+         Quảng Nam
+        </li>
+        <li name="48">
+         Quảng Ngãi
+        </li>
+        <li name="50">
+         Quảng Trị
+        </li>
+       </ul>
+       <ul>
+        <h3>
+         Miền Bắc
+        </h3>
+        <li name="1">
+         Hà Nội
+        </li>
+        <li name="11">
+         Hải Dương
+        </li>
+        <li name="4">
+         Hải Phòng
+        </li>
+        <li name="9">
+         Bắc Kạn
+        </li>
+        <li name="10">
+         Bắc Giang
+        </li>
+        <li name="12">
+         Bắc Ninh
+        </li>
+        <li name="19">
+         Cao Bằng
+        </li>
+        <li name="22">
+         Điện Biên
+        </li>
+        <li name="26">
+         Hà Giang
+        </li>
+        <li name="27">
+         Hà Nam
+        </li>
+        <li name="30">
+         Hòa Bình
+        </li>
+        <li name="31">
+         Hưng Yên
+        </li>
+        <li name="37">
+         Lạng Sơn
+        </li>
+        <li name="38">
+         Lào Cai
+        </li>
+        <li name="35">
+         Lai Châu
+        </li>
+        <li name="40">
+         Nam Định
+        </li>
+        <li name="42">
+         Ninh Bình
+        </li>
+        <li name="44">
+         Phú Thọ
+        </li>
+        <li name="49">
+         Quảng Ninh
+        </li>
+        <li name="52">
+         Sơn La
+        </li>
+        <li name="54">
+         Thái Bình
+        </li>
+        <li name="55">
+         Thái Nguyên
+        </li>
+        <li name="56">
+         Thanh Hóa
+        </li>
+        <li name="60">
+         Tuyên Quang
+        </li>
+        <li name="62">
+         Vĩnh Phúc
+        </li>
+        <li name="63">
+         Yên Bái
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="district-container multicolumns">
+     <div class="text" name="0">
+      --- Quận/Huyện ---
+     </div>
+     <div class="view">
+      <span class="exit">
+       Quận/Huyện
+      </span>
+      <div class="district">
+      </div>
+      <div class="ajax-loading">
+      </div>
+     </div>
+    </div>
+    <div class="price-container multicolumns">
+     <div class="text" name="0">
+      ---------- Giá --------
+     </div>
+     <div class="view">
+      <span class="exit">
+       Mức giá
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         0 - 1 triệu
+        </li>
+        <li name="2">
+         1 - 3 triệu
+        </li>
+        <li name="3">
+         3 - 5 triệu
+        </li>
+        <li name="4">
+         5 - 10 triệu
+        </li>
+        <li name="5">
+         10 - 15 triệu
+        </li>
+        <li name="6">
+         15 - 20 triệu
+        </li>
+        <li name="7">
+         20 - 30 triệu
+        </li>
+        <li name="8">
+         30 - 40 triệu
+        </li>
+        <li name="9">
+         40 - 60 triệu
+        </li>
+       </ul>
+       <ul>
+        <li name="10">
+         60 - 80 triệu
+        </li>
+        <li name="11">
+         80 - 100 triệu
+        </li>
+        <li name="12">
+         100 - 300 triệu
+        </li>
+        <li name="13">
+         300 - 500 triệu
+        </li>
+        <li name="14">
+         500 - 800 triệu
+        </li>
+        <li name="15">
+         800 - 1 tỷ
+        </li>
+        <li name="16">
+         1 - 2 tỷ
+        </li>
+        <li name="17">
+         2 - 3 tỷ
+        </li>
+        <li name="18">
+         3 - 4 tỷ
+        </li>
+       </ul>
+       <ul>
+        <li name="19">
+         4 - 6 tỷ
+        </li>
+        <li name="20">
+         6 - 8 tỷ
+        </li>
+        <li name="21">
+         8 - 10 tỷ
+        </li>
+        <li name="22">
+         10 - 15 tỷ
+        </li>
+        <li name="23">
+         15 - 20 tỷ
+        </li>
+        <li name="24">
+         20 - 30 tỷ
+        </li>
+        <li name="25">
+         30 - 60 tỷ
+        </li>
+        <li name="26">
+         Trên 60 tỷ
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="square-container multicolumns">
+     <div class="text" name="0">
+      ----- Diện tích ---
+     </div>
+     <div class="view">
+      <span class="exit">
+       Diện tích
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         0 - 30m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="2">
+         30 - 50m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="3">
+         50 - 70m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="4">
+         70 - 100m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="5">
+         100 - 150m
+         <sup>
+          2
+         </sup>
+        </li>
+       </ul>
+       <ul>
+        <li name="6">
+         150 - 200
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="7">
+         200 - 250m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="8">
+         250 - 300m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="9">
+         300 - 350m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="10">
+         350 - 400m
+         <sup>
+          2
+         </sup>
+        </li>
+       </ul>
+       <ul>
+        <li name="11">
+         400 - 600m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="12">
+         600 - 800m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="13">
+         800 - 1000m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="14">
+         Trên 1000m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="direct-container multicolumns">
+     <div class="text" name="0">
+      ------ Hướng -----
+     </div>
+     <div class="view">
+      <span class="exit">
+       Hướng
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         Đông
+        </li>
+        <li name="6">
+         Đông Bắc
+        </li>
+        <li name="5">
+         Đông Nam
+        </li>
+       </ul>
+       <ul>
+        <li name="2">
+         Tây
+        </li>
+        <li name="8">
+         Tây Bắc
+        </li>
+        <li name="7">
+         Tây Nam
+        </li>
+       </ul>
+       <ul>
+        <li name="3">
+         Nam
+        </li>
+        <li name="4">
+         Bắc
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="button-search">
+     Tìm nhanh
+    </div>
+    <div class="advanced-search">
+     <a href="/tim-kiem-nang-cao.html" rel="nofollow">
+      Tìm kiếm nâng cao
+     </a>
+    </div>
+   </div>
+   <div class="banner-center">
+   </div>
+   <div class="right-navigation-box">
+    <div class="item groupbyproject" id="ctl00_content_groupByProject">
+     <div class="title">
+      <h2 id="ctl00_content_groupByPropertyProjectTitle">
+       Bán nhà mặt tiền tại các dự án ở Quận Sơn Trà
+      </h2>
+     </div>
+     <div class="content" id="ctl00_content_groupByPropertyProjectContent">
+      <ul>
+       <li>
+        <a href="/can-ban-nha-mat-tien/p1178/euro-village-da-nang.html" title="Ban nha Euro village Da Nang">
+         Bán nhà
+         <b>
+          Euro village Đà Nẵng
+         </b>
+        </a>
+        (
+        <span class="number">
+         3
+        </span>
+        )
+       </li>
+       <li>
+        <a href="/can-ban-nha-mat-tien/p1729/alacarte-da-nang.html" title="Ban nha Alacarte Da Nang">
+         Bán nhà
+         <b>
+          Alacarte Đà Nẵng
+         </b>
+        </a>
+        (
+        <span class="number">
+         2
+        </span>
+        )
+       </li>
+       <li>
+        <a href="/can-ban-nha-mat-tien/p6328/star-villa-son-tra.html" title="Ban nha Star Villa Son Tra">
+         Bán nhà
+         <b>
+          Star Villa Sơn Trà
+         </b>
+        </a>
+        (
+        <span class="number">
+         2
+        </span>
+        )
+       </li>
+       <li>
+        <a href="/can-ban-nha-mat-tien/p9932/phan-khu-the-oriana-da-nang-marina-complex.html" title="Ban nha Phan khu The Oriana Da Nang -  Marina Complex">
+         Bán nhà
+         <b>
+          Phân khu The Oriana Da Nang -  Marina Complex
+         </b>
+        </a>
+        (
+        <span class="number">
+         1
+        </span>
+        )
+       </li>
+       <li>
+        <a href="/can-ban-nha-mat-tien/p2867/an-cu-4.html" title="Ban nha An Cu 4">
+         Bán nhà
+         <b>
+          An Cư 4
+         </b>
+        </a>
+        (
+        <span class="number">
+         1
+        </span>
+        )
+       </li>
+       <li>
+        <a href="/can-ban-nha-mat-tien/p2619/da-nang-times-square.html" title="Ban nha Da Nang Times Square">
+         Bán nhà
+         <b>
+          Đà Nẵng Times Square
+         </b>
+        </a>
+        (
+        <span class="number">
+         1
+        </span>
+        )
+       </li>
+       <li>
+        <a href="/can-ban-nha-mat-tien/p1240/marina-complex.html" title="Ban nha Marina Complex">
+         Bán nhà
+         <b>
+          Marina Complex
+         </b>
+        </a>
+        (
+        <span class="number">
+         1
+        </span>
+        )
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="item groupbydistrict">
+     <div class="title">
+      <h2 id="ctl00_content_groupByPropertyDistrictTitle">
+       Bán nhà mặt tiền tại Đà Nẵng
+      </h2>
+     </div>
+     <div class="content" id="ctl00_content_groupByPropertyDistrict">
+      <ul>
+       <li>
+        <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/584/quan-hai-chau.html" title="Ban nha mat tien Quan Hai Chau">
+         Bán nhà
+         <b>
+          Quận Hải Châu
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/585/quan-thanh-khe.html" title="Ban nha mat tien Quan Thanh Khe">
+         Bán nhà
+         <b>
+          Quận Thanh Khê
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/586/quan-son-tra.html" title="Ban nha mat tien Quan Son Tra">
+         Bán nhà
+         <b>
+          Quận Sơn Trà
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/587/quan-ngu-hanh-son.html" title="Ban nha mat tien Quan Ngu Hanh Son">
+         Bán nhà
+         <b>
+          Quận Ngũ Hành Sơn
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/588/quan-lien-chieu.html" title="Ban nha mat tien Quan Lien Chieu">
+         Bán nhà
+         <b>
+          Quận Liên Chiểu
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/589/quan-cam-le.html" title="Ban nha mat tien Quan Cam Le">
+         Bán nhà
+         <b>
+          Quận Cẩm Lệ
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/590/huyen-hoa-vang.html" title="Ban nha mat tien Huyen Hoa Vang">
+         Bán nhà
+         <b>
+          Huyện Hòa Vang
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/712/huyen-hoang-sa.html" title="Ban nha mat tien Huyen Hoang Sa">
+         Bán nhà
+         <b>
+          Huyện Hoàng Sa
+         </b>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!--right-->
+  <div class="clear">
+  </div>
+ </div>
+</div>

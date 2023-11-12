@@ -1,0 +1,260 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38202664" uid="2159430">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Tổng hợp danh sách VP sàn rộng cho team từ 15 - 20 nhân sự thuộc các tuyến đường lớn
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường 2/9, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    18 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    98 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38202664,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/09/28/20230928160630-2f17_wm.jpg","vipType":0,"title":"Tổng hợp danh sách VP sàn rộng cho team từ 15 - 20 nhân sự thuộc các tuyến đường lớn","titleHiddenMobile":"Tổng hợp danh sách VP sàn rộng cho team từ 15 - 20 nhân sự thuộc các tuyến đường lớn","url":"https://batdongsan.com.vn/cho-thue-van-phong-duong-2-9-1-phuong-hoa-cuong-bac/tong-hop-danh-sach-vp-san-rong-cho-team-tu-15-20-nhan-su-thuoc-cac-tuyen-lon-pr38202664","productIdPrefix":"38202664$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-van-phong-duong-2-9-1-phuong-hoa-cuong-bac/tong-hop-danh-sach-vp-san-rong-cho-team-tu-15-20-nhan-su-thuoc-cac-tuyen-lon-pr38202664&amp;t=Tổng hợp danh sách VP sàn rộng cho team từ 15 - 20 nhân sự thuộc các tuyến đường lớn" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-van-phong-duong-2-9-1-phuong-hoa-cuong-bac/tong-hop-danh-sach-vp-san-rong-cho-team-tu-15-20-nhan-su-thuoc-cac-tuyen-lon-pr38202664" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38202664">
+   1. VP đường Xô Viết Nghệ Tĩnh.
+   <br/>
+   Diện tích: 75m² - tầng 6.
+   <br/>
+   Giá thuê: 140.000/m²/tháng (chưa VAT).
+   <br/>
+   Ưu điểm: Thoải mái làm việc 24/24, có khu vực đỗ xe miễn phí. Nằm trên tuyến đường lớn, giao thông thuận tiện.
+   <br/>
+   <br/>
+   2. VP đường Duy Tân.
+   <br/>
+   Diện tích: 75m² - tầng 5.
+   <br/>
+   Giá thuê: 155.000/m²/tháng (chưa VAT).
+   <br/>
+   Ưu điểm: Tòa nhà thuộc bộ quốc phòng. Không gian yên tĩnh, cơ sở hạ tầng đảm bảo. Văn phòng sạch sẽ.
+   <br/>
+   <br/>
+   3. VP đường Huỳnh Tấn Phát.
+   <br/>
+   Diện tích: 75m² - tầng 3.
+   <br/>
+   Giá thuê: 160.000/m²/tháng (chưa VAT).
+   <br/>
+   Ưu điểm: Thiết kế mô hình văn phòng thông minh, có cửa sổ đón ánh sáng tự nhiên. Hệ thống công năng cơ bản, khu vực an ninh tốt.
+   <br/>
+   <br/>
+   4. VP đường 2/9.
+   <br/>
+   Diện tích: 98m² - tầng 2.
+   <br/>
+   Giá thuê: 172.500/m²/tháng (chưa VAT).
+   <br/>
+   Ưu điểm: Nằm tại khu vực đông dân cư, ngay cầu Tiên Sơn. Khu vực đỗ xe thoải mái, thích hợp cho công ty IT và Startup.
+   <br/>
+   <br/>
+   5. VP đường Lê Thanh Nghị.
+   <br/>
+   Diện tích: 80m² - tầng 3.
+   <br/>
+   Giá thuê: 187.000đ/m²/tháng (chưa VAT).
+   <br/>
+   Ưu điểm: Văn phòng vuông vức, dịch vụ quản lý chuyên nghiệp. Sẵn sàn, trần, điều hoà và WC riêng.
+   <br/>
+   ---------------------------------------------
+   <br/>
+   <br/>
+   Vui lòng liên hệ tôi để được tư vấn nhiều sản phẩm văn phòng cho thuê phù hợp với nhu cầu của bạn.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      98 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      18 triệu/tháng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0792406,108.2149453&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   D
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Thúy Dung">
+     Thúy Dung
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/52c802de49e1805c" tracking-id="user-listing-ldp">
+      Xem thêm 3 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38202664">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-hoa-cuong-bac" title="Văn phòng Hòa Cường Bắc Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hòa Cường Bắc Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-duong-2-9-1-46" title="Văn phòng 2 9 Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng 2 9 Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-hai-chau-ddn" title="Văn phòng Hải Châu Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hải Châu Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-da-nang" title="Văn phòng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-van-phong-gia-re-tai-da-nang" title="Thuê văn phòng giá rẻ tại đà nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê văn phòng giá rẻ tại đà nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    28/09/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    08/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38202664
+   </span>
+  </div>
+ </div>
+</div>

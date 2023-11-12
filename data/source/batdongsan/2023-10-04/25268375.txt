@@ -1,0 +1,484 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="25268375" uid="587734">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cắt lỗ hơn 2 tỷ căn shophouse Bàu Tràm Lakeside, View hồ, đường Mê Linh, Q. Liên Chiểu, Đà Nẵng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án Lakeside Palace, Đường Mê Linh, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    4,6 tỷ
+   </span>
+   <span class="ext">
+    ~36,51 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    126 m²
+   </span>
+   <span class="ext">
+    3 tầng
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":25268375,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2020/07/22/20200722150609-8070_wm.jpg","vipType":0,"title":"Cắt lỗ hơn 2 tỷ căn shophouse Bàu Tràm Lakeside, View hồ, đường Mê Linh, Q. Liên Chiểu, Đà Nẵng","titleHiddenMobile":"Cắt lỗ hơn 2 tỷ căn shophouse Bàu Tràm Lakeside, View hồ, đường Mê Linh, Q. Liên Chiểu, Đà Nẵng","url":"https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-duong-me-linh-phuong-hoa-hiep-nam-prj-lakeside-palace/-da-co-so-gia-lai-re-q-lien-chieu-da-nang-chi-2-2-ty-pr25268375","productIdPrefix":"25268375$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-duong-me-linh-phuong-hoa-hiep-nam-prj-lakeside-palace/-da-co-so-gia-lai-re-q-lien-chieu-da-nang-chi-2-2-ty-pr25268375&amp;t=Cắt lỗ hơn 2 tỷ căn shophouse Bàu Tràm Lakeside, View hồ, đường Mê Linh, Q. Liên Chiểu, Đà Nẵng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-duong-me-linh-phuong-hoa-hiep-nam-prj-lakeside-palace/-da-co-so-gia-lai-re-q-lien-chieu-da-nang-chi-2-2-ty-pr25268375" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=25268375">
+   Dự án nhà shophouse Lakeside Palace tọa lạc ngay trên tuyến đường huyết mạch tên là Mê Linh (đường số 5) đây cũng chính là cửa ngõ kinh tế về Cảng biển, sản xuất công nghiệp, chế tạo công nghệ của những nhà đầu tư khủng trên thế giới tại khu vực miền trung.
+   <br/>
+   <br/>
+   Đầu tư và sở hữu shophouse Lakeside Palace anh chị được gì?
+   <br/>
+   - Giá trị dòng tiền: Cam kết thuê lại với mức hỗ trợ 5%/năm từ chủ sở hữu đã giải quyết trọn vẹn bài toán về chi phí lợi nhuận từ cho thuê cho anh chị.
+   <br/>
+   - Chất lượng: Công trình khi bàn giao nhà nhận được vô số lời khen và cảm ơn từ Khách hàng khi mặt ngoài ốp toàn bộ đá Marble nhập khẩu, Sơn chống thấm đạt tiêu chuẩn cao nhất.
+   <br/>
+   - Vị trí độc tôn: BĐS mặt nước luôn được giới chuyên môn đánh giá rất cao khi giá trị BĐS này về tương lai không có giới hạn ở mức độ tăng giá.
+   <br/>
+   <br/>
+   Thông tin nhà shophouse Lakeside Palace:
+   <br/>
+   - Nhà 1 trệt, 2 lầu xây kiên cố.
+   <br/>
+   - Diện tích đất 126m².
+   <br/>
+   - Diện tích sàn 260m².
+   <br/>
+   - Hướng nhà Đông Nam.
+   <br/>
+   - Đường quy hoạch 33m (2 làn).
+   <br/>
+   - View trực diện hồ sinh thái 64ha.
+   <br/>
+   - Hộ khẩu Quận liên chiểu, Đà Nẵng.
+   <br/>
+   - Giá bán thương lượng.
+   <br/>
+   <br/>
+   Liên hệ xem nhà:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="7b78f6e7b6c86c8286dcbaf28356b25d" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=25268375">
+    0901 949 ***
+   </span>
+   .
+   <br/>
+   Hỗ trợ ngân hàng lên đến 50%.
+   <br/>
+   Đã có sổ đỏ.
+   <br/>
+   <br/>
+   Mọi nhu cầu quý khách vui lòng liên hệ Đức Huy.
+   <br/>
+   Hotline:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="7b78f6e7b6c86c8286dcbaf28356b25d" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=25268375">
+    0901 949 ***
+   </span>
+   (Zalo, Viber, SMS).
+   <br/>
+   Gmail:
+   <a href="mailto:tranduchuyyy@gmail.com">
+    tranduchuyyy@gmail.com
+   </a>
+   <br/>
+   Cam kết giá tốt nhất và thực tế nhất tại dự án.
+   <br/>
+   100% các căn đưa đến khách hàng là giá tốt nhất tại dự án nhà shophouse Lakeside Palace.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      126 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      4,6 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-road">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Đường vào
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      34 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đông - Nam
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3 tầng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Không nội thất
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-ban-lakeside-palace" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 66 tin đăng bán
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-khu-do-thi-moi-lien-chieu-ddn/lakeside-palace-pj2888" target="_blank">
+      <img alt="Lakeside Palace" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2017/05/05/0I4XNtd4/20170505084413-b7e4.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       Lakeside Palace
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Đang cập nhật tiến độ" class="re__prj-card-config-value re__wrap-long-text" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Đang cập nhật tiến độ
+       </span>
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Công ty CP Đầu tư Sài Gòn - Đà Nẵng" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Công ty CP Đầu tư Sài Gòn - Đà Nẵng
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5d7a9d82.msvbds.pricing-insight.min.css" rel="stylesheet"/>
+ <div class="re__section pd-pricing-insight lazyload" data-func='new FrontEnd.Product.Details.PricingInsight({"prefixPrice":"~","price":36.51,"min":31.976,"max":44.933665008291875,"avg":36.97004608294931,"isRent":"false"})' data-script="https://staticfile.batdongsan.com.vn/js/Product/Binnova/Details/filestatic.ver5d7a9d82.msvbds.FrontEnd.Product.Details.PricingInsight.min.js" tracking-id="ldp-listing-pricing-insight">
+  <h3 class="re__section-title">
+   Khoảng giá phổ biến
+   <span class="re__icon-info-circle--sm pricing-insight--info js__pricing-insight--info">
+    <span class="pricing-insight--note">
+     Thông tin được tổng hợp bởi Batdongsan.com.vn trong vòng 3 tháng gần nhất
+    </span>
+   </span>
+  </h3>
+  <div class="pricing-insight--sub-title">
+   Bán shophouse, nhà phố thương mại tại Lakeside Palace
+  </div>
+  <div class="pd-pricing-insight--border js__pd-pricing-insight--border">
+   <div class="pd-pricing-insight--content">
+    <div class="pricing-content-row-label">
+     <div class="pricing-avg-min pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg pricing-content-row">
+      <div class="pricing-content--r1">
+       Giá phổ biến nhất
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg-max pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+    <div class="bg-pricing">
+    </div>
+    <div class="bg-pricing-avg">
+    </div>
+    <div class="pricing-avg-min pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+        Giá phổ biến nhất
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg-max pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-product">
+     <div class="pricing-content">
+      <div class="pricing-content--r1">
+       Tin đang xem
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0935726165771,108.12629699707&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2023/01/09/20230109142734-5c59.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Trần Đức Huy">
+     Trần Đức Huy
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/145c7e1e20aac14e" tracking-id="user-listing-ldp">
+      Xem thêm 21 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=25268375">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-shophouse-nha-pho-thuong-mai-lakeside-palace/dt-tu-100m2-den-150m2" title="Shophouse Lakeside Palace từ 100 m2 đến 150 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Shophouse Lakeside Palace từ 100 m2 đến 150 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-shophouse-nha-pho-thuong-mai-phuong-hoa-hiep-nam" title="Shophouse Hòa Hiệp Nam " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Shophouse Hòa Hiệp Nam
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-shophouse-nha-pho-thuong-mai-duong-me-linh-45" title="Shophouse Mê Linh " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Shophouse Mê Linh
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-shophouse-nha-pho-thuong-mai-da-nang" title="Shophouse Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Shophouse Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-shophouse-nha-pho-thuong-mai-da-nang/gia-tu-3-ty-den-5-ty" title="Shophouse Đà Nẵng từ 3 tỉ đến 5 tỉ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Shophouse Đà Nẵng từ 3 tỉ đến 5 tỉ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-shophouse-da-nang" title="Bán shophouse Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán shophouse Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    03/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    13/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    25268375
+   </span>
+  </div>
+ </div>
+</div>

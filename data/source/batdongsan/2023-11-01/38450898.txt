@@ -1,0 +1,266 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38450898" uid="2548765">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Chỉ với khoảng 36 triệu sở hữu ngay một mặt bằng thương mại Prime Beachfront tại Đà Nẵng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    36,6 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    600 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38450898,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/11/01/20231101134205-9ee6_wm.jpg","vipType":0,"title":"Chỉ với khoảng 36 triệu sở hữu ngay một mặt bằng thương mại Prime Beachfront tại Đà Nẵng","titleHiddenMobile":"Chỉ với khoảng 36 triệu sở hữu ngay một mặt bằng thương mại Prime Beachfront tại Đà Nẵng","url":"https://batdongsan.com.vn/cho-thue-sang-nhuong-cua-hang-ki-ot-phuong-tho-quang/chi-voi-1500-so-huu-ngay-mot-mat-bang-thuong-mai-prime-beachfront-tai-da-nang-pr38450898","productIdPrefix":"38450898$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-sang-nhuong-cua-hang-ki-ot-phuong-tho-quang/chi-voi-1500-so-huu-ngay-mot-mat-bang-thuong-mai-prime-beachfront-tai-da-nang-pr38450898&amp;t=Chỉ với khoảng 36 triệu sở hữu ngay một mặt bằng thương mại Prime Beachfront tại Đà Nẵng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-sang-nhuong-cua-hang-ki-ot-phuong-tho-quang/chi-voi-1500-so-huu-ngay-mot-mat-bang-thuong-mai-prime-beachfront-tai-da-nang-pr38450898" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38450898">
+   Đặc Điểm:
+   <br/>
+   <br/>
+   - Được phê duyệt cho mục đích kinh doanh.
+   <br/>
+   - Nằm ngay bên bãi biển.
+   <br/>
+   - Chỗ đậu xe rộng rãi.
+   <br/>
+   - Tầm nhìn biển đẹp.
+   <br/>
+   - Bãi đỗ xe riêng.
+   <br/>
+   - Khu vực ngoài trời.
+   <br/>
+   - Cách bãi biển chỉ vài bước chân.
+   <br/>
+   * Một cơ hội tuyệt vời để thuê một mặt bằng thương mại ngay bên bãi biển, hứa hẹn sẽ là nguồn cảm hứng cho sự thành công kinh doanh của bạn. Nằm ẩn mình tại một vị trí đắc địa, bất động sản này với diện tích 600 mét vuông từng nổi danh với tư cách một nhà hàng nổi tiếng đã từng quyến rũ người nước ngoài, người Hàn Quốc và người Nhật Bản.
+   <br/>
+   <br/>
+   * Nằm ngay tại vị trí biển, mặt bằng thương mại này mang lại không chỉ cơ hội kinh doanh mà còn là một trải nghiệm độc đáo. Bạn sẽ bị cuốn hút bởi sự gần gũi với thiên nhiên, với tầm nhìn tuyệt đẹp về dãy núi và sự ôm trọn của bãi biển. Nằm cách khu bán đảo Sơn Trà danh tiếng và một khu resort 5 sao xa hoa không xa, vị trí này tỏ ra riêng biệt và đảm bảo lưu lượng khách hàng cao.
+   <br/>
+   <br/>
+   * Việc tiếp cận dễ dàng, nhờ vào việc đặt mặt bằng ngay trên một con đường nổi bật, đảm bảo sự tiện lợi cho cả khách hàng lẫn việc giao hàng. Việc quảng cáo và tiếp cận khách hàng sẽ không gây khó khăn, vì vị trí này cung cấp sự tiếp xúc đầy đủ cho kinh doanh của bạn. Cho dù bạn muốn tiếp tục sự kế thừa của một nhà hàng biểu tượng hoặc đem đến một khái niệm mới tại vị trí biển đắc địa này, mặt bằng thương mại này đều cung cấp bức tranh hoàn hảo cho tầm nhìn của bạn. Đừng bỏ lỡ cơ hội xuất sắc này để tạo ra những trải nghiệm đáng nhớ cho khách hàng và viết thêm một trang mới trong câu chuyện của vị trí đặc biệt này.
+   <br/>
+   <br/>
+   Giá: $1,500 (khoảng 36.6 triệu VND).
+   <br/>
+   Thông tin nhiều hơn tại:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="be69f75f87ff64672d9d9e0ad16d8390" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=38450898">
+    0388 097 ***
+   </span>
+   .
+   <br/>
+   Ms. Huy Hoàng.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      600 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      36,6 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Cơ bản.
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="2">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.1292639719952,108.2787810516&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   C
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Hoàng Cvr">
+     Hoàng Cvr
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/24d2b1c0cf6f30bd" tracking-id="user-listing-ldp">
+      Xem thêm 2 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38450898">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-sang-nhuong-cua-hang-ki-ot-phuong-tho-quang" title="Cửa hàng Thọ Quang Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cửa hàng Thọ Quang Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-sang-nhuong-cua-hang-ki-ot-son-tra-ddn" title="Cửa hàng Sơn Trà Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cửa hàng Sơn Trà Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-sang-nhuong-cua-hang-ki-ot-da-nang" title="Cửa hàng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cửa hàng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-sang-nhuong-cua-hang-ki-ot-phuong-an-hai-bac" title="Cửa hàng An Hải Bắc Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cửa hàng An Hải Bắc Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-sang-nhuong-cua-hang-ki-ot-phuong-phuoc-my" title="Cửa hàng Phước Mỹ Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cửa hàng Phước Mỹ Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-resort-da-nang" title="Thuê resort Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê resort Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    01/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    11/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38450898
+   </span>
+  </div>
+ </div>
+</div>

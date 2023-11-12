@@ -1,0 +1,237 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="36840519" uid="2151016">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Văn phòng ảo trọn gói - giá rẻ - tiết kiệm chi phí tại Q. Hải Châu - Đà Nẵng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  111, Phố Lê Thanh Nghị, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    549 nghìn/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    15 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":36840519,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/03/27/20230327115924-114f_wm.jpg","vipType":0,"title":"Văn phòng ảo trọn gói - giá rẻ - tiết kiệm chi phí tại Q. Hải Châu - Đà Nẵng","titleHiddenMobile":"Văn phòng ảo trọn gói - giá rẻ - tiết kiệm chi phí tại Q. Hải Châu - Đà Nẵng","url":"https://batdongsan.com.vn/cho-thue-van-phong-pho-le-thanh-nghi-phuong-hoa-cuong-bac/-ao-quan-7-khu-my-hung-gia-re-tron-goi-chi-300k-th-pr36840519","productIdPrefix":"36840519$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-van-phong-pho-le-thanh-nghi-phuong-hoa-cuong-bac/-ao-quan-7-khu-my-hung-gia-re-tron-goi-chi-300k-th-pr36840519&amp;t=Văn phòng ảo trọn gói - giá rẻ - tiết kiệm chi phí tại Q. Hải Châu - Đà Nẵng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-van-phong-pho-le-thanh-nghi-phuong-hoa-cuong-bac/-ao-quan-7-khu-my-hung-gia-re-tron-goi-chi-300k-th-pr36840519" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=36840519">
+   VPA Hải Châu - Giải pháp chuyên nghiệp doanh nghiệp trẻ tại Đà Nẵng.
+   <br/>
+   <br/>
+   Địa chỉ: 111 Lê Thanh Nghị, phường Hoà Cường Bắc, quận Hải Châu, Đà Nẵng.
+   <br/>
+   <br/>
+   Với sự phát triển nhanh chóng của kinh tế và du lịch, Đà Nẵng đang trở thành một trong những địa điểm thu hút nhiều doanh nghiệp và nhà đầu tư. Văn phòng ảo tại VPA Hải Châu là giải pháp tối ưu cho các doanh nghiệp tại Đà Nẵng.
+   <br/>
+   <br/>
+   VPA Hải Châu với nhiều tiện ích và dịch vụ hỗ trợ đáp ứng tốt các nhu cầu kinh doanh của các doanh nghiệp.
+   <br/>
+   <br/>
+   Vị trí tại trung tâm thành phố Đà Nẵng, gần các tuyến đường chính và các trung tâm thương mại, dịch vụ. Giúp doanh nghiệp tiết kiệm chi phí cho việc di chuyển và tăng tính linh hoạt trong hoạt động kinh doanh.
+   <br/>
+   <br/>
+   VPA Hải Châu cung cấp đầy đủ các tiện ích như địa chỉ văn phòng đại diện, số điện thoại nội bộ và các hỗ trợ khác để giúp các doanh nghiệp hoạt động hiệu quả và tiết kiệm chi phí.
+   <br/>
+   Đây là một giải pháp hiệu quả cho các doanh nghiệp mới thành lập, liên hệ CEKS để biết thêm thông tin.
+   <br/>
+   Gọi điện ngay để biết thêm thông tin.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      15 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      549 nghìn/m²
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=10.7435706,106.733001&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   P
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Phố Văn Phòng">
+     Phố Văn Phòng
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/11e08b4f371142d3" tracking-id="user-listing-ldp">
+      Xem thêm 10 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=36840519">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-hoa-cuong-bac" title="Văn phòng Hòa Cường Bắc " tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hòa Cường Bắc
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-pho-le-thanh-nghi-45" title="Văn phòng lê thanh nghị " tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng lê thanh nghị
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-da-nang" title="Văn phòng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-hoa-cuong-nam" title="Văn phòng Hòa Cường Nam Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hòa Cường Nam Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-duong-30-4-1-46" title="Văn phòng 30 4 Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng 30 4 Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-duong-nguyen-tri-phuong-1-46" title="Văn phòng Nguyễn Tri Phương Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Nguyễn Tri Phương Hải Châu
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    30/09/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    15/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    36840519
+   </span>
+  </div>
+ </div>
+</div>

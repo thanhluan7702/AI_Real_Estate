@@ -1,0 +1,436 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38307168" uid="1400965">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Căn hộ mặt sông hàn cao cấp tại Đà Nẵng, gần bãi tắm mở bán giai đoạn 1
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án Sun Cosmo Residence, Đường Trần Thị Lý, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    2,1 tỷ
+   </span>
+   <span class="ext">
+    ~52,5 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    40 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    1 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38307168,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/10/12/20231012161058-dfa6_wm.jpg","vipType":0,"title":"Căn hộ mặt sông hàn cao cấp tại Đà Nẵng, gần bãi tắm mở bán giai đoạn 1","titleHiddenMobile":"Căn hộ mặt sông hàn cao cấp tại Đà Nẵng, gần bãi tắm mở bán giai đoạn 1","url":"https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-thi-ly-phuong-my-an-prj-sun-cosmo-residence/-mat-song-han-cao-cap-tai-da-nang-gan-bai-tam-mo-ban-giai-doan-1-pr38307168","productIdPrefix":"38307168$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-thi-ly-phuong-my-an-prj-sun-cosmo-residence/-mat-song-han-cao-cap-tai-da-nang-gan-bai-tam-mo-ban-giai-doan-1-pr38307168&amp;t=CĂN HỘ MẶT SÔNG HÀN CAO CẤP TẠI ĐÀ NẴNG, GẦN BÃI TẮM MỞ BÁN GIAI ĐOẠN 1" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-thi-ly-phuong-my-an-prj-sun-cosmo-residence/-mat-song-han-cao-cap-tai-da-nang-gan-bai-tam-mo-ban-giai-doan-1-pr38307168" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38307168">
+   Mở bán giai đoạn 1 phân khúc căn hộ cao cấp ngay mặt tiền sông Hàn, thành phố Đà Nẵng The Panoma.
+   <br/>
+   - Quy mô: 2 tòa tháp căn hộ The Panoma cao 27 - 34 tầng nối bởi dãy shophouse 6 - 7 tầng và phân khu biệt thự.
+   <br/>
+   - Chủ đầu tư: Sun Group.
+   <br/>
+   - Cạnh cầu sông Hàn, cách bãi tắm Mỹ Khê Đà Nẵng chỉ 1km.
+   <br/>
+   - Dành riêng 4 tầng cho tiện ích: Hồ bơi vô cực ngắm sông Hàn, trung tâm thương mại, gym, spa, sân vườn trên không, vườn thiền, yoga, kid club, sky bar,
+   <br/>
+   - Thiết kế đọc bản tạo nên biểu tượng mới của thành phố Đà Nẵng.
+   <br/>
+   - Diện tích: 35 đến 99m² gồm căn studio, 1 PN + , 2 PN, 2 PN + , 3 PN.
+   <br/>
+   - Giá bán đã gồm VAT và kinh phí bảo trì, chưa chiết khấu:
+   <br/>
+   + Căn studio: 1.5-2.5 tỷ.
+   <br/>
+   + Căn 1PN + : 2.4 3 tỷ.
+   <br/>
+   + Căn 2PN: 4 6 tỷ.
+   <br/>
+   + Căn 2 PN: 6 tỷ.
+   <br/>
+   + Căn 3 PN: 6 - 9 tỷ.
+   <br/>
+   - Chiết khấu trực tiếp chủ đầu tư tới 21%.
+   <br/>
+   - Mở bán giai đoạn 1, thanh toán dàn trải theo tiến độ. Thích hợp đầu tư từ đầu, có thể ở mang phong cách nghỉ dưỡng hoặc cho thuê giá cao.
+   <br/>
+   Nhiều quà tặng hấp dẫn khác cho những khách hàng sở hữu đầu tiên.
+   <br/>
+   Gọi ngay hotline
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="7376020080e1f466bfbf7d6826c763a4" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38307168">
+    0942 384 ***
+   </span>
+   Thanh Nga để nhận ưu đãi và thông tin mới nhất.
+   <br/>
+   Phòng kinh doanh căn hộ The Panoma Đà Nẵng.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      40 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2,1 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      1 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      1 phòng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-ban-sun-cosmo-residence" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 101 tin đăng bán
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-khu-phuc-hop-ngu-hanh-son-ddn/sun-cosmo-residence-pj5823" target="_blank">
+      <img alt="Sun Cosmo Residence" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2023/03/29/20230329153719-8b6a_wm.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       Sun Cosmo Residence
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: 6/2023: Đang bán khu cao tầng" class="re__prj-card-config-value re__wrap-long-text" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        6/2023: Đang bán khu cao tầng
+       </span>
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Tập đoàn Sun Group" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Tập đoàn Sun Group
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver1be749a2.msvbds.pricing-insight.min.css" rel="stylesheet"/>
+ <div class="re__section pd-pricing-insight lazyload" data-func='new FrontEnd.Product.Details.PricingInsight({"prefixPrice":"~","price":52.5,"min":48.94065306122449,"max":74.56364859493011,"avg":61.36244897959184,"isRent":"false"})' data-script="https://staticfile.batdongsan.com.vn/js/Product/Binnova/Details/filestatic.ver1be749a2.msvbds.FrontEnd.Product.Details.PricingInsight.min.js" tracking-id="ldp-listing-pricing-insight">
+  <h3 class="re__section-title">
+   Khoảng giá phổ biến
+   <span class="re__icon-info-circle--sm pricing-insight--info js__pricing-insight--info">
+    <span class="pricing-insight--note">
+     Thông tin được tổng hợp bởi Batdongsan.com.vn trong vòng 3 tháng gần nhất
+    </span>
+   </span>
+  </h3>
+  <div class="pricing-insight--sub-title">
+   Bán căn hộ chung cư tại Sun Cosmo Residence
+  </div>
+  <div class="pd-pricing-insight--border js__pd-pricing-insight--border">
+   <div class="pd-pricing-insight--content">
+    <div class="pricing-content-row-label">
+     <div class="pricing-avg-min pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg pricing-content-row">
+      <div class="pricing-content--r1">
+       Giá phổ biến nhất
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg-max pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+    <div class="bg-pricing">
+    </div>
+    <div class="bg-pricing-avg">
+    </div>
+    <div class="pricing-avg-min pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+        Giá phổ biến nhất
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg-max pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-product">
+     <div class="pricing-content">
+      <div class="pricing-content--r1">
+       Tin đang xem
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="js__pricing-insight-extented">
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.05078125,108.23290252685547&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2023/09/12/20230912093600-04ca.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Thanh Nga">
+     Thanh Nga
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/84587a3a73b9f4f0" tracking-id="user-listing-ldp">
+      Xem thêm 14 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38307168">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-sun-cosmo-residence/dt-tu-30m2-den-50m2" title="Căn hộ Sun Cosmo Residence từ 30 m2 đến 50 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Sun Cosmo Residence từ 30 m2 đến 50 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-phuong-my-an" title="Căn hộ Mỹ An Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Mỹ An Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-can-ho-gia-re-da-nang" title="Bán căn hộ giá rẻ Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán căn hộ giá rẻ Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-can-ho-gia-re-da-nang" title="Bán căn hộ giá rẻ Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán căn hộ giá rẻ Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-chung-cu-da-nang-gia-re" title="bán chung cư đà nẵng giá rẻ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     bán chung cư đà nẵng giá rẻ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/mua-chung-cu-gia-re-da-nang" title="mua chung cư giá rẻ đà nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     mua chung cư giá rẻ đà nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    12/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    22/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38307168
+   </span>
+  </div>
+ </div>
+</div>

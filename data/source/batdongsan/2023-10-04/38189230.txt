@@ -1,0 +1,361 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38189230" uid="1073671">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cho thuê khách sạn 3 sao 8 tàng gồm 50 phòng đường An Thượng sát phố đi bộ Trần Bạch Đằng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường An Thượng 30, Phường Hòa Quý, Ngũ Hành Sơn, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    140 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    300 m²
+   </span>
+   <span class="ext">
+    7 tầng
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38189230,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/09/26/20230926224501-11a2_wm.jpg","vipType":0,"title":"Cho thuê khách sạn 3 sao 8 tàng gồm 50 phòng đường An Thượng sát phố đi bộ Trần Bạch Đằng","titleHiddenMobile":"Cho thuê khách sạn 3 sao 8 tàng gồm 50 phòng đường An Thượng sát phố đi bộ Trần Bạch Đằng","url":"https://batdongsan.com.vn/cho-thue-nha-mat-pho-duong-an-thuong-30-phuong-hoa-quy/cho-khach-s-3-sao-8-tg-gom-50-ng-sat-di-bo-tr-bach-dg-pr38189230","productIdPrefix":"38189230$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-nha-mat-pho-duong-an-thuong-30-phuong-hoa-quy/cho-khach-s-3-sao-8-tg-gom-50-ng-sat-di-bo-tr-bach-dg-pr38189230&amp;t=Cho thuê khách sạn 3 sao 8 tàng gồm 50 phòng đường An Thượng sát phố đi bộ Trần Bạch Đằng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-nha-mat-pho-duong-an-thuong-30-phuong-hoa-quy/cho-khach-s-3-sao-8-tg-gom-50-ng-sat-di-bo-tr-bach-dg-pr38189230" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38189230">
+   Cho thuê khách Sạn 3 sao 8 tầng đường An Thượng sát Phố đi bộ Trần Bạch Đằng.
+   <br/>
+   + Diện tích đất 300m² * 7 tầng.
+   <br/>
+   + Công năng: 50 phòng. Hầm để xe hiện đại.
+   <br/>
+   Đầy đủ pháp lý phòng cháy chữa cháy.
+   <br/>
+   Giá thuê: 140 triệu/tháng, thương lượng chính chủ.
+   <br/>
+   Liên hệ
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="c3c8121920c3e39efb7c4a31777f5275" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=38189230">
+    0935 088 ***
+   </span>
+   gặp em Thủy xem trực tiếp và LVCC.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      300 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      140 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      7 tầng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5d7a9d82.msvbds.pricing-insight.min.css" rel="stylesheet"/>
+ <div class="re__section pd-pricing-insight js__pricing-insight--info lazyloading" data-func='new FrontEnd.Product.Details.PricingInsightLazyload({"SimilarProduct":null,"ProductLocation":null,"AreaDisplay":null,"AreaDisplayExtention":null,"PriceDisplay":null,"PriceDisplayExtention":null,"DoneTitle":null,"IsExpiredSixMonths":false,"ExpirationType":0,"IsExpired":false,"IsSponsoredListing":false,"VipTypeDisplay":null,"VipBeginDate":null,"CategoryDisplay":null,"NoteText":null,"TopBankLink":null,"FullImageUrls":null,"List360Images":null,"Project":null,"MainEnterprise":null,"EnterpriseLogo":null,"EnterpriseLogoUrl":null,"ProductCountByUser":0,"OtherListingCountByUser":-1,"Tags":null,"TagsScope":null,"TagCategory":null,"EncryptedUserId":null,"RawUrlOrigin":null,"RawUrl":null,"Direction":0,"OriginTitle":null,"IsFavorated":false,"FullUrl":null,"IsHomeEN":false,"Images":null,"CaptionImgs":null,"Is360":false,"IsImage":false,"IsAddon":false,"AvatarInfo":null,"AvatarInfoWap":null,"LastUpTime":null,"LastUpDateTime":"0001-01-01T00:00:00","TitleClass":null,"PriceSort":0.0,"AreaSort":0.0,"Area":null,"AddressList":null,"TitleExtented":null,"IsExtented":false,"PricingInsight":null,"ListPricingInsightExtented":null,"PricingHistoryModel":null,"PricingHistoryCheckDisplay":null,"StrPricingInsightExtented":null,"BrokerInfo":null,"AgentProfileLink":null,"NewTitleClass":"vip-normal","IsForLand":false,"IsForRent":false,"DistanceValue":0,"CategoryIdsAsStringLeadgen":null,"CityCodeLeadgen":null,"DistrictIdsAsStringLeadgen":null,"PriceAsStrLeadgen":null,"Fullname":null,"Mobile":null,"Note":null,"MarkedProductInfoAsJson":"{\"productId\":38189230,\"avatarinfowap\":null,\"vipType\":0,\"title\":null,\"titleHiddenMobile\":null,\"url\":null,\"productIdPrefix\":\"38189230$\"}","ProductId":38189230,"Title":null,"Description":null,"ShortDescription":null,"ProductAlias":null,"VipOrder":0,"IsVideo":null,"Is3DScan":null,"VideoUrl":null,"VideoId":null,"CreateDate":"0001-01-01T00:00:00","CreateByUser":0,"UpdateByUser":null,"LastUpdate":null,"PublishDate":null,"HideDate":null,"ComputedPrice":null,"MapStatus":null,"Status":0,"BasicInfo":null,"ContactInfo":null,"OtherInfo":null,"VipInfo":null,"MatterPort":null,"ProductTag":null,"Category":null,"SimilarProducts":null,"CateId":51,"ProjectId":0,"DistrictId":48,"StreetId":0,"WardId":270,"CityCode":"DDN","ProductType":49,"IsUnpublished":false,"ProjectInfo":null,"ProjectNetInfo":null,"StreetInfo":null,"WardInfo":null,"DistrictInfo":null,"CityInfo":null,"CateInfo":null,"IsDisplay":false,"SourceNews":null,"SupportUser":null,"AssignToUser":null,"AssignByUser":null,"ProductFavorited":null,"StartDate":"0001-01-01T00:00:00","EndDate":"0001-01-01T00:00:00","VipType":0,"DisplayedVipType":5,"IsPreview":false,"ConvertedPrice":null,"IsVerified":false,"IndividualAvatar":null,"IndividualGender":null,"UserAvatar":null,"UserType":null,"ListingType":null,"IsDiamondDuplicate":false,"AgentProfile":null,"TitleHiddenMobile":null,"DescriptionHiddenMobile":null})' data-prefix="~" data-price="140" data-script="https://staticfile.batdongsan.com.vn/js/Product/Binnova/Details/filestatic.ver5d7a9d82.msvbds.FrontEnd.Product.Details.PricingInsight.min.js" data-url="/Product/ProductDetail/GetPricingInsight" tracking-id="ldp-listing-pricing-insight">
+  <h3 class="re__section-title">
+   Khoảng giá phổ biến
+   <span class="re__icon-info-circle--sm pricing-insight--info js__pricing-insight--info">
+    <span class="pricing-insight--note">
+     Thông tin được tổng hợp bởi Batdongsan.com.vn trong vòng 3 tháng gần nhất
+    </span>
+   </span>
+  </h3>
+  <div class="pricing-insight--sub-title js__pricing-insight--sub-title">
+  </div>
+  <div class="pd-pricing-insight--border">
+   <div class="pd-pricing-insight--content">
+    <div class="pricing-content-row-label">
+     <div class="pricing-avg-min pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg pricing-content-row">
+      <div class="pricing-content--r1">
+       Giá phổ biến nhất
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg-max pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+    <div class="bg-pricing">
+    </div>
+    <div class="bg-pricing-avg">
+    </div>
+    <div class="pricing-avg-min pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+        Giá phổ biến nhất
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg-max pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-product">
+     <div class="pricing-content">
+      <div class="pricing-content--r1">
+       Tin đang xem
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0512061,108.2462336&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   D
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Thủy Đặng">
+     Thủy Đặng
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/2e76625fb5560c71" tracking-id="user-listing-ldp">
+      Xem thêm 3 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38189230">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-mat-pho-phuong-hoa-quy" title="Thuê nhà mặt phố Hòa Quý Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà mặt phố Hòa Quý Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-mat-pho-duong-an-thuong-30-48" title="Thuê nhà mặt phố An Thượng 30 Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà mặt phố An Thượng 30 Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-mat-pho-ngu-hanh-son-ddn" title="Thuê nhà mặt phố Ngũ Hành Sơn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà mặt phố Ngũ Hành Sơn Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-mat-pho-da-nang" title="Thuê nhà mặt phố Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà mặt phố Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-khach-san-da-nang" title="Thuê khách sạn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê khách sạn Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    26/09/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    06/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38189230
+   </span>
+  </div>
+ </div>
+</div>

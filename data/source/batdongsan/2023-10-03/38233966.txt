@@ -1,0 +1,293 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38233966" uid="2530753">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cho thuê phòng dạy học giá rẻ đầy đủ tiện nghi
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  380, Phố Tôn Đức Thắng, Phường Hòa Minh, Liên Chiểu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    300 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38233966,"avatarinfowap":"","vipType":0,"title":"Cho thuê phòng dạy học giá rẻ đầy đủ tiện nghi","titleHiddenMobile":"Cho thuê phòng dạy học giá rẻ đầy đủ tiện nghi","url":"https://batdongsan.com.vn/cho-thue-van-phong-pho-ton-duc-thang-phuong-hoa-minh/cho-day-hoc-gia-re-day-du-tien-nghi-pr38233966","productIdPrefix":"38233966$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-van-phong-pho-ton-duc-thang-phuong-hoa-minh/cho-day-hoc-gia-re-day-du-tien-nghi-pr38233966&amp;t=Cho thuê phòng dạy học giá rẻ đầy đủ tiện nghi" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-van-phong-pho-ton-duc-thang-phuong-hoa-minh/cho-day-hoc-gia-re-day-du-tien-nghi-pr38233966" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38233966">
+   Cho thuê phòng học hiện đại - nơi lý tưởng cho các khóa học.
+   <br/>
+   <br/>
+   Địa điểm: 380 Tôn Đức Thắng, Phường Hòa Minh, Liên Chiểu, Đà Nẵng.
+   <br/>
+   <br/>
+   Bạn đang tìm một không gian lý tưởng để tổ chức các khóa học, hoặc các sự kiện đào tạo chuyên nghiệp? Chúng tôi có một giải pháp dành riêng cho bạn!
+   <br/>
+   <br/>
+   Phòng học hiện đại.
+   <br/>
+   <br/>
+   Với một địa điểm thuận tiện tại 380 Tôn Đức Thắng, chúng tôi cung cấp cho bạn các phòng học hiện đại và tiện nghi để đáp ứng mọi nhu cầu của bạn. Dù bạn cần một không gian cho các buổi học tập, khóa đào tạo, buổi họp nhóm, hoặc sự kiện đặc biệt, chúng tôi có phòng học phù hợp.
+   <br/>
+   <br/>
+   Tiện nghi đẳng cấp.
+   <br/>
+   <br/>
+   Phòng học của chúng tôi được trang bị đầy đủ các thiết bị cần thiết cho môi trường học tập và đào tạo chuyên nghiệp:
+   <br/>
+   <br/>
+   Bàn và ghế đầy đủ cho tất cả các học viên.
+   <br/>
+   Màn hình TV để trình chiếu.
+   <br/>
+   Kết nối internet tốc độ cao.
+   <br/>
+   Hệ thống âm thanh chất lượng.
+   <br/>
+   Bảng trắng và bút viết.
+   <br/>
+   Linh Hoạt với Thời Gian và Giá Cả.
+   <br/>
+   <br/>
+   Chúng tôi cung cấp sự linh hoạt với thời gian và giá cả để đáp ứng nhu cầu của bạn. Bạn có thể thuê phòng học của chúng tôi theo giờ, ngày, tuần, hoặc thậm chí cả tháng. Điều này giúp bạn tiết kiệm thời gian và tiền bạc.
+   <br/>
+   <br/>
+   Dịch vụ hỗ trợ.
+   <br/>
+   <br/>
+   Chúng tôi cam kết mang đến trải nghiệm thuê phòng tốt nhất cho bạn. Đội ngũ hỗ trợ của chúng tôi luôn sẵn sàng để giúp bạn chuẩn bị và quản lý sự kiện của mình một cách suôn sẻ.
+   <br/>
+   <br/>
+   Liên hệ ngay hôm nay.
+   <br/>
+   <br/>
+   Hãy liên hệ với chúng tôi ngay hôm nay để biết thêm thông tin chi tiết về việc cho thuê phòng học và những ưu đãi đặc biệt cho bạn. Chúng tôi luôn sẵn sàng để hỗ trợ bạn tạo ra một không gian học tập và đào tạo hoàn hảo.
+   <br/>
+   <br/>
+   Không gian học tập hoàn hảo đang chờ bạn. Đừng bỏ lỡ cơ hội này để tổ chức các sự kiện đào tạo và học tập hiệu quả tại địa điểm của chúng tôi!
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      300 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      4 tầng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Hợp đồng mua bán
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.058778,108.165282&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   H
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Wise Hr">
+     Wise Hr
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38233966">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-hoa-minh" title="Văn phòng Hòa Minh Liên Chiểu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hòa Minh Liên Chiểu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-pho-ton-duc-thang-47" title="Văn phòng tôn đức thắng Liên Chiểu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng tôn đức thắng Liên Chiểu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-lien-chieu-ddn" title="Văn phòng Liên Chiểu Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Liên Chiểu Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-da-nang" title="Văn phòng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-van-phong-gia-re-tai-da-nang" title="Thuê văn phòng giá rẻ tại đà nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê văn phòng giá rẻ tại đà nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    03/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    13/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38233966
+   </span>
+  </div>
+ </div>
+</div>

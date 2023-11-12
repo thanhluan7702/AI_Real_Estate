@@ -1,0 +1,294 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="37749935" uid="1177856">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cho thuê kho xưởng 300m2 đến 8000m2 tại KCN Hoà Cầm Đà Nẵng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường 10, Phường Hòa Thọ Tây, Cẩm Lệ, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    55 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    1.000 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":37749935,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/07/26/20230726082925-f24e_wm.jpg","vipType":0,"title":"Cho thuê kho xưởng 300m2 đến 8000m2 tại KCN Hoà Cầm Đà Nẵng","titleHiddenMobile":"Cho thuê kho xưởng 300m2 đến 8000m2 tại KCN Hoà Cầm Đà Nẵng","url":"https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-duong-10-phuong-hoa-tho-tay/cho-300m2-den-8000m2-tai-kcn-cam-da-nang-pr37749935","productIdPrefix":"37749935$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-duong-10-phuong-hoa-tho-tay/cho-300m2-den-8000m2-tai-kcn-cam-da-nang-pr37749935&amp;t=Cho thuê kho xưởng 300m2 đến 8000m2 tại KCN Hoà Cầm Đà Nẵng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-duong-10-phuong-hoa-tho-tay/cho-300m2-den-8000m2-tai-kcn-cam-da-nang-pr37749935" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=37749935">
+   Cho thuê kho xưởng 300m² đến 8000m² tại KCN Hoà Cầm Đà Nẵng.
+   <br/>
+   <br/>
+   Diện tích cho thuê:
+   <br/>
+   Kho số 1: Diện tích gồm: 200m², 300m², 500m² Phù hợp làm kho, xưởng nhỏ: 55k/m².
+   <br/>
+   Kho số 2: Diện tích: 1840m²: Kho kiên cố, PCCC đầy đủ: 55k/m².
+   <br/>
+   Kho số 3: Diện tích: 1000m², 1200m², 1800m²: Giá 60k/m².
+   <br/>
+   Kho số 4: Diện tích: 1000m²: Phù hợp làm xưởng sx nội thất, cơ khí. Giá 60k/m².
+   <br/>
+   Kho số 5: Diện tích: 1200m²: Phù hợp làm xưởng sx nội thất, cơ khí, nhôm kính. Giá 65k/m².
+   <br/>
+   Kho số 6: Diện tích: Từ 1000m² đến 4000m²: Kho tiêu chuẩn logistics, phù hợp chứa hàng, SX lắp ráp linh kiện. Giá 65k/m².
+   <br/>
+   <br/>
+   Kho bãi nằm trên trục đường lớn, không cấm tải, thuận tiện cho việc đậu xe, chứa hàng và các phương tiện ra vào, vị trí giao thông thuận lợi.
+   <br/>
+   Thuê kho có bảo vệ vòng ngoài, camera an ninh 24/7.
+   <br/>
+   Lưu kho dịch vụ hàng hóa được bảo quản cẩn thận, PCCC tiêu chuẩn.
+   <br/>
+   Hệ thống chiếu sáng, cấp thoát nước đầy đủ.
+   <br/>
+   Sân bãi rộng rãi, đường nội bộ, nhà để xe, hạ tầng tiêu chuẩn.
+   <br/>
+   Cao độ: 7.5 - 12,5m.
+   <br/>
+   Thời gian cho thuê dài hạn:
+   <br/>
+   <br/>
+   2/ vị trí:
+   <br/>
+   Khu công nghiệp Hoà Cầm Tp Đà Nẵng.
+   <br/>
+   <br/>
+   Quý khách hàng có nhu cầu mua - bán - thuê - cho thuê kho xưởng tại Miền Trung vui lòng liên hệ với chúng tôi để được tư vấn và hỗ trợ miễn phí.
+   <br/>
+   <br/>
+   Bất động sản công nghiệp Qlandgroup.
+   <br/>
+   Tư vấn thủ tục - Xúc tiến đầu tư BĐS Công nghiệp.
+   <br/>
+   Khai thác - Vận hành BĐS Công nghiệp.
+   <br/>
+   Thiết kế - Thi công - cho thuê - mua bán kho xưởng.
+   <br/>
+   Gmail:
+   <a href="mailto:xuctiendautuMT@gmail.com">
+    xuctiendautuMT@gmail.com
+   </a>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      1.000 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      55 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="2">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0065452,108.1846694&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2021/11/18/20211118113437-3a51.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Công Ty Tnhh Xây Dựng &amp; Tmdv Qlandgroup">
+     Công Ty Tnhh Xây Dựng &amp; Tmdv Qlandgroup
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/875e737b69c726d0" tracking-id="user-listing-ldp">
+      Xem thêm 3 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=37749935">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-phuong-hoa-tho-tay" title="Thuê nhà xưởng Hòa Thọ Tây Cẩm Lệ" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Hòa Thọ Tây Cẩm Lệ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-duong-10-45" title="Thuê nhà xưởng đường 10 Cẩm Lệ" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng đường 10 Cẩm Lệ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-cam-le-ddn" title="Thuê nhà xưởng Cẩm Lệ Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Cẩm Lệ Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-da-nang" title="Thuê nhà xưởng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/da-nang-cho-thue-nha-nguyen-can" title="Đà nẵng cho thuê nhà nguyên căn" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Đà nẵng cho thuê nhà nguyên căn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-can-ho-gia-re-da-nang" title="Cho thuê căn hộ giá rẻ đà nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê căn hộ giá rẻ đà nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    20/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    30/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    37749935
+   </span>
+  </div>
+ </div>
+</div>

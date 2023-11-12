@@ -1,0 +1,351 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38146659" uid="740630">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Căn hộ The Panoma 2 - Ngay mặt sông Hàn - Đối diện tòa nhà Viettel mới - GĐ2 chiết khấu lên đến 20%
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án Sun Cosmo Residence, Đường Trần Thị Lý, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    2 tỷ
+   </span>
+   <span class="ext">
+    ~50 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    40 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    1 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38146659,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/09/20/20230920164336-7acb_wm.jpg","vipType":0,"title":"Căn hộ The Panoma 2 - Ngay mặt sông Hàn - Đối diện tòa nhà Viettel mới - GĐ2 chiết khấu lên đến 20%","titleHiddenMobile":"Căn hộ The Panoma 2 - Ngay mặt sông Hàn - Đối diện tòa nhà Viettel mới - GĐ2 chiết khấu lên đến 20%","url":"https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-thi-ly-phuong-my-an-prj-sun-cosmo-residence/-the-panoma-2-ngay-mat-song-han-doi-dien-toa-nha-viettel-moi-tang-thap-chi-1-3-ty-pr38146659","productIdPrefix":"38146659$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-thi-ly-phuong-my-an-prj-sun-cosmo-residence/-the-panoma-2-ngay-mat-song-han-doi-dien-toa-nha-viettel-moi-tang-thap-chi-1-3-ty-pr38146659&amp;t=Căn hộ The Panoma 2 - Ngay mặt sông Hàn - Đối diện tòa nhà Viettel mới - GĐ2 chiết khấu lên đến 20%" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-thi-ly-phuong-my-an-prj-sun-cosmo-residence/-the-panoma-2-ngay-mat-song-han-doi-dien-toa-nha-viettel-moi-tang-thap-chi-1-3-ty-pr38146659" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38146659">
+   Căn hộ The Panoma 2 - Dự án Sun Cosmo Residence - Ngay mặt sông Hàn - Đối diện tòa nhà Viettel mới - GĐ2 Chiết Khấu lên đến 20%.
+   <br/>
+   - Chính sách bán hàng linh hoạt 30 tháng.
+   <br/>
+   - Mỗi tháng thanh toán chỉ 2.5%.
+   <br/>
+   - Không vay, chiết khấu 6%.
+   <br/>
+   - Thanh toán sớm trong 12 tháng, chiết khấu 9%.
+   <br/>
+   - Thanh toán sớm trong tháng 10/2023, chiết khấu 12%.
+   <br/>
+   - Vay ngân hàng: Ân hạn nợ gốc và hỗ trợ lãi suất 0% đến 28/02/2026.
+   <br/>
+   --------------------------------------------
+   <br/>
+   Tổng quan The Panoma 2 - Sun Cosmo Residence:
+   <br/>
+   - Vị trí: Đường Trần Hưng Đạo, Sơn Trà, Đà Nẵng. Mặt tiền sông Hàn, đối diện tòa nhà Viettel mới.
+   <br/>
+   - Gồm 28 tầng nổi, 3 tầng hầm, 259 căn hộ thiết kế độc bản.
+   <br/>
+   - Pháp lý: Sổ hồng sở hữu lâu dài.
+   <br/>
+   - Loại hình: Studio, 1PN + 1, 2PN, 3PN, Penhouse.
+   <br/>
+   - Diện tích đa dạng: 35m² - 40m² - 50m² - 70m² - 83m² - 100m² - 180m².
+   <br/>
+   - 5 tầng tiện ích: Tầng 1 &amp; 2 trung tâm thương mại. Tầng 3 là trung tâm Yoga, Sauna, Gym, KidClub, Bể bơi vô cực. Tầng 18 Sky Pavillon. Tầng 28 Sky Garden.
+   <br/>
+   - Bể bơi tràn bờ được thiết kế view không gian bao la xanh mát của dòng sông Hàn Đà Nẵng, mang đến trải nghiệm vô cùng độc đáo.
+   <br/>
+   - Tầm view Panorama trên mỗi căn hộ, bao quát cả biển Mỹ Khê, sông Hàn, Vòng xoay Mặt Trời, núi Ngũ Hành Sơn, Trung tâm thành phố và những cây cầu... Tạo nên những tầm view kết hợp đa dạng, độc đáo cho các chủ nhân nhiều sự lựa chọn.
+   <br/>
+   --------------------------------------------
+   <br/>
+   - Booking ngay hôm nay để nhận thêm chiết khấu 2%. Tổng chiết khấu lên đến 20%.
+   <br/>
+   - Hotline:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="d37d49c12afc03cd42db4e7f3d600b5b" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38146659">
+    0939 358 ***
+   </span>
+   Nguyễn Phát).
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      40 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Tây - Bắc
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-private-house">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng ban công
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Tây - Bắc
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      1 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      1 phòng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-ban-sun-cosmo-residence" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 82 tin đăng bán
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-khu-phuc-hop-ngu-hanh-son-ddn/sun-cosmo-residence-pj5823" target="_blank">
+      <img alt="Sun Cosmo Residence" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2023/03/29/20230329153719-8b6a_wm.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       Sun Cosmo Residence
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: 6/2023: Đang bán khu cao tầng" class="re__prj-card-config-value re__wrap-long-text" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        6/2023: Đang bán khu cao tầng
+       </span>
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Tập đoàn Sun Group" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Tập đoàn Sun Group
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.05078125,108.23290252685547&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2023/08/07/20230807111131-4b37.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Nguyễn Phát">
+     Nguyễn Phát
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/4142632531897ad3" tracking-id="user-listing-ldp">
+      Xem thêm 11 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38146659">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/can-ho-the-panoma-2" title="Căn hộ The Panoma 2 " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ The Panoma 2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-can-ho-sun-cosmo-residence" title="Bán căn hộ Sun Cosmo Residence" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán căn hộ Sun Cosmo Residence
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/sun-cosmo-residence-1pn" title="Sun Cosmo Residence 1PN" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Sun Cosmo Residence 1PN
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    02/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    12/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38146659
+   </span>
+  </div>
+ </div>
+</div>

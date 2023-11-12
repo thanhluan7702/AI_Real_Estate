@@ -1,0 +1,246 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38303535" uid="1828295">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cho thuê đất 3 mặt tiền đường Thăng Long, 20 tr/tháng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Thăng Long, Phường Khuê Trung, Cẩm Lệ, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    20 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    315 m²
+   </span>
+   <span class="ext">
+    Mặt tiền 15 m
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38303535,"avatarinfowap":"","vipType":0,"title":"Cho thuê đất 3 mặt tiền đường Thăng Long, 20 tr/tháng","titleHiddenMobile":"Cho thuê đất 3 mặt tiền đường Thăng Long, 20 tr/tháng","url":"https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-duong-thang-long-1-phuong-khue-trung/cho-3-mat-tien-20-tr-pr38303535","productIdPrefix":"38303535$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-duong-thang-long-1-phuong-khue-trung/cho-3-mat-tien-20-tr-pr38303535&amp;t=Cho thuê đất 3 mặt tiền đường Thăng Long, 20 tr/tháng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-duong-thang-long-1-phuong-khue-trung/cho-3-mat-tien-20-tr-pr38303535" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38303535">
+   Cho thuê đất 3 mặt tiền đường Thăng Long, 20 tr/th.
+   <br/>
+   DTĐ: 315m² ngang 15m.
+   <br/>
+   View sông thoáng mát, gần cầu Nguyễn Tri Phương.
+   <br/>
+   Lợi thế 3 mặt tiền rất thuận tiện kinh doanh café, nhà hàng sân vườn, bar, pub, phòng tậy gym + yoga, chăm sóc ô tô, khu vui chơi.
+   <br/>
+   HĐ dài hạn.
+   <br/>
+   Vui lòng liên hệ:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="4f771aa715b591db98afa318d134fa27" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=38303535">
+    0975 760 ***
+   </span>
+   - Ms Thương, sẽ được tư vấn cụ thể và hỗ trợ hoàn toàn miễn phí!
+   <br/>
+   <br/>
+   1. Đất 2 mặt tiền gần trường FPT 180 2, 4 tr/th.
+   <br/>
+   2. Đất MT Nguyễn Thiện Kế - 5 * 31m, 5 tr/th.
+   <br/>
+   3. Đất mặt tiền Văn Tiến Dũng 10*20m, 6 tr/th.
+   <br/>
+   4. Đất MT Đặng Đoàn Bằng (sát bãi biển Non Nước) 10*27,5m, 15 tr/th.
+   <br/>
+   5. Đất 2 mặt tiền Bùi Trang Chước gần cầu Khuê Đông 25 * 25m, 18 tr/th.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      315 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      20 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-home">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mặt tiền
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      15 m
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyloaded" data-src="https://www.google.com/maps/embed/v1/place?q=16.0179643,108.2120261&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/255x180/2022/03/16/20220316155253-7984.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Ms Thương Tknv">
+     Ms Thương Tknv
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/d9b1b59455a19847" tracking-id="user-listing-ldp">
+      Xem thêm 6 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38303535">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-phuong-khue-trung" title="Thuê nhà xưởng Khuê Trung Cẩm Lệ" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Khuê Trung Cẩm Lệ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-duong-thang-long-1-45" title="Thuê nhà xưởng thăng long Cẩm Lệ" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng thăng long Cẩm Lệ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-cam-le-ddn" title="Thuê nhà xưởng Cẩm Lệ Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Cẩm Lệ Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-da-nang" title="Thuê nhà xưởng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    12/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    11/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38303535
+   </span>
+  </div>
+ </div>
+</div>

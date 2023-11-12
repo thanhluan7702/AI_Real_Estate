@@ -1,0 +1,847 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="36271183" uid="1988371">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Tôi cần cho thuê căn hộ Monarchy 130m2 3 pn full nội thất bc to nhất giá 14 triệu/th, LH
+  <span class="hidden-mobile m-on-title" raw="25101f147727f4448e5a3510fc63ebe7">
+   0766 827 ***
+  </span>
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án The Monarchy, Đường An Trung 2, Phường An Hải Tây, Sơn Trà, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    14 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    130 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    3 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":36271183,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/10/12/20231012102509-2ade_wm.png","vipType":0,"title":"Tôi cần cho thuê căn hộ Monarchy 130m2 3 pn full nội thất bc to nhất giá 14 triệu/th, LH &lt;span class=\"hidden-mobile m-on-title\" raw=\"25101f147727f4448e5a3510fc63ebe7\"&gt;0766 827 ***&lt;/span&gt;","titleHiddenMobile":"Tôi cần cho thuê căn hộ Monarchy 130m2 3 pn full nội thất bc to nhất giá 14 triệu/th, LH &lt;span class=\"hidden-mobile m-on-title\" raw=\"25101f147727f4448e5a3510fc63ebe7\"&gt;0766 827 ***&lt;/span&gt;","url":"https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-an-trung-2-phuong-an-hai-tay-prj-the-monarchy/toi-c-3pn-view-song-full-noi-that-gia-21-trieu-lh-0766827957-pr36271183","productIdPrefix":"36271183$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-an-trung-2-phuong-an-hai-tay-prj-the-monarchy/toi-c-3pn-view-song-full-noi-that-gia-21-trieu-lh-0766827957-pr36271183&amp;t=Tôi cần cho thuê căn hộ Monarchy 130m2 3 pn full nội thất bc to nhất giá 14 triệu/th, LH 0766 827 ***" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-an-trung-2-phuong-an-hai-tay-prj-the-monarchy/toi-c-3pn-view-song-full-noi-that-gia-21-trieu-lh-0766827957-pr36271183" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=36271183">
+   Cần cho thuê căn hộ The Monarchy quận Sơn Trà Đà Nẵng.
+   <br/>
+   Căn hộ 130 m² có 3 phòng ngủ có ban công rộng nhất toà. Toàn bộ trang bị đầy đủ nội thất hiện đại và thông minh cho thuê giá 14 triệu 1 tháng.
+   <br/>
+   LH
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="25101f147727f4448e5a3510fc63ebe7" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=36271183">
+    0766 827 ***
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      130 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      14 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ.
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-cho-thue-the-monarchy" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 61 tin đăng cho thuê
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-khu-phuc-hop-son-tra-ddn/the-monarchy-pj1787" target="_blank">
+      <img alt="The Monarchy" class="ls-is-cached lazyloaded" src="https://file4.batdongsan.com.vn/crop/320x320/2016/04/13/0I4XNtd4/20160413153533-1e78.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       The Monarchy
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Đã bàn giao" class="re__prj-card-config-value" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Đã bàn giao
+       </span>
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="Giá 11 - 13 triệu/tháng" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-money--sm">
+       </i>
+       11 - 13 triệu/tháng
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Công ty CP Đầu tư Phát triển Nhà Đà Nẵng" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Công ty CP Đầu tư Phát triển Nhà Đà Nẵng
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="True" data-kyc-type="1">
+ </div>
+ <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver89547d39.msvbds.pricing-history.min.css" rel="stylesheet"/>
+ <div class="lazyload js__pricing-history-scroll-to" data-func='new FrontEnd.Product.Details.PricingHistoryLazyload({"ProductId":36271183,"ProductType":49,"CateId":326,"CityCode":"DDN","DistrictId":49,"WardId":263,"ProjectId":1787,"TimeType":1,"IsExtented":false,"PriceDisplay":"~14 tr/tháng","PriceMillion":14.0})' data-script="https://staticfile.batdongsan.com.vn/js/Charts/filestatic.ver89547d39.msvbds.Chart.min.js;https://staticfile.batdongsan.com.vn/js/Product/Details/filestatic.ver89547d39.msvbds.FrontEnd.Product.Details.PricingHistory.min.js">
+ </div>
+ <div class="js__pricing-history re__pricing-history" data-event="view-pricing-history" data-loc="Rent-Listing Details" data-url="/Origins/CommonData/GetPricingHistory" data-url-product-type="/Origins/CommonData/GetPricingHistoryByProductType" data-url-type="/Origins/CommonData/GetPricingHistoryByType">
+  <div class="pricing-history-content">
+   <div class="re__product-chart ph-product-chart js__pricing-history-chart" data-price="14" data-price-display="~14 tr/tháng">
+    <div class="chart-anchor">
+    </div>
+    <div class="re__detail-chart js__detail-chart">
+     <h3 class="re__title js__pricing-history--title">
+      Lịch sử giá cho thuê căn hộ chung cư tại The Monarchy
+     </h3>
+     <div class="re__chart-sapo">
+      <ul class="re__tab-box-group re__product-type-tab list-cate js__list-cate">
+       <li class="re__tab-box--sm" data-prid="0" data-val="38" tracking-id="pricing-history-select-product-type" tracking-label="loc=Rent-Listing Details,type=Sale">
+        Mua bán
+       </li>
+       <li class="re__tab-box--sm re__tab-box--actived" data-prid="36271183" data-val="49" tracking-id="pricing-history-select-product-type" tracking-label="loc=Rent-Listing Details,type=Rent">
+        Cho thuê
+       </li>
+      </ul>
+      <ul class="re__tab-box-group re__product-type-tab list-time js__list-time">
+       <li class="re__tab-box--sm re__tab-box--actived" data-val="1" tracking-id="pricing-history-select-duration" tracking-label="loc=Rent-Listing Details,year=1">
+        1 năm
+       </li>
+       <li class="re__tab-box--sm" data-val="2" tracking-id="pricing-history-select-duration" tracking-label="loc=Rent-Listing Details,year=2">
+        2 năm
+       </li>
+       <li class="re__tab-box--sm" data-val="5" tracking-id="pricing-history-select-duration" tracking-label="loc=Rent-Listing Details,year=5">
+        5 năm
+       </li>
+      </ul>
+     </div>
+     <div class="re__chart-subsapo">
+      <div class="re__chart-col re__col-1 js__pricing-history--top-col-1">
+       <div class="text-big">
+        <strong>
+         0
+        </strong>
+        <span>
+         tr/tháng
+        </span>
+       </div>
+       <div class="text-small">
+        Giá đang cập nhật
+       </div>
+      </div>
+      <div class="re__chart-col re__col-2 js__pricing-history--top-col-2">
+       <div class="text-big">
+        <i class="re__icon-up-cl">
+         <span class="path1">
+         </span>
+         <span class="path2">
+         </span>
+        </i>
+        <strong>
+         23%
+        </strong>
+       </div>
+       <div class="text-small">
+        Giá thuê đã tăng trong vòng 1 năm qua (Q2/2022 - Q2/2023)
+       </div>
+      </div>
+      <div class="re__chart-col re__col-2 no-data">
+       <div class="text-big">
+        Dữ liệu đang được cập nhật
+       </div>
+       <div class="text-small">
+        So sánh biến động giá với các quý trước
+       </div>
+      </div>
+      <div class="re__chart-col re__col-3 js__pricing-history--top-col-3">
+       <div class="text-big">
+        <i class="re__icon-down-cl">
+         <span class="path1">
+         </span>
+         <span class="path2">
+         </span>
+        </i>
+        <strong>
+         6%
+        </strong>
+       </div>
+       <div class="text-small">
+        Giá hiện tại thấp hơn đỉnh 8,5 tr/tháng vào Q1/2022
+       </div>
+      </div>
+     </div>
+     <div class="re__div-chart js__div-chart">
+      <div class="re__div-chart-canvas" style="display: none">
+       <div class="chart-title">
+        <span class="ct-content">
+         tr/tháng
+        </span>
+       </div>
+       <canvas id="chart-canvas">
+       </canvas>
+       <div class="chart-footer">
+        <div class="cf-content labels-1">
+         Giá cao nhất
+        </div>
+        <div class="cf-content labels-2">
+         Giá phổ biến nhất
+        </div>
+        <div class="cf-content labels-3">
+         Giá thấp nhất
+        </div>
+        <div class="cf-content labels-4 cf-hide">
+         Giá tin đang xem ~14 tr/tháng
+        </div>
+       </div>
+      </div>
+      <div class="re__chart-no-data">
+       <div class="chart-img">
+        <img src="https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg"/>
+       </div>
+       <div class="chart-text">
+        Chúng tôi đang cập nhật dữ liệu. Bạn hãy quay lại sau nhé!
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="js__pricing-insight-extented pi-extented">
+    </div>
+    <div class="re__pricing-history-note js__pricing-history-note">
+     <div class="col col-1">
+      <i class="re__icon-info-cl">
+       <span class="path1">
+       </span>
+       <span class="path2">
+       </span>
+       <span class="path3">
+       </span>
+      </i>
+     </div>
+     <div class="col col-2">
+      Dữ liệu giá được tổng hợp và xử lý từ các tin đăng trên trang Batdongsan.com.vn. Bạn hãy lưu ý về tin đăng nằm ngoài khoảng giá chúng tôi gợi ý và xác minh thêm thông tin trước khi giao dịch.
+     </div>
+    </div>
+    <div class="ph-survey-ldp js__ph-survey">
+     <div class="_hj-widget-container _hj-widget-theme-light" id="survey_934264">
+      <div class="_hj-s3UIi__styles__globalStyles _hj-Pbej5__styles__resetStyles _hj-A4W17__styles__inlineSurvey">
+       <div id="hotjar-survey-4c910dcb-097e-44be-afaa-0e7b0632a8fc" lang="en" style="--hjFeedbackAccentColor: #324FBE; --hjFeedbackAccentHoverColor: #1C3286; --hjFeedbackAccentActiveColor: #223582; --hjFeedbackAccentTextColor: rgba(255,255,255,0.94); --hjFeedbackDisabledAccentColor: #F1F2F6; --hjFeedbackDisabledAccentTextColor: rgba(0, 0, 0, 0.43); --hjFeedbackSecondaryTextColor: rgba(0, 0, 0, 0.60); --hjFeedbackPrimaryColor: #FFFFFF; --hjFeedbackSecondaryColor: #e6e6e6; --hjFeedbackBorderColor: #E0E2E8; --hjFeedbackOptionButtonBackgroundColor: #E0E2E8; --hjFeedbackInputPlaceholderColor: rgba(0,0,0,0.43); --hjFeedbackFontColor: #111;">
+        <div aria-label="Survey" role="dialog">
+         <div class="_hj-5vKq2__styles__surveyContainer _hj-y4quC__styles__withShadow _hj-7Itnd__styles__inline _hj-se0Ow__styles__openingAnimation" style="background: rgb(255, 255, 255);">
+          <form class="_hj-hRovs__styles__form">
+           <div class="_hj-c8PC+__styles__surveyBody" style="">
+            <div aria-live="off" class="_hj-S9XKO__styles__surveyTitle" id="hj-survey-lbl-1">
+             Hãy giúp chúng tôi đánh giá mức độ hữu ích của thông tin Lịch sử giá
+            </div>
+            <div class="_hj-E2-N0__styles__surveyAnswers">
+             <div aria-labelledby="hj-survey-lbl-1" class="_hj-oLlM-__styles__reactionAnswerWrapper _hj-hTm4+__styles__answersContentWrapper _hj-5QSZY__styles__inline" role="radiogroup">
+              <div class="_hj-4keI-__styles__reactionOptions">
+               <label class="_hj-ED+rS__ReactionOption__EmotionOption _hj-U-Na2__ReactionOption__fadeIn _hj-2CoYZ__ReactionOption__hideFocus">
+                <input aria-label="1" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                <div aria-hidden="true" class="_hj-ItDeM__ReactionOption__iconEmotion _hj-qONv1__ReactionOption__hate _hj-PFLgn__ReactionOption__iconEmotionStar">
+                 <span class="_hj-IITdB__ReactionOption__commentIcon">
+                 </span>
+                 <span class="_hj-CC1Qi__ReactionOption__expressionIcon">
+                 </span>
+                </div>
+               </label>
+               <label class="_hj-ED+rS__ReactionOption__EmotionOption _hj-U-Na2__ReactionOption__fadeIn _hj-2CoYZ__ReactionOption__hideFocus">
+                <input aria-label="2" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                <div aria-hidden="true" class="_hj-ItDeM__ReactionOption__iconEmotion _hj-boSwr__ReactionOption__dislike _hj-PFLgn__ReactionOption__iconEmotionStar">
+                 <span class="_hj-IITdB__ReactionOption__commentIcon">
+                 </span>
+                 <span class="_hj-CC1Qi__ReactionOption__expressionIcon">
+                 </span>
+                </div>
+               </label>
+               <label class="_hj-ED+rS__ReactionOption__EmotionOption _hj-U-Na2__ReactionOption__fadeIn _hj-2CoYZ__ReactionOption__hideFocus">
+                <input aria-label="3" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                <div aria-hidden="true" class="_hj-ItDeM__ReactionOption__iconEmotion _hj-XULTH__ReactionOption__neutral _hj-PFLgn__ReactionOption__iconEmotionStar">
+                 <span class="_hj-IITdB__ReactionOption__commentIcon">
+                 </span>
+                 <span class="_hj-CC1Qi__ReactionOption__expressionIcon">
+                 </span>
+                </div>
+               </label>
+               <label class="_hj-ED+rS__ReactionOption__EmotionOption _hj-U-Na2__ReactionOption__fadeIn _hj-2CoYZ__ReactionOption__hideFocus">
+                <input aria-label="4" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                <div aria-hidden="true" class="_hj-ItDeM__ReactionOption__iconEmotion _hj-cnKAT__ReactionOption__like _hj-PFLgn__ReactionOption__iconEmotionStar">
+                 <span class="_hj-IITdB__ReactionOption__commentIcon">
+                 </span>
+                 <span class="_hj-CC1Qi__ReactionOption__expressionIcon">
+                 </span>
+                </div>
+               </label>
+               <label class="_hj-ED+rS__ReactionOption__EmotionOption _hj-U-Na2__ReactionOption__fadeIn _hj-2CoYZ__ReactionOption__hideFocus">
+                <input aria-label="5" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                <div aria-hidden="true" class="_hj-ItDeM__ReactionOption__iconEmotion _hj-weM1y__ReactionOption__love _hj-PFLgn__ReactionOption__iconEmotionStar">
+                 <span class="_hj-IITdB__ReactionOption__commentIcon">
+                 </span>
+                 <span class="_hj-CC1Qi__ReactionOption__expressionIcon">
+                 </span>
+                </div>
+               </label>
+              </div>
+              <div class="_hj-kmdsj__styles__reactionLabels">
+               <span class="_hj-ygfBp__styles__reactionLabel _hj-4H6--__styles__light">
+                Rất không hữu ích
+               </span>
+               <span class="_hj-ygfBp__styles__reactionLabel _hj-4H6--__styles__light">
+                Rất hữu ích
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="_hj-XpAaA__styles__surveyFooter _hj-xZ2ar__styles__inline">
+            <div class="_hj-8Lgv6__styles__surveyActions">
+             <button class="_hj-81Zzt__styles__surveyActionButton _hj-O-7CS__styles__surveysPrimaryButton _hj-SU8LU__styles__primaryButton" disabled="" type="button">
+              Kế tiếp
+             </button>
+            </div>
+            <div class="_hj-PZjqr__styles__surveyBranding">
+             <a class="_hj-fBs9+__styles__link" href="https://www.hotjar.com/feedback-surveys?utm_source=client&amp;utm_medium=poll&amp;utm_campaign=insights" rel="noopener noreferrer" style="color: rgb(50, 50, 50) !important;" target="_blank">
+              <img alt="Hotjar — Surveys page" class="_hj-KMFsk__styles__logo" src="https://www.hotjar.com/images/hotjar-logo-small.svg"/>
+              <div class="_hj-ex4tC__styles__brandingText">
+               <span style="text-decoration: underline;">
+                Made with Hotjar
+               </span>
+              </div>
+             </a>
+            </div>
+           </div>
+          </form>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="ph--skeleton pricing-history-skeleton js__ph--skeleton">
+   </div>
+  </div>
+  <div class="pricing-history-skeleton js__pricing-history-skeleton" data-type="ph" style="display: block;">
+   <div class="re__product-chart">
+    <div class="re__detail-chart">
+     <h3 class="re__title">
+      <span class="skeleton-content">
+      </span>
+     </h3>
+     <div class="re__chart-sapo">
+      <ul class="re__tab-box-group re__product-type-tab list-cate">
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+      </ul>
+      <ul class="re__tab-box-group re__product-type-tab list-time">
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="re__chart-subsapo">
+      <div class="re__chart-col re__col-1">
+       <div class="text-big">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content r2">
+        </span>
+       </div>
+      </div>
+      <div class="re__chart-col re__col-2">
+       <div class="text-big">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content r2">
+        </span>
+       </div>
+      </div>
+      <div class="re__chart-col re__col-3">
+       <div class="text-big">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content r2">
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="re__div-chart">
+      <div class="re__div-chart-canvas">
+       <div class="chart-canvas">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="re__pricing-insight-extented">
+    <div class="pricing-insight-row pricing-insight-title">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="re__pricing-insight-extented-bottom">
+    <a class="re__btn re__btn-pr-ghost--sm re__btn-icon-right--sm">
+     <span class="skeleton-content">
+     </span>
+    </a>
+   </div>
+  </div>
+  <div class="re__pricing-history-kyc re__pricing-history-kyc--block-v1">
+   <div class="re__pricing-history-kyc-title">
+    <span>
+     <span>
+      Truy cập miễn phí
+     </span>
+     thông tin độc quyền về cho thuê căn hộ chung cư tại The Monarchy
+    </span>
+   </div>
+   <div class="re__pricing-history-kyc-subtitle">
+    <i class="re__icon-other">
+    </i>
+    <div>
+     <span>
+      Khoảng giá an toàn hiện tại để giao dịch
+     </span>
+    </div>
+   </div>
+   <div class="re__pricing-history-kyc-subtitle">
+    <i class="re__icon-barchart">
+    </i>
+    <div>
+     <span>
+      Lịch sử biến động giá được tổng hợp và xử lý bởi Batdongsan.com.vn
+     </span>
+    </div>
+   </div>
+   <div class="re__pricing-history-kyc-button">
+    <a class="re__btn re__btn-pr-solid--sm js__pricing-history-kyc-btn" tracking-id="pricing-history-call-kyc-form" tracking-label="loc=Rent-Listing Details">
+     Xem lịch sử giá
+    </a>
+   </div>
+  </div>
+  <div class="re__pricing-history-kyc-skeleton js__pricing-history-skeleton" data-type="kyc-v1" style="display: none;">
+   <div class="re__pricing-history-kyc-title">
+    <span class="skeleton-content">
+    </span>
+    <br/>
+    <span class="skeleton-content r2">
+    </span>
+   </div>
+   <div class="re__pricing-history-kyc-subtitle r1">
+    <i>
+     <span class="skeleton-content">
+     </span>
+    </i>
+    <div>
+     <span class="skeleton-content">
+     </span>
+    </div>
+   </div>
+   <div class="re__pricing-history-kyc-subtitle r2">
+    <i>
+     <span class="skeleton-content">
+     </span>
+    </i>
+    <div>
+     <span class="skeleton-content">
+     </span>
+     <br/>
+     <span class="skeleton-content r2">
+     </span>
+    </div>
+   </div>
+   <div class="re__pricing-history-kyc-button">
+    <a>
+     <span class="skeleton-content">
+     </span>
+    </a>
+   </div>
+  </div>
+ </div>
+ <script src="https://staticfile.batdongsan.com.vn/js/Product/filestatic.ver89547d39.msvbds.FrontEnd.Product.PricingHistory.min.js" type="text/javascript">
+ </script>
+ <script type="text/javascript">
+  (function callFunction(){
+            if (window.FrontEnd && window.FrontEnd.Product && window.FrontEnd.Product.PricingHistory && window.CommonJS && window.CommonJS.Common) {
+                new FrontEnd.Product.PricingHistory();
+            }
+            else {
+                setTimeout(callFunction, 100);
+            }
+        })();
+ </script>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0561447143555,108.233322143555&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2022/09/14/20220914144357-4e4d.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="An Nhiên">
+     An Nhiên
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/730fd84a37668b02" tracking-id="user-listing-ldp">
+      Xem thêm 2 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=36271183">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-the-monarchy/dt-tu-100m2-den-150m2" title="Thuê căn hộ The Monarchy từ 100 m2 đến 150 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ The Monarchy từ 100 m2 đến 150 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-phuong-an-hai-tay" title="Thuê căn hộ An Hải Tây Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ An Hải Tây Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-duong-an-trung-2-49" title="Thuê căn hộ An Trung 2 Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ An Trung 2 Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-son-tra-ddn" title="Thuê căn hộ Sơn Trà Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Sơn Trà Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-da-nang/3pn" title="Thuê căn hộ Đà Nẵng 3 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Đà Nẵng 3 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-da-nang?gtn=10-trieu&amp;gcn=40-trieu" title="Thuê căn hộ Đà Nẵng từ 10 triệu đến 40 triệu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Đà Nẵng từ 10 triệu đến 40 triệu
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    12/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    22/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    36271183
+   </span>
+  </div>
+ </div>
+</div>

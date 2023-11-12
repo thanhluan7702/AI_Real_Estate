@@ -1,0 +1,368 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="37900289" uid="1215147">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Danh sách các toà nhà văn phòng nguyên căn cho thuê - diện tích từ 1.200 m2 - miễn phí tư vấn
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường 30/4, Phường Hải Châu II, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    2.000 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":37900289,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/09/27/20230927090328-ea06_wm.jpg","vipType":0,"title":"Danh sách các toà nhà văn phòng nguyên căn cho thuê - diện tích từ 1.200 m2 - miễn phí tư vấn","titleHiddenMobile":"Danh sách các toà nhà văn phòng nguyên căn cho thuê - diện tích từ 1.200 m2 - miễn phí tư vấn","url":"https://batdongsan.com.vn/cho-thue-van-phong-duong-30-4-1-phuong-hai-chau-ii/danh-sach-cac-toa-nha-nguyen-can-dien-tich-tu-1-000-m2-cho-k-property-pr37900289","productIdPrefix":"37900289$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-van-phong-duong-30-4-1-phuong-hai-chau-ii/danh-sach-cac-toa-nha-nguyen-can-dien-tich-tu-1-000-m2-cho-k-property-pr37900289&amp;t=Danh sách các toà nhà văn phòng nguyên căn cho thuê - diện tích từ 1.200 m2 - miễn phí tư vấn" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-van-phong-duong-30-4-1-phuong-hai-chau-ii/danh-sach-cac-toa-nha-nguyen-can-dien-tich-tu-1-000-m2-cho-k-property-pr37900289" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=37900289">
+   Danh sách các toà nhà văn phòng nguyên căn cho thuê - diện tích từ 1.200 m² - Miễn phí Tư vấn!
+   <br/>
+   <br/>
+   Chúng tôi tự hào với 5 năm kinh nghiệm trong ngành và nhân sự hơn 10 năm kinh nghiệm tại các lĩnh vực: bất động sản, du lịch - khách sạn, ngân hàng, xuất nhập khẩu,.. Chúng tôi tự tin mang lại giải pháp tốt nhất trên thị trường cho Khách hàng!
+   <br/>
+   <br/>
+   Uy tín - Chỉnh chu - Chuyên nghiệp là cách kinh doanh bền vững nhất mọi thời đại!
+   <br/>
+   ---
+   <br/>
+   <br/>
+   1. Toà nhà Showroom 4 tầng mới, đường Ông Ích Khiêm
+   <br/>
+   + Diện tích đất: 300m2
+   <br/>
+   + Tổng Diện tích sàn văn phòng: 1,200m2
+   <br/>
+   + Đã hoàn thiện nội thất, đèn chiếu sáng, đèn trang trí, phòng họp, các phòng làm việc nhân viên, không gian trưng bày showroom Tầng 1,..
+   <br/>
+   + Giá thuê: 108 triệu/ tháng (Giá cũ: 144 triệu/ tháng, SaleOff 25%)
+   <br/>
+   <br/>
+   2. Toà nhà đường Nguyễn Văn Linh, 4 tầng, 2 mặt tiền đường
+   <br/>
+   + Diện tích đất: 207m² (ngang 9m, dài 23m)
+   <br/>
+   + Tổng Diện tích sàn văn phòng: 700m2
+   <br/>
+   + Giá thuê: 120 triệu/ tháng
+   <br/>
+   <br/>
+   3. Toà nhà đường 2 tháng 9, gần Helio Center, 7 tầng nổi, 2 mặt tiền
+   <br/>
+   + Diện tích đất: 150m2
+   <br/>
+   + Tổng Diện tích sàn văn phòng: 1,050m2
+   <br/>
+   + Giá thuê: 200 triệu/ tháng
+   <br/>
+   <br/>
+   3a. Toà nhà đường Trần Hưng Đạo, 6 tầng nổi,
+   <br/>
+   + Diện tích đất: 200m2
+   <br/>
+   + Tổng Diện tích sàn văn phòng: 1,040m2
+   <br/>
+   + Giá thuê: 150 triệu/ tháng
+   <br/>
+   <br/>
+   5. Toà nhà đường 30 Tháng 4, 7 tầng, 2 mặt tiền đường
+   <br/>
+   + Diện tích đất: 200m2
+   <br/>
+   + Tổng Diện tích sàn văn phòng: 1,200m2
+   <br/>
+   + Giá thuê: 170 triệu/ tháng
+   <br/>
+   <br/>
+   7. Toà nhà gần đường Hoàng Thị Loan, 7 tầng, 2 mặt tiền đường
+   <br/>
+   + Diện tích đất: 180m2
+   <br/>
+   + Tổng Diện tích sàn văn phòng: 720m2
+   <br/>
+   + Giá thuê: 86 triệu/ tháng
+   <br/>
+   <br/>
+   8. Toà nhà đường Nguyễn Phước Lan, khu Hoà Xuân, 3 tầng, 2 mặt tiền đường
+   <br/>
+   + Diện tích đất: 200m2
+   <br/>
+   + Tổng Diện tích sàn văn phòng: 600m2
+   <br/>
+   + Giá thuê: Liên hệ
+   <br/>
+   <br/>
+   9. Toà nhà đường Trần Hưng Đạo, gần Khu Biệt thự Euro Village 1, 7 tầng
+   <br/>
+   + Diện tích đất: 300m2
+   <br/>
+   + Tổng Diện tích sàn văn phòng: 1,600m2
+   <br/>
+   + Giá thuê: Liên hệ
+   <br/>
+   <br/>
+   11. Toà nhà đường Trần Phước Thành, sau lưng Bệnh viện Tâm Trí
+   <br/>
+   + Diện tích đất: 1,300m2
+   <br/>
+   + Diện tích sàn văn phòng: 4,000m²
+   <br/>
+   + Tổng Diện tích sử dụng: 10,000m2
+   <br/>
+   + Có các phòng căn hộ, văn phòng
+   <br/>
+   + Giá thuê: Liên hệ
+   <br/>
+   <br/>
+   12. Toà nhà đường Cách mạng Tháng Tám, gần Nguyễn Hữu Thọ, gần Cầu Tuyên Sơn,
+   <br/>
+   + Diện tích đất: 1,470m2
+   <br/>
+   + Diện tích sàn văn phòng: 4,400m²
+   <br/>
+   + Phù hợp công năng vận hành kinh doanh showroom ô tô hoặc các showroom khác
+   <br/>
+   + Giá thuê: 275 triệu/ tháng, thanh toán 1 năm lần.
+   <br/>
+   <br/>
+   12b. Biệt thự Phạm Văn Đồng làm văn phòng, nhà hàng, 4 tầng nổi, 1 tầng hầm,
+   <br/>
+   + Công năng: nhà hàng + phòng lưu trú
+   <br/>
+   + Diện tích đất: 327m² (ngang 12 mét)
+   <br/>
+   + cách biển Phạm Văn Đồng 50 mét
+   <br/>
+   + Giá thuê: 140 triệu/ tháng
+   <br/>
+   <br/>
+   12c. Toà nhà đường Phan Đăng Lưu phù hợp làm văn phòng, showroom,..
+   <br/>
+   + Diện tích đất: 500m2
+   <br/>
+   + Số tầng: 8
+   <br/>
+   + Tổng Diện tích Xây dựng: ~ 4,000m2
+   <br/>
+   <br/>
+   15. Và các lựa chọn Tư vấn khác, Hãy liên hệ K-property Vietnam ngay! Đơn vị Tư vấn Kinh doanh BDS chuyên nghiệp nhất Đà Nẵng!
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="a4f3609cf42439eb87161ee1f6c90fb2" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=37900289">
+    0905 016 ***
+   </span>
+   .
+   <br/>
+   Miễn phí 100% dịch vụ Tư vấn!
+   <br/>
+   ---
+   <br/>
+   <br/>
+   Công ty TNHH K - Property Việt Nam.
+   <br/>
+   Địa chỉ: 24 Phan Bội Châu, Q. Hải Châu, Đà Nẵng.
+   <br/>
+   Liên hệ:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="a4f3609cf42439eb87161ee1f6c90fb2" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=37900289">
+    0905 016 ***
+   </span>
+   .
+   <br/>
+   Website: http://www.k-property.com.vn
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2.000 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="2">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0446837,108.2185745&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2023/02/02/20230202164907-e848.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="K-property Vietnam Co., Ltd">
+     K-property Vietnam Co., Ltd
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/3a0c0843f46777aa" tracking-id="user-listing-ldp">
+      Xem thêm 8 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=37900289">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-hai-chau-ii" title="Văn phòng Hải Châu II Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hải Châu II Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-hai-chau-ddn" title="Văn phòng Hải Châu Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hải Châu Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-da-nang" title="Văn phòng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-hai-chau-i" title="Văn phòng Hải Châu I Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hải Châu I Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-hoa-cuong-bac" title="Văn phòng Hòa Cường Bắc Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hòa Cường Bắc Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-hoa-cuong-nam" title="Văn phòng Hòa Cường Nam Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hòa Cường Nam Hải Châu
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    12/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    27/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    37900289
+   </span>
+  </div>
+ </div>
+</div>

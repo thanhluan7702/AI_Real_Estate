@@ -1,0 +1,694 @@
+<div class="row base">
+ <div class="Styles_googleDfpAdViewTop__DsrUF text-center">
+  <div>
+   <div data-google-query-id="CLuOss651oEDFRbLvQodKlwBng" id="rgpt-32">
+    <div id="google_ads_iframe_/325540922/oneweb_des_top_adview_728x90_970x90_3__container__" style="border: 0pt none; display: inline-block; width: 728px; height: 90px;">
+     <iframe data-google-container-id="v" data-is-safeframe="true" frameborder="0" height="90" id="google_ads_iframe_/325540922/oneweb_des_top_adview_728x90_970x90_3" marginheight="0" marginwidth="0" name="1-0-38;26926;&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;script&gt;var jscVersion = 'r20230927';&lt;/script&gt;&lt;script&gt;var google_casm=[];&lt;/script&gt;&lt;/head&gt;&lt;body leftMargin=&quot;0&quot; topMargin=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;&lt;div class=&quot;GoogleActiveViewInnerContainer&quot;style=&quot;left:0px;top:0px;width:100%;height:100%;position:fixed;pointer-events:none;z-index:-9999;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:inline&quot;class=&quot;GoogleActiveViewElement&quot;data-google-av-cxn=&quot;https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsucZhqG1AYwJvzphFgN4UB_B8HvrIJlNHhudPO60mx5LSgdcRNvly1UPqT25y16kQ5ocKr02sRAocCh3sXkUI0SYTL9vbTKzs8yDeBTNrBY2qhgWy5A6RH4X0yqHUQ9&amp;amp;sai=AMfl-YTBdzOWBL-A9mR9O118U8sMyZvP8SmKGRd3wNuG8t6gRDvhhbPPoQZ6C6e-Is5joMy8v67E2sbGlcNi9oXgr9c0rWDB4epOJN84znOvgYcj6r5CSG3Oz19A0Vcf&amp;amp;sig=Cg0ArKJSzLQGsphPGfrrEAE&amp;amp;cid=CAQSPADICaaNJuet1XmLE3WLV885bTfB4DNhIPp7_a59YwphDIjTMaP0H_hZ6kSgo2VVOIOLqUjR3HunzhV6oBgB&quot;data-google-av-adk=&quot;3501259648&quot;data-google-av-metadata=&quot;la=0&amp;amp;xdi=0&amp;amp;&quot;data-google-av-ufs-integrator-metadata=&quot;EsQDCrsDaHR0cHM6Ly9wYWdlYWQyLmdvb2dsZXN5bmRpY2F0aW9uLmNvbS9wY3MvYWN0aXZldmlldz94YWk9QUtBT2pzdWNaaHFHMUFZd0p2enBoRmdONFVCX0I4SHZySUpsTkhodWRQTzYwbXg1TFNnZGNSTnZseTFVUHFUMjV5MTZrUTVvY0tyMDJzUkFvY0NoM3NYa1VJMFNZVEw5dmJUS3pzOHlEZUJUTnJCWTJxaGdXeTVBNlJINFgweXFIVVE5JnNhaT1BTWZsLVlUQmR6T1dCTC1BOW1SOU8xMThVOHNNeVp2UDhTbUtHUmQzd051Rzh0NmdSRHZoaGJQUG9RWjZDNmUtSXM1am9NeTh2NjdFMnNiR2xjTmk5b1hncjljMHJXREI0ZXBPSk44NHpuT3ZnWWNqNnI1Q1NHM096MTlBMFZjZiZzaWc9Q2cwQXJLSlN6TFFHc3BoUEdmcnJFQUUmY2lkPUNBUVNQQURJQ2FhTkp1ZXQxWG1MRTNXTFY4ODViVGZCNEROaElQcDdfYTU5WXdwaERJalRNYVAwSF9oWjZrU2dvMlZWT0lPTHFValIzSHVuemhWNm9CZ0ISABoAIAE&quot;data-google-av-override=&quot;-1&quot;data-google-av-dm=&quot;2&quot;data-google-av-aid=&quot;0&quot;data-google-av-naid=&quot;1&quot;data-google-av-slift=&quot;&quot;data-google-av-cpmav=&quot;&quot;data-google-av-btr=&quot;&quot;data-google-av-itpl=&quot;20&quot;data-google-av-rs=&quot;4&quot;data-google-av-flags=&quot;[&amp;quot;x%278440&amp;#39;9efotm(&amp;amp;753374%2bejvf/%27844&amp;gt;&amp;#39;9wuvb$&amp;amp;56533&amp;gt;!=|vqc)!273794&amp;amp;&amp;lt;qqvb/%&amp;lt;1735020!=nehu`/!364=5051!9abk{a($160210:3&amp;amp;&amp;lt;cbotf+*0150034:%2bejvf/%72;17613!=efdwa*&amp;#39;76463;21$?ebkpb$&amp;amp;0366717&amp;gt;*&amp;gt;bgipf+!3=712363%9aihwc)!7202&amp;lt;217&amp;#39;9efotm(&amp;amp;20061;48&amp;amp;&amp;gt;`dopb/%&amp;lt;1707200!=8(&amp;amp;2005575?&amp;amp;&amp;gt;`dopb/%&amp;lt;170642?!=|vqc)!7201;=50&amp;#39;9wuvb$&amp;amp;03641654*&amp;gt;bgipf+!3=731103%9aihwc)!7200?073&amp;#39;9efotm(&amp;amp;2004?51;&amp;amp;&amp;gt;`dopb/%&amp;lt;17&amp;gt;474&amp;gt;!=nehu`/!36406412!9abk{a($167745;=&amp;amp;&amp;lt;cbotf+*01254133%2bejvf/%72&amp;lt;43412!=efdwa*&amp;#39;76326&amp;gt;71$?3/%72&amp;lt;60530!=efdwa*&amp;#39;76310;4&amp;lt;$?ebkpb$&amp;amp;0311;060*&amp;gt;bgipfz&amp;quot;]&quot;&gt;&lt;DIV STYLE=&quot;position: absolute; left: 0px; top: 0px; visibility: hidden;&quot;&gt;&lt;IMG SRC=&quot;https://pagead2.googlesyndication.com/pagead/gen_204?id=xbid&amp;dbm_b=AKAmf-Dd0WD5UtBcArKq6kZe0n3v5tcVx27T5sb9nargoPVHuh0oKns34VUe_X111CPagZ-uZNp1mwOqSxqEGeJy6qPY-xhJzsm4CrxHxQ6xs7kJExj5i4M&quot; BORDER=0 WIDTH=1 HEIGHT=1 ALT=&quot;&quot; STYLE=&quot;display:none&quot;&gt;&lt;/DIV&gt;&lt;iframe title=&quot;Blank&quot; src=&quot;https://googleads.g.doubleclick.net/xbbe/pixel?d=CN-KGhCb_9O5BRjmyKL5ATAB&amp;v=APEucNVSQyS-hC2w_vhpUYm9SbOnaIKveWVXkG2rg99ehuTBEXcjaz2pNpXS2bt8utv7PFppZuhegYy0oR2ux4E8sjWe3WD7MQ&quot; style=&quot;display:none&quot; aria-hidden=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;div&gt;&lt;div style=&quot;position:absolute; display:block;&quot;&gt;&lt;IMG SRC=&quot;https://pagead2.googlesyndication.com/pagead/gen_204?id=dv3-render&amp;msg=fetch&amp;cor=10174251783880336105&amp;x=1&amp;ct=77&quot; BORDER=0 WIDTH=1 HEIGHT=1 ALT=&quot;&quot; STYLE=&quot;display:none&quot;&gt;&lt;script&gt;(function() {var u = 'https://googleads.g.doubleclick.net/dbm/ad?dbm_c=AKAmf-DSO_0j7Ohz46SZGF7MeNEW4wRpXjyXvfcqlAs_cyMi433t_0yXdsWHy92h_fmoGFWKmPvQWZuMp9MdYIu_X0m1HIVVave9B9aTOgarQaQAeSlYPKwEKyrpocNwHcjnQs1e1QK66AY0SYs1vEBri5mWa_dlab6flDZUqLj9yne38jo1wOk&amp;cry=1&amp;dbm_d=AKAmf-Dh6of56arITu5PdcvpUSegB4azLGAVVaG01THJ_JxNkRFZ6K4eOaGbe7mPyb-21ov0MNIVF3mjJm32bTp34iyOh6DRxgxK_tzvnAAmXv0GPzkG9AZ_VPUQJyxGsGl9sgl1fq8gKBTmtXdx-klKIv_6PL5Ze8XNj3LUbj2MKgNioYYPNV-pqo-Hlv1RhXPlZpv2-bhWYcE84EPQPpWd_2nXEQMxKP9oO_imDRR--Ad_KFmiH-2MbVqDM54Yp-N9MohRlP8nTOvFmNG3nqP6hUvYSQvdqNbeXmsyWsaERPBgw303096NcTVmEBoIQCqYLYcCVDQvjLeTgB85NI9WGBuuOStiq3J6IqMZPrh0WLKsPeKe_cZ6Wv8VVAvx58ars4P_d8kDjUVDO5cg0sj10sstqc6r1xx_AcKO4TImZ4xtjgWc_etFUJAEh0hc5rzzcb2QM_-Sw6sDa0ilTzO7P9z4SWDfMNjSPTvLTYgffViqR9DcIPUp1kHvyjDBMcrLEpW68ywOd0UkSYtU8zsdeOysoLdC2WrcSYnvD1UEPo_jE8gE1BzTVMgTStnGD5hNMArvZdsSA3hcVnUc1QmnOFGpsyY-_9FosmY2th9W2yRliqje_Zrz3h9EvUM58I6VRfMT_milFwXoL5FTooQN8j7hObuauhrBLUZiyUbyHpiAbaEn4xxMTFDB91PvSv-q3fEoVnirfE8XUjJud5UAtiV6_nuI2x59fE-AznQq13c_7IV_-4i-o33GpYAmR9x6HA8UlOhs9NAgs_kQInMHxX-hvP08j_zkKGuSZHgkQvW3jcwlZ2x3aEokI3GjHoRsogK45psDEvm_lk2RyOkjXDkcB9JsYiIP1bASi7sLnUGv2VwepBy3ve_SPiMxHDPOFPd9wI7G0lDsDRv8lsSdYHz9G6s3VRwtsq79FyD4e9iGJzOzwH79Xx0tZdwum4nHicouZcRrsR6HN8Q_bkusYF0eSLBGSpo-D6jnnee2yWta5iHcxvRHXOXJXpKyirqaBEqulEYGt_dA9tTysW_TbpM9B8oihVcWKwsGYFntjBCpMY_lB07mzgeBT3UaJJFz1aRx2bvLL3sxxyQsIEUfMqAy-_31gUq-Npv9rqDsfjwYRdtZkne4mIVk5p67uUOaAYvDOrBrt5w_3kebf5JP1jWV_wTD4KC2-1EBK-nADpvo3Q34VZ5-QOc1UNd93MjQtHc-tZfy7o_D5QrMF0P4G0hpkQfe05VWfKQHBVVb_AZano1hoNY3mgE2RCi6W23bFwUFmD4GqQgoZy_IdZxGiCnqiuI44S6euwb88UVJF2lX0NK1BqKfNB44pbZRedpp7aKNDpE-1OfQcXCV0gGWJSCsovMCkOJwvCYNlTN7Uigd7KM4I-vGcZkRNEBFvwKDPriztWw6gkgvDhfYActWDt2f4pK5AtBdytzrqmcjmBCqWA3V7wxJV999w02D5wp7yfmdoztIETOIykLv9B2Pw9g6xnKeraXHh56h0j-EJTSuzOK8apOZbb5OByVjey8xwMKrzlcVSAD_ASDKsXU5v8rW4N9KgLXv95BXpxUYgtUTLbUVkeyATN3nbLYTY0Mml-hWYI_ZlrW2tHdpqfwKoK-UBHSBy--cdRPFl0di2uMwQly8Gun0gWHfJt1yrV9ArQOktbjx1ahGTWrPZHju78DDYYCPNCGpGWJ_y7PR9qYUUfLhSPcpsi0NF8CiMYO4EcEclpzd3-aI1N3VKLzNqVkw63ElXls24fq6fyXqEBJytmkFh5IUltt7Y2NmXvTZph2RW-HFSgRlkJYZxOrM1XM0YCe-nZ2VVTEMeRx4IsYNzb15jeKRKehai_yFHroMrOkCAjU-Zyl-J_3Ad2JA52II3kIj-WCBysB04Cw4aUqGTEmqJRSORUItSb59bUYbSF1WdRNyVP_yiu5xmxqjdh9P1c2QG_ZLgwcTx3XZt76Di0r_rlZ5nh4gbz7J1kbu4Fl0Efi4pFVKCyD6p6ujXMcBPXKguTKsNhMD7fXtSFg6_JHvsbrQ-POD_1gNag53hD0XPY9e3Ft7FGeIfpUQ8JrEGGxsxBloIrY0kI-VNV6csjWhixiCb_Ad53vckSg-ghL2PnLGK0rh0rQWEUZJCVwFzbOTi0t9ninRA76V7yL0ZC3mm0CmTAaLnTAZ13Ulv9-0xai0C_masYQLr3tEKfj0VkydM9wUA5Ia_dS5Q8STcB4CV4lGzHQ5q69lWPuLADzQPwkspvgNKdHDZEumcPcSKB_pjde_g9NihhW-OkgNYyy5Z9roa852X2pcbpLVHXWQOvYwahtFqPsT3ZF21swR17-V4tPMWGF_D1BTWeT6QAALZz3mw9ymAaIcqiC4lK8V1Cp1oT8Vk9tC8FIttg_6scjJ2JT_4sKDofwAhxXewwz3e8Sf44OX8-bSupC0Eb_TUYAonL7Ses8cPvxZMWUkpM2UWGZ2mb9XewXzvOrMRsmu2QtdmLxLTYhaoqnTnPCNDph4IypQMEsp0qiVzwQ3WNiwpiHkl5uApMtdebYx_tW8-7-ypijCyKZOjX-mlBY-HGemkZPxaIUcg7AUpqoyBmsd_1aQg2ygOq-3Cmbs-0KSURaNpmuPzVwHCfgYwN_ZtltjdZm7QJ2TBm0dNh9tgbRSDKyMh2TCDvJ17ad65yLmobXNJSVcWJFUtIEhtFl3DA_LEZ4XBruGZjpTTSJfvymkB8StXa4mNalthQ-7cWEEpI-y_9zic73ri1FlxcW4KaUNV2xFj2WPMvSb_ckuFjX7H9Tite_SDmXpw-ejJdgNqA24_gauNI9Kvz-9_iqg1fM_N5Y7sOwiq-N08zhGCtNdhblTw5LUIfvaf5qXW0RgMnTiY3XOuGeZmG9krsgA26ZRs6gWTXDl5OMHaFtHwrMIbBow5RRmzXfZw_dqGN7taVl0KepcANUBYSHRoIUbaQZ-Coh9PL2KpUM4wy6CyaXty-1tcTQ-9VJURVibZCa_Ycw8wnkMYl4D8u_99Od1-18I-KtgfMjLRRha3KY51Q-YhZUJec9lct0KXT_F4htwYBwp7U3ZN0QOtDfgLTSP3LkTZM3TFYynsJb8MJ2tTyvRPtsy-bj2pDFa68NcxQLgUTxu8W46TUos74KEaCFyqa5cZjE9KxZNvuLSrwhpREDTnsMIiUpMxG0xq7vhZZBPGNoQA7W_KH2Z0JTjD_Y2uvd-sf0rNuXmonywu4UFHlA-4vVINdZK7XjHjMfV_yhLcfF-Df5sHZAzfFmmBs47dhYCBkS9Ofl1Gj6engwjqNiLWziP2CpWGL_IHQB2dbzhXpz4ZRLSJZTckqWAoihP8PJgWumG0ksvGoSg970mlT2VJekag8ji4Z_BLUXDNgyRaYjMIYojVluqqOjXY7eLwGpLX6hZZ1h6FjiGRwnoDD8iY5-YMF9M45ZitMLf1jo2Z30Ff2DSyxfxEWO2lJK9VxS3xk32YKDIXYiZOChY6Bs3mwq5LCeGwKw_8PdI46AaPpmjDUO9UH7XNnR5AaWokrD0COXsiZi_P6E6V-7frcrXKmz0P_huuyny5Ld-T6mCamIA1fosiWPY1C_8C9T2hPpgIAZ52rhZ2wXG-VWb7ohmpsoEyHb3fphp6hcMmGqteFFTdremCW6k4Z97wLlJAm4e3cRdHcTkCIG9ld0EKBv8bwDCDNtOzp1E9LTm1Fp_xHytRZx9SFPUPyAxxJSm6W5g2JiPl2THn0mm6e4OUncbKzywhCwi1ANtsbZdbq3FAaBYzHQ2O1UHK4b9R7URMGOSlVPt5vidxyvSCFSeF86y8pMDDRh6Ru4dZ5eAfqtd0azY3q3tE3WWQd9VTM2IVUrAi33uEMx412sJtmhxLYXIKaNKsjbscxcuisfCyTRS45Q&amp;cid=CAQSPADICaaNJuet1XmLE3WLV885bTfB4DNhIPp7_a59YwphDIjTMaP0H_hZ6kSgo2VVOIOLqUjR3HunzhV6oBgB';window.dv3Utw = {u: u,w: function() {document.write('&lt;script src=&quot;' + u + '&amp;flb=1&quot;&gt;&lt;/s' + 'cript&gt;');}};})();&lt;/script&gt;&lt;script src=&quot;https://pagead2.googlesyndication.com/pagead/js/dv3.js&quot; data-dv3-creative-fetch=&quot;https://googleads.g.doubleclick.net/dbm/ad?dbm_c=AKAmf-DSO_0j7Ohz46SZGF7MeNEW4wRpXjyXvfcqlAs_cyMi433t_0yXdsWHy92h_fmoGFWKmPvQWZuMp9MdYIu_X0m1HIVVave9B9aTOgarQaQAeSlYPKwEKyrpocNwHcjnQs1e1QK66AY0SYs1vEBri5mWa_dlab6flDZUqLj9yne38jo1wOk&amp;cry=1&amp;dbm_d=AKAmf-Dh6of56arITu5PdcvpUSegB4azLGAVVaG01THJ_JxNkRFZ6K4eOaGbe7mPyb-21ov0MNIVF3mjJm32bTp34iyOh6DRxgxK_tzvnAAmXv0GPzkG9AZ_VPUQJyxGsGl9sgl1fq8gKBTmtXdx-klKIv_6PL5Ze8XNj3LUbj2MKgNioYYPNV-pqo-Hlv1RhXPlZpv2-bhWYcE84EPQPpWd_2nXEQMxKP9oO_imDRR--Ad_KFmiH-2MbVqDM54Yp-N9MohRlP8nTOvFmNG3nqP6hUvYSQvdqNbeXmsyWsaERPBgw303096NcTVmEBoIQCqYLYcCVDQvjLeTgB85NI9WGBuuOStiq3J6IqMZPrh0WLKsPeKe_cZ6Wv8VVAvx58ars4P_d8kDjUVDO5cg0sj10sstqc6r1xx_AcKO4TImZ4xtjgWc_etFUJAEh0hc5rzzcb2QM_-Sw6sDa0ilTzO7P9z4SWDfMNjSPTvLTYgffViqR9DcIPUp1kHvyjDBMcrLEpW68ywOd0UkSYtU8zsdeOysoLdC2WrcSYnvD1UEPo_jE8gE1BzTVMgTStnGD5hNMArvZdsSA3hcVnUc1QmnOFGpsyY-_9FosmY2th9W2yRliqje_Zrz3h9EvUM58I6VRfMT_milFwXoL5FTooQN8j7hObuauhrBLUZiyUbyHpiAbaEn4xxMTFDB91PvSv-q3fEoVnirfE8XUjJud5UAtiV6_nuI2x59fE-AznQq13c_7IV_-4i-o33GpYAmR9x6HA8UlOhs9NAgs_kQInMHxX-hvP08j_zkKGuSZHgkQvW3jcwlZ2x3aEokI3GjHoRsogK45psDEvm_lk2RyOkjXDkcB9JsYiIP1bASi7sLnUGv2VwepBy3ve_SPiMxHDPOFPd9wI7G0lDsDRv8lsSdYHz9G6s3VRwtsq79FyD4e9iGJzOzwH79Xx0tZdwum4nHicouZcRrsR6HN8Q_bkusYF0eSLBGSpo-D6jnnee2yWta5iHcxvRHXOXJXpKyirqaBEqulEYGt_dA9tTysW_TbpM9B8oihVcWKwsGYFntjBCpMY_lB07mzgeBT3UaJJFz1aRx2bvLL3sxxyQsIEUfMqAy-_31gUq-Npv9rqDsfjwYRdtZkne4mIVk5p67uUOaAYvDOrBrt5w_3kebf5JP1jWV_wTD4KC2-1EBK-nADpvo3Q34VZ5-QOc1UNd93MjQtHc-tZfy7o_D5QrMF0P4G0hpkQfe05VWfKQHBVVb_AZano1hoNY3mgE2RCi6W23bFwUFmD4GqQgoZy_IdZxGiCnqiuI44S6euwb88UVJF2lX0NK1BqKfNB44pbZRedpp7aKNDpE-1OfQcXCV0gGWJSCsovMCkOJwvCYNlTN7Uigd7KM4I-vGcZkRNEBFvwKDPriztWw6gkgvDhfYActWDt2f4pK5AtBdytzrqmcjmBCqWA3V7wxJV999w02D5wp7yfmdoztIETOIykLv9B2Pw9g6xnKeraXHh56h0j-EJTSuzOK8apOZbb5OByVjey8xwMKrzlcVSAD_ASDKsXU5v8rW4N9KgLXv95BXpxUYgtUTLbUVkeyATN3nbLYTY0Mml-hWYI_ZlrW2tHdpqfwKoK-UBHSBy--cdRPFl0di2uMwQly8Gun0gWHfJt1yrV9ArQOktbjx1ahGTWrPZHju78DDYYCPNCGpGWJ_y7PR9qYUUfLhSPcpsi0NF8CiMYO4EcEclpzd3-aI1N3VKLzNqVkw63ElXls24fq6fyXqEBJytmkFh5IUltt7Y2NmXvTZph2RW-HFSgRlkJYZxOrM1XM0YCe-nZ2VVTEMeRx4IsYNzb15jeKRKehai_yFHroMrOkCAjU-Zyl-J_3Ad2JA52II3kIj-WCBysB04Cw4aUqGTEmqJRSORUItSb59bUYbSF1WdRNyVP_yiu5xmxqjdh9P1c2QG_ZLgwcTx3XZt76Di0r_rlZ5nh4gbz7J1kbu4Fl0Efi4pFVKCyD6p6ujXMcBPXKguTKsNhMD7fXtSFg6_JHvsbrQ-POD_1gNag53hD0XPY9e3Ft7FGeIfpUQ8JrEGGxsxBloIrY0kI-VNV6csjWhixiCb_Ad53vckSg-ghL2PnLGK0rh0rQWEUZJCVwFzbOTi0t9ninRA76V7yL0ZC3mm0CmTAaLnTAZ13Ulv9-0xai0C_masYQLr3tEKfj0VkydM9wUA5Ia_dS5Q8STcB4CV4lGzHQ5q69lWPuLADzQPwkspvgNKdHDZEumcPcSKB_pjde_g9NihhW-OkgNYyy5Z9roa852X2pcbpLVHXWQOvYwahtFqPsT3ZF21swR17-V4tPMWGF_D1BTWeT6QAALZz3mw9ymAaIcqiC4lK8V1Cp1oT8Vk9tC8FIttg_6scjJ2JT_4sKDofwAhxXewwz3e8Sf44OX8-bSupC0Eb_TUYAonL7Ses8cPvxZMWUkpM2UWGZ2mb9XewXzvOrMRsmu2QtdmLxLTYhaoqnTnPCNDph4IypQMEsp0qiVzwQ3WNiwpiHkl5uApMtdebYx_tW8-7-ypijCyKZOjX-mlBY-HGemkZPxaIUcg7AUpqoyBmsd_1aQg2ygOq-3Cmbs-0KSURaNpmuPzVwHCfgYwN_ZtltjdZm7QJ2TBm0dNh9tgbRSDKyMh2TCDvJ17ad65yLmobXNJSVcWJFUtIEhtFl3DA_LEZ4XBruGZjpTTSJfvymkB8StXa4mNalthQ-7cWEEpI-y_9zic73ri1FlxcW4KaUNV2xFj2WPMvSb_ckuFjX7H9Tite_SDmXpw-ejJdgNqA24_gauNI9Kvz-9_iqg1fM_N5Y7sOwiq-N08zhGCtNdhblTw5LUIfvaf5qXW0RgMnTiY3XOuGeZmG9krsgA26ZRs6gWTXDl5OMHaFtHwrMIbBow5RRmzXfZw_dqGN7taVl0KepcANUBYSHRoIUbaQZ-Coh9PL2KpUM4wy6CyaXty-1tcTQ-9VJURVibZCa_Ycw8wnkMYl4D8u_99Od1-18I-KtgfMjLRRha3KY51Q-YhZUJec9lct0KXT_F4htwYBwp7U3ZN0QOtDfgLTSP3LkTZM3TFYynsJb8MJ2tTyvRPtsy-bj2pDFa68NcxQLgUTxu8W46TUos74KEaCFyqa5cZjE9KxZNvuLSrwhpREDTnsMIiUpMxG0xq7vhZZBPGNoQA7W_KH2Z0JTjD_Y2uvd-sf0rNuXmonywu4UFHlA-4vVINdZK7XjHjMfV_yhLcfF-Df5sHZAzfFmmBs47dhYCBkS9Ofl1Gj6engwjqNiLWziP2CpWGL_IHQB2dbzhXpz4ZRLSJZTckqWAoihP8PJgWumG0ksvGoSg970mlT2VJekag8ji4Z_BLUXDNgyRaYjMIYojVluqqOjXY7eLwGpLX6hZZ1h6FjiGRwnoDD8iY5-YMF9M45ZitMLf1jo2Z30Ff2DSyxfxEWO2lJK9VxS3xk32YKDIXYiZOChY6Bs3mwq5LCeGwKw_8PdI46AaPpmjDUO9UH7XNnR5AaWokrD0COXsiZi_P6E6V-7frcrXKmz0P_huuyny5Ld-T6mCamIA1fosiWPY1C_8C9T2hPpgIAZ52rhZ2wXG-VWb7ohmpsoEyHb3fphp6hcMmGqteFFTdremCW6k4Z97wLlJAm4e3cRdHcTkCIG9ld0EKBv8bwDCDNtOzp1E9LTm1Fp_xHytRZx9SFPUPyAxxJSm6W5g2JiPl2THn0mm6e4OUncbKzywhCwi1ANtsbZdbq3FAaBYzHQ2O1UHK4b9R7URMGOSlVPt5vidxyvSCFSeF86y8pMDDRh6Ru4dZ5eAfqtd0azY3q3tE3WWQd9VTM2IVUrAi33uEMx412sJtmhxLYXIKaNKsjbscxcuisfCyTRS45Q&amp;cid=CAQSPADICaaNJuet1XmLE3WLV885bTfB4DNhIPp7_a59YwphDIjTMaP0H_hZ6kSgo2VVOIOLqUjR3HunzhV6oBgB&quot; data-dv3-width=&quot;728&quot; data-dv3-height=&quot;90&quot; data-dv3-render-mode=&quot;script&quot; data-dv3-meta-data=&quot;[1,77,10174251783880336105]&quot;&gt;&lt;/script&gt;&lt;script data-jc=&quot;112&quot; data-jc-version=&quot;r20230927&quot;&gt;(function(){'use strict';const d=/[&amp;?]dbm_c=([^ &amp;]+)/;function e(a){return(a=d.exec(a))?a[1]:null}function f(a,b,c){a=a.getElementsByTagName(b);for(b=0;b&lt;a.length;++b)if(e(a[b].src)===c)return!0;return!1};const g=window;if(g.dv3Utw){var h=g.dv3Utw.u,k=g.dv3Utw.w;g.dv3Utw=void 0;var l;a:{const a=e(h);if(!a||f(document,&quot;script&quot;,a)||f(document,&quot;iframe&quot;,a))l=!0;else{var m=document.getElementsByClassName(&quot;dv3-asfrm&quot;);for(let b=0;b&lt;m.length;++b){const c=m[b];if(c.contentWindow&amp;&amp;f(c.contentWindow.document,&quot;script&quot;,a)){l=!0;break a}}l=!1}}l||k()};}).call(this);&lt;/script&gt;&lt;script type=&quot;text/javascript&quot;&gt;
+   sb_gdpr = &quot;-1&quot;; /* 0 if GDPR does not apply, 1 if GDPR applies */
+   sb_gdpr_consent = &quot;&quot;; /* IAB TCF 2.0 consent string */
+   sb_redirect_click = &quot;https://googleads.g.doubleclick.net/dbm/clk?sa=L&amp;ai=CVummxTwaZfuXHpaW9wWquIXwCaTt-ahzsrnTrakR8C4QASDiw8g8YMEFyAEJqQLmTlI5GL2xPqgDAcgDmwSqBOMBT9Ay4eMc0vponZT6iEySAGdrUicdi_xV2-On3ig5Y7nGD2lyYdfiY2Us2woS4Dj7WXH8RENXDa8RoqAQimAVYxiwMnNTz4JrBiZvKXtrulanDkVriDuoo30sks0Ciq9cFW8cVO60_E0HBt4PDIQMhxUN9w0E-K1LZ_M3ZVvDohL7YX7yoKXozjt4TolTFEeR1Jd61HaU2bg_g5RYEyQ-2lsOkK60ro0F6gEIhI_Snfp119GTOtItf_eOKvRlbw8BF5dxfS9akf7qMCRQWkvlLVg6Lyq-9E1QAb9K1v832D_ryZ3ABIX9mue9BOAEA4gFp66C5EyQBgGgBk2AB_j61YcFqAfZtrECqAeOzhuoB5PYG6gH7paxAqgH_p6xAqgHpKOxAqgH1ckbqAemvhuoB5oGqAfz0RuoB5bYG6gHqpuxAqgHg62xAqgH_56xAqgH35-xAtgHANIIFAiAYRABGB0yAooCOgKAQEi9_cE6gAoDmAsByAsBgAwBqg0CVk7IDQHiDRMI3cWwzrnWgQMVFsu9Ch0qXAGesBPL1YMV0BMA2BMD2BQB0BUB-BYBgBcB&amp;ae=1&amp;gclid=EAIaIQobChMIu46yzrnWgQMVFsu9Ch0qXAGeEAEYASAAEgLYpPD_BwE&amp;num=1&amp;cid=CAQSPADICaaNJuet1XmLE3WLV885bTfB4DNhIPp7_a59YwphDIjTMaP0H_hZ6kSgo2VVOIOLqUjR3HunzhV6oBgB&amp;sig=AOD64_10-cTmv-uak5KQWGgXGH4aGxGewA&amp;client=ca-pub-3880661451400141&amp;dbm_c=AKAmf-Aj_1t9m2mBggvBU5R6CYegYmGNDLJA5xePKf5-DGXsz3AKqTIixrBYr22PbA92sLCpG3gv5pqj9bBF_p63m7Jvo-snKeIh-5H1PwEIyQdO1RNiPr6M-UZRqCiD25MpxiI4-uhowLxm4VJqi4aavGXosR1_mx_WqcEw59y3d0jJGScQ4yk&amp;cry=1&amp;dbm_d=AKAmf-C-2K0aZWCQe8MUSiLtRQnE9_PKfYhtcDOCXYOXJBKMIf0RW9dJIcy6txJKxpwu5_IX5wVjS9xatKuo0Q0TpSA0TxadJcj8nbXln4l1sIbeGr1yG8A95bCCwhZcOFu4kdtwjmU4DqgpUwfbqGUNHl71-bS7v6QW2xaPmahNJj0h89ZvJfZGeMpWVACZtaDIWnjiyGazNFDr2T21818dyCeLCNPW4bYgFAlvF2R8dgL_SojOA-fPz_JoCb4dKprPLwbaMKktJWAk_EoMSPcDF0rAQxCXtTNTvvgzUgg-z4SPh1kTYoVBGQm0MuOYMfvwDphzrnToFg8YdYfxEntzVeMXJ8-_b3P8P6XkQCjYj7JLcuekUbuSoRaB0DXdL_eTEUAx1czdbnIoFz-qG5F8gzqf1Lg8SqLeFMxYLBUILiVlZJYyK3ALcK9rmz6UMFYmF4WZSLkSTGEVoqxrbJfh-Fztzhbj-JNiX2DwwR9fFf84knthAADIwczk69aVv_rr5lo8BmHM4D7D4W2ODCjkHvP2mLYTvopBwaiJzG-KhbaXjkVU4KzKLp3zhrxAcD6adMCIoRcT&amp;adurl=&quot;; /* 3rd-party clicktracking */
+   sb_subid = &quot;&quot;; /* your own tracking-sub-id, max. 128 chars: a-z, A-Z, 0-9 and: -_.,:;/| */
+
+   sb_url_base = &quot;//hal9000.redintelligence.net/zone/jagnqvnteoug&quot;;
+   sb_url = sb_url_base;
+   sb_url = sb_url + &quot;?subid=&quot; + encodeURIComponent(sb_subid);
+   sb_url = sb_url + &quot;&amp;gdpr=&quot;+encodeURIComponent(sb_gdpr);
+   sb_url = sb_url + &quot;&amp;gdpr_consent=&quot;+encodeURIComponent(sb_gdpr_consent);
+   sb_url = sb_url + &quot;&amp;redirectClick=&quot; + encodeURIComponent(sb_redirect_click);
+   document.write('&lt;scr'+'ipt src=&quot;'+sb_url+'&quot;&gt;&lt;/scr'+'ipt&gt;');
+&lt;/script&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;script data-jc=&quot;22&quot; src=&quot;https://tpc.googlesyndication.com/pagead/js/r20230927/r20110914/client/window_focus_fy2021.js&quot; async data-jc-version=&quot;r20230927&quot; data-jcp-url=&quot;https://googleads.g.doubleclick.net/pagead/interaction/?ai=CVummxTwaZfuXHpaW9wWquIXwCaTt-ahzsrnTrakR8C4QASDiw8g8YMEFyAEJqQLmTlI5GL2xPqgDAcgDmwSqBOMBT9Ay4eMc0vponZT6iEySAGdrUicdi_xV2-On3ig5Y7nGD2lyYdfiY2Us2woS4Dj7WXH8RENXDa8RoqAQimAVYxiwMnNTz4JrBiZvKXtrulanDkVriDuoo30sks0Ciq9cFW8cVO60_E0HBt4PDIQMhxUN9w0E-K1LZ_M3ZVvDohL7YX7yoKXozjt4TolTFEeR1Jd61HaU2bg_g5RYEyQ-2lsOkK60ro0F6gEIhI_Snfp119GTOtItf_eOKvRlbw8BF5dxfS9akf7qMCRQWkvlLVg6Lyq-9E1QAb9K1v832D_ryZ3ABIX9mue9BOAEA4gFp66C5EyQBgGgBk2AB_j61YcFqAfZtrECqAeOzhuoB5PYG6gH7paxAqgH_p6xAqgHpKOxAqgH1ckbqAemvhuoB5oGqAfz0RuoB5bYG6gHqpuxAqgHg62xAqgH_56xAqgH35-xAtgHANIIFAiAYRABGB0yAooCOgKAQEi9_cE6gAoDmAsByAsBgAwBqg0CVk7IDQHiDRMI3cWwzrnWgQMVFsu9Ch0qXAGesBPL1YMV0BMA2BMD2BQB0BUB-BYBgBcB&amp;amp;sigh=Jy0SI48zJlo&amp;amp;cid=CAQSPADICaaNJuet1XmLE3WLV885bTfB4DNhIPp7_a59YwphDIjTMaP0H_hZ6kSgo2VVOIOLqUjR3HunzhV6oA&quot; data-jcp-gws-id=&quot;&quot; data-jcp-qem-id=&quot;CLuOss651oEDFRbLvQodKlwBng&quot;&gt;&lt;/script&gt;&lt;iframe title=&quot;Blank&quot; scrolling=&quot;no&quot; frameborder=0 height=0 width=0 src=&quot;https://pagead2.googlesyndication.com/pagead/s/cookie_push_onload.html#aHR0cHM6Ly9ydGIub3BlbngubmV0L3N5bmMvZGRzP2dvb2dsZV9naWQ9Q0FFU0VNd2dKSXFhSUNZY3Rwdkt1TGFEenVzJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QVhjb09tUmFBMHNEOTVvamtuak90dFJDX1M3TGtPYnpZbGMwUEhGaWp4UWhmLWZ1eXBCbk1FWkphVmpmbjRwR2hiRHJCT21oNUJwQ3B0WW9yTjB2cy1WeDdZb1VBelhZblhjbg==,aHR0cHM6Ly9pbWFnZTYucHVibWF0aWMuY29tL0FkU2VydmVyL1VDb29raWVTZXRQdWc_b2lkPTEmcmQ9aHR0cHMlM0ElMkYlMkZjbS5nLmRvdWJsZWNsaWNrLm5ldCUyRnBpeGVsJTNGZ29vZ2xlX25pZCUzRHBtZWIlMjZnb29nbGVfc2MlM0QxJTI2Z29vZ2xlX2htJTNEJTIzJTIzQjY0XzE2Ql9QTV9VSUQlMjZnb29nbGVfcmVkaXIlM0RodHRwcyUyNTI1M0ElMjUyNTJGJTI1MjUyRmltYWdlOC5wdWJtYXRpYy5jb20lMjUyNTJGQWRTZXJ2ZXIlMjUyNTJGSW1nU3luYyUyNTI1M0ZzZWMlMjUyNTNEMSUyNTI1MjZwJTI1MjUzRDE1NjU3OCUyNTI1MjZtcGMlMjUyNTNENCUyNTI1MjZmcCUyNTI1M0QxJTI1MjUyNnB1JTI1MjUzRGh0dHBzJTI1MjUyNTNBJTI1MjUyNTJGJTI1MjUyNTJGaW1hZ2U0LnB1Ym1hdGljLmNvbSUyNTI1MjUyRkFkU2VydmVyJTI1MjUyNTJGU1B1ZyUyNTI1MjUzRnAlMjUyNTI1M0QxNTY1NzglMjUyNTI1MjZzYyUyNTI1MjUzRDEmZ29vZ2xlX2dpZD1DQUVTRVBtM2tsNHJmVE81N0VqZFllajcyTjQmZ29vZ2xlX2N2ZXI9MSZnb29nbGVfcHVzaD1BWGNvT21RYjFydkxRcExjVjBvVmtLSUxsMHYyQ3hQQll6bUtlT0NMTGdscUtJRDh3N3pNMjN0bFBKZ3kxNzZBeFZ1bFpSR0E3bXdnZVN0MFpGVk1sMUdMYUtMZ2Z1LWE5U09jRWc=,aHR0cHM6Ly9waXhlbC5ydWJpY29ucHJvamVjdC5jb20vZXhjaGFuZ2Uvc3luYy5waHA_cD1kZnAmZ29vZ2xlX2dpZD1DQUVTRUxHOWNRQ1pManFCVDNBSDJjY0R1RVUmZ29vZ2xlX2N2ZXI9MSZnb29nbGVfcHVzaD1BWGNvT21SN1RIVjZTaUVKRktHbkFwMk9aaXRMRXVuUWRKeHl2aTI1UlVSRm5NOGJtdS05T3NkRzVmTkJJN21uVmNJLVVISlE3SXVIVnA2NWhGMGRxbzZ5cmc1czVVS3ZBT2piV0E=,aHR0cHM6Ly9zc3VtLXNlYy5jYXNhbGVtZWRpYS5jb20vdXNlcm1hdGNocmVkaXI_cz0xODQwMjMmY2I9aHR0cHMlM0ElMkYlMkZjbS5nLmRvdWJsZWNsaWNrLm5ldCUyRnBpeGVsJTNGZ29vZ2xlX25pZCUzRGluZGV4JTI2Z29vZ2xlX2htJTNEJmdvb2dsZV9naWQ9Q0FFU0VINGxONlpYZVBUR0hsQ3FzTEV1YkJrJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QVhjb09tUnJTMGxMU2hvYjFyMGRsYng4TS1KUDhndldfbXVCMWthNFFRd3RnZ3ZyUFp6QmJ1STRwVUpyS3p3eC1ySTV6cVROclFic3E4ZVUzTmhxOVBsWWV3UUxQakVvZy1Ha0xR,aHR0cHM6Ly9zLmFkLnNtYWF0by5uZXQvYy9uLy8vLT9hZE5ldEluaXQ9ZyZnb29nbGVfZ2lkPUNBRVNFSVBpQjFUblV5WXNfcXFVUEE5Z253RSZnb29nbGVfY3Zlcj0xJmdvb2dsZV9wdXNoPUFYY29PbVR4ZFdTcnJ6QzhINHQ5c0xVd1QwbzlPUFNnMzNsYm1TbUdhb0JDcThlME1UUGZsLVR3cGFOX2RZUlBYTVdNRWpLcHlON0MtYUtxNS12a3dvQmJkT3JXaVhobWgxTENFZw==,aHR0cHM6Ly9lYjIuM2xpZnQuY29tL2ViZGE_c3luYz0xJmdvb2dsZV9naWQ9Q0FFU0VBRFdRakJLSExMVWhxRWVhRlZDcmpvJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QVhjb09tVGNwenV4TVNBcWdOTWc5UmtlUVFMRTkxLUJfbkpGNlduS3NkNXAySHVySHNMUnJyTHl3UFc1RFhGalNKNndqeDFhRzhNbEZKQlkzSEJHbVVHTktFTzNsZWtmd1dqakFR,aHR0cHM6Ly9zc2JzeW5jLnNtYXJ0YWRzZXJ2ZXIuY29tL2FwaS9zeW5jP2NhbGxlcklkPTMmZ29vZ2xlX2dpZD1DQUVTRUM2Z1BnNjV6VXVjWG5aRFNibFpVbVkmZ29vZ2xlX2N2ZXI9MSZnb29nbGVfcHVzaD1BWGNvT21UdkhhLWkwRUFiZGdkc0lzMkRDdGU0OHdjeldneV9oUWZVZFBTemlTV0ZOcXAxSmw4TEtaUW05MmFuMmx0SmUydnN1UDRxeGotcFVoaFp1MzI0Ul9taHNiYXhmZzFaLVE=,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzS045ZVdlNWJ4amFXYWJuTzhlMnYtUXVoVGZPNmJUMUxqV0VJa2FRMzk5bkpwWXZBRFNxd2ZTeEdsaVhZQkJuUDZXUXpwRw==&quot;  style=&quot;position:absolute&quot; aria-hidden=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;script data-jc=&quot;23&quot; src=&quot;https://tpc.googlesyndication.com/pagead/js/r20230927/r20110914/client/qs_click_protection_fy2021.js&quot; data-jc-version=&quot;r20230927&quot; data-jcp-init-data=&quot;[[[[null,500,99,2,9,null,null,null,1]]]]&quot;&gt;&lt;/script&gt;&lt;img src=&quot;//www.google.com/ads/measurement/l?ebcid=ALh7CaTO4F0RWxdiSSZ427QYOKyE18yehYnRbKv2Bti8b0YMiaQvpmsZBEvw07xiaTjgeZl5ysCAyXggmNfyQVTPjGlLb5Ch_w&quot; style=&quot;display:none;&quot; alt=&quot;&quot;&gt;&lt;/img&gt;&lt;div style=&quot;bottom:0;right:0;width:728px;height:90px;background:initial !important;position:absolute !important;max-width:100% !important;max-height:100% !important;pointer-events:none !important;image-rendering:pixelated !important;z-index:2147483647;background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAWBAMAAACrl3iAAAAABlBMVEUAAAD+AciWmZzWAAAAAnRSTlMAApidrBQAAAB8SURBVBjTbZABDoAwCAPLD/r/1yoUC1NZsozsKAXgP0LxyVj5fZOcLJLAOpXlT2IC6cz/+Thoa6/s6W3l5UsET98wX1wMxhannCSt2WyleVbYsgw1Gq5Q0XJCrmt8b28zF+EmxGywizTt2mB3aCXTnhgvbelWqZ30PvS6AIAgBgZIzqL1AAAAAElFTkSuQmCC') !important;&quot;&gt;&lt;/div&gt;&lt;script data-jc=&quot;103&quot; data-jc-version=&quot;r20230927&quot; data-jcp-base_url=&quot;https://googleads.g.doubleclick.net/pagead/conversion/?ai=CVummxTwaZfuXHpaW9wWquIXwCaTt-ahzsrnTrakR8C4QASDiw8g8YMEFyAEJqQLmTlI5GL2xPqgDAcgDmwSqBOMBT9Ay4eMc0vponZT6iEySAGdrUicdi_xV2-On3ig5Y7nGD2lyYdfiY2Us2woS4Dj7WXH8RENXDa8RoqAQimAVYxiwMnNTz4JrBiZvKXtrulanDkVriDuoo30sks0Ciq9cFW8cVO60_E0HBt4PDIQMhxUN9w0E-K1LZ_M3ZVvDohL7YX7yoKXozjt4TolTFEeR1Jd61HaU2bg_g5RYEyQ-2lsOkK60ro0F6gEIhI_Snfp119GTOtItf_eOKvRlbw8BF5dxfS9akf7qMCRQWkvlLVg6Lyq-9E1QAb9K1v832D_ryZ3ABIX9mue9BOAEA4gFp66C5EyQBgGgBk2AB_j61YcFqAfZtrECqAeOzhuoB5PYG6gH7paxAqgH_p6xAqgHpKOxAqgH1ckbqAemvhuoB5oGqAfz0RuoB5bYG6gHqpuxAqgHg62xAqgH_56xAqgH35-xAtgHANIIFAiAYRABGB0yAooCOgKAQEi9_cE6gAoDmAsByAsBgAwBqg0CVk7IDQHiDRMI3cWwzrnWgQMVFsu9Ch0qXAGesBPL1YMV0BMA2BMD2BQB0BUB-BYBgBcB&amp;amp;sigh=Jy0SI48zJlo&quot; data-jcp-cpu_label=&quot;heavy_ad_intervention_cpu&quot; data-jcp-net_label=&quot;heavy_ad_intervention_network&quot;&gt;(function(){'use strict';/*  Copyright The Closure Library Authors. SPDX-License-Identifier: Apache-2.0 */ var l=this||self;var m,p;a:{for(var u=[&quot;CLOSURE_FLAGS&quot;],v=l,w=0;w&lt;u.length;w++)if(v=v[u[w]],null==v){p=null;break a}p=v}var x=p&amp;&amp;p[610401301];m=null!=x?x:!1;var y;const z=l.navigator;y=z?z.userAgentData||null:null;function A(a){return m?y?y.brands.some(({brand:b})=&gt;b&amp;&amp;-1!=b.indexOf(a)):!1:!1}function B(a){var b;a:{if(b=l.navigator)if(b=b.userAgent)break a;b=&quot;&quot;}return-1!=b.indexOf(a)};function C(){return m?!!y&amp;&amp;0&lt;y.brands.length:!1}function D(){return C()?A(&quot;Chromium&quot;):(B(&quot;Chrome&quot;)||B(&quot;CriOS&quot;))&amp;&amp;!(C()?0:B(&quot;Edge&quot;))||B(&quot;Silk&quot;)};!B(&quot;Android&quot;)||D();D();B(&quot;Safari&quot;)&amp;&amp;(D()||(C()?0:B(&quot;Coast&quot;))||(C()?0:B(&quot;Opera&quot;))||(C()?0:B(&quot;Edge&quot;))||(C()?A(&quot;Microsoft Edge&quot;):B(&quot;Edg/&quot;))||C()&amp;&amp;A(&quot;Opera&quot;));const E=Symbol();function F(a){const b=a[E]|0;1!==(b&amp;1)&amp;&amp;(Object.isFrozen(a)&amp;&amp;(a=Array.prototype.slice.call(a)),a[E]=b|1)}function G(){var a=[];a[E]|=1;return a}function H(a){a=a&gt;&gt;11&amp;1023;return 0===a?536870912:a};var I={};function J(a){return null!==a&amp;&amp;&quot;object&quot;===typeof a&amp;&amp;!Array.isArray(a)&amp;&amp;a.constructor===Object}let L;var M;const N=[];N[E]=39;M=Object.freeze(N);let O;function aa(a,b){return P(b)}function P(a){switch(typeof a){case &quot;number&quot;:return isFinite(a)?a:String(a);case &quot;boolean&quot;:return a?1:0;case &quot;object&quot;:if(a&amp;&amp;!Array.isArray(a)&amp;&amp;null!=a&amp;&amp;a instanceof Uint8Array){let b=&quot;&quot;,d=0;const e=a.length-10240;for(;d&lt;e;)b+=String.fromCharCode.apply(null,a.subarray(d,d+=10240));b+=String.fromCharCode.apply(null,d?a.subarray(d):a);return btoa(b)}}return a};function Q(a,b,d,e,c,k){if(null!=a){if(Array.isArray(a))a=c&amp;&amp;0==a.length&amp;&amp;(a[E]|0)&amp;1?void 0:k&amp;&amp;(a[E]|0)&amp;2?a:R(a,b,d,void 0!==e,c,k);else if(J(a)){const f={};for(let g in a)f[g]=Q(a[g],b,d,e,c,k);a=f}else a=b(a,e);return a}}function R(a,b,d,e,c,k){const f=e||d?a[E]|0:0;e=e?!!(f&amp;32):void 0;a=Array.prototype.slice.call(a);for(let g=0;g&lt;a.length;g++)a[g]=Q(a[g],b,d,e,c,k);d&amp;&amp;d(f,a);return a}function ba(a){return a.l===I?a.toJSON():P(a)};function S(a,b,d){if(null!=d&amp;&amp;&quot;string&quot;!==typeof d)throw Error();a=a.g;const e=a[E];if(e&amp;2)throw Error();a:{var c=H(e);if(b&gt;=c){let k=e;if(e&amp;256)c=a[a.length-1];else{if(null==d)break a;c=a[c+(+!!(e&amp;512)-1)]={};k|=256}c[b]=d;k!==e&amp;&amp;(a[E]=k)}else a[b+(+!!(e&amp;512)-1)]=d,e&amp;256&amp;&amp;(d=a[a.length-1],b in d&amp;&amp;delete d[b])}};var U=class{constructor(){a:{var a=void 0;null==a&amp;&amp;(a=O);O=void 0;if(null==a){var b=96;a=[]}else{if(!Array.isArray(a))throw Error();b=a[E]|0;if(b&amp;64)break a;var d=a;b|=64;var e=d.length;if(e){var c=e-1;e=d[c];if(J(e)){b|=256;const k=+!!(b&amp;512)-1;c-=k;if(1024&lt;=c){c=1023+k;const f=d.length;for(let g=c;g&lt;f;g++){const h=d[g];null!=h&amp;&amp;h!==e&amp;&amp;(e[g-k]=h)}d.length=c+1;d[c]=e;c=1023}b=b&amp;-2095105|(c&amp;1023)&lt;&lt;11}}}a[E]=b}this.g=a}toJSON(){if(L)var a=T(this,this.g,!1);else a=R(this.g,ba,void 0,void 0,!1,!1),a= T(this,a,!0);return a}};U.prototype.l=I;U.prototype.toString=function(){return T(this,this.g,!1).toString()}; function T(a,b,d){var e=a.constructor.o,c=H((d?a.g:b)[E]),k=!1;if(e){if(!d){b=Array.prototype.slice.call(b);var f;if(b.length&amp;&amp;J(f=b[b.length-1]))for(k=0;k&lt;e.length;k++)if(e[k]&gt;=c){Object.assign(b[b.length-1]={},f);break}k=!0}c=b;d=!d;f=a.g[E];a=H(f);f=+!!(f&amp;512)-1;var g;for(let q=0;q&lt;e.length;q++){var h=e[q];if(h&lt;a){h+=f;var n=c[h];null==n?c[h]=d?M:G():d&amp;&amp;n!==M&amp;&amp;F(n)}else{if(!g){var t=void 0;c.length&amp;&amp;J(t=c[c.length-1])?g=t:c.push(g={})}n=g[h];null==g[h]?g[h]=d?M:G():d&amp;&amp;n!==M&amp;&amp;F(n)}}}e=b.length; if(!e)return b;let X,Y;if(J(g=b[e-1])){a:{var r=g;t={};c=!1;for(let q in r)d=r[q],Array.isArray(d)&amp;&amp;d!=d&amp;&amp;(c=!0),null!=d?t[q]=d:c=!0;if(c){for(let q in t){r=t;break a}r=null}}r!=g&amp;&amp;(X=!0);e--}for(;0&lt;e;e--){g=b[e-1];if(null!=g)break;Y=!0}if(!X&amp;&amp;!Y)return b;var K;k?K=b:K=Array.prototype.slice.call(b,0,e);b=K;k&amp;&amp;(b.length=e);r&amp;&amp;b.push(r);return b};var ca=class extends U{};function da(a=window){return a};var ea=/#|$/;const V=function(a,b=null){return b&amp;&amp;b.getAttribute(&quot;data-jc&quot;)===String(a)?b:document.querySelector(`[${&quot;data-jc&quot;}=&quot;${a}&quot;]`)}(103,document.currentScript);if(null==V)throw Error(&quot;JSC not found 103&quot;);const W={},Z=V.attributes;for(let a=Z.length-1;0&lt;=a;a--){const b=Z[a].name;0===b.indexOf(&quot;data-jcp-&quot;)&amp;&amp;(W[b.substring(9)]=Z[a].value)} (function(a,b,d){var e=window;a&amp;&amp;b&amp;&amp;d&amp;&amp;e.ReportingObserver&amp;&amp;e.fetch&amp;&amp;(new e.ReportingObserver((c,k)=&gt;{c=c[0];if(&quot;HeavyAdIntervention&quot;===c?.body?.id){c=0&lt;(c.body.message?.indexOf(&quot;network&quot;)||0)?d:b;var f=a.search(ea);var g;b:{for(g=0;0&lt;=(g=a.indexOf(&quot;ad_signals&quot;,g))&amp;&amp;g&lt;f;){var h=a.charCodeAt(g-1);if(38==h||63==h)if(h=a.charCodeAt(g+10),!h||61==h||38==h||35==h)break b;g+=11}g=-1}if(0&gt;g)f=null;else{h=a.indexOf(&quot;&amp;&quot;,g);if(0&gt;h||h&gt;f)h=f;f=decodeURIComponent(a.slice(g+11,-1!==h?h:0).replace(/\+/g,&quot; &quot;))}if(f){if(navigator.sendBeacon(&quot;https://pagead2.googlesyndication.com/pagead/gen_204/?id=fledge_interactions&amp;label=&quot;+ c),f={h:f,label:c},c=new ca,null!=f&amp;&amp;(null!=f.h&amp;&amp;S(c,1,f.h),null!=f.m&amp;&amp;S(c,3,f.m),null!=f.label&amp;&amp;S(c,6,f.label),null!=f.j&amp;&amp;S(c,7,f.j),null!=f.i&amp;&amp;S(c,8,f.i)),null!=(f=da(l).fence)){g=f.reportEvent;a:{L=!0;try{var n=JSON.stringify(c.toJSON(),aa);break a}finally{L=!1}n=void 0}g.call(f,{eventType:&quot;interaction&quot;,eventData:n,destination:[&quot;buyer&quot;]})}}else e.fetch(`${a}&amp;label=${c}`,{keepalive:!0,method:&quot;get&quot;,mode:&quot;no-cors&quot;});k.disconnect()}},{types:[&quot;intervention&quot;],buffered:!0})).observe()})(W.base_url,W.cpu_label, W.net_label);}).call(this);&lt;/script&gt;&lt;script id=&quot;googleActiveViewDisplayScript&quot; src=&quot;https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text/javascript&quot;&gt;osdlfm();&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;{&quot;uid&quot;:&quot;v&quot;,&quot;hostPeerName&quot;:&quot;https://www.nhatot.com&quot;,&quot;initialGeometry&quot;:&quot;{\&quot;windowCoords_t\&quot;:0,\&quot;windowCoords_r\&quot;:1536,\&quot;windowCoords_b\&quot;:824,\&quot;windowCoords_l\&quot;:0,\&quot;frameCoords_t\&quot;:108,\&quot;frameCoords_r\&quot;:1123.6000061035156,\&quot;frameCoords_b\&quot;:198,\&quot;frameCoords_l\&quot;:395.6000061035156,\&quot;styleZIndex\&quot;:\&quot;auto\&quot;,\&quot;allowedExpansion_t\&quot;:0,\&quot;allowedExpansion_r\&quot;:0,\&quot;allowedExpansion_b\&quot;:0,\&quot;allowedExpansion_l\&quot;:0,\&quot;xInView\&quot;:0,\&quot;yInView\&quot;:0}&quot;,&quot;permissions&quot;:&quot;{\&quot;expandByOverlay\&quot;:false,\&quot;expandByPush\&quot;:false,\&quot;readCookie\&quot;:false,\&quot;writeCookie\&quot;:false}&quot;,&quot;metadata&quot;:&quot;{\&quot;shared\&quot;:{\&quot;sf_ver\&quot;:\&quot;1-0-38\&quot;,\&quot;ck_on\&quot;:1,\&quot;flash_ver\&quot;:\&quot;0\&quot;}}&quot;,&quot;reportCreativeGeometry&quot;:false,&quot;isDifferentSourceWindow&quot;:false,&quot;goog_safeframe_hlt&quot;:{},&quot;encryptionMode&quot;:null}" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" scrolling="no" src="https://21ee711a1c4d3ad0f4b8dd557ccdfacc.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html" style="border: 0px; vertical-align: bottom;" title="3rd party ad content" width="728">
+     </iframe>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="row" style="width: 100%; overflow: auto; display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
+  <div class="col-sm-12">
+   <div>
+    <div class="BreadCrumb_wrapperOverflow__Iycpy">
+     <ol class="BreadCrumb_breadcrumb__zGT1y" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+      <li class="BreadCrumb_breadcrumbItem__M8Q4i BreadCrumb_link__KeNbI" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+       <meta content="1" itemprop="position"/>
+       <a href="https://www.nhatot.com" itemprop="item">
+        <span itemprop="name">
+         Nhà Tốt
+        </span>
+       </a>
+      </li>
+      <li class="BreadCrumb_breadcrumbItem__M8Q4i BreadCrumb_link__KeNbI" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+       <meta content="2" itemprop="position"/>
+       <a href="https://www.nhatot.com/thue-nha-dat" itemprop="item">
+        <span itemprop="name">
+         Thuê Nhà ở
+        </span>
+       </a>
+      </li>
+      <li class="BreadCrumb_breadcrumbItem__M8Q4i BreadCrumb_link__KeNbI" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+       <meta content="3" itemprop="position"/>
+       <a href="https://www.nhatot.com/thue-nha-dat-da-nang" itemprop="item">
+        <span itemprop="name">
+         Thuê Nhà ở Đà Nẵng
+        </span>
+       </a>
+      </li>
+      <li class="BreadCrumb_breadcrumbItem__M8Q4i BreadCrumb_link__KeNbI" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+       <meta content="4" itemprop="position"/>
+       <a href="https://www.nhatot.com/thue-nha-dat-quan-thanh-khe-da-nang" itemprop="item">
+        <span itemprop="name">
+         Thuê Nhà ở Quận Thanh Khê
+        </span>
+       </a>
+      </li>
+      <li class="BreadCrumb_breadcrumbItem__M8Q4i" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+       <span itemprop="name" style="color: rgb(34, 34, 34);">
+        Cho Thuê nhà mặt tiền Trần Cao Vân khu vực kinh doanh sầm uất
+       </span>
+       <meta content="5" itemprop="position"/>
+      </li>
+     </ol>
+     <i aria-label="Prev" class="BreadCrumb_iconPrev__2wAMN false" role="button" tabindex="0">
+     </i>
+     <i aria-label="Next" class="BreadCrumb_iconNext__r0oRt BreadCrumb_iconNextActive__wem8y" role="button" tabindex="0">
+     </i>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div style="margin: 10px 0px;">
+  <div>
+  </div>
+ </div>
+ <div class="col-md-8">
+  <div class="DetailView_adviewCointainer__rdzwn">
+   <div>
+    <div class="AdImage_adImageWrapper__HkN6D" style='background-image: url("https://static.chotot.com/storage/logo/svg/chotot-logo-text.svg"); background-position: center center; background-repeat: no-repeat; background-color: rgb(238, 238, 238); background-size: 50%;'>
+     <div id="adview-carousel-placeholder" style="display: none; position: absolute; overflow: scroll; width: 100%; max-height: 450px;">
+      <img alt="https://cdn.chotot.com/9dITmzedeQ7ITkmlvOzv4fmNGthAQPEgaqp6cMO0R_U/preset:view/plain/f85dd93a046b3b09780f6a05bd21c20d-2845657091292257771.jpg" height="auto" src="https://cdn.chotot.com/9dITmzedeQ7ITkmlvOzv4fmNGthAQPEgaqp6cMO0R_U/preset:view/plain/f85dd93a046b3b09780f6a05bd21c20d-2845657091292257771.jpg" style="object-fit: contain;" width="100%"/>
+      <img alt="https://cdn.chotot.com/lF1Hp_FY3hJmgxK4BXNkXXPAFyRGW9T_cYwFj7F0G9U/preset:view/plain/59bdaf5912896bbb524aae282f073a99-2845657091272895372.jpg" height="auto" src="https://cdn.chotot.com/lF1Hp_FY3hJmgxK4BXNkXXPAFyRGW9T_cYwFj7F0G9U/preset:view/plain/59bdaf5912896bbb524aae282f073a99-2845657091272895372.jpg" style="object-fit: contain;" width="100%"/>
+      <img alt="https://cdn.chotot.com/Tc-QgFK5_dOiHXVFcQPE1ste7DI3bJwBCRQVGNzKwV0/preset:view/plain/46f658f58067d057be1e41f50ecbbdfc-2845657092963066373.jpg" height="auto" src="https://cdn.chotot.com/Tc-QgFK5_dOiHXVFcQPE1ste7DI3bJwBCRQVGNzKwV0/preset:view/plain/46f658f58067d057be1e41f50ecbbdfc-2845657092963066373.jpg" style="object-fit: contain;" width="100%"/>
+     </div>
+     <div>
+      <div class="AdImage_galleryPreview__RGawb" style="position: relative;">
+       <div class="AdImage_sliderImage__ddiFA">
+        <div class="AdImage_sliderWrapper___jIpt">
+         <div class="AdImage_imageWrapper__j1z2m">
+          <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+           <img alt="Cho Thuê nhà mặt tiền Trần Cao Vân khu vực kinh doanh sầm uất" data-nimg="fill" decoding="async" role="presentation" src="https://cdn.chotot.com/9dITmzedeQ7ITkmlvOzv4fmNGthAQPEgaqp6cMO0R_U/preset:view/plain/f85dd93a046b3b09780f6a05bd21c20d-2845657091292257771.jpg" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+          </span>
+         </div>
+        </div>
+       </div>
+       <span class="AdImage_imgPosition__PIaiL">
+        1 / 4
+       </span>
+      </div>
+      <div class="AdImage_gallerySlider__QeuHQ">
+       <div class="slick-slider sc-1nl301i-0 iCcejU AdImage_imageSlider__ICkDC slick-initialized">
+        <div class="slick-list">
+         <div class="slick-track" style="width: 488px; opacity: 1; transform: translate3d(0px, 0px, 0px);">
+          <div aria-hidden="false" class="slick-slide slick-active slick-current" data-index="0" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_ AdImage_sliderItemActive__BnbtB" data-index="0" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Cho Thuê nhà mặt tiền Trần Cao Vân khu vực kinh doanh sầm uất" data-nimg="fill" decoding="async" role="presentation" src="https://cdn.chotot.com/9dITmzedeQ7ITkmlvOzv4fmNGthAQPEgaqp6cMO0R_U/preset:view/plain/f85dd93a046b3b09780f6a05bd21c20d-2845657091292257771.jpg" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div aria-hidden="false" class="slick-slide slick-active" data-index="1" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_" data-index="1" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Cho Thuê nhà mặt tiền Trần Cao Vân khu vực kinh doanh sầm uất" data-nimg="fill" decoding="async" role="presentation" src="https://cdn.chotot.com/lF1Hp_FY3hJmgxK4BXNkXXPAFyRGW9T_cYwFj7F0G9U/preset:view/plain/59bdaf5912896bbb524aae282f073a99-2845657091272895372.jpg" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+              <noscript>
+              </noscript>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div aria-hidden="false" class="slick-slide slick-active" data-index="2" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_" data-index="2" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Cho Thuê nhà mặt tiền Trần Cao Vân khu vực kinh doanh sầm uất" data-nimg="fill" decoding="async" role="presentation" src="https://cdn.chotot.com/Tc-QgFK5_dOiHXVFcQPE1ste7DI3bJwBCRQVGNzKwV0/preset:view/plain/46f658f58067d057be1e41f50ecbbdfc-2845657092963066373.jpg" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+              <noscript>
+              </noscript>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div aria-hidden="false" class="slick-slide slick-active" data-index="3" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_" data-index="3" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Cho Thuê nhà mặt tiền Trần Cao Vân khu vực kinh doanh sầm uất" data-nimg="fill" decoding="async" role="presentation" src="https://cdn.chotot.com/Tc-QgFK5_dOiHXVFcQPE1ste7DI3bJwBCRQVGNzKwV0/preset:view/plain/46f658f58067d057be1e41f50ecbbdfc-2845657092963066373.jpg" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+              <noscript>
+              </noscript>
+             </span>
+             <div class="AdImage_sliderCtaOverlay__3LSxM">
+              <div class="AdImage_sliderCtaOverlayWrapper__6CQ9Q">
+               <img alt="" src="https://static.chotot.com/storage/chotot-icons/svg/adview-cta-button.svg"/>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="AdImage_imageCaption__aUFNp">
+      <span class="AdImage_imageCaptionText__ScM56">
+       Tin cá nhân đăng 21 giờ trước
+      </span>
+     </div>
+    </div>
+   </div>
+   <div class="DetailView_adviewPtyItem__V_sof">
+    <div class="AdDecriptionVeh_adDecriptionWrapper__bleBW">
+     <h1 class="AdDecriptionVeh_adTitle__vEuKD" itemprop="name">
+      Cho Thuê nhà mặt tiền Trần Cao Vân khu vực kinh doanh sầm uất
+     </h1>
+     <div class="AdDecriptionVeh_priceWrapper__y7Aj6">
+      <meta content="1" itemprop="position"/>
+      <div class="AdDecriptionVeh_adPrice__UTqQV" itemprop="price">
+       <span>
+        <div>
+         <span class="AdDecriptionVeh_priceWrapper__y7Aj6 AdDecriptionVeh_priceWrapperVeh__mBdrn">
+          <span class="AdDecriptionVeh_price__u_N83">
+           <span itemprop="price">
+            15 triệu/tháng
+            <span class="AdDecriptionVeh_squareMetre__eG8lb">
+             - 120 m
+             <sup>
+              2
+             </sup>
+            </span>
+           </span>
+           <span itemprop="priceCurrency" style="display: none;">
+            đ
+           </span>
+          </span>
+          <div class="AdDecriptionVeh_actionWrapper__ijwfS AdDecriptionVeh_actionWrapperVeh__qvMzX">
+           <div class="sc-i36vn2-1 gEmCbl">
+            <button type="button">
+            </button>
+            <button aria-expanded="false" aria-haspopup="true" class="styles_btnShareSocial__ARzC2" id="share_social_btn" type="button">
+             <img alt="share icon" src="https://static.chotot.com/storage/icons/svg/share-new.svg"/>
+             <span style="font-size: 12px;">
+              <!--sse-->
+              Chia sẻ
+              <!--/sse-->
+             </span>
+            </button>
+            <div aria-labelledby="share_social_btn" class="sc-i36vn2-0 ieIOfc" style="position: absolute; top: 0px; left: 0px; opacity: 0; pointer-events: none;">
+             <div style="margin-bottom: 10px;">
+              <span>
+               Chia sẻ qua:
+              </span>
+              <a class="sc-htpNat emcEhg">
+               <img alt="facebook" height="40" loading="lazy" src="https://static.chotot.com/storage/chotot-icons/svg/circle-facebook.svg" width="40"/>
+              </a>
+              <a class="sc-htpNat emcEhg">
+               <img alt="messenger" height="40" loading="lazy" src="https://static.chotot.com/storage/chotot-icons/svg/circle-messenger.svg" width="40"/>
+              </a>
+              <span class="sc-ifAKCX eGJmLz">
+               <a class="sc-htpNat emcEhg">
+                <img alt="copy" height="40" loading="lazy" src="https://static.chotot.com/storage/chotot-icons/svg/circle-copylink.svg" width="40"/>
+               </a>
+              </span>
+             </div>
+            </div>
+           </div>
+           <div class="SaveAd_saveAdWrapper___sBMh AdDecriptionVeh_saveAd__HXlG9">
+            <button class="SaveAd_btnSavedAd__jwoYd SaveAd_btnSavedAdVeh__IbhEh" id="btn_save_ad" type="button">
+             <img alt="like" height="20" loading="lazy" src="https://static.chotot.com/storage/icons/saveAd/save-ad.svg" width="20"/>
+             <span>
+              Lưu tin
+             </span>
+            </button>
+           </div>
+          </div>
+         </span>
+         <div class="AdDecriptionVeh_date__SpYR1">
+          <div class="col-xs-12 no-padding">
+           <div class="media margin-top-05" style="display: flex; align-items: start;">
+            <div class="media-left media-middle">
+             <img alt="location" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/location.svg"/>
+            </div>
+            <div class="media-body media-middle AdParam_address__5wp1F AdParam_addressClickable__coDWA" role="button" tabindex="0">
+             <span class="fz13">
+              Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng
+              <span class="AdParam_addressClickableLoadMap__FLeKT" role="button" tabindex="0">
+               Xem bản đồ
+               <img alt="see project" src="https://static.chotot.com/storage/default_images/project/rightIcon.svg"/>
+              </span>
+             </span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="AdDecriptionVeh_date__SpYR1">
+          <img alt="location" src="https://static.chotot.com/storage/icons/svg/order_timer.svg" width="20px"/>
+          <span>
+           Đăng 21 giờ trước
+          </span>
+         </div>
+         <div class="AdDecriptionVeh_date__SpYR1">
+         </div>
+         <div class="AdDecriptionVeh_date__SpYR1">
+          <img alt="location" height="20px" src="https://static.chotot.com/storage/icons/svg/shield.svg" width="20px"/>
+          <span>
+           Tin đã được kiểm duyệt.
+          </span>
+          <a class="AdDecriptionVeh_link__t_Y_n" href="https://trogiup.chotot.com/nguoi-ban/tai-sao-chotot-vn-duyet-tin-truoc-khi-dang/" rel="noreferrer nofollow" style="margin-left: 8px;" target="_blank">
+           Tìm hiểu thêm
+          </a>
+         </div>
+        </div>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="DetailView_adviewPtyItem__V_sof">
+    <div class="AdParam_adParamTitle__bU__w">
+     Đặc điểm bất động sản
+    </div>
+    <div class="AdParam_adParamContainerVeh__Vz4Zt">
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/ad_type.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="ad_type">
+          Cho thuê
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Diện tích" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/size.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Diện tích:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="size">
+          120 m²
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Số phòng ngủ" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/rooms.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Số phòng ngủ:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="rooms">
+          4 phòng
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Số phòng vệ sinh" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/toilets.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Số phòng vệ sinh:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="toilets">
+          2 phòng
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Tổng số tầng" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/floors.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Tổng số tầng:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="floors">
+          3
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Giấy tờ pháp lý" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/property_legal_document.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Giấy tờ pháp lý:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="property_legal_document">
+          Đã có sổ
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Loại hình nhà ở" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/house_type.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Loại hình nhà ở:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="house_type">
+          Nhà mặt phố, mặt tiền
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Diện tích sử dụng" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/living_size.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Diện tích sử dụng:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="living_size">
+          250 m²
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Số tiền cọc" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/deposit.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Số tiền cọc:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="deposit">
+          15.000.000 đ
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="DetailView_adviewPtyItem__V_sof">
+    <div class="d-lg-block styles_adBodyExpand__7S0HS">
+     <div class="styles_adBodyTitle__JrqDu">
+      Mô tả chi tiết
+     </div>
+     <p class="styles_adBody__vGW74" itemprop="description">
+      Cho thuê nhà Mặt tiền đường Trần Cao Vân 
+Cho thuê nhà 3 tầng mặt tiền 369 Trần Cao Vân rất đẹp và thuận lợi mở Văn phòng kinh doanh, dịch vụ. Cho thuê lâu dài. Nhà chính chủ
+* Phòng mặt tiền rộng rãi thuận lợi cho các loại hình kinh doanh
+* 4 phòng riêng, 1 phòng khách và 1 bếp, 2 toilet
+* Đã có đầy đủ nội thất cơ bản, chỉ cần vào ở
+* Đầy đủ các dịch vụ, tiện ích lân cận
+- Khu vực Trung tâm quận Thanh Khê, Gần Trung tâm Hành chính quận
+- Khu vực đông đúc dân cư, mua bán sầm uất
+- Gần chợ, gần Trường học 
+- Cách biển Nguyễn Tất Thành 200m (chưa tới 5' đi bộ)
+- Hàng xóm thân thiện, tốt bụng. 
+Liên hệ để xem nhà: ***
+     </p>
+     <div style="margin: 5px 0px 15px;">
+      <div class="false col-xs-12 no-padding">
+       <div class="InlineShowPhoneButton_wrapper__NtHmX">
+        <div class="InlineShowPhoneButton_linkContact__YEWbK InlineShowPhoneButton_phoneHidden__GJPGi">
+         <span>
+          Nhấn để hiện số: 090505 ***
+         </span>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <button class="styles_button__SVZnw" type="button">
+     Thu gọn
+     <svg class="styles_isExpanse__c8Ipj" height="18" viewBox="0 0 11 18" width="11" xmlns="http://www.w3.org/2000/svg">
+      <g fill="none" fill-rule="evenodd">
+       <path d="M1.125 3L6.75 8 1.125 13" stroke="#38699F" stroke-linecap="round" stroke-width="1.5" transform="translate(1 1)">
+       </path>
+       <path d="M0 0H9V16H0z" opacity=".01" stroke="#FFF" stroke-width=".1" transform="translate(1 1)">
+       </path>
+      </g>
+     </svg>
+    </button>
+   </div>
+   <div class="DetailView_adviewPtyItem__V_sof">
+    <div>
+     <div class="col-xs-12 no-padding">
+      <div class="AdParam_adMapImage__Ysu7w">
+       <h2>
+        Địa điểm bất động sản
+       </h2>
+       <img alt="Cho Thuê nhà mặt tiền Trần Cao Vân khu vực kinh doanh sầm uất" role="button" src="https://cdn.chotot.com/admincentre/location/16x071399_108x195556_c.jpg" tabindex="0" title="Cho Thuê nhà mặt tiền Trần Cao Vân khu vực kinh doanh sầm uất"/>
+      </div>
+     </div>
+    </div>
+   </div>
+   <button class="CalFinaFloatingButton_ScrollTop__AlehK" type="button">
+    Xem các gói vay cho bất động sản này
+    <img alt="" src="https://static.chotot.com/storage/chotot-icons/svg/arrow_down.svg" style="margin-left: 10px;"/>
+    <span>
+    </span>
+   </button>
+   <div class="d-none">
+    <div class="Styles_reportWrapper__74GS_">
+     <div class="Styles_reportBtn__izL5E">
+      <button class="btn btn-default btn-xs Styles_reportBad__4g9zg" id="report-bad-ad-btn" type="button">
+       Báo tin không hợp lệ
+      </button>
+      <button class="btn btn-default btn-xs Styles_reportBad__4g9zg" type="button">
+       Báo tin đã bán
+      </button>
+      <a class="Styles_insertSimilarAd__DHfAJ" href="https://www.chotot.com/dang-tin?category=1020" rel="nofollow noreferrer" target="_blank">
+       Đăng nhanh - Bán gọn
+      </a>
+     </div>
+     <div class="Styles_buyerProtect__5zjc4">
+      <div class="sc-htoDjs dpMCsK">
+       <img alt="mua bán an toàn" class="sc-dnqmqq iGIZUt" src="https://static.chotot.com/storage/marketplace/shield-iconx4.png"/>
+       <div class="sc-iwsKbI ldVnoa">
+        <em>
+         Tin đăng này đã được kiểm duyệt. Nếu gặp vấn đề, vui lòng báo cáo tin đăng hoặc liên hệ CSKH để được trợ giúp.
+         <a href="http://trogiup.chotot.com/ban-hang-tai-chotot-vn/kiem-duyet-tin/tai-sao-chotot-vn-duyet-tin-truoc-khi-dang/?utm_source=chotot&amp;utm_medium=user_protection&amp;utm_campaign=user_protection_ad_view" rel="noopener" target="_blank">
+          Xem thêm ››
+         </a>
+        </em>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="col-md-4 no-padding dtView">
+  <div>
+   <div>
+   </div>
+   <div class="" style="position: absolute; width: 318.663px; top: 787.875px;">
+    <div class="d-lg-block d-none" style="background-color: white; padding-bottom: 10px;">
+     <div class="SellerProfile_profileWrapper__ubLwW SellerProfile_profileWrapperVeh__BVDOo" itemprop="seller" itemscope="" itemtype="http://schema.org/Person">
+      <a class="SellerProfile_sellerWrapperVeh__UFHlO" href="https://www.chotot.com/user/8a25e7c10ec1d938502b8be21d56ba5a#xtatc=INT-10-[Adview]" rel="nofollow" target="_blank">
+       <div role="presentation">
+        <div class="img-thumbnail img-circle Avatar_imageWrapper__6tGNZ Avatar_defaultSize__a_WTh">
+        </div>
+       </div>
+       <div class="SellerProfile_nameBounder__btDeS" role="button" tabindex="0">
+        <div class="SellerProfile_flexDiv__IEgQl">
+         <div class="SellerProfile_nameDivVeh__vE94K">
+          <b role="presentation" style="margin-right: 5px; font-size: 14px;">
+           Tạ Thanh Vương
+          </b>
+         </div>
+         <button class="SellerProfile_secondaryButtonPty__DN1Sa" type="button">
+          Xem trang
+          <img alt="&gt;" src="https://static.chotot.com/storage/icons/svg/next-orange.svg"/>
+         </button>
+        </div>
+        <div class="SellerProfile_statusOnlineDivVeh__kgmx4">
+         <div class="SellerProfile_shopIconWrapper__mXmWK" role="presentation">
+          <img alt="https://static.chotot.com/storage/default_images/pty/private-pty-icon.svg" height="16px" src="https://static.chotot.com/storage/default_images/pty/private-pty-icon.svg" width="16px"/>
+         </div>
+         Cá nhân
+        </div>
+        <div class="SellerProfile_statusOnlineDivVeh__kgmx4">
+         <div class="SellerProfile_offlineBullet__by5mZ">
+          •
+         </div>
+         Hoạt động 2 giờ trước
+        </div>
+       </div>
+      </a>
+      <div class="SellerProfile_inforWrapper__KXg71">
+      </div>
+     </div>
+    </div>
+    <div style="background-color: white;">
+     <div class="IntersectBox" style="min-height: 100px;">
+      <div class="ChatTemplate_chatTempWrapper__uAELZ">
+       <div class="ChatTemplate_titleChatTemp__IWGIA ChatTemplate_titleChatTempVeh__CcvPa">
+        Liên hệ với người bán
+        <div class="ChatTemplate_inforItem__CoFv1">
+         <div class="ChatTemplate_inforText__sbLZ7">
+          <span class="">
+           Phản hồi:
+          </span>
+          <span>
+           ---
+          </span>
+         </div>
+        </div>
+       </div>
+       <div class="ChatTemplate_templateItemWrapper__AP8xV">
+        <ul class="ChatTemplate_templateMessage__a_aks">
+         <li class="ChatTemplate_templateItem__7p1c6 ChatTemplate_templateItemVeh__rCiXd" role="menuitem">
+          Nhà này còn không ạ ?
+         </li>
+         <li class="ChatTemplate_templateItem__7p1c6 ChatTemplate_templateItemVeh__rCiXd" role="menuitem">
+          Thời hạn thuê tối đa là bao lâu?
+         </li>
+         <li class="ChatTemplate_templateItem__7p1c6 ChatTemplate_templateItemVeh__rCiXd" role="menuitem">
+          Thời gian thuê tối thiểu là bao lâu?
+         </li>
+         <li class="ChatTemplate_templateItem__7p1c6 ChatTemplate_templateItemVeh__rCiXd" role="menuitem">
+          Có thêm chi phí phát sinh gì nữa không?
+         </li>
+         <li class="ChatTemplate_templateItem__7p1c6 ChatTemplate_templateItemVeh__rCiXd" role="menuitem">
+          Nhà có sẳn nội thất chưa ạ?
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="LeadButton_wrapperLeadButtonDesktop__SVKE8" style="padding: 8px 12px;">
+       <div class="LeadButton_showPhoneButton__1BIwH LeadButton_showPhoneButtonVeh__54zfM">
+        <div class="ShowPhoneButton_wrapper__B627I">
+         <div class="ShowPhoneButton_phoneButton__p5Cvt ShowPhoneButton_phoneNotClicked__dlQn_">
+          <div class="ShowPhoneButton_flexDiv__3qpNj">
+           <span>
+            <img alt="loadingIcon" class="ShowPhoneButton_icon__wsnZ5" src="https://static.chotot.com/storage/chotot-icons/svg/white-phone.svg"/>
+            090505 ***
+           </span>
+           <span>
+            BẤM ĐỂ HIỆN SỐ
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="LeadButton_chatDesktopButton__HSQyg">
+        <a class="btn LeadButton_buttonChatDesktop__gbYM9" href="https://chat.chotot.com/chatroom/join/OTA5MTI3NHwxMTA0MTU1MDY=" rel="nofollow">
+         <img alt="chat" src="https://static.chotot.com/storage/chotot-icons/png/chat_green.png"/>
+         <span class="text-success">
+          <span>
+           CHAT VỚI NGƯỜI BÁN
+          </span>
+         </span>
+        </a>
+       </div>
+      </div>
+      <div class="LeadButton_wrapperLeadButtonMobileVEH__qiqML">
+       <a class="btn LeadButton_buttonSupportMobile__JPIBr" id="call_phone_btn">
+        <img alt="call" src="https://static.chotot.com/storage/chotot-icons/png/call.png" width="20"/>
+        <div>
+         Gọi điện
+        </div>
+       </a>
+       <a class="btn LeadButton_buttonDefault__pB0PM LeadButton_HozDivider__x7f0d" href="https://chat.chotot.com/chatroom/join/OTA5MTI3NHwxMTA0MTU1MDY=" id="chat_btn" rel="nofollow">
+        <img alt="chat" src="https://static.chotot.com/storage/chotot-icons/png/chat.png"/>
+        <span class="text-success">
+         Chat
+        </span>
+       </a>
+       <a class="btn LeadButton_buttonDefault__pB0PM LeadButton_HozDivider__x7f0d" id="sms_btn">
+        <img alt="sms" src="https://static.chotot.com/storage/icons/svg/secondary_sms.svg"/>
+        <span class="text-success">
+         Nhắn tin
+        </span>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="d-lg-block d-none">
+     <div class="styles_helpboxWrapper__97D4i">
+      <div class="styles_helpboxItem__oJx4l">
+       <img alt="Cần trợ giúp" src="https://storage.googleapis.com/static-chotot-com/storage/chotot-icons/svg/support.svg"/>
+       <a href="https://trogiup.chotot.com/" rel="noopener noreferrer">
+        Cần trợ giúp
+       </a>
+      </div>
+      <div class="styles_helpboxItem__oJx4l">
+       <img alt="Báo cáo tin đăng này" src="https://storage.googleapis.com/static-chotot-com/storage/chotot-icons/svg/warning_grey.svg"/>
+       <button class="styles_buttonReport__hhOIr" type="button">
+        Báo cáo tin đăng này
+       </button>
+      </div>
+     </div>
+     <div class="Styles_rightHandSiteAdView__O90bj">
+      <div>
+       <div data-google-query-id="CPvass651oEDFUyD6QUdWnUJ3g" id="rgpt-33">
+        <div id="google_ads_iframe_/325540922/oneweb_des_RHS3_Adview_300x250_3__container__" style="border: 0pt none; display: inline-block; width: 300px; height: 250px;">
+         <iframe data-google-container-id="w" data-is-safeframe="true" frameborder="0" height="250" id="google_ads_iframe_/325540922/oneweb_des_RHS3_Adview_300x250_3" marginheight="0" marginwidth="0" name="1-0-38;26922;&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;script&gt;var jscVersion = 'r20230927';&lt;/script&gt;&lt;script&gt;var google_casm=[];&lt;/script&gt;&lt;/head&gt;&lt;body leftMargin=&quot;0&quot; topMargin=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;&lt;div class=&quot;GoogleActiveViewInnerContainer&quot;style=&quot;left:0px;top:0px;width:100%;height:100%;position:fixed;pointer-events:none;z-index:-9999;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:inline&quot;class=&quot;GoogleActiveViewElement&quot;data-google-av-cxn=&quot;https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjstdIazOpB7HtWQfAStRcwkELYhhagly05fcdTj7GvUbbOtNZQA4apbpt6rPvnLicuuZSxrMWC6U9rNwZKR6OYqoe1_LrpcMBfjVjZ9p9ig6s2dw7hWQ5LAu_u4pdtAp&amp;amp;sai=AMfl-YTjjsA3aflV8cVPoARrDXC9QaqxcmjpauhqAsL3pw4pnOa4UjtesqPyhmynEr66WsNyvR02b-_i4iftat7c-6lhM6jE4iwwCW70mpipT6WrJWK6FmrDlFRe15Fw&amp;amp;sig=Cg0ArKJSzL9UVKmbskvIEAE&amp;amp;cid=CAQSPADICaaNIj9EZ7HMBog93zqjKFN9GAqd6OZqhLCKQ2At0V0kN49cP2tt_xcLrGru1tEMfAIEBM3HmLoIkBgB&quot;data-google-av-adk=&quot;2439785759&quot;data-google-av-metadata=&quot;la=0&amp;amp;xdi=0&amp;amp;&quot;data-google-av-ufs-integrator-metadata=&quot;EsQDCrsDaHR0cHM6Ly9wYWdlYWQyLmdvb2dsZXN5bmRpY2F0aW9uLmNvbS9wY3MvYWN0aXZldmlldz94YWk9QUtBT2pzdGRJYXpPcEI3SHRXUWZBU3RSY3drRUxZaGhhZ2x5MDVmY2RUajdHdlViYk90TlpRQTRhcGJwdDZyUHZuTGljdXVaU3hyTVdDNlU5ck53WktSNk9ZcW9lMV9McnBjTUJmalZqWjlwOWlnNnMyZHc3aFdRNUxBdV91NHBkdEFwJnNhaT1BTWZsLVlUampzQTNhZmxWOGNWUG9BUnJEWEM5UWFxeGNtanBhdWhxQXNMM3B3NHBuT2E0VWp0ZXNxUHlobXluRXI2NldzTnl2UjAyYi1faTRpZnRhdDdjLTZsaE02akU0aXd3Q1c3MG1waXBUNldySldLNkZtckRsRlJlMTVGdyZzaWc9Q2cwQXJLSlN6TDlVVkttYnNrdklFQUUmY2lkPUNBUVNQQURJQ2FhTklqOUVaN0hNQm9nOTN6cWpLRk45R0FxZDZPWnFoTENLUTJBdDBWMGtONDljUDJ0dF94Y0xyR3J1MXRFTWZBSUVCTTNIbUxvSWtCZ0ISABoAIAE&quot;data-google-av-override=&quot;-1&quot;data-google-av-dm=&quot;2&quot;data-google-av-aid=&quot;0&quot;data-google-av-naid=&quot;1&quot;data-google-av-slift=&quot;&quot;data-google-av-cpmav=&quot;&quot;data-google-av-btr=&quot;&quot;data-google-av-itpl=&quot;20&quot;data-google-av-rs=&quot;4&quot;data-google-av-flags=&quot;[&amp;quot;x%278440&amp;#39;9efotm(&amp;amp;753374%2bejvf/%27844&amp;gt;&amp;#39;9wuvb$&amp;amp;56533&amp;gt;!=|vqc)!273794&amp;amp;&amp;lt;qqvb/%&amp;lt;1735020!=nehu`/!364=5051!9abk{a($160210:3&amp;amp;&amp;lt;cbotf+*0150034:%2bejvf/%72;17613!=efdwa*&amp;#39;76463;21$?ebkpb$&amp;amp;0366717&amp;gt;*&amp;gt;bgipf+!3=712363%9aihwc)!7202&amp;lt;217&amp;#39;9efotm(&amp;amp;20061;48&amp;amp;&amp;gt;`dopb/%&amp;lt;1707200!=8(&amp;amp;2005575?&amp;amp;&amp;gt;`dopb/%&amp;lt;170642?!=|vqc)!7201;=50&amp;#39;9wuvb$&amp;amp;03641654*&amp;gt;bgipf+!3=731103%9aihwc)!7200?073&amp;#39;9efotm(&amp;amp;2004?51;&amp;amp;&amp;gt;`dopb/%&amp;lt;17&amp;gt;474&amp;gt;!=nehu`/!36406412!9abk{a($167745;=&amp;amp;&amp;lt;cbotf+*01254133%2bejvf/%72&amp;lt;43412!=efdwa*&amp;#39;76326&amp;gt;71$?3/%72&amp;lt;60530!=efdwa*&amp;#39;76310;4&amp;lt;$?ebkpb$&amp;amp;0311;060*&amp;gt;bgipfz&amp;quot;]&quot;&gt;&lt;DIV STYLE=&quot;position: absolute; left: 0px; top: 0px; visibility: hidden;&quot;&gt;&lt;IMG SRC=&quot;https://pagead2.googlesyndication.com/pagead/gen_204?id=xbid&amp;dbm_b=AKAmf-D-xQK4Do-5SM-ZQbxoTy2jGed1b6EGeKzb599m19xjtvHrv-XINIzxoNi_c7KbG6-hBFLOC0mhffqPUfRS_04cyDCcLJlqQSKcHcm2MY1aAXljeuA&quot; BORDER=0 WIDTH=1 HEIGHT=1 ALT=&quot;&quot; STYLE=&quot;display:none&quot;&gt;&lt;/DIV&gt;&lt;iframe title=&quot;Blank&quot; src=&quot;https://googleads.g.doubleclick.net/xbbe/pixel?d=CN-KGhCb_9O5BRjPxaL5ATAB&amp;v=APEucNVJb2WOtGCAJH3mDSMfPwaST-rcGnSAJHHqn8QooER2jW3O6AEmICt8hB0xDX4a9PT7n1sk4WHSH9vmYn2G8c8a5GDIOA&quot; style=&quot;display:none&quot; aria-hidden=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;div&gt;&lt;div style=&quot;position:absolute; display:block;&quot;&gt;&lt;IMG SRC=&quot;https://pagead2.googlesyndication.com/pagead/gen_204?id=dv3-render&amp;msg=fetch&amp;cor=5745300803064295254&amp;x=1&amp;ct=77&quot; BORDER=0 WIDTH=1 HEIGHT=1 ALT=&quot;&quot; STYLE=&quot;display:none&quot;&gt;&lt;script&gt;(function() {var u = 'https://googleads.g.doubleclick.net/dbm/ad?dbm_c=AKAmf-BDVZhuCXRkXbZ9HREzL059T1csHGx-UD_K8d7qTgRwHbPBNJQ_zfN3EF7C-eKA-ZhdymLNfk9Bq5SYvCEgwuKD8y_vDVNbIM2r2txiydkVqls_dildVMvHijDSJjPSz8qbQ84ozz3c0nldv3OCWJKLuZhDZF-8YR6wQwb7D-tACb6RRfA&amp;cry=1&amp;dbm_d=AKAmf-B8k1lhTbkdfW-LnLAXQIpoK0gGEHu6wzQdoJZMDXL024S4MSEwBXegfpV0IN8A5TOeCkl2dRvivIhc5je-7OS3ZC4N4mK7boqZu5JPKUiT2cox6L7l-5PyBgQk_ccodlB87J00_0ivgSfldRAlpcPZ-u1ywwXxL8iKmoicRGPr5wFBUmhcqeR-DuMFGyhl4t9Px-4Cbk4f1N-h4Dy8zyYFMp3DI0-SHlUo8Ax1y3VQN6FGuR_WitnX-5JhltoMrx5SPQSWL2md8skKulFhzMzDtvya4mZxVmIXmYeSq9Y8cIJkk9Lcj5W3yLbPimO4ZGkKp79HwoCJWbDjgDvJ97TByztLsdDr1oQLRXHqjux3VE9xI48a6T-zcrT93PKM1kDUL3NWydKoWhd-Z4EWBuoT1-vOVKKyI1P4VIjOX6Zb0544yfAVt6Yncaqf4LARzvLQ7COp5OuWPM9oQcvo1LTLNxG2tYiIqfF-SRkaJNU1h8tAzsZNUIpbs5RuyorAYl8zjhDnofSb9C3ZLGsxU5MNmA_a3KkyFWIOAFvE_e8jMwZAMH5KmXI05VZcTKcqA2UwqyFzJHxPHZQ5DjkI2KxvjgRMhMcea5X4-6AcLgndq1mOULP2SNE6ZvFzYv7X3KRNEXmFd5f6iOV31-Ti6gimjTWGDV0gmTV_lj3qI-ux6VedqwidJ2q1VziQZKTRp2tRM9yroHE--EOYiVoM0PDrkywohA2DjN0nhzgdaHkvjPdZOniIzxgRahPDsDxggmEeJtLfarDrjqNFkYZI8vkECqss5vEy8c-230-jfwG5E6e2xWMqpUlxFX83HYzAn2i-YsNOIXclYtvm8wDe54qE_6QLA9zS3VabdODaJzr1MXqXD_Zkqk-0qUWf6ZXMp3_slMUy4nuzagPKUZwgmQcqqTe_y1i6bZLXH3zFr5W0VYprgt1tbB_AU-_FzHGSVRz51-NQcjujGpvJpsS3aHDjiKZ5-yj-hRK5uyoVrOV-gC15TFx8ynuQMhmGMCfOMuVowpKEU8fT5eq9Xvvo_5vakE-VpQ_nrMMrsIP9I361NzM-tT9L09OkAmdRbck613_jxrOcms_4x2ZAGluwUI_EQa4VcgSJRihCG5LnmZGIL3rdPcE8hGb8TepGmNq0uMLumSC058zyk4mnV04-ogpJV828Fiv0X5AhBXDbI7CsvqxBzWWpT304z728ND8DemJU1N9h-gR3bKmygzfABsWNhChrk6jG9GV-4ZS5zp8nnX1BT9dAoHGwsTHOiltgc7IRb3987otEq8qA8FPFVcdbPykXGDL4cBdsXGjwJsFO-FxYt44_0IQhRxIoCEfVdYffENoJxUEoHFjzC3M9gMWpJMR-6H4F4orNC9qb29MNVFG04eeMN7PezA9XpZ8EddBgzgtH9OCOyi0NOffJgvKHml-bTemiPnimlJPKStqm9qvqFTU2MS_LDJDPgjtyi6iw0DBzdOC86rhkFQVZLlMDSrS0tRr2RaEgVf2Uo_tLoTJXm6NEv22cZk454-iDUO9TDiykBmYdScnQIw_UnJIYbM7P9v18u_HpeIF7EQBeCCQsjuTp7t_GBqPKH3Ms6vAzJ4zNrW_ybYSizXwZlTQHyi-lCI4qz27b7gLZ0GaNvkEtg843ZTdQ_MkmDvs13o_UMEt7yRUbQ0zp2wgGcmXmQ9gGma4Tfp3v8TPRXd-q-fJk68x52NiAWe_q2s7TDJBZIHcuolWxIwRr7WzoQSmz6M90l43wXo9lCjT80gTfHpFB33nWbjUlV2sAPZb3DLTibRbhGQ5R-OHFICh-Q-8SABNUxCsp20LmZup92f15xzvsLazCIOdgES9J8PZ72ZJXM7ltp8LQeVWXNkmLACopaXH0ZSJkylhBW2tQoQpqQEHF4N5PSdpdIyEv_eRjlAKSfk6TxgXrEuoVJMFW4QqP5vJguVDRmeh8QS1HkXGZx03ugYupyXOXzKS7-szb-kPsyDTaDWm1sjY7tZVMTQmhcduFce68A449nowUlgdMdbOjdQnIPuWr2fyzK5ADNJOGtxollkPoD6rjCMqCiQi-bxA7JWm_TFIoWsXhXxyBmZBl-afNFlI_tYZnUjpNmgI-SfZNGhkhQT6QP8UbAw7iro_mhIK3TwcpddOV524WHeUtCyTLA5-TGSHm14wxQD9UuBSL48usAlKog5bcRTa5iowamYNyL56nYT1vOSYvC1VKPHYvAwRk2b__83wdcjX9LDhrHudYHDChlpXcUJGKINHMk1ldwZdO7wgj40CHRDDrKNxxriV0wAAp6KFW-L43vlKw_mGkI8kvNQ9wsm_-WUVqhSWPvmCXzI_E6NF0W2s_IFCVGDxEIyEC-_FsrMj87at_lMcVZMcBZBoWrqtfx1whu6kQH49ipuSgMRq1HdV9O1ulNsMJ88yQLX0mJniBw8_FRGLUeGV_SBgYcw0p-h2Wpkj_bxFpGogiK__uqUGFnAeqIPFvgpIs0IwJJmTfLa57aTVxx2x_2_jQzhyvgRwnCtHcB4t8dF4R3bd3Zr-fkcqFiO8q7TcdYEyHCQNeP6yJo0q5tjr07cv2W8shHTKdikZ0t9VYZeMDYHhoe3ll4q512ALZmdIMVZwM1tGQWrC4W-sLP6Gi-RUW-BTVypRu9GFisVd3PcTGcWakiePrZ13NGe4u2iTNEq5NsFPXHxl9gnklNAvoDNQz5B0cErT5v3kJ3uYk9LpgcS9nxE2Vl1i8q2BjTJ307LdG5vFU765FqbA6Gk0rtRkTDeZVVnhSXTuw8TEU7QGtheF9x_XdlUMQN12T7qx-q5_j5D3_09xkdn_JqLhzlMeE0Z5TrIm2iuUehblgJVxAmMF7CXnky3XAjD2hNMSob0x-AX21TvJDA0qGJY5TfLkeekGHgnAKri_RSma-yy6NHyrnSfk5a1PKkOHNDfPhez_aMGs52_uEICJ-JDkOgt-gk-WtEXteimNtmdBHpcAjdAt5Mk4e1dH1iooVgSU1wHZ1w28dc-Yy5w3e2byjCF6YDxabo3QOIf0FexPL6UG4cD6lYD8UCSz2E2Rs6fvB0Dj4re5dQixHPPOibfkKj2gA2SZWATa8gUTr6UcD60y_JY8zeUAlMqY2fjZuo_quNtoZhUQrhycMxWPlxVVaQenDc32zZix_DomTIckY3aEDkP-mJW6diIYPU5TX2lkAuAdtxq7xeYlEvkrrjnFqpsIlOjijrHTSYMjRExa3DHn6q8hJ8fk7r06HSoh9IdyUfKDxKyJhlBeupFd4FVOeLQBJgtuUYEnVwqL6CHOiLWKdqiZrS_umg3SBg3gbD0x94bMiu3BX1ZT3KpUQ1CJgNsxl8OjhP_-WQt_pmrxR60vq4ziIEd34Clcx5RSy5_wYT7QmrEoQ7NX28w1WxO38p7vwrsIAUH-37SVe4_7E6yCPVp-_82Z9OomJgZwnucVxbnQM2tTxTOaSfZRcHjoB_0WER_rm-AWGO7CVyhf_y1MU7uvjuCprKZVT43UkdhD9szFkAQ-zW-4C5YTG0AV38gSWgUG3vFbJoYp77_qgAKCqsKfkSIC5MZfFUKEqj9AUaw57SiwXqZtbKnyHevWUq24_vHVe2AcnaysZYfFT9iq8jNCLOLLAjJY85oyid6s9vJj4WVMIji7oozXzlPC_b4X3n2iJqLGHgttv6WB4M_caD4sV_UBz_dglZiWpdltw5ndgK0OF3fT4Qv1_15UuALSYJD5A72z9t-MtsNlU3p52leEgU1Yz6axudbgd-A0-zrq0LveAPjOzUJsZXWwMPR7LOh3Lo4tUYkOTslSP0l4UeKNaE7xrykwWS4awhvCwPtzWSGNHHxKnvQwz8h1uYDKHhb-9_x7GOJP4suNQQAc37mWbAdyLQEmcNzDb3ypQCMgedboSCJh7aLRycRuKCodzpLG_s-3-sH0l6jzVASyOlltYD9XtTFo&amp;cid=CAQSPADICaaNIj9EZ7HMBog93zqjKFN9GAqd6OZqhLCKQ2At0V0kN49cP2tt_xcLrGru1tEMfAIEBM3HmLoIkBgB';window.dv3Utw = {u: u,w: function() {document.write('&lt;script src=&quot;' + u + '&amp;flb=1&quot;&gt;&lt;/s' + 'cript&gt;');}};})();&lt;/script&gt;&lt;script src=&quot;https://pagead2.googlesyndication.com/pagead/js/dv3.js&quot; data-dv3-creative-fetch=&quot;https://googleads.g.doubleclick.net/dbm/ad?dbm_c=AKAmf-BDVZhuCXRkXbZ9HREzL059T1csHGx-UD_K8d7qTgRwHbPBNJQ_zfN3EF7C-eKA-ZhdymLNfk9Bq5SYvCEgwuKD8y_vDVNbIM2r2txiydkVqls_dildVMvHijDSJjPSz8qbQ84ozz3c0nldv3OCWJKLuZhDZF-8YR6wQwb7D-tACb6RRfA&amp;cry=1&amp;dbm_d=AKAmf-B8k1lhTbkdfW-LnLAXQIpoK0gGEHu6wzQdoJZMDXL024S4MSEwBXegfpV0IN8A5TOeCkl2dRvivIhc5je-7OS3ZC4N4mK7boqZu5JPKUiT2cox6L7l-5PyBgQk_ccodlB87J00_0ivgSfldRAlpcPZ-u1ywwXxL8iKmoicRGPr5wFBUmhcqeR-DuMFGyhl4t9Px-4Cbk4f1N-h4Dy8zyYFMp3DI0-SHlUo8Ax1y3VQN6FGuR_WitnX-5JhltoMrx5SPQSWL2md8skKulFhzMzDtvya4mZxVmIXmYeSq9Y8cIJkk9Lcj5W3yLbPimO4ZGkKp79HwoCJWbDjgDvJ97TByztLsdDr1oQLRXHqjux3VE9xI48a6T-zcrT93PKM1kDUL3NWydKoWhd-Z4EWBuoT1-vOVKKyI1P4VIjOX6Zb0544yfAVt6Yncaqf4LARzvLQ7COp5OuWPM9oQcvo1LTLNxG2tYiIqfF-SRkaJNU1h8tAzsZNUIpbs5RuyorAYl8zjhDnofSb9C3ZLGsxU5MNmA_a3KkyFWIOAFvE_e8jMwZAMH5KmXI05VZcTKcqA2UwqyFzJHxPHZQ5DjkI2KxvjgRMhMcea5X4-6AcLgndq1mOULP2SNE6ZvFzYv7X3KRNEXmFd5f6iOV31-Ti6gimjTWGDV0gmTV_lj3qI-ux6VedqwidJ2q1VziQZKTRp2tRM9yroHE--EOYiVoM0PDrkywohA2DjN0nhzgdaHkvjPdZOniIzxgRahPDsDxggmEeJtLfarDrjqNFkYZI8vkECqss5vEy8c-230-jfwG5E6e2xWMqpUlxFX83HYzAn2i-YsNOIXclYtvm8wDe54qE_6QLA9zS3VabdODaJzr1MXqXD_Zkqk-0qUWf6ZXMp3_slMUy4nuzagPKUZwgmQcqqTe_y1i6bZLXH3zFr5W0VYprgt1tbB_AU-_FzHGSVRz51-NQcjujGpvJpsS3aHDjiKZ5-yj-hRK5uyoVrOV-gC15TFx8ynuQMhmGMCfOMuVowpKEU8fT5eq9Xvvo_5vakE-VpQ_nrMMrsIP9I361NzM-tT9L09OkAmdRbck613_jxrOcms_4x2ZAGluwUI_EQa4VcgSJRihCG5LnmZGIL3rdPcE8hGb8TepGmNq0uMLumSC058zyk4mnV04-ogpJV828Fiv0X5AhBXDbI7CsvqxBzWWpT304z728ND8DemJU1N9h-gR3bKmygzfABsWNhChrk6jG9GV-4ZS5zp8nnX1BT9dAoHGwsTHOiltgc7IRb3987otEq8qA8FPFVcdbPykXGDL4cBdsXGjwJsFO-FxYt44_0IQhRxIoCEfVdYffENoJxUEoHFjzC3M9gMWpJMR-6H4F4orNC9qb29MNVFG04eeMN7PezA9XpZ8EddBgzgtH9OCOyi0NOffJgvKHml-bTemiPnimlJPKStqm9qvqFTU2MS_LDJDPgjtyi6iw0DBzdOC86rhkFQVZLlMDSrS0tRr2RaEgVf2Uo_tLoTJXm6NEv22cZk454-iDUO9TDiykBmYdScnQIw_UnJIYbM7P9v18u_HpeIF7EQBeCCQsjuTp7t_GBqPKH3Ms6vAzJ4zNrW_ybYSizXwZlTQHyi-lCI4qz27b7gLZ0GaNvkEtg843ZTdQ_MkmDvs13o_UMEt7yRUbQ0zp2wgGcmXmQ9gGma4Tfp3v8TPRXd-q-fJk68x52NiAWe_q2s7TDJBZIHcuolWxIwRr7WzoQSmz6M90l43wXo9lCjT80gTfHpFB33nWbjUlV2sAPZb3DLTibRbhGQ5R-OHFICh-Q-8SABNUxCsp20LmZup92f15xzvsLazCIOdgES9J8PZ72ZJXM7ltp8LQeVWXNkmLACopaXH0ZSJkylhBW2tQoQpqQEHF4N5PSdpdIyEv_eRjlAKSfk6TxgXrEuoVJMFW4QqP5vJguVDRmeh8QS1HkXGZx03ugYupyXOXzKS7-szb-kPsyDTaDWm1sjY7tZVMTQmhcduFce68A449nowUlgdMdbOjdQnIPuWr2fyzK5ADNJOGtxollkPoD6rjCMqCiQi-bxA7JWm_TFIoWsXhXxyBmZBl-afNFlI_tYZnUjpNmgI-SfZNGhkhQT6QP8UbAw7iro_mhIK3TwcpddOV524WHeUtCyTLA5-TGSHm14wxQD9UuBSL48usAlKog5bcRTa5iowamYNyL56nYT1vOSYvC1VKPHYvAwRk2b__83wdcjX9LDhrHudYHDChlpXcUJGKINHMk1ldwZdO7wgj40CHRDDrKNxxriV0wAAp6KFW-L43vlKw_mGkI8kvNQ9wsm_-WUVqhSWPvmCXzI_E6NF0W2s_IFCVGDxEIyEC-_FsrMj87at_lMcVZMcBZBoWrqtfx1whu6kQH49ipuSgMRq1HdV9O1ulNsMJ88yQLX0mJniBw8_FRGLUeGV_SBgYcw0p-h2Wpkj_bxFpGogiK__uqUGFnAeqIPFvgpIs0IwJJmTfLa57aTVxx2x_2_jQzhyvgRwnCtHcB4t8dF4R3bd3Zr-fkcqFiO8q7TcdYEyHCQNeP6yJo0q5tjr07cv2W8shHTKdikZ0t9VYZeMDYHhoe3ll4q512ALZmdIMVZwM1tGQWrC4W-sLP6Gi-RUW-BTVypRu9GFisVd3PcTGcWakiePrZ13NGe4u2iTNEq5NsFPXHxl9gnklNAvoDNQz5B0cErT5v3kJ3uYk9LpgcS9nxE2Vl1i8q2BjTJ307LdG5vFU765FqbA6Gk0rtRkTDeZVVnhSXTuw8TEU7QGtheF9x_XdlUMQN12T7qx-q5_j5D3_09xkdn_JqLhzlMeE0Z5TrIm2iuUehblgJVxAmMF7CXnky3XAjD2hNMSob0x-AX21TvJDA0qGJY5TfLkeekGHgnAKri_RSma-yy6NHyrnSfk5a1PKkOHNDfPhez_aMGs52_uEICJ-JDkOgt-gk-WtEXteimNtmdBHpcAjdAt5Mk4e1dH1iooVgSU1wHZ1w28dc-Yy5w3e2byjCF6YDxabo3QOIf0FexPL6UG4cD6lYD8UCSz2E2Rs6fvB0Dj4re5dQixHPPOibfkKj2gA2SZWATa8gUTr6UcD60y_JY8zeUAlMqY2fjZuo_quNtoZhUQrhycMxWPlxVVaQenDc32zZix_DomTIckY3aEDkP-mJW6diIYPU5TX2lkAuAdtxq7xeYlEvkrrjnFqpsIlOjijrHTSYMjRExa3DHn6q8hJ8fk7r06HSoh9IdyUfKDxKyJhlBeupFd4FVOeLQBJgtuUYEnVwqL6CHOiLWKdqiZrS_umg3SBg3gbD0x94bMiu3BX1ZT3KpUQ1CJgNsxl8OjhP_-WQt_pmrxR60vq4ziIEd34Clcx5RSy5_wYT7QmrEoQ7NX28w1WxO38p7vwrsIAUH-37SVe4_7E6yCPVp-_82Z9OomJgZwnucVxbnQM2tTxTOaSfZRcHjoB_0WER_rm-AWGO7CVyhf_y1MU7uvjuCprKZVT43UkdhD9szFkAQ-zW-4C5YTG0AV38gSWgUG3vFbJoYp77_qgAKCqsKfkSIC5MZfFUKEqj9AUaw57SiwXqZtbKnyHevWUq24_vHVe2AcnaysZYfFT9iq8jNCLOLLAjJY85oyid6s9vJj4WVMIji7oozXzlPC_b4X3n2iJqLGHgttv6WB4M_caD4sV_UBz_dglZiWpdltw5ndgK0OF3fT4Qv1_15UuALSYJD5A72z9t-MtsNlU3p52leEgU1Yz6axudbgd-A0-zrq0LveAPjOzUJsZXWwMPR7LOh3Lo4tUYkOTslSP0l4UeKNaE7xrykwWS4awhvCwPtzWSGNHHxKnvQwz8h1uYDKHhb-9_x7GOJP4suNQQAc37mWbAdyLQEmcNzDb3ypQCMgedboSCJh7aLRycRuKCodzpLG_s-3-sH0l6jzVASyOlltYD9XtTFo&amp;cid=CAQSPADICaaNIj9EZ7HMBog93zqjKFN9GAqd6OZqhLCKQ2At0V0kN49cP2tt_xcLrGru1tEMfAIEBM3HmLoIkBgB&quot; data-dv3-width=&quot;300&quot; data-dv3-height=&quot;250&quot; data-dv3-render-mode=&quot;script&quot; data-dv3-meta-data=&quot;[1,77,5745300803064295254]&quot;&gt;&lt;/script&gt;&lt;script data-jc=&quot;112&quot; data-jc-version=&quot;r20230927&quot;&gt;(function(){'use strict';const d=/[&amp;?]dbm_c=([^ &amp;]+)/;function e(a){return(a=d.exec(a))?a[1]:null}function f(a,b,c){a=a.getElementsByTagName(b);for(b=0;b&lt;a.length;++b)if(e(a[b].src)===c)return!0;return!1};const g=window;if(g.dv3Utw){var h=g.dv3Utw.u,k=g.dv3Utw.w;g.dv3Utw=void 0;var l;a:{const a=e(h);if(!a||f(document,&quot;script&quot;,a)||f(document,&quot;iframe&quot;,a))l=!0;else{var m=document.getElementsByClassName(&quot;dv3-asfrm&quot;);for(let b=0;b&lt;m.length;++b){const c=m[b];if(c.contentWindow&amp;&amp;f(c.contentWindow.document,&quot;script&quot;,a)){l=!0;break a}}l=!1}}l||k()};}).call(this);&lt;/script&gt;&lt;script type=&quot;text/javascript&quot;&gt;
+   sb_gdpr = &quot;-1&quot;; /* 0 if GDPR does not apply, 1 if GDPR applies */
+   sb_gdpr_consent = &quot;&quot;; /* IAB TCF 2.0 consent string */
+   sb_redirect_click = &quot;https://googleads.g.doubleclick.net/dbm/clk?sa=L&amp;ai=C3QpWxTwaZbvkHsyGpt8P2uql8A2k7fmoc6K2062pEfAuEAEg4sPIPGDBBcgBCakC5k5SORi9sT6oAwHIA5sEqgTmAU_Qd69r43KR6SeSjO0-SAv9h-9KmMNcpRD2Iay-RMa3MwDuOQVZuysM2Exakv-WkMC6Bh1-YjNILMKBclAu9D1-0inSTRuRoFRjQgHK6ETo4W18osN8nYN1RN-Qb1pnSldog2X86gUXVU7x9mLx8ydCDpUIipsV__TYwqgbps0EOJHYC8cyEOzYfDAQ8bgHVwSaziklTcTaYcZ6fZGdvDL3O6X6Q6VzLO3N3fm1Tcih_BCe9iF3IJb1-0xkk8iT4XfDMGNTbCbbd-X5QJfBZBqp33l6LOsdZMaXfDBQ3wD0dIJ5gIRXwASF_ZrnvQTgBAOIBaeuguRMkAYBoAZNgAf4-tWHBagH2baxAqgHjs4bqAeT2BuoB-6WsQKoB_6esQKoB6SjsQKoB9XJG6gHpr4bqAeaBqgH89EbqAeW2BuoB6qbsQKoB4OtsQKoB_-esQKoB9-fsQLYBwDSCBQIgGEQARgdMgKKAjoCgEBIvf3BOoAKA5gLAcgLAYAMAaIMDCoKCgjktLEC7rWxAqoNAlZOyA0B4g0TCNSQsc651oEDFUyD6QUdWnUJ3rATy9WDFdATANgTA9gUAdAVAfgWAYAXAQ&amp;ae=1&amp;gclid=EAIaIQobChMI-9qyzrnWgQMVTIPpBR1adQneEAEYASAAEgJU9_D_BwE&amp;num=1&amp;cid=CAQSPADICaaNIj9EZ7HMBog93zqjKFN9GAqd6OZqhLCKQ2At0V0kN49cP2tt_xcLrGru1tEMfAIEBM3HmLoIkBgB&amp;sig=AOD64_3AK3YTPblXZ14BQebiLOSEya7hkw&amp;client=ca-pub-3880661451400141&amp;dbm_c=AKAmf-AB9JbsIogaFZ9McSa94IIWmacSLCg98tQT8OisOHZv4Vw4qO4oxRYZvekzW5QsQ-JPIW_A6nI9ivdqS7XnQaJEBeB2essZgzrgIy3Ww3yZSzBi2_MoqWnKzfI2eGB93Mu5rGIm_ibXs_ua549TPOjgOLcT8t1z0UQt49Th3vp8gCedVqU&amp;cry=1&amp;dbm_d=AKAmf-BJUy2p7pxeOb5pw2_GsI94XfjPDAkMr40VGLnUxMUJMY762WiUEPMUM6UFXjYx2gLMJOicOs_lPPsQ1NeTECXvdR9yY33DOWV2UVFA-fixZBCEs1MLDvwhTDYEmRcxzA1pxDMgYlulKTFs-De6WZbKgZvnA26nYtPN1gekLfDF9OfKCy9iH4NLx3vgfKh0fHTjYUBl1shSh7oKcI8iM4QHKTzp9ry4BrVUbUah9GlUcXZKlxus2Ou0SlaFr_LU6xchCrCjxlM8_c1r49kzGF0j8vPlmVbdR76gFxogViHLbenuc2WVKkisVvt-86rL_GblwGzNYUfLLI8PCfgycM6LgwtBcG0DDEzws8ih88AHNYgAYEETKFXFv010CAwXzyJm7ogcyStXiz4GOpXsoPCQgnjUs5yuZsXeSHjHJfS9obq-9smdGOU7JX4bqaBy240gGZQ2hPQV-5_VthSgXZUeHlLLSZTzydLa2hWftRSrwY26AtCWLtO9kAXzgpVhMZNgIUeBHG36eViCFo4iVTow3NfIkKOxibGCtDem-N5FtMLi12KbTRGnE2pIUcnfZxlWmclS&amp;adurl=&quot;; /* 3rd-party clicktracking */
+   sb_subid = &quot;&quot;; /* your own tracking-sub-id, max. 128 chars: a-z, A-Z, 0-9 and: -_.,:;/| */
+
+   sb_url_base = &quot;//hal9000.redintelligence.net/zone/mx1feowzhejb&quot;;
+   sb_url = sb_url_base;
+   sb_url = sb_url + &quot;?subid=&quot; + encodeURIComponent(sb_subid);
+   sb_url = sb_url + &quot;&amp;gdpr=&quot;+encodeURIComponent(sb_gdpr);
+   sb_url = sb_url + &quot;&amp;gdpr_consent=&quot;+encodeURIComponent(sb_gdpr_consent);
+   sb_url = sb_url + &quot;&amp;redirectClick=&quot; + encodeURIComponent(sb_redirect_click);
+   document.write('&lt;scr'+'ipt src=&quot;'+sb_url+'&quot;&gt;&lt;/scr'+'ipt&gt;');
+&lt;/script&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;script data-jc=&quot;22&quot; src=&quot;https://tpc.googlesyndication.com/pagead/js/r20230927/r20110914/client/window_focus_fy2021.js&quot; async data-jc-version=&quot;r20230927&quot; data-jcp-url=&quot;https://googleads.g.doubleclick.net/pagead/interaction/?ai=C3QpWxTwaZbvkHsyGpt8P2uql8A2k7fmoc6K2062pEfAuEAEg4sPIPGDBBcgBCakC5k5SORi9sT6oAwHIA5sEqgTmAU_Qd69r43KR6SeSjO0-SAv9h-9KmMNcpRD2Iay-RMa3MwDuOQVZuysM2Exakv-WkMC6Bh1-YjNILMKBclAu9D1-0inSTRuRoFRjQgHK6ETo4W18osN8nYN1RN-Qb1pnSldog2X86gUXVU7x9mLx8ydCDpUIipsV__TYwqgbps0EOJHYC8cyEOzYfDAQ8bgHVwSaziklTcTaYcZ6fZGdvDL3O6X6Q6VzLO3N3fm1Tcih_BCe9iF3IJb1-0xkk8iT4XfDMGNTbCbbd-X5QJfBZBqp33l6LOsdZMaXfDBQ3wD0dIJ5gIRXwASF_ZrnvQTgBAOIBaeuguRMkAYBoAZNgAf4-tWHBagH2baxAqgHjs4bqAeT2BuoB-6WsQKoB_6esQKoB6SjsQKoB9XJG6gHpr4bqAeaBqgH89EbqAeW2BuoB6qbsQKoB4OtsQKoB_-esQKoB9-fsQLYBwDSCBQIgGEQARgdMgKKAjoCgEBIvf3BOoAKA5gLAcgLAYAMAaIMDCoKCgjktLEC7rWxAqoNAlZOyA0B4g0TCNSQsc651oEDFUyD6QUdWnUJ3rATy9WDFdATANgTA9gUAdAVAfgWAYAXAQ&amp;amp;sigh=r3x0pKr3dQk&amp;amp;cid=CAQSPADICaaNIj9EZ7HMBog93zqjKFN9GAqd6OZqhLCKQ2At0V0kN49cP2tt_xcLrGru1tEMfAIEBM3HmLoIkA&quot; data-jcp-gws-id=&quot;&quot; data-jcp-qem-id=&quot;CPvass651oEDFUyD6QUdWnUJ3g&quot;&gt;&lt;/script&gt;&lt;iframe title=&quot;Blank&quot; scrolling=&quot;no&quot; frameborder=0 height=0 width=0 src=&quot;https://pagead2.googlesyndication.com/pagead/s/cookie_push_onload.html#aHR0cHM6Ly9ydGIub3BlbngubmV0L3N5bmMvZGRzP2dvb2dsZV9naWQ9Q0FFU0VNd2dKSXFhSUNZY3Rwdkt1TGFEenVzJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QVhjb09tVDUxUmJEMlE1aDdXUzJiTkFlZEFGMjFNbFJtT21VOWVzQ2pVZXVzTThYRVQxX0RrSXdTYTNmb2NvV0xnQ1gtQmgtd2dXeWI5WVI5U2E2c3o1OWF2cHRGcVNvSTRn,aHR0cHM6Ly9pbWFnZTYucHVibWF0aWMuY29tL0FkU2VydmVyL1VDb29raWVTZXRQdWc_b2lkPTEmcmQ9aHR0cHMlM0ElMkYlMkZjbS5nLmRvdWJsZWNsaWNrLm5ldCUyRnBpeGVsJTNGZ29vZ2xlX25pZCUzRHBtZWIlMjZnb29nbGVfc2MlM0QxJTI2Z29vZ2xlX2htJTNEJTIzJTIzQjY0XzE2Ql9QTV9VSUQlMjZnb29nbGVfcmVkaXIlM0RodHRwcyUyNTI1M0ElMjUyNTJGJTI1MjUyRmltYWdlOC5wdWJtYXRpYy5jb20lMjUyNTJGQWRTZXJ2ZXIlMjUyNTJGSW1nU3luYyUyNTI1M0ZzZWMlMjUyNTNEMSUyNTI1MjZwJTI1MjUzRDE1NjU3OCUyNTI1MjZtcGMlMjUyNTNENCUyNTI1MjZmcCUyNTI1M0QxJTI1MjUyNnB1JTI1MjUzRGh0dHBzJTI1MjUyNTNBJTI1MjUyNTJGJTI1MjUyNTJGaW1hZ2U0LnB1Ym1hdGljLmNvbSUyNTI1MjUyRkFkU2VydmVyJTI1MjUyNTJGU1B1ZyUyNTI1MjUzRnAlMjUyNTI1M0QxNTY1NzglMjUyNTI1MjZzYyUyNTI1MjUzRDEmZ29vZ2xlX2dpZD1DQUVTRVBtM2tsNHJmVE81N0VqZFllajcyTjQmZ29vZ2xlX2N2ZXI9MSZnb29nbGVfcHVzaD1BWGNvT21RNXNDUUxhcE9qMTFEVjRfMVhnVURWekRLYkhRYXRvZ1lvdjhEWFhkY3ZYREQwalFYX0VnUUM2ekt4eEtRWWpQXzNtN193LVpMb2lPYlFGa3kxdjhkVGYxM0htQjA=,aHR0cHM6Ly9waXhlbC5ydWJpY29ucHJvamVjdC5jb20vZXhjaGFuZ2Uvc3luYy5waHA_cD1kZnAmZ29vZ2xlX2dpZD1DQUVTRUxHOWNRQ1pManFCVDNBSDJjY0R1RVUmZ29vZ2xlX2N2ZXI9MSZnb29nbGVfcHVzaD1BWGNvT21Rd3JWMVhIUWgyMURsSjZWZWh6TjZuVzVQNDFLdGdDNjk5djdhNjRHR0ljYXR3QjNLSlBsc1hQSzVWU3hoVDQ0U0hSRFhhVHZIVDlFMmNKMVBRbl9jak1LTW1NUzg=,aHR0cHM6Ly9zc3VtLXNlYy5jYXNhbGVtZWRpYS5jb20vdXNlcm1hdGNocmVkaXI_cz0xODQwMjMmY2I9aHR0cHMlM0ElMkYlMkZjbS5nLmRvdWJsZWNsaWNrLm5ldCUyRnBpeGVsJTNGZ29vZ2xlX25pZCUzRGluZGV4JTI2Z29vZ2xlX2htJTNEJmdvb2dsZV9naWQ9Q0FFU0VINGxONlpYZVBUR0hsQ3FzTEV1YkJrJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QVhjb09tUlhCSU1sdkJJcE44UTRUbzU1bFhEc082NGlUWjk4dnVnbm0wT19YQ3FsdkdlZV83X0Zuc3BvMkJQcG4yWUZoWF9jYzNkZjgzay1DSmFITHVPOW5sNDlqZGVoVWlB,aHR0cHM6Ly9zLmFkLnNtYWF0by5uZXQvYy9uLy8vLT9hZE5ldEluaXQ9ZyZnb29nbGVfZ2lkPUNBRVNFSVBpQjFUblV5WXNfcXFVUEE5Z253RSZnb29nbGVfY3Zlcj0xJmdvb2dsZV9wdXNoPUFYY29PbVNfSkRaaS1VbXdtaWU1LTVPdVAyOXVnN0tMTWFlUGNRQWNPdmgwUC1HeUtHNmVZR0hiZ3c2UjRfUVVWVjhvZGJhVzBCb1JldjE2S0tQV3NpVkY3NWNHZVl3R2c3Q0k=,aHR0cHM6Ly9lYjIuM2xpZnQuY29tL2ViZGE_c3luYz0xJmdvb2dsZV9naWQ9Q0FFU0VBRFdRakJLSExMVWhxRWVhRlZDcmpvJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QVhjb09tVGdta1dOTlpDWGhKXzRpNkhuM2gwQmpyLWJsc05KcVc3dW9UMHNvQWdWaVlUSGJyOUh1Nm9zOXZZanQ3NVhUZmo1bXJuV3cyeUxRV3k5ZWxTcnpQVVZkbXBUVldXUg==,aHR0cHM6Ly9zc2JzeW5jLnNtYXJ0YWRzZXJ2ZXIuY29tL2FwaS9zeW5jP2NhbGxlcklkPTMmZ29vZ2xlX2dpZD1DQUVTRUM2Z1BnNjV6VXVjWG5aRFNibFpVbVkmZ29vZ2xlX2N2ZXI9MSZnb29nbGVfcHVzaD1BWGNvT21UekpnYVNHN3luQXRHZHVQeFVnbWZVVGJ3bnlJTjNuQVYwZEh6UURTdnFVTHlzMEZjSE1rN0FTVkJ0bHhneEVvVlRyZFJ6am5WWDR2bXl0SGJ5YmZ0cGFFVEVrVDQ=,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzS3V5bURUVlpUNnFIUlJtMWVfRnR4SmwtOS01R1hqeTZIYWJleFh4Q2FBU05Wa2kzdEpEa0o2YlJ6WnV1SWJUa0I2b2VYeQ==&quot;  style=&quot;position:absolute&quot; aria-hidden=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;script data-jc=&quot;23&quot; src=&quot;https://tpc.googlesyndication.com/pagead/js/r20230927/r20110914/client/qs_click_protection_fy2021.js&quot; data-jc-version=&quot;r20230927&quot; data-jcp-init-data=&quot;[[[[null,500,99,2,9,null,null,null,1]]]]&quot;&gt;&lt;/script&gt;&lt;div style=&quot;bottom:0;right:0;width:300px;height:250px;background:initial !important;position:absolute !important;max-width:100% !important;max-height:100% !important;pointer-events:none !important;image-rendering:pixelated !important;z-index:2147483647;background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAWBAMAAACrl3iAAAAABlBMVEUAAAD+AciWmZzWAAAAAnRSTlMAApidrBQAAAB8SURBVBjTbZABDsAgCAPrD/r/106hBVxkG2Sx1APgHSsDI+8KME45vpNDgXi2yH/nhGRkqHKqq8dqe59U3iaxViQV5I8bGCxNIpzg0AWermQvddkv5wTISyZIdOUNvUGBDJUH1D6YrkLwm7U3qElvda9mXd7dcW1wwf47PhvRBYCx+Gq9AAAAAElFTkSuQmCC') !important;&quot;&gt;&lt;/div&gt;&lt;script data-jc=&quot;103&quot; data-jc-version=&quot;r20230927&quot; data-jcp-base_url=&quot;https://googleads.g.doubleclick.net/pagead/conversion/?ai=C3QpWxTwaZbvkHsyGpt8P2uql8A2k7fmoc6K2062pEfAuEAEg4sPIPGDBBcgBCakC5k5SORi9sT6oAwHIA5sEqgTmAU_Qd69r43KR6SeSjO0-SAv9h-9KmMNcpRD2Iay-RMa3MwDuOQVZuysM2Exakv-WkMC6Bh1-YjNILMKBclAu9D1-0inSTRuRoFRjQgHK6ETo4W18osN8nYN1RN-Qb1pnSldog2X86gUXVU7x9mLx8ydCDpUIipsV__TYwqgbps0EOJHYC8cyEOzYfDAQ8bgHVwSaziklTcTaYcZ6fZGdvDL3O6X6Q6VzLO3N3fm1Tcih_BCe9iF3IJb1-0xkk8iT4XfDMGNTbCbbd-X5QJfBZBqp33l6LOsdZMaXfDBQ3wD0dIJ5gIRXwASF_ZrnvQTgBAOIBaeuguRMkAYBoAZNgAf4-tWHBagH2baxAqgHjs4bqAeT2BuoB-6WsQKoB_6esQKoB6SjsQKoB9XJG6gHpr4bqAeaBqgH89EbqAeW2BuoB6qbsQKoB4OtsQKoB_-esQKoB9-fsQLYBwDSCBQIgGEQARgdMgKKAjoCgEBIvf3BOoAKA5gLAcgLAYAMAaIMDCoKCgjktLEC7rWxAqoNAlZOyA0B4g0TCNSQsc651oEDFUyD6QUdWnUJ3rATy9WDFdATANgTA9gUAdAVAfgWAYAXAQ&amp;amp;sigh=r3x0pKr3dQk&quot; data-jcp-cpu_label=&quot;heavy_ad_intervention_cpu&quot; data-jcp-net_label=&quot;heavy_ad_intervention_network&quot;&gt;(function(){'use strict';/*  Copyright The Closure Library Authors. SPDX-License-Identifier: Apache-2.0 */ var l=this||self;var m,p;a:{for(var u=[&quot;CLOSURE_FLAGS&quot;],v=l,w=0;w&lt;u.length;w++)if(v=v[u[w]],null==v){p=null;break a}p=v}var x=p&amp;&amp;p[610401301];m=null!=x?x:!1;var y;const z=l.navigator;y=z?z.userAgentData||null:null;function A(a){return m?y?y.brands.some(({brand:b})=&gt;b&amp;&amp;-1!=b.indexOf(a)):!1:!1}function B(a){var b;a:{if(b=l.navigator)if(b=b.userAgent)break a;b=&quot;&quot;}return-1!=b.indexOf(a)};function C(){return m?!!y&amp;&amp;0&lt;y.brands.length:!1}function D(){return C()?A(&quot;Chromium&quot;):(B(&quot;Chrome&quot;)||B(&quot;CriOS&quot;))&amp;&amp;!(C()?0:B(&quot;Edge&quot;))||B(&quot;Silk&quot;)};!B(&quot;Android&quot;)||D();D();B(&quot;Safari&quot;)&amp;&amp;(D()||(C()?0:B(&quot;Coast&quot;))||(C()?0:B(&quot;Opera&quot;))||(C()?0:B(&quot;Edge&quot;))||(C()?A(&quot;Microsoft Edge&quot;):B(&quot;Edg/&quot;))||C()&amp;&amp;A(&quot;Opera&quot;));const E=Symbol();function F(a){const b=a[E]|0;1!==(b&amp;1)&amp;&amp;(Object.isFrozen(a)&amp;&amp;(a=Array.prototype.slice.call(a)),a[E]=b|1)}function G(){var a=[];a[E]|=1;return a}function H(a){a=a&gt;&gt;11&amp;1023;return 0===a?536870912:a};var I={};function J(a){return null!==a&amp;&amp;&quot;object&quot;===typeof a&amp;&amp;!Array.isArray(a)&amp;&amp;a.constructor===Object}let L;var M;const N=[];N[E]=39;M=Object.freeze(N);let O;function aa(a,b){return P(b)}function P(a){switch(typeof a){case &quot;number&quot;:return isFinite(a)?a:String(a);case &quot;boolean&quot;:return a?1:0;case &quot;object&quot;:if(a&amp;&amp;!Array.isArray(a)&amp;&amp;null!=a&amp;&amp;a instanceof Uint8Array){let b=&quot;&quot;,d=0;const e=a.length-10240;for(;d&lt;e;)b+=String.fromCharCode.apply(null,a.subarray(d,d+=10240));b+=String.fromCharCode.apply(null,d?a.subarray(d):a);return btoa(b)}}return a};function Q(a,b,d,e,c,k){if(null!=a){if(Array.isArray(a))a=c&amp;&amp;0==a.length&amp;&amp;(a[E]|0)&amp;1?void 0:k&amp;&amp;(a[E]|0)&amp;2?a:R(a,b,d,void 0!==e,c,k);else if(J(a)){const f={};for(let g in a)f[g]=Q(a[g],b,d,e,c,k);a=f}else a=b(a,e);return a}}function R(a,b,d,e,c,k){const f=e||d?a[E]|0:0;e=e?!!(f&amp;32):void 0;a=Array.prototype.slice.call(a);for(let g=0;g&lt;a.length;g++)a[g]=Q(a[g],b,d,e,c,k);d&amp;&amp;d(f,a);return a}function ba(a){return a.l===I?a.toJSON():P(a)};function S(a,b,d){if(null!=d&amp;&amp;&quot;string&quot;!==typeof d)throw Error();a=a.g;const e=a[E];if(e&amp;2)throw Error();a:{var c=H(e);if(b&gt;=c){let k=e;if(e&amp;256)c=a[a.length-1];else{if(null==d)break a;c=a[c+(+!!(e&amp;512)-1)]={};k|=256}c[b]=d;k!==e&amp;&amp;(a[E]=k)}else a[b+(+!!(e&amp;512)-1)]=d,e&amp;256&amp;&amp;(d=a[a.length-1],b in d&amp;&amp;delete d[b])}};var U=class{constructor(){a:{var a=void 0;null==a&amp;&amp;(a=O);O=void 0;if(null==a){var b=96;a=[]}else{if(!Array.isArray(a))throw Error();b=a[E]|0;if(b&amp;64)break a;var d=a;b|=64;var e=d.length;if(e){var c=e-1;e=d[c];if(J(e)){b|=256;const k=+!!(b&amp;512)-1;c-=k;if(1024&lt;=c){c=1023+k;const f=d.length;for(let g=c;g&lt;f;g++){const h=d[g];null!=h&amp;&amp;h!==e&amp;&amp;(e[g-k]=h)}d.length=c+1;d[c]=e;c=1023}b=b&amp;-2095105|(c&amp;1023)&lt;&lt;11}}}a[E]=b}this.g=a}toJSON(){if(L)var a=T(this,this.g,!1);else a=R(this.g,ba,void 0,void 0,!1,!1),a= T(this,a,!0);return a}};U.prototype.l=I;U.prototype.toString=function(){return T(this,this.g,!1).toString()}; function T(a,b,d){var e=a.constructor.o,c=H((d?a.g:b)[E]),k=!1;if(e){if(!d){b=Array.prototype.slice.call(b);var f;if(b.length&amp;&amp;J(f=b[b.length-1]))for(k=0;k&lt;e.length;k++)if(e[k]&gt;=c){Object.assign(b[b.length-1]={},f);break}k=!0}c=b;d=!d;f=a.g[E];a=H(f);f=+!!(f&amp;512)-1;var g;for(let q=0;q&lt;e.length;q++){var h=e[q];if(h&lt;a){h+=f;var n=c[h];null==n?c[h]=d?M:G():d&amp;&amp;n!==M&amp;&amp;F(n)}else{if(!g){var t=void 0;c.length&amp;&amp;J(t=c[c.length-1])?g=t:c.push(g={})}n=g[h];null==g[h]?g[h]=d?M:G():d&amp;&amp;n!==M&amp;&amp;F(n)}}}e=b.length; if(!e)return b;let X,Y;if(J(g=b[e-1])){a:{var r=g;t={};c=!1;for(let q in r)d=r[q],Array.isArray(d)&amp;&amp;d!=d&amp;&amp;(c=!0),null!=d?t[q]=d:c=!0;if(c){for(let q in t){r=t;break a}r=null}}r!=g&amp;&amp;(X=!0);e--}for(;0&lt;e;e--){g=b[e-1];if(null!=g)break;Y=!0}if(!X&amp;&amp;!Y)return b;var K;k?K=b:K=Array.prototype.slice.call(b,0,e);b=K;k&amp;&amp;(b.length=e);r&amp;&amp;b.push(r);return b};var ca=class extends U{};function da(a=window){return a};var ea=/#|$/;const V=function(a,b=null){return b&amp;&amp;b.getAttribute(&quot;data-jc&quot;)===String(a)?b:document.querySelector(`[${&quot;data-jc&quot;}=&quot;${a}&quot;]`)}(103,document.currentScript);if(null==V)throw Error(&quot;JSC not found 103&quot;);const W={},Z=V.attributes;for(let a=Z.length-1;0&lt;=a;a--){const b=Z[a].name;0===b.indexOf(&quot;data-jcp-&quot;)&amp;&amp;(W[b.substring(9)]=Z[a].value)} (function(a,b,d){var e=window;a&amp;&amp;b&amp;&amp;d&amp;&amp;e.ReportingObserver&amp;&amp;e.fetch&amp;&amp;(new e.ReportingObserver((c,k)=&gt;{c=c[0];if(&quot;HeavyAdIntervention&quot;===c?.body?.id){c=0&lt;(c.body.message?.indexOf(&quot;network&quot;)||0)?d:b;var f=a.search(ea);var g;b:{for(g=0;0&lt;=(g=a.indexOf(&quot;ad_signals&quot;,g))&amp;&amp;g&lt;f;){var h=a.charCodeAt(g-1);if(38==h||63==h)if(h=a.charCodeAt(g+10),!h||61==h||38==h||35==h)break b;g+=11}g=-1}if(0&gt;g)f=null;else{h=a.indexOf(&quot;&amp;&quot;,g);if(0&gt;h||h&gt;f)h=f;f=decodeURIComponent(a.slice(g+11,-1!==h?h:0).replace(/\+/g,&quot; &quot;))}if(f){if(navigator.sendBeacon(&quot;https://pagead2.googlesyndication.com/pagead/gen_204/?id=fledge_interactions&amp;label=&quot;+ c),f={h:f,label:c},c=new ca,null!=f&amp;&amp;(null!=f.h&amp;&amp;S(c,1,f.h),null!=f.m&amp;&amp;S(c,3,f.m),null!=f.label&amp;&amp;S(c,6,f.label),null!=f.j&amp;&amp;S(c,7,f.j),null!=f.i&amp;&amp;S(c,8,f.i)),null!=(f=da(l).fence)){g=f.reportEvent;a:{L=!0;try{var n=JSON.stringify(c.toJSON(),aa);break a}finally{L=!1}n=void 0}g.call(f,{eventType:&quot;interaction&quot;,eventData:n,destination:[&quot;buyer&quot;]})}}else e.fetch(`${a}&amp;label=${c}`,{keepalive:!0,method:&quot;get&quot;,mode:&quot;no-cors&quot;});k.disconnect()}},{types:[&quot;intervention&quot;],buffered:!0})).observe()})(W.base_url,W.cpu_label, W.net_label);}).call(this);&lt;/script&gt;&lt;script id=&quot;googleActiveViewDisplayScript&quot; src=&quot;https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text/javascript&quot;&gt;osdlfm();&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;{&quot;uid&quot;:&quot;w&quot;,&quot;hostPeerName&quot;:&quot;https://www.nhatot.com&quot;,&quot;initialGeometry&quot;:&quot;{\&quot;windowCoords_t\&quot;:0,\&quot;windowCoords_r\&quot;:1536,\&quot;windowCoords_b\&quot;:824,\&quot;windowCoords_l\&quot;:0,\&quot;frameCoords_t\&quot;:555.4000244140625,\&quot;frameCoords_r\&quot;:1218.9249877929688,\&quot;frameCoords_b\&quot;:805.4000244140625,\&quot;frameCoords_l\&quot;:918.9249877929688,\&quot;styleZIndex\&quot;:\&quot;auto\&quot;,\&quot;allowedExpansion_t\&quot;:555.4000244140625,\&quot;allowedExpansion_r\&quot;:300.07501220703125,\&quot;allowedExpansion_b\&quot;:0,\&quot;allowedExpansion_l\&quot;:918.9249877929688,\&quot;xInView\&quot;:1,\&quot;yInView\&quot;:0.58639990234375}&quot;,&quot;permissions&quot;:&quot;{\&quot;expandByOverlay\&quot;:false,\&quot;expandByPush\&quot;:false,\&quot;readCookie\&quot;:false,\&quot;writeCookie\&quot;:false}&quot;,&quot;metadata&quot;:&quot;{\&quot;shared\&quot;:{\&quot;sf_ver\&quot;:\&quot;1-0-38\&quot;,\&quot;ck_on\&quot;:1,\&quot;flash_ver\&quot;:\&quot;0\&quot;}}&quot;,&quot;reportCreativeGeometry&quot;:false,&quot;isDifferentSourceWindow&quot;:false,&quot;goog_safeframe_hlt&quot;:{},&quot;encryptionMode&quot;:null}" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" scrolling="no" src="https://21ee711a1c4d3ad0f4b8dd557ccdfacc.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html" style="border: 0px; vertical-align: bottom;" title="3rd party ad content" width="300">
+         </iframe>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

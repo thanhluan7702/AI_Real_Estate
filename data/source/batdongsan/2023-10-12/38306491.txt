@@ -1,0 +1,534 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38306491" uid="2493450">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Nhà lô góc 2 mặt tiền đường trung tâm Q. Cẩm Lệ thông tứ hướng Cách Mạng Tháng 8 sát Nguyễn Hữu Thọ
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Cách Mạng Tháng Tám, Phường Khuê Trung, Cẩm Lệ, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    92 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38306491,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/10/12/20231012152447-9056_wm.jpg","vipType":0,"title":"Nhà lô góc 2 mặt tiền đường trung tâm Q. Cẩm Lệ thông tứ hướng Cách Mạng Tháng 8 sát Nguyễn Hữu Thọ","titleHiddenMobile":"Nhà lô góc 2 mặt tiền đường trung tâm Q. Cẩm Lệ thông tứ hướng Cách Mạng Tháng 8 sát Nguyễn Hữu Thọ","url":"https://batdongsan.com.vn/ban-nha-mat-pho-duong-cach-mang-thang-tam-phuong-khue-trung/-lo-goc-2-tien-q-cam-le-thong-tu-huong-8-sat-nguyen-huu-tho-pr38306491","productIdPrefix":"38306491$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-nha-mat-pho-duong-cach-mang-thang-tam-phuong-khue-trung/-lo-goc-2-tien-q-cam-le-thong-tu-huong-8-sat-nguyen-huu-tho-pr38306491&amp;t=Nhà lô góc 2 mặt tiền đường trung tâm Q. Cẩm Lệ thông tứ hướng Cách Mạng Tháng 8 sát Nguyễn Hữu Thọ" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-nha-mat-pho-duong-cach-mang-thang-tam-phuong-khue-trung/-lo-goc-2-tien-q-cam-le-thong-tu-huong-8-sat-nguyen-huu-tho-pr38306491" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38306491">
+   - Nhà cấp 4 kiên cố, chỉ cần lướt vài thùng sơn lại là xinh lung linh, vào ở ngay.
+   <br/>
+   - Ngay trung tâm quận Cẩm Lệ, sát ngã tư Nguyễn Hữu Thọ - Cách Mạng Tháng 8, tiện ích dân sinh không thiếu thứ gì, chợ, bệnh viện Tâm Trí, THCS Trần Quý Cáp, các trường đại học Kiến Trúc, trường đại học Đông Á.
+   <br/>
+   - Nhà lô góc 3 mặt tiền đường, thông tứ hướng, thoáng, sát đường chính.
+   <br/>
+   - Diện tích đất: Hơn 90m², ngang 5.5m.
+   <br/>
+   - Sổ đẹp, vuông vức như tờ A4, F0 chưa qua đầu tư, giá sập nguồn chỉ nhỉnh 2. X tỷ.
+   <br/>
+   - Khách hàng có thể mua ở, kết hợp với khai thác dòng tiền cho thuê trọ.
+   <br/>
+   - Sổ sẵn, chủ cất két sẵn sàng giao dịch.
+   <br/>
+   <br/>
+   Quý khách hàng quan tâm hãy gọi ngay em Tâm
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="521f991c42678798f3c5fab91f0b2538" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38306491">
+    0934 998 ***
+   </span>
+   Ms Tâm. Hỗ trợ xem nhà ngay và mua bán giá tốt nhất.
+   <br/>
+   Cảm ơn quý khách hàng đã xem tin!
+   <br/>
+   Cam kết thông tin chính xác 100%.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      92 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-home">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mặt tiền
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      5,5 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-road">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Đường vào
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ.
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver1be749a2.msvbds.pricing-insight.min.css" rel="stylesheet"/>
+ <div class="re__section pd-pricing-insight lazyload" data-func='new FrontEnd.Product.Details.PricingInsight({"prefixPrice":"","price":0.0,"min":63.0,"max":142.0,"avg":86.0,"isRent":"false"})' data-script="https://staticfile.batdongsan.com.vn/js/Product/Binnova/Details/filestatic.ver1be749a2.msvbds.FrontEnd.Product.Details.PricingInsight.min.js" tracking-id="ldp-listing-pricing-insight">
+  <h3 class="re__section-title">
+   Khoảng giá phổ biến
+   <span class="re__icon-info-circle--sm pricing-insight--info js__pricing-insight--info">
+    <span class="pricing-insight--note">
+     Thông tin được tổng hợp bởi Batdongsan.com.vn trong vòng 3 tháng gần nhất
+    </span>
+   </span>
+  </h3>
+  <div class="pricing-insight--sub-title">
+   Bán nhà mặt phố tại phường Khuê Trung, quận Cẩm Lệ
+  </div>
+  <div class="pd-pricing-insight--border js__pd-pricing-insight--border">
+   <div class="pd-pricing-insight--content">
+    <div class="pricing-content-row-label">
+     <div class="pricing-avg-min pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg pricing-content-row">
+      <div class="pricing-content--r1">
+       Giá phổ biến nhất
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg-max pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+    <div class="bg-pricing">
+    </div>
+    <div class="bg-pricing-avg">
+    </div>
+    <div class="pricing-avg-min pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+        Giá phổ biến nhất
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg-max pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-product">
+     <div class="pricing-content">
+      <div class="pricing-content--r1">
+       Tin đang xem
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver1be749a2.msvbds.pricing-extent.min.css" rel="stylesheet"/>
+  <div class="re__clear-box">
+  </div>
+  <div class="re__pricing-insight-extented">
+   <div class="pricing-insight-row pricing-insight-title">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <strong>
+      So sánh giá khu vực lân cận
+     </strong>
+     <br/>
+     <span>
+      Trong Quận Cẩm Lệ
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <strong>
+      Giá bán phổ biến nhất
+     </strong>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+    </div>
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-hoa-phat" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=1">
+      Phường Hòa Phát
+     </a>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      47
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-hoa-phat" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=1">
+      <span class="labled-text-small">
+       6 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-hoa-an" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=2">
+      Phường Hòa An
+     </a>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      53
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-hoa-an" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=2">
+      <span class="labled-text-small">
+       9 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-hoa-xuan" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=3">
+      Phường Hòa Xuân
+     </a>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      61
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-hoa-xuan" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=3">
+      <span class="labled-text-small">
+       38 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-hoa-tho-dong" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=4">
+      Phường Hòa Thọ Đông
+     </a>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      74
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-hoa-tho-dong" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=4">
+      <span class="labled-text-small">
+       12 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row pricing-insight-row-view">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-khue-trung" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=5">
+      Phường Khuê Trung
+     </a>
+     <span class="labled-text-small">
+      Đang xem
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      86
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-mat-pho-phuong-khue-trung" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=5">
+      <span class="labled-text-small">
+       68 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt no-border">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0207447,108.2117816&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/255x180/2023/08/17/20230817102008-5428.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Đặng Thị Thanh Tâm">
+     Đặng Thị Thanh Tâm
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/c1736412b5934c35" tracking-id="user-listing-ldp">
+      Xem thêm 6 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38306491">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-phuong-khue-trung" title="Nhà mặt phố Khuê Trung Cẩm Lệ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Khuê Trung Cẩm Lệ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-duong-cach-mang-thang-tam-45" title="Nhà mặt phố Cách Mạng Tháng Tám Cẩm Lệ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Cách Mạng Tháng Tám Cẩm Lệ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-cam-le-ddn" title="Nhà mặt phố Cẩm Lệ Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Cẩm Lệ Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-da-nang" title="Nhà mặt phố Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-lo-goc-da-nang" title="Bán lô góc Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán lô góc Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    12/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    22/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38306491
+   </span>
+  </div>
+ </div>
+</div>

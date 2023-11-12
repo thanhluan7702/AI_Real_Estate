@@ -1,0 +1,418 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38044511" uid="1624027">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  PQL cập nhật quỹ căn cho thuê T9 tại Phú Gia Compound, nhà mới đẹp, giá tốt chỉ từ 20tr
+  <span class="hidden-mobile m-on-title" raw="813e31a87cc2f365d5fb642850d65195">
+   0935 182 ***
+  </span>
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án Phú Gia Compound, Đường Ông Ích Khiêm, Phường Tam Thuận, Thanh Khê, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    20 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    90 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38044511,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/09/06/20230906094016-c0ac_wm.jpg","vipType":0,"title":"PQL cập nhật quỹ căn cho thuê T9 tại Phú Gia Compound, nhà mới đẹp, giá tốt chỉ từ 20tr&lt;span class=\"hidden-mobile m-on-title\" raw=\"813e31a87cc2f365d5fb642850d65195\"&gt;0935 182 ***&lt;/span&gt;","titleHiddenMobile":"PQL cập nhật quỹ căn cho thuê T9 tại Phú Gia Compound, nhà mới đẹp, giá tốt chỉ từ 20tr&lt;span class=\"hidden-mobile m-on-title\" raw=\"813e31a87cc2f365d5fb642850d65195\"&gt;0935 182 ***&lt;/span&gt;","url":"https://batdongsan.com.vn/cho-thue-nha-rieng-duong-ong-ich-khiem-phuong-tam-thuan-prj-phu-gia-compound/pql-cap-t-quy-can-cho-t9-tai-moi-dep-tot-chi-tu-18tr-pr38044511","productIdPrefix":"38044511$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-nha-rieng-duong-ong-ich-khiem-phuong-tam-thuan-prj-phu-gia-compound/pql-cap-t-quy-can-cho-t9-tai-moi-dep-tot-chi-tu-18tr-pr38044511&amp;t=PQL cập nhật quỹ căn cho thuê T9 tại Phú Gia Compound, nhà mới đẹp, giá tốt chỉ từ 20tr0935 182 ***" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-nha-rieng-duong-ong-ich-khiem-phuong-tam-thuan-prj-phu-gia-compound/pql-cap-t-quy-can-cho-t9-tai-moi-dep-tot-chi-tu-18tr-pr38044511" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38044511">
+   Phòng kinh doanh quản lý Phú Gia Compound cập nhật quỹ căn cho thuê chất lượng T9/2023, Khu đô thị Phú Gia Compound là khu đô thị biệt lập khép kín cao cấp nằm ngay trung tâm TP cách sân bay 1km, cách siêu thị BigC 5 phút, cách các địa điểm vui chơi giải trí của Đà Thành như Cầu Rồng, cầu Tình Yêu, bãi biển Phạm Văn Đồng 10 phút. Khách hàng có thể thuận tiện di chuyển cho công việc. Khu vực được bảo vệ an ninh 24/7, dân trí cao, các tiện ích nội khu như hồ bơi, quán cà phê, nhà hàng, siêu thị mini...
+   <br/>
+   <br/>
+   Các loại nhà phố - biệt thự tại dự án Phú Gia Compound gồm 01 Phòng khách, 01 phòng ăn và bếp, 4 Phòng ngủ + 5 toilets, 1 Phòng giặt:
+   <br/>
+   Loại A: 100 - 140m.
+   <br/>
+   Loại B: 84,8 - 114,6 m.
+   <br/>
+   Loại C: 76 - 86.5 m.
+   <br/>
+   ------------------------------------------------
+   <br/>
+   PKD cập nhật list căn cho thuê tại Phú Gia Compound Tháng 09/2023.
+   <br/>
+   Căn thô chưa xây dựng: 12 triệu/tháng.
+   <br/>
+   ------------------------------------
+   <br/>
+   Căn C12: 4PN, nội thất đẹp - giá tốt: 20 triệu / tháng.
+   <br/>
+   Căn C07: 4PN, nội thất đơn giản - 20 triệu / tháng.
+   <br/>
+   Căn B04: 4PN, nội thất đơn giản: 20 triệu / tháng.
+   <br/>
+   Căn B03: 4PN, nội thất full đẹp: 22 triệu / tháng.
+   <br/>
+   Căn B05: 4PN, full nội thất: 20 triệu / tháng.
+   <br/>
+   Căn A01: 4PN, nội thất đầy đủ: 22 triệu / tháng.
+   <br/>
+   Căn A08: 4PN, full nội thất đẹp: 21 triệu / tháng.
+   <br/>
+   Căn Góc: 4 PN, full nội thất đẹp châu Âu: 25 triệu / tháng.
+   <br/>
+   -------------------------------------
+   <br/>
+   Đặc biệt: Căn vip nội thất nhập: 35 triệu/tháng.
+   <br/>
+   <br/>
+   Hỗ trợ đăng ký thủ tục xác nhận tạm trú cho khách nước ngoài nhanh nhất! Hỗ trợ 24/7 cho khách hàng.
+   <br/>
+   Hotline:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="813e31a87cc2f365d5fb642850d65195" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=38044511">
+    0935 182 ***
+   </span>
+   Zalo, imess, Telegram, Viber.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      90 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      20 triệu/tháng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-cho-thue-phu-gia-compound" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 20 tin đăng cho thuê
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-khu-do-thi-moi-thanh-khe-ddn/phu-gia-compound-pj2642" target="_blank">
+      <img alt="Phú Gia Compound" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2016/09/28/lGk9zKqg/20160928134442-d496.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       Phú Gia Compound
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Đang mở bán" class="re__prj-card-config-value" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Đang mở bán
+       </span>
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="Giá 33,7 - 62,6 triệu/tháng" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-money--sm">
+       </i>
+       33,7 - 62,6 triệu/tháng
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Novaland Group" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Novaland Group
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver38ac7041.msvbds.pricing-insight.min.css" rel="stylesheet"/>
+ <div class="re__section pd-pricing-insight lazyload" data-func='new FrontEnd.Product.Details.PricingInsight({"prefixPrice":"~","price":20.0,"min":33.7,"max":62.60000000000001,"avg":42.01,"isRent":"true"})' data-script="https://staticfile.batdongsan.com.vn/js/Product/Binnova/Details/filestatic.ver38ac7041.msvbds.FrontEnd.Product.Details.PricingInsight.min.js" tracking-id="ldp-listing-pricing-insight">
+  <h3 class="re__section-title">
+   Khoảng giá phổ biến
+   <span class="re__icon-info-circle--sm pricing-insight--info js__pricing-insight--info">
+    <span class="pricing-insight--note">
+     Thông tin được tổng hợp bởi Batdongsan.com.vn trong vòng 3 tháng gần nhất
+    </span>
+   </span>
+  </h3>
+  <div class="pricing-insight--sub-title">
+   Cho thuê nhà riêng tại Phú Gia Compound
+  </div>
+  <div class="pd-pricing-insight--border js__pd-pricing-insight--border">
+   <div class="pd-pricing-insight--content">
+    <div class="pricing-content-row-label">
+     <div class="pricing-avg-min pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg pricing-content-row">
+      <div class="pricing-content--r1">
+       Giá phổ biến nhất
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg-max pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+    <div class="bg-pricing">
+    </div>
+    <div class="bg-pricing-avg">
+    </div>
+    <div class="pricing-avg-min pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+        Giá phổ biến nhất
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg-max pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-product">
+     <div class="pricing-content">
+      <div class="pricing-content--r1">
+       Tin đang xem
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0750141143799,108.212547302246&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2021/06/11/20210611085913-4e93.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Kim Thúy">
+     Kim Thúy
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/350fc18b224f1fc7" tracking-id="user-listing-ldp">
+      Xem thêm 8 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38044511">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-rieng-phu-gia-compound/dt-tu-80m2-den-100m2" title="Thuê nhà riêng Phú Gia Compound từ 80 m2 đến 100 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà riêng Phú Gia Compound từ 80 m2 đến 100 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-rieng-phuong-tam-thuan" title="Thuê nhà riêng Tam Thuận Thanh Khê" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà riêng Tam Thuận Thanh Khê
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-rieng-duong-ong-ich-khiem-50" title="Thuê nhà riêng Ông Ích Khiêm Thanh Khê" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà riêng Ông Ích Khiêm Thanh Khê
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-rieng-thanh-khe-ddn" title="Thuê nhà riêng Thanh Khê Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà riêng Thanh Khê Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-rieng-da-nang" title="Thuê nhà riêng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà riêng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-rieng-da-nang?gtn=10-trieu&amp;gcn=40-trieu" title="Thuê nhà riêng Đà Nẵng từ 10 triệu đến 40 triệu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà riêng Đà Nẵng từ 10 triệu đến 40 triệu
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    11/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    21/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38044511
+   </span>
+  </div>
+ </div>
+</div>

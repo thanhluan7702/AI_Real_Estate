@@ -1,0 +1,36 @@
+nhatot:
+	'post_id', 'Loại tin', 'Tiêu đề', 'Giá', 'Diện tích', 'Địa chỉ',
+       'Giá/m2', 'Giấy tờ pháp lý', 'Loại hình đất', 'Mô tả', 'URL', 'date',
+       'Liên hệ', 'card_visit', 'Hướng cửa chính', 'Chiều ngang', 'Chiều dài',
+       'Đặc điểm nhà/đất', 'Số phòng ngủ', 'Số phòng vệ sinh',
+       'Loại hình nhà ở', 'Diện tích sử dụng', 'Tổng số tầng',
+       'Tình trạng nội thất', 'Tên phân khu/Lô/Block/Tháp',
+       'Tình trạng bất động sản', 'Tầng số', 'Hướng ban công',
+       'Loại hình căn hộ', 'Loại hình văn phòng', 'Mã căn', 'Đặc điểm căn hộ',
+       'Mã lô', 'Số tiền cọc'
+
+batdongsan:
+	'post_id', 'Loại tin', 'Tiêu đề', 'Địa chỉ', 'Mô tả', 'Diện tích',
+       'Mức giá', 'Mặt tiền', 'Đường vào', 'Hướng nhà', 'Hướng ban công',
+       'Số tầng', 'Số phòng ngủ', 'Số toilet', 'URL', 'date', 'Liên hệ',
+       'card_visit', 'Pháp lý', 'Nội thất'
+
+alonhadat:
+	'post_id', 'Loại tin', 'Tiêu đề', 'Mô tả', 'Giá:', 'Diện tích:',
+       'Địa chỉ', 'Mã tin', 'Hướng', 'Phòng ăn', 'Đường trước nhà', 'Nhà bếp',
+       'Loại BDS', 'Pháp lý', 'Sân thượng', 'Chiều ngang', 'Số lầu',
+       'Chổ để xe hơi', 'Chiều dài', 'Số phòng ngủ', 'Chính chủ', 'URL',
+       'date', 'Liên hệ', 'phone', 'Thuộc dự án'
+
+Merge + Rename columns + Delete Columns:
+	'Loại tin', 'Tiêu đề', 'Giá', 'Diện tích', 'Địa chỉ', 'Giá/m2',
+       'Pháp lý', 'Loại hình đất', 'Mô tả', 'URL', 'Ngày crawl',
+       'Tên người dùng', 'card_visit', 'Hướng nhà', 'Chiều ngang', 'Chiều dài',
+       'Đặc điểm nhà/đất', 'Số phòng ngủ', 'Số toilet', 'Loại hình nhà ở',
+       'Diện tích sử dụng', 'Tổng số tầng', 'Nội thất',
+       'Tên phân khu/Lô/Block/Tháp', 'Tình trạng bất động sản', 'Số tầng',
+       'Hướng ban công', 'Loại hình căn hộ', 'Loại hình văn phòng',
+       'Đặc điểm căn hộ', 'Số tiền cọc', 'Mặt tiền', 'Đường vào', 'Phòng ăn',
+       'Đường trước nhà', 'Nhà bếp', 'Loại BDS', 'Sân thượng', 'Chỗ để xe hơi',
+       'Chính chủ', 'Liên hệ', 'Thuộc dự án'
+	

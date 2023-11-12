@@ -1,0 +1,615 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="37992035" uid="1958904">
+ <div class="re__pr-stick-listing-verified">
+  <i class="re__icon-verified--sm">
+   <span class="path1">
+   </span>
+   <span class="path2">
+   </span>
+   <span class="path3">
+   </span>
+   <span class="path4">
+   </span>
+  </i>
+  <span class="re__text">
+   TIN XÁC THỰC
+  </span>
+  <i class="re__icon-info-circle--sm js__verified-info-click" data-bds-isentrypointvl="True" tracking-id="verified-more-infor-click" tracking-label="loc=icon">
+  </i>
+ </div>
+ <h1 class="re__pr-title pr-title js__pr-title">
+  "Đập hộp" Nhà 3 tầng trung tâm Liên Chiểu, sát vịnh Biển Đà Nẵng!
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Hòa Minh 17, Phường Hòa Minh, Liên Chiểu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    4,49 tỷ
+   </span>
+   <span class="ext">
+    ~55,43 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    81 m²
+   </span>
+   <span class="ext">
+    3 tầng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    4 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":37992035,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/08/26/20230826103739-95cd_wm.jpg","vipType":0,"title":"\"Đập hộp\" Nhà 3 tầng trung tâm Liên Chiểu, sát vịnh Biển Đà Nẵng!","titleHiddenMobile":"\"Đập hộp\" Nhà 3 tầng trung tâm Liên Chiểu, sát vịnh Biển Đà Nẵng!","url":"https://batdongsan.com.vn/ban-nha-rieng-duong-hoa-minh-17-phuong-hoa-minh/tuyet-pham-3-tang-trung-tam-sat-bien-full-noi-that-cao-cap-chi-viec-xach-vali-vao-o-pr37992035","productIdPrefix":"37992035$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href='https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-nha-rieng-duong-hoa-minh-17-phuong-hoa-minh/tuyet-pham-3-tang-trung-tam-sat-bien-full-noi-that-cao-cap-chi-viec-xach-vali-vao-o-pr37992035&amp;t="Đập hộp" Nhà 3 tầng trung tâm Liên Chiểu, sát vịnh Biển Đà Nẵng!' id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-nha-rieng-duong-hoa-minh-17-phuong-hoa-minh/tuyet-pham-3-tang-trung-tam-sat-bien-full-noi-that-cao-cap-chi-viec-xach-vali-vao-o-pr37992035" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=37992035">
+   1/Vị trí.
+   <br/>
+   Đường 5m5 vỉa hè 3m phường Hòa Minh, Q. Liên Chiểu. Cách biển 300m.
+   <br/>
+   <br/>
+   2/ Mô tả chi tiết.
+   <br/>
+   - Diện tích: 81m² (4.5x18m), DT sàn: 230m².
+   <br/>
+   - Hướng: Tây Bắc.
+   <br/>
+   - Nhà được thiết kế 3 mê hiện đại không gian mở với Công Năng đầy đủ: 4 PN (có phòng ngủ tầng 1), 4wc, phòng khách rộng, phòng bếp, phòng thờ, Sân phơi, ban công cây cảnh, sân để xe, giếng trời... Full nội thất.
+   <br/>
+   <br/>
+   3/ Tiện ích mang lại.
+   <br/>
+   - Sát Biển nên khí hậu luôn mát mẻ trong lành, khu dân trí cao.
+   <br/>
+   - Gần đại lộ Nguyễn Sinh Sắc, Kinh Dương Vương.
+   <br/>
+   - Cách UB Quận 800m, Bệnh Viện Ung Bướu 1km, ĐH Bách Khoa 1.5km.
+   <br/>
+   <br/>
+   4/ Cam kết.
+   <br/>
+   - Hình ảnh thế nào nhà thực tế như vậy, chủ nhà dễ tính hỗ trợ vay vốn ngân hàng nếu có nhu cầu.
+   <br/>
+   <br/>
+   5/ Giá bán: 4.49 tỷ có thương lượng.
+   <br/>
+   --------------------------
+   <br/>
+   Quý anh/chị quan tâm vui lòng gọi ngay/nhắn tin Zalo cho tôi để trao đổi thêm thông tin và tới khảo sát nhà thực tế trước khi chủ nhận cọc bán mất. Cám ơn đã đọn tin!
+  </div>
+ </div>
+ <div class="re__pr-listing-verified-section">
+  <div class="re__lv-content">
+   <i class="re__icon-verified--lg">
+    <span class="path1">
+    </span>
+    <span class="path2">
+    </span>
+    <span class="path3">
+    </span>
+    <span class="path4">
+    </span>
+   </i>
+   <span class="re__text">
+    Đặc điểm bất động sản đã được đội ngũ Batdongsan.com.vn xác thực thông qua việc kiểm tra sổ đỏ và hình ảnh do người đăng tin cung cấp.
+    <span class="re__text-bold js__verified-info-click" tracking-id="verified-more-infor-click" tracking-label="loc=text">
+     Tìm hiểu thêm
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </span>
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      81 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      4,49 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-road">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Đường vào
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      5,5 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Tây - Bắc
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3 tầng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      4 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      4 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5d7a9d82.msvbds.pricing-insight.min.css" rel="stylesheet"/>
+ <div class="re__section pd-pricing-insight lazyload" data-func='new FrontEnd.Product.Details.PricingInsight({"prefixPrice":"~","price":55.43,"min":42.0,"max":80.0,"avg":55.0,"isRent":"false"})' data-script="https://staticfile.batdongsan.com.vn/js/Product/Binnova/Details/filestatic.ver5d7a9d82.msvbds.FrontEnd.Product.Details.PricingInsight.min.js" tracking-id="ldp-listing-pricing-insight">
+  <h3 class="re__section-title">
+   Khoảng giá phổ biến
+   <span class="re__icon-info-circle--sm pricing-insight--info js__pricing-insight--info">
+    <span class="pricing-insight--note">
+     Thông tin được tổng hợp bởi Batdongsan.com.vn trong vòng 3 tháng gần nhất
+    </span>
+   </span>
+  </h3>
+  <div class="pricing-insight--sub-title">
+   Bán nhà riêng tại phường Hòa Minh, quận Liên Chiểu
+  </div>
+  <div class="pd-pricing-insight--border js__pd-pricing-insight--border">
+   <div class="pd-pricing-insight--content">
+    <div class="pricing-content-row-label">
+     <div class="pricing-avg-min pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg pricing-content-row">
+      <div class="pricing-content--r1">
+       Giá phổ biến nhất
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg-max pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+    <div class="bg-pricing">
+    </div>
+    <div class="bg-pricing-avg">
+    </div>
+    <div class="pricing-avg-min pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+        Giá phổ biến nhất
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg-max pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-product">
+     <div class="pricing-content">
+      <div class="pricing-content--r1">
+       Tin đang xem
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5d7a9d82.msvbds.pricing-extent.min.css" rel="stylesheet"/>
+  <div class="re__clear-box">
+  </div>
+  <div class="re__pricing-insight-extented">
+   <div class="pricing-insight-row pricing-insight-title">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <strong>
+      So sánh giá khu vực lân cận
+     </strong>
+     <br/>
+     <span>
+      Trong Quận Liên Chiểu
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <strong>
+      Giá bán phổ biến nhất
+     </strong>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+    </div>
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-rieng-phuong-hoa-hiep-bac" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=1">
+      Phường Hòa Hiệp Bắc
+     </a>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      23
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-rieng-phuong-hoa-hiep-bac" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=1">
+      <span class="labled-text-small">
+       3 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-rieng-phuong-hoa-khanh-bac" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=2">
+      Phường Hòa Khánh Bắc
+     </a>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      31
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-rieng-phuong-hoa-khanh-bac" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=2">
+      <span class="labled-text-small">
+       10 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-rieng-phuong-hoa-hiep-nam" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=3">
+      Phường Hòa Hiệp Nam
+     </a>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      32
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-rieng-phuong-hoa-hiep-nam" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=3">
+      <span class="labled-text-small">
+       7 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-rieng-phuong-hoa-khanh-nam" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=4">
+      Phường Hòa Khánh Nam
+     </a>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      34
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-rieng-phuong-hoa-khanh-nam" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=4">
+      <span class="labled-text-small">
+       6 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row pricing-insight-row-view">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-nha-rieng-phuong-hoa-minh" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=5">
+      Phường Hòa Minh
+     </a>
+     <span class="labled-text-small">
+      Đang xem
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      55
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-nha-rieng-phuong-hoa-minh" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=5">
+      <span class="labled-text-small">
+       50 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt no-border">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0783305,108.1618546&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2022/08/08/20220808114623-e96b.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Trương Quang Bốn">
+     Trương Quang Bốn
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/04c471e2b619ad36" tracking-id="user-listing-ldp">
+      Xem thêm 5 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=37992035">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-rieng-phuong-hoa-minh" title="Nhà riêng Hòa Minh Liên Chiểu" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà riêng Hòa Minh Liên Chiểu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-rieng-duong-hoa-minh-17-47" title="Nhà riêng Hòa Minh 17 Liên Chiểu" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà riêng Hòa Minh 17 Liên Chiểu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-rieng-lien-chieu-ddn" title="Nhà riêng Liên Chiểu Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà riêng Liên Chiểu Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-rieng-da-nang/4pn" title="Nhà riêng Đà Nẵng 4 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà riêng Đà Nẵng 4 PN
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    26/09/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    06/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    37992035
+   </span>
+  </div>
+ </div>
+</div>

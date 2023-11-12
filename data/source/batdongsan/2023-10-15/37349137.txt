@@ -1,0 +1,303 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="37349137" uid="731446">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cập nhật mới nhất! Top 7+ văn phòng trống 350-500m2 tại quận Hải Châu - Liên hệ ngay
+  <span class="hidden-mobile m-on-title" raw="26e9d54e7a861173dd4c61ea10b9d17b">
+   0982 099 ***
+  </span>
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Trần Quốc Toản, Phường  Hải Châu I, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    296 nghìn/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    350 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":37349137,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/05/31/20230531203203-c3cb_wm.jpg","vipType":0,"title":"Cập nhật mới nhất! Top 7+ văn phòng trống 350-500m2 tại quận Hải Châu - Liên hệ ngay &lt;span class=\"hidden-mobile m-on-title\" raw=\"26e9d54e7a861173dd4c61ea10b9d17b\"&gt;0982 099 ***&lt;/span&gt;","titleHiddenMobile":"Cập nhật mới nhất! Top 7+ văn phòng trống 350-500m2 tại quận Hải Châu - Liên hệ ngay &lt;span class=\"hidden-mobile m-on-title\" raw=\"26e9d54e7a861173dd4c61ea10b9d17b\"&gt;0982 099 ***&lt;/span&gt;","url":"https://batdongsan.com.vn/cho-thue-van-phong-duong-tran-quoc-toan-phuong-hai-chau-i/-cap-nhat-moi-nhat-top-7-trong-300-500m2-tai-quan-thuenhanhhon-com-pr37349137","productIdPrefix":"37349137$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-van-phong-duong-tran-quoc-toan-phuong-hai-chau-i/-cap-nhat-moi-nhat-top-7-trong-300-500m2-tai-quan-thuenhanhhon-com-pr37349137&amp;t=Cập nhật mới nhất! Top 7+ văn phòng trống 350-500m2 tại quận Hải Châu - Liên hệ ngay 0982 099 ***" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-van-phong-duong-tran-quoc-toan-phuong-hai-chau-i/-cap-nhat-moi-nhat-top-7-trong-300-500m2-tai-quan-thuenhanhhon-com-pr37349137" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=37349137">
+   Tòa nhà đường Nguyễn Tất Thành.
+   <br/>
+   Trống diện tích: 400m²-tầng 7.
+   <br/>
+   Giá thuê từ 125.000 đ/m²/tháng (đã VAT).
+   <br/>
+   Ưu điểm: Một khu vực yên tĩnh, giao thông thuận lợi, dễ dàng di chuyển đến các địa điểm quan trọng của thành phố. Tòa nhà có view biển, mát mẻ; đầy đủ cơ sở vật chất; giá cho thuê cực kỳ tốt;
+   <br/>
+   <br/>
+   Tòa nhà đường Đống Đa.
+   <br/>
+   Trống diện tích: 400m² - tầng.
+   <br/>
+   Giá thuê từ 184.000 đ/m²/th (chưa VAT).
+   <br/>
+   Ưu điểm: Tòa nhà lớn, nằm tại vị trí trung tâm thành phố; Tòa có sảnh lễ tân; Tòa nhà sẵn trần, sàn gạch men, tường, hệ thống điều hòa, hệ thống đèn chiếu sáng; Văn phòng có setup sẵn bàn ghế, có thể vào làm việc ngay; Bãi xe rộng rãi.
+   <br/>
+   <br/>
+   Tòa nhà đường Phan Châu Trinh.
+   <br/>
+   Trống diện tích: 400m² - tầng 1,2; 460m - tầng 6.
+   <br/>
+   Giá thuê từ 230.000 đ/m²/th (chưa VAT).
+   <br/>
+   Ưu điểm: Tọa lạc tại vị trí ngã 5 đắc địa, có giá thuê tốt, được làm việc 24/24, hầm để xe thoải mái.
+   <br/>
+   <br/>
+   Tòa nhà đường Trần Quốc Toản.
+   <br/>
+   Trống diện tích: 350m² - tầng 3.
+   <br/>
+   Giá thuê từ 296.000 đ/m²/tháng (đã VAT).
+   <br/>
+   Ưu điểm: Tòa nhà lớn, view tầng cao đẹp, 2 mặt tiền, Đầy đủ tiện ích như: Hệ thống điều hòa, hệ thống đèn chiếu sáng,.. Ban quản lý tốt, an ninh đảm bảo.
+   <br/>
+   <br/>
+   Tòa nhà đường Nguyễn Văn Linh.
+   <br/>
+   Trống diện tích: Hơn 430m² - tầng 2 - 6.
+   <br/>
+   Giá thuê từ 391.000 đ/m²/tháng (chưa VAT).
+   <br/>
+   Ưu điểm: Văn phòng nằm tại tuyến đường tài chính lớn, view tầng cao đẹp, ban quản lý tòa nhà chuyên nghiệp, Đã có sẵn đầy đủ các trang thiết bị cao cấp.
+   <br/>
+   <br/>
+   Tòa nhà đường Lý Thường Kiệt.
+   <br/>
+   Trống diện tích: 400m² - tầng 4.
+   <br/>
+   Giá thuê từ 391.000 đ/m²/th (đã VAT).
+   <br/>
+   Ưu điểm: Tòa nhà lớn, nằm trong phân khúc văn phòng hạng B, vị trí trung tâm thành phố, Bên trong tòa nhà có sẵn trần, sàn, tưởng, hệ thống đèn điện, điều hòa, Hệ thống thang máy và thang cuốn tốc độ cao; Ban quản lý chuyên nghiệp; Nằm gần trung tâm hành chính, do đó khá thuận tiện trong giao dịch.
+   <br/>
+   <br/>
+   Tòa nhà đường 2 tháng 9.
+   <br/>
+   Trống diện tích: 380m² - tầng 3.
+   <br/>
+   Giá thuê từ: 632.500 đ/m²/th (đã VAT).
+   <br/>
+   Ưu điểm: Tòa nhà nằm tại vị trí trung tâm, lớn, giao thông thuận lợi
+   <br/>
+   <br/>
+   (***Tỷ giá: 23.000 vnd).
+   <br/>
+   Xem chi tiết từng văn phòng trong danh sách hơn 200 văn phòng tại Đà Nẵng:
+   <br/>
+   Cảm ơn quý anh chị đã đọc tin sản phẩm văn phòng cho thuê của Thue Nhanh Hon. Nếu anh chị có thắc mắc hay nhu cầu tìm thuê văn phòng, vui lòng gọi điện đến hotline hoặc nhắn tin qua zalo để được tư vấn miễn phí.
+   <br/>
+   * Gọi cho chúng tôi ngay để được tư vấn, báo giá và tham quan thực tế miễn phí!
+   <br/>
+   ----------
+   <br/>
+   Công ty Cho Thuê Nhanh Hơn chuyên kinh doanh - tư vấn BĐS thương mại tại Đà Nẵng: Cho thuê văn phòng, cho thuê khách sạn kinh doanh, cho thuê mặt bằng kinh doanh, cho thuê căn hộ cao cấp,... Với quy trình tư vấn minh bạch, trung thực cùng sự hiểu rõ tường tận ưu - nhược điểm của hơn 200 tòa nhà văn phòng cho thuê tại Đà Nẵng.
+   <br/>
+   ------------
+   <br/>
+   Công ty TNHH TM và DV Cho Thuê Nhanh Hơn
+   <br/>
+   Website:
+   <a href="https://thuenhanhhon.com/" rel="nofollow" target="_blank">
+    https://thuenhanhhon.com/
+   </a>
+   <br/>
+   Địa chỉ VP: 33 Hoàng Hoa Thám, Phường Tân Chính, Quận Thanh Khê, TP Đà Nẵng.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      350 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      296 nghìn/m²
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0662273,108.2225045&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2020/06/19/20200619093922-f7da.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Công Ty Tnhh Tm &amp; Dv Cho Thuê Nhanh Hơn">
+     Công Ty Tnhh Tm &amp; Dv Cho Thuê Nhanh Hơn
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/0da7b56ca510e572" tracking-id="user-listing-ldp">
+      Xem thêm 15 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=37349137">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-hai-chau-i" title="Văn phòng Hải Châu I " tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hải Châu I
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-da-nang" title="Văn phòng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-duong-nguyen-van-linh-46" title="Văn phòng Nguyễn Văn Linh Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Nguyễn Văn Linh Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-duong-tran-quoc-toan-46" title="Văn phòng Trần Quốc Toản Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Trần Quốc Toản Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-thanh-binh" title="Văn phòng Thanh Bình Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Thanh Bình Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-phuoc-ninh" title="Văn phòng Phước Ninh Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Phước Ninh Hải Châu
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    02/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    17/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin VIP Bạc
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    37349137
+   </span>
+  </div>
+ </div>
+</div>

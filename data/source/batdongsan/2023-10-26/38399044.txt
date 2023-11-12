@@ -1,0 +1,390 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38399044" uid="2548765">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cho thuê biệt thự 2 phòng ngủ tại Đà Nẵng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án The Ocean Villas, Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    275 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    2 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38399044,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/10/25/20231025144331-c833_wm.jpg","vipType":0,"title":"Cho thuê biệt thự 2 phòng ngủ tại Đà Nẵng","titleHiddenMobile":"Cho thuê biệt thự 2 phòng ngủ tại Đà Nẵng","url":"https://batdongsan.com.vn/cho-thue-nha-biet-thu-lien-ke-duong-truong-sa-phuong-hoa-hai-prj-the-ocean-villas/cho-2-phong-ngu-tai-da-nang-two-bedroom-villa-for-rent-in-da-nang-pr38399044","productIdPrefix":"38399044$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-nha-biet-thu-lien-ke-duong-truong-sa-phuong-hoa-hai-prj-the-ocean-villas/cho-2-phong-ngu-tai-da-nang-two-bedroom-villa-for-rent-in-da-nang-pr38399044&amp;t=Cho thuê biệt thự 2 phòng ngủ tại Đà Nẵng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-nha-biet-thu-lien-ke-duong-truong-sa-phuong-hoa-hai-prj-the-ocean-villas/cho-2-phong-ngu-tai-da-nang-two-bedroom-villa-for-rent-in-da-nang-pr38399044" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38399044">
+   Cho thuê biệt thự The Ocean Villa 2 phòng ngủ tại Đà Nẵng.
+   <br/>
+   - Địa chỉ: Trường Sa, Ngũ Hành Sơn, Đà Nẵng.
+   <br/>
+   - Diện tích: 275m².
+   <br/>
+   - Giá thuê hàng tháng: 46,748 triệu/tháng.
+   <br/>
+   Về khu bất động sản:
+   <br/>
+   - Biệt thự độc quyền mang đến sự thoải mái, thư giãn và tiện nghi với những tiện ích hàng đầu.
+   <br/>
+   - Hai phòng ngủ rộng rãi, được thiết kế chu đáo mang đến cho bạn sự thư giãn tối đa.
+   <br/>
+   - Trải nghiệm niềm vui khi có bãi biển chỉ cách đó một quãng đi bộ ngắn.
+   <br/>
+   - Khu nghỉ dưỡng cung cấp cho bạn quyền sử dụng sân tennis, nhà hàng trong khuôn viên và nhiều tiện ích khác.
+   <br/>
+   Thông tin chi tiết tại: https://cvr.com.vn/.../two-bedroom-the-ocean-villa-for.../
+   <br/>
+   Liên hệ với CVR để sắp xếp cuộc hẹn ngay hôm nay!
+   <br/>
+   Đặt lịch hẹn ngay hôm nay với Ms. Hoàng Cvr để nhận được ưu đãi tốt nhất!
+   <br/>
+   (ENG).
+   <br/>
+   <br/>
+   Twt - Bedroom The Ocean Villa For Rent In Da Nang.
+   <br/>
+   Address: Truong Sa, Ngu Hanh Son, Da Nang.
+   <br/>
+   Area: 275 sqm.
+   <br/>
+   Monthly rent: 46,748 triệu/month.
+   <br/>
+   About the property:
+   <br/>
+   - Exclusive villa offers the epitome of comfort, relaxation, and convenience, featuring top - notch amenities.
+   <br/>
+   - Two spacious bedrooms, thoughtfully designed for your ultimate relaxation.
+   <br/>
+   - Experience the joy of having the beach just a short walk away.
+   <br/>
+   - The resort provides you with access to tennis courts, an on - site restaurant and many other utilities.
+   <br/>
+   <br/>
+   E - mail:
+   <a href="mailto:hoang.le@cvr.com.vn">
+    hoang.le@cvr.com.vn
+   </a>
+   <br/>
+   Office:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="0700e2f628026e8e0d67811ec5e1b369" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=38399044">
+    0236 365 1***
+   </span>
+   .
+   <br/>
+   Mobile: + 84 (0) 764013676.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      275 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      1 tầng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-cho-thue-the-ocean-villas" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 6 tin đăng cho thuê
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-khu-nghi-duong-sinh-thai-ngu-hanh-son-ddn/the-ocean-villas-pj1781" target="_blank">
+      <img alt="The Ocean Villas" class="lazyload" src="https://staticfile.batdongsan.com.vn/images/avatar/error-image-enterprise-avatar.svg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       The Ocean Villas
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Đã bàn giao" class="re__prj-card-config-value" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Đã bàn giao
+       </span>
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="Giá 99,48 - 136,72 triệu/tháng" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-money--sm">
+       </i>
+       99,48 - 136,72 triệu/tháng
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Tập đoàn VinaCapital" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Tập đoàn VinaCapital
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="1">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.01702308654785,108.26024627685547&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   C
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Hoàng Cvr">
+     Hoàng Cvr
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/24d2b1c0cf6f30bd" tracking-id="user-listing-ldp">
+      Xem thêm 1 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38399044">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-biet-thu-lien-ke-the-ocean-villas/dt-tu-250m2-den-300m2" title="Thuê biệt thự The Ocean Villas từ 250 m2 đến 300 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê biệt thự The Ocean Villas từ 250 m2 đến 300 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-biet-thu-lien-ke-phuong-hoa-hai" title="Thuê biệt thự Hòa Hải Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê biệt thự Hòa Hải Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-biet-thu-lien-ke-duong-truong-sa-48" title="Thuê biệt thự Trường Sa Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê biệt thự Trường Sa Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-biet-thu-lien-ke-ngu-hanh-son-ddn" title="Thuê biệt thự Ngũ Hành Sơn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê biệt thự Ngũ Hành Sơn Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-biet-thu-lien-ke-da-nang/2pn" title="Thuê biệt thự Đà Nẵng 2 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê biệt thự Đà Nẵng 2 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-resort-da-nang" title="Thuê resort Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê resort Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    25/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    04/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38399044
+   </span>
+  </div>
+ </div>
+</div>

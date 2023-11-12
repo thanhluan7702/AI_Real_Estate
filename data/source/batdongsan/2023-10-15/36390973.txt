@@ -1,0 +1,741 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="36390973" uid="1955895">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Bán căn hộ view biển Mỹ Khê Đà Nẵng, sở hữu lâu dài, chỉ từ 3,9 tỷ
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án The 6Nature Đà Nẵng, Đường Võ Nguyên Giáp, Phường Phước Mỹ, Sơn Trà, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    77,4 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    2 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":36390973,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/02/07/20230207135154-1a4d_wm.jpg","vipType":0,"title":"Bán căn hộ view biển Mỹ Khê Đà Nẵng, sở hữu lâu dài, chỉ từ 3,9 tỷ","titleHiddenMobile":"Bán căn hộ view biển Mỹ Khê Đà Nẵng, sở hữu lâu dài, chỉ từ 3,9 tỷ","url":"https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-vo-nguyen-giap-phuong-phuoc-my-prj-the-6nature-da-nang/ban-view-bien-khe-so-huu-lau-i-chi-tu-3-5-ty-pr36390973","productIdPrefix":"36390973$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-vo-nguyen-giap-phuong-phuoc-my-prj-the-6nature-da-nang/ban-view-bien-khe-so-huu-lau-i-chi-tu-3-5-ty-pr36390973&amp;t=Bán căn hộ view biển Mỹ Khê Đà Nẵng, sở hữu lâu dài, chỉ từ 3,9 tỷ" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-vo-nguyen-giap-phuong-phuoc-my-prj-the-6nature-da-nang/ban-view-bien-khe-so-huu-lau-i-chi-tu-3-5-ty-pr36390973" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=36390973">
+   Bán căn hộ view biển Mỹ Khê Đà Nẵng, sở hữu lâu dài, chỉ từ 3,9 tỷ.
+   <br/>
+   Chủ đầu tư tung giỏ hàng mới - view biển - sở hữu lâu dài.
+   <br/>
+   Vị trí: Nằm vị trí trung tâm TP Đà Nẵng, Cách biển 200m, được bao bọc bởi những resort, khách sạn 5* bậc nhất Đà Nẵng.
+   <br/>
+   - Vì trung tâm nên tiện ích nằm trong bán kính 1Km đổ lại thuận tiện để sử dụng nhiều tiện ích phục vụ cho cuộc sống như:
+   <br/>
+   + 5 phút đến trung tâm thương mại Vincom, Lotte Mart,...
+   <br/>
+   + 7 phút đến cầu Rồng, cầu sông Hàn.
+   <br/>
+   + 1 phút ra bãi biển Mỹ Khê, resort Furama.
+   <br/>
+   + 5 phút đến trường cấp 1,2,3, Đại Học, Bệnh viện hàng đầu.
+   <br/>
+   <br/>
+   Tiện ích nội khu theo tiêu chuẩn Quốc Tế như:
+   <br/>
+   + Sảnh đón 5 sao sang trọng.
+   <br/>
+   + Bãi đỗ xe thông minh hiện đại 4.0.
+   <br/>
+   + Trường mầm non quốc tế.
+   <br/>
+   + Bể bơi vô cực.
+   <br/>
+   + Phòng Gym - Yoga - Spa tiêu chuẩn 5 sao.
+   <br/>
+   + Trung tâm thương mại - Siêu thị.
+   <br/>
+   + Không gian sống ưu việt.
+   <br/>
+   <br/>
+   Diện tích: 77,4m², 99,5m².
+   <br/>
+   Giá bán từ: 3,9 tỷ đồng.
+   <br/>
+   Pháp lý: Sổ đỏ sở hữu lâu dài.
+   <br/>
+   Liên hệ:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="7301071c0d5db334b9d33534a094c7c7" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=36390973">
+    0842 800 ***
+   </span>
+   để hỗ trợ tư vấn.
+   <br/>
+   Chuyên viên tư vấn Đất Xanh Miền Trung.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      77,4 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-ban-the-6nature-da-nang" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 20 tin đăng bán
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-can-ho-chung-cu-son-tra-ddn/the-6nature-da-nang-pj2559" target="_blank">
+      <img alt="The 6Nature Đà Nẵng" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2021/04/28/20210428184620-7e61.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       The 6Nature Đà Nẵng
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Đang mở bán" class="re__prj-card-config-value" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Đang mở bán
+       </span>
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="Giá 49,06 - 49,06 triệu/m²" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-money--sm">
+       </i>
+       49,06 - 49,06 triệu/m²
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="486 căn hộ" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-home--sm">
+       </i>
+       486
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="1 tòa nhà" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-building--sm">
+       </i>
+       1
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Công ty TNHH Dịch vụ Du lịch và Thương mại Minh Đông" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Công ty TNHH Dịch vụ Du lịch và Thương mại Minh Đông
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver38ac7041.msvbds.pricing-insight.min.css" rel="stylesheet"/>
+ <div class="re__section pd-pricing-insight lazyload" data-func='new FrontEnd.Product.Details.PricingInsight({"prefixPrice":"","price":0.0,"min":41.17575757575757,"max":82.43131569409205,"avg":55.0,"isRent":"false"})' data-script="https://staticfile.batdongsan.com.vn/js/Product/Binnova/Details/filestatic.ver38ac7041.msvbds.FrontEnd.Product.Details.PricingInsight.min.js" tracking-id="ldp-listing-pricing-insight">
+  <h3 class="re__section-title">
+   Khoảng giá phổ biến
+   <span class="re__icon-info-circle--sm pricing-insight--info js__pricing-insight--info">
+    <span class="pricing-insight--note">
+     Thông tin được tổng hợp bởi Batdongsan.com.vn trong vòng 3 tháng gần nhất
+    </span>
+   </span>
+  </h3>
+  <div class="pricing-insight--sub-title">
+   Bán căn hộ chung cư tại The 6Nature Đà Nẵng
+  </div>
+  <div class="pd-pricing-insight--border js__pd-pricing-insight--border">
+   <div class="pd-pricing-insight--content">
+    <div class="pricing-content-row-label">
+     <div class="pricing-avg-min pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg pricing-content-row">
+      <div class="pricing-content--r1">
+       Giá phổ biến nhất
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+     <div class="pricing-avg-max pricing-content-row">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+    <div class="bg-pricing">
+    </div>
+    <div class="bg-pricing-avg">
+    </div>
+    <div class="pricing-avg-min pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+        Giá phổ biến nhất
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg-max pricing-default">
+     <div class="pricing-content">
+      <div class="pricing--line">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-product">
+     <div class="pricing-content">
+      <div class="pricing-content--r1">
+       Tin đang xem
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver38ac7041.msvbds.pricing-extent.min.css" rel="stylesheet"/>
+  <div class="re__clear-box">
+  </div>
+  <div class="re__pricing-insight-extented">
+   <div class="pricing-insight-row pricing-insight-title">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <strong>
+      Các dự án cùng khoảng giá
+     </strong>
+     <br/>
+     <span>
+      Trong vòng bán kính 5 km
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <strong>
+      Giá bán phổ biến nhất
+     </strong>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+    </div>
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-can-ho-chung-cu-the-sang-residence" target="_blank" tracking-id="ldp_to_pdp_price_nearby_projects" tracking-label="loc=Price of Nearby Projects, pos=1">
+      The Sang Residence
+     </a>
+     <span class="text-small">
+      (3,5 km)
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      43,6
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-can-ho-chung-cu-the-sang-residence" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=1">
+      <span class="labled-text-small">
+       144 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-can-ho-chung-cu-a-la-carte-hotel" target="_blank" tracking-id="ldp_to_pdp_price_nearby_projects" tracking-label="loc=Price of Nearby Projects, pos=2">
+      À La Carte Hotel
+     </a>
+     <span class="text-small">
+      (0,2 km)
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      47,3
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-can-ho-chung-cu-a-la-carte-hotel" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=2">
+      <span class="labled-text-small">
+       41 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-can-ho-chung-cu-indochina-riverside-towers" target="_blank" tracking-id="ldp_to_pdp_price_nearby_projects" tracking-label="loc=Price of Nearby Projects, pos=3">
+      Indochina Riverside Towers
+     </a>
+     <span class="text-small">
+      (2,2 km)
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      50
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-can-ho-chung-cu-indochina-riverside-towers" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=3">
+      <span class="labled-text-small">
+       5 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-can-ho-chung-cu-can-ho-cao-cap-azura" target="_blank" tracking-id="ldp_to_pdp_price_nearby_projects" tracking-label="loc=Price of Nearby Projects, pos=4">
+      Căn hộ cao cấp Azura
+     </a>
+     <span class="text-small">
+      (1,8 km)
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      52
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-can-ho-chung-cu-can-ho-cao-cap-azura" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=4">
+      <span class="labled-text-small">
+       11 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt">
+   </div>
+   <div class="pricing-insight-row">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-can-ho-chung-cu-hiyori-garden-tower" target="_blank" tracking-id="ldp_to_pdp_price_nearby_projects" tracking-label="loc=Price of Nearby Projects, pos=5">
+      Hiyori Garden Tower
+     </a>
+     <span class="text-small">
+      (1,2 km)
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      54,9
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-can-ho-chung-cu-hiyori-garden-tower" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=5">
+      <span class="labled-text-small">
+       25 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt no-border">
+   </div>
+   <div class="pricing-insight-row pricing-insight-row-hide pricing-insight-row-view">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-can-ho-chung-cu-the-6nature-da-nang" target="_blank" tracking-id="ldp_to_pdp_price_nearby_projects" tracking-label="loc=Price of Nearby Projects, pos=6">
+      The 6Nature Đà Nẵng
+     </a>
+     <span class="labled-text-small">
+      Đang xem
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      55
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-can-ho-chung-cu-the-6nature-da-nang" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=6">
+      <span class="labled-text-small">
+       18 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt pricing-insight-row-bt-hide">
+   </div>
+   <div class="pricing-insight-row pricing-insight-row-hide">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-can-ho-chung-cu-alphanam-luxury-apartment" target="_blank" tracking-id="ldp_to_pdp_price_nearby_projects" tracking-label="loc=Price of Nearby Projects, pos=7">
+      Alphanam Luxury Apartment
+     </a>
+     <span class="text-small">
+      (0,9 km)
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      55,1
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-can-ho-chung-cu-alphanam-luxury-apartment" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=7">
+      <span class="labled-text-small">
+       63 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt pricing-insight-row-bt-hide">
+   </div>
+   <div class="pricing-insight-row pricing-insight-row-hide">
+    <div class="pricing-insight-col pricing-insight-col1">
+     <a class="re__link-se" href="/ban-can-ho-chung-cu-wyndham-soleil-da-nang" target="_blank" tracking-id="ldp_to_pdp_price_nearby_projects" tracking-label="loc=Price of Nearby Projects, pos=8">
+      Wyndham Soleil Đà Nẵng
+     </a>
+     <span class="text-small">
+      (0,1 km)
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col2">
+     <span>
+      57,6
+     </span>
+     <span class="unit">
+      tr/m²
+     </span>
+    </div>
+    <div class="pricing-insight-col pricing-insight-col3">
+     <a class="re__link-se" href="/ban-can-ho-chung-cu-wyndham-soleil-da-nang" target="_blank" tracking-id="ldp_to_srp_price_nearby_location" tracking-label="loc=Price of Nearby Location, pos=8">
+      <span class="labled-text-small">
+       4 tin bán
+      </span>
+      <i class="re__icon-chevron-right--sm">
+      </i>
+     </a>
+    </div>
+   </div>
+   <div class="pricing-insight-row-bt js__pricing-insight-row-bt pricing-insight-row-bt-hide">
+   </div>
+  </div>
+  <div class="re__pricing-insight-extented-bottom">
+   <a class="re__btn re__btn-pr-ghost--sm re__btn-icon-right--sm view-less js__pricing-insight-ex-view-less" href="javascript:void(0)" rel="nofollow" style="">
+    <span>
+     Thu gọn
+    </span>
+    <i class="re__icon-chevron-up--sm">
+    </i>
+   </a>
+   <a class="re__btn re__btn-pr-ghost--sm re__btn-icon-right--sm js__pricing-insight-ex-view-more" href="javascript:void(0)" rel="nofollow" tracking-id="click_see_more_price_nearby_projects">
+    <span>
+     Xem thêm
+    </span>
+    <i class="re__icon-chevron-down--sm">
+    </i>
+   </a>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0699615478516,108.245346069336&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/255x180/2022/08/04/20220804095018-9c71.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Nguyễn Anh Đài">
+     Nguyễn Anh Đài
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/6a90cc4b27fff90b" tracking-id="user-listing-ldp">
+      Xem thêm 42 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=36390973">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-the-6nature-da-nang/dt-tu-50m2-den-80m2" title="Căn hộ The 6Nature Đà Nẵng từ 50 m2 đến 80 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ The 6Nature Đà Nẵng từ 50 m2 đến 80 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-phuong-phuoc-my" title="Căn hộ Phước Mỹ " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Phước Mỹ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-duong-vo-nguyen-giap-45" title="Căn hộ Võ Nguyên Giáp " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Võ Nguyên Giáp
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-da-nang/2pn" title="Căn hộ Đà Nẵng 2 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Đà Nẵng 2 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-da-nang/gia-tu-3-ty-den-5-ty" title="Căn hộ Đà Nẵng từ 3 tỉ đến 5 tỉ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Đà Nẵng từ 3 tỉ đến 5 tỉ
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    15/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    25/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    36390973
+   </span>
+  </div>
+ </div>
+</div>

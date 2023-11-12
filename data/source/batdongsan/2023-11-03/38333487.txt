@@ -1,0 +1,893 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38333487" uid="2533071">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Chuyển nhượng căn hộ view biển Đà Nẵng Alphanam Luxury Apartment 50tr/m2 full nội thất căn 1PN &amp;2PN
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Alphanam Luxury Apartment, 120, Đường Võ Nguyên Giáp, Phường Phước Mỹ, Sơn Trà, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    100 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    2 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38333487,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/10/06/20231006160824-a369_wm.jpg","vipType":0,"title":"Chuyển nhượng căn hộ view biển Đà Nẵng Alphanam Luxury Apartment 50tr/m2 full nội thất căn 1PN &amp;2PN","titleHiddenMobile":"Chuyển nhượng căn hộ view biển Đà Nẵng Alphanam Luxury Apartment 50tr/m2 full nội thất căn 1PN &amp;2PN","url":"https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-vo-nguyen-giap-phuong-phuoc-my-prj-alphanam-luxury-apartment/ban-gap-view-bien-da-nang-50tr-m2-full-noi-that-gom-1pn-2pn-pr38333487","productIdPrefix":"38333487$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-vo-nguyen-giap-phuong-phuoc-my-prj-alphanam-luxury-apartment/ban-gap-view-bien-da-nang-50tr-m2-full-noi-that-gom-1pn-2pn-pr38333487&amp;t=Chuyển nhượng căn hộ view biển Đà Nẵng Alphanam Luxury Apartment 50tr/m2 full nội thất căn 1PN &amp;2PN" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-vo-nguyen-giap-phuong-phuoc-my-prj-alphanam-luxury-apartment/ban-gap-view-bien-da-nang-50tr-m2-full-noi-that-gom-1pn-2pn-pr38333487" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38333487">
+   - Vị trí: 120 Võ Nguyên Giáp, vị trí toạ lạc ngay cung đường biển Mỹ Khê Đà Nẵng.
+   <br/>
+   - Pháp lý: Lâu dài.
+   <br/>
+   - Tiện ích: Hồ bơi, gym, sauna, hầm để xe, cafe nhà hàng. Đặc biệt có sòng bài bên cạnh vừa khai trương.
+   <br/>
+   - Tình trạng: Đã hoàn thiện khách hàng nhận nhà ở ngay.
+   <br/>
+   - Full nội thất.
+   <br/>
+   - Khách hàng chọn ở, đầu tư cho thuê hoặc giao lại CĐT vận hành chia sẽ lợi nhuận 85 - 15 hoặc cho thuê khoảng 25 - 30tr/tháng cho căn 75m.
+   <br/>
+   - Hình thức chuyển nhượng: Công chứng hợp đồng mua bán, bao phí chuyển nhượng.
+   <br/>
+   * Diện tích:
+   <br/>
+   + Căn 1PN 58m và 65m².
+   <br/>
+   + Căn 2PN từ 75m đến 100m².
+   <br/>
+   + View biển.
+   <br/>
+   <br/>
+   * Hiên tai Cường đang nắm quĩ 10 căn bán chuyển nhượng và cho thuê tầng cao 28 - 31, 1PN, 2PN giá bán khoảng 50tr/m². Alo ngay cho Cường:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="40070c979c0879c7811ab045d06853ef" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38333487">
+    0968 972 ***
+   </span>
+   nhé, cảm ơn! *.
+   <br/>
+   ---------------------------------------------------------------------------------------------
+   <br/>
+   Tổng quan.
+   <br/>
+   Thông tin dự án Alphanam Luxury Apartment.
+   <br/>
+   Alphanam Luxury Apartment là tổ hợp khách sạn, căn hộ nằm ở vị trí vàng của TP. Đà Nẵng - nơi được mệnh danh là một thành phố đáng sống nhất thế giới. Công trình được thiết kế và xây dựng trên quy mô gần 80.000m ngay cạnh bãi biển Mỹ Khê, 1 trong 6 bãi biển đẹp nhất hành tinh.
+   <br/>
+   <br/>
+   Kiến trúc sư tài ba Tây Ban Nha Salvador Perez Arroyo đã lấy ý tưởng từ mặt trời buổi sáng hiện lên trên mặt biển để thiết kế một công trình vừa mang vẻ đẹp sang trong vừa tích hợp được nhiều tiện ích, hòa mình vào thiên nhiên ở địa điểm đáng sống nhất toàn cầu này.
+   <br/>
+   <br/>
+   Khu căn hộ cao cấp Luxury Apartment được quản lý bởi Savills Việt Nam - công ty quản lý bất động sản uy tín hàng đầu thế giới và tại thị trường Việt Nam, trong khi đó tổ hợp bao gồm khu khách sạn Four Points By Sheraton được tập đoàn khách sạn hàng đầu thế giới Stawood quản lý.
+   <br/>
+   <br/>
+   - Tên dự án: Alphanam Luxury Apartment.
+   <br/>
+   - Chủ đầu tư: Alphanam Group.
+   <br/>
+   - Đơn vị phân phối: Công ty CP Địa ốc Alphanam.
+   <br/>
+   - Đơn vị thiết kế: KTS. Salvador Perez Arroyo - SDESIGN.
+   <br/>
+   - Đơn vị xây dựng: Delta.
+   <br/>
+   - Ngày hoàn thành: Quý IV/2017.
+   <br/>
+   - Tổng diện tích: 5491m.
+   <br/>
+   - Mật độ xây dựng: 40%.
+   <br/>
+   - Quy mô: 232 căn hộ từ 1 - 2 phòng ngủ với diện tích từ 60 - 100m.
+   <br/>
+   ------------------------------------------------
+   <br/>
+   Mọi chi tiết xin vui lòng liên hệ Mr Cường. (Chuyên cho thuê căn hộ, biệt thự tại Đà Nẵng).
+   <br/>
+   Hotline:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="40070c979c0879c7811ab045d06853ef" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38333487">
+    0968 972 ***
+   </span>
+   (Phone, Zalo).
+   <br/>
+   Email:
+   <a href="mailto:caocuong68.era@gmail.com">
+    caocuong68.era@gmail.com
+   </a>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      100 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Hợp đồng mua bán
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-ban-alphanam-luxury-apartment" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 47 tin đăng bán
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-can-ho-chung-cu-son-tra-ddn/alphanam-luxury-apartment-pj2349" target="_blank">
+      <img alt="Alphanam Luxury Apartment" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2016/04/26/0I4XNtd4/20160426082147-eeca.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       Alphanam Luxury Apartment
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Đang cập nhật tiến độ" class="re__prj-card-config-value" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Đang cập nhật tiến độ
+       </span>
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="232 căn hộ" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-home--sm">
+       </i>
+       232
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="1 tòa nhà" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-building--sm">
+       </i>
+       1
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Công ty CP Đầu tư Alphanam" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Công ty CP Đầu tư Alphanam
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="True" data-kyc-type="2">
+ </div>
+ <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.vere3ff636a.msvbds.pricing-history.min.css" rel="stylesheet"/>
+ <div class="lazyload js__pricing-history-scroll-to" data-func='new FrontEnd.Product.Details.PricingHistoryLazyload({"ProductId":38333487,"ProductType":38,"CateId":324,"CityCode":"DDN","DistrictId":49,"WardId":265,"ProjectId":2349,"TimeType":1,"IsExtented":false,"PriceDisplay":"0 tr/m²","PriceMillion":0.0})' data-script="https://staticfile.batdongsan.com.vn/js/Charts/filestatic.vere3ff636a.msvbds.Chart.min.js;https://staticfile.batdongsan.com.vn/js/Product/Details/filestatic.vere3ff636a.msvbds.FrontEnd.Product.Details.PricingHistory.min.js">
+ </div>
+ <div class="js__pricing-history re__pricing-history re__pricing-history-v2" data-event="view-pricing-history" data-loc="Sale-Listing Details" data-url="/Origins/CommonData/GetPricingHistory" data-url-product-type="/Origins/CommonData/GetPricingHistoryByProductType" data-url-type="/Origins/CommonData/GetPricingHistoryByType">
+  <div class="pricing-history-content">
+   <div class="re__product-chart ph-product-chart js__pricing-history-chart" data-price="0" data-price-display="0 tr/m²">
+    <div class="chart-anchor">
+    </div>
+    <div class="re__detail-chart js__detail-chart">
+     <h3 class="re__title js__pricing-history--title">
+      Lịch sử giá bán căn hộ chung cư tại Alphanam Luxury Apartment
+     </h3>
+     <div class="re__chart-sapo">
+      <ul class="re__tab-box-group re__product-type-tab list-cate js__list-cate">
+       <li class="re__tab-box--sm re__tab-box--actived" data-prid="38333487" data-val="38" tracking-id="pricing-history-select-product-type" tracking-label="loc=Sale-Listing Details,type=Sale">
+        Mua bán
+       </li>
+       <li class="re__tab-box--sm" data-prid="0" data-val="49" tracking-id="pricing-history-select-product-type" tracking-label="loc=Sale-Listing Details,type=Rent">
+        Cho thuê
+       </li>
+      </ul>
+      <ul class="re__tab-box-group re__product-type-tab list-time js__list-time">
+       <li class="re__tab-box--sm re__tab-box--actived" data-val="1" tracking-id="pricing-history-select-duration" tracking-label="loc=Sale-Listing Details,year=1">
+        1 năm
+       </li>
+       <li class="re__tab-box--sm" data-val="2" tracking-id="pricing-history-select-duration" tracking-label="loc=Sale-Listing Details,year=2">
+        2 năm
+       </li>
+       <li class="re__tab-box--sm" data-val="5" tracking-id="pricing-history-select-duration" tracking-label="loc=Sale-Listing Details,year=5">
+        5 năm
+       </li>
+      </ul>
+     </div>
+     <div class="re__chart-subsapo">
+      <div class="re__chart-col re__col-1 js__pricing-history--top-col-1">
+       <div class="text-big">
+        <strong>
+         0
+        </strong>
+        <span>
+         tr/tháng
+        </span>
+       </div>
+       <div class="text-small">
+        Giá đang cập nhật
+       </div>
+      </div>
+      <div class="re__chart-col re__col-2 js__pricing-history--top-col-2">
+       <div class="text-big">
+        <i class="re__icon-up-cl">
+         <span class="path1">
+         </span>
+         <span class="path2">
+         </span>
+        </i>
+        <strong>
+         23%
+        </strong>
+       </div>
+       <div class="text-small">
+        Giá thuê đã tăng trong vòng 1 năm qua (Q2/2022 - Q2/2023)
+       </div>
+      </div>
+      <div class="re__chart-col re__col-2 no-data">
+       <div class="text-big">
+        Dữ liệu đang được cập nhật
+       </div>
+       <div class="text-small">
+        So sánh biến động giá với các quý trước
+       </div>
+      </div>
+      <div class="re__chart-col re__col-3 js__pricing-history--top-col-3">
+       <div class="text-big">
+        <i class="re__icon-down-cl">
+         <span class="path1">
+         </span>
+         <span class="path2">
+         </span>
+        </i>
+        <strong>
+         6%
+        </strong>
+       </div>
+       <div class="text-small">
+        Giá hiện tại thấp hơn đỉnh 8,5 tr/tháng vào Q1/2022
+       </div>
+      </div>
+     </div>
+     <div class="re__div-chart js__div-chart">
+      <div class="re__div-chart-canvas" style="display: none">
+       <div class="chart-title">
+        <span class="ct-content">
+         tr/m²
+        </span>
+       </div>
+       <canvas id="chart-canvas">
+       </canvas>
+       <div class="chart-footer">
+        <div class="cf-content labels-1">
+         Giá cao nhất
+        </div>
+        <div class="cf-content labels-2">
+         Giá phổ biến nhất
+        </div>
+        <div class="cf-content labels-3">
+         Giá thấp nhất
+        </div>
+        <div class="cf-content labels-4 cf-hide">
+         Giá tin đang xem 0 tr/m²
+        </div>
+       </div>
+      </div>
+      <div class="re__chart-no-data">
+       <div class="chart-img">
+        <img src="https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg"/>
+       </div>
+       <div class="chart-text">
+        Chúng tôi đang cập nhật dữ liệu. Bạn hãy quay lại sau nhé!
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="js__pricing-insight-extented pi-extented">
+    </div>
+    <div class="re__pricing-history-note js__pricing-history-note">
+     <div class="col col-1">
+      <i class="re__icon-info-cl">
+       <span class="path1">
+       </span>
+       <span class="path2">
+       </span>
+       <span class="path3">
+       </span>
+      </i>
+     </div>
+     <div class="col col-2">
+      Dữ liệu giá được tổng hợp và xử lý từ các tin đăng trên trang Batdongsan.com.vn. Bạn hãy lưu ý về tin đăng nằm ngoài khoảng giá chúng tôi gợi ý và xác minh thêm thông tin trước khi giao dịch.
+     </div>
+    </div>
+    <div class="ph-survey-ldp js__ph-survey">
+     <div class="_hj-widget-container _hj-widget-theme-light" id="survey_934264">
+      <div class="_hj-s3UIi__styles__globalStyles _hj-Pbej5__styles__resetStyles _hj-A4W17__styles__inlineSurvey">
+       <div id="hotjar-survey-6b37bb8f-62a2-499e-ac8d-9b7acefe6534" lang="en" style="--hjFeedbackAccentColor: #324FBE; --hjFeedbackAccentHoverColor: #1C3286; --hjFeedbackAccentActiveColor: #223582; --hjFeedbackAccentTextColor: rgba(255,255,255,0.94); --hjFeedbackDisabledAccentColor: #F1F2F6; --hjFeedbackDisabledAccentTextColor: rgba(0, 0, 0, 0.43); --hjFeedbackSecondaryTextColor: rgba(0, 0, 0, 0.60); --hjFeedbackPrimaryColor: #FFFFFF; --hjFeedbackSecondaryColor: #e6e6e6; --hjFeedbackBorderColor: #E0E2E8; --hjFeedbackOptionButtonBackgroundColor: #E0E2E8; --hjFeedbackInputPlaceholderColor: rgba(0,0,0,0.43); --hjFeedbackFontColor: #111;">
+        <div aria-label="Survey" role="dialog">
+         <div class="_hj-5vKq2__styles__surveyContainer _hj-y4quC__styles__withShadow _hj-7Itnd__styles__inline _hj-se0Ow__styles__openingAnimation" style="background: rgb(255, 255, 255);">
+          <form class="_hj-hRovs__styles__form">
+           <div class="_hj-c8PC+__styles__surveyBody" style="">
+            <div aria-live="off" class="_hj-S9XKO__styles__surveyTitle" id="hj-survey-lbl-1">
+             Hãy giúp chúng tôi đánh giá mức độ hữu ích của thông tin Lịch sử giá
+            </div>
+            <div class="_hj-E2-N0__styles__surveyAnswers">
+             <div aria-labelledby="hj-survey-lbl-1" class="_hj-oLlM-__styles__reactionAnswerWrapper _hj-hTm4+__styles__answersContentWrapper _hj-5QSZY__styles__inline" role="radiogroup">
+              <div class="_hj-4keI-__styles__reactionOptions">
+               <label class="_hj-ED+rS__ReactionOption__EmotionOption _hj-U-Na2__ReactionOption__fadeIn _hj-2CoYZ__ReactionOption__hideFocus">
+                <input aria-label="1" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                <div aria-hidden="true" class="_hj-ItDeM__ReactionOption__iconEmotion _hj-qONv1__ReactionOption__hate _hj-PFLgn__ReactionOption__iconEmotionStar">
+                 <span class="_hj-IITdB__ReactionOption__commentIcon">
+                 </span>
+                 <span class="_hj-CC1Qi__ReactionOption__expressionIcon">
+                 </span>
+                </div>
+               </label>
+               <label class="_hj-ED+rS__ReactionOption__EmotionOption _hj-U-Na2__ReactionOption__fadeIn _hj-2CoYZ__ReactionOption__hideFocus">
+                <input aria-label="2" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                <div aria-hidden="true" class="_hj-ItDeM__ReactionOption__iconEmotion _hj-boSwr__ReactionOption__dislike _hj-PFLgn__ReactionOption__iconEmotionStar">
+                 <span class="_hj-IITdB__ReactionOption__commentIcon">
+                 </span>
+                 <span class="_hj-CC1Qi__ReactionOption__expressionIcon">
+                 </span>
+                </div>
+               </label>
+               <label class="_hj-ED+rS__ReactionOption__EmotionOption _hj-U-Na2__ReactionOption__fadeIn _hj-2CoYZ__ReactionOption__hideFocus">
+                <input aria-label="3" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                <div aria-hidden="true" class="_hj-ItDeM__ReactionOption__iconEmotion _hj-XULTH__ReactionOption__neutral _hj-PFLgn__ReactionOption__iconEmotionStar">
+                 <span class="_hj-IITdB__ReactionOption__commentIcon">
+                 </span>
+                 <span class="_hj-CC1Qi__ReactionOption__expressionIcon">
+                 </span>
+                </div>
+               </label>
+               <label class="_hj-ED+rS__ReactionOption__EmotionOption _hj-U-Na2__ReactionOption__fadeIn _hj-2CoYZ__ReactionOption__hideFocus">
+                <input aria-label="4" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                <div aria-hidden="true" class="_hj-ItDeM__ReactionOption__iconEmotion _hj-cnKAT__ReactionOption__like _hj-PFLgn__ReactionOption__iconEmotionStar">
+                 <span class="_hj-IITdB__ReactionOption__commentIcon">
+                 </span>
+                 <span class="_hj-CC1Qi__ReactionOption__expressionIcon">
+                 </span>
+                </div>
+               </label>
+               <label class="_hj-ED+rS__ReactionOption__EmotionOption _hj-U-Na2__ReactionOption__fadeIn _hj-2CoYZ__ReactionOption__hideFocus">
+                <input aria-label="5" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                <div aria-hidden="true" class="_hj-ItDeM__ReactionOption__iconEmotion _hj-weM1y__ReactionOption__love _hj-PFLgn__ReactionOption__iconEmotionStar">
+                 <span class="_hj-IITdB__ReactionOption__commentIcon">
+                 </span>
+                 <span class="_hj-CC1Qi__ReactionOption__expressionIcon">
+                 </span>
+                </div>
+               </label>
+              </div>
+              <div class="_hj-kmdsj__styles__reactionLabels">
+               <span class="_hj-ygfBp__styles__reactionLabel _hj-4H6--__styles__light">
+                Rất không hữu ích
+               </span>
+               <span class="_hj-ygfBp__styles__reactionLabel _hj-4H6--__styles__light">
+                Rất hữu ích
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="_hj-XpAaA__styles__surveyFooter _hj-xZ2ar__styles__inline">
+            <div class="_hj-8Lgv6__styles__surveyActions">
+             <button class="_hj-81Zzt__styles__surveyActionButton _hj-O-7CS__styles__surveysPrimaryButton _hj-SU8LU__styles__primaryButton" disabled="" type="button">
+              Kế tiếp
+             </button>
+            </div>
+            <div class="_hj-PZjqr__styles__surveyBranding">
+             <a class="_hj-fBs9+__styles__link" href="https://www.hotjar.com/feedback-surveys?utm_source=client&amp;utm_medium=poll&amp;utm_campaign=insights" rel="noopener noreferrer" style="color: rgb(50, 50, 50) !important;" target="_blank">
+              <img alt="Hotjar — Surveys page" class="_hj-KMFsk__styles__logo" src="https://www.hotjar.com/images/hotjar-logo-small.svg"/>
+              <div class="_hj-ex4tC__styles__brandingText">
+               <span style="text-decoration: underline;">
+                Made with Hotjar
+               </span>
+              </div>
+             </a>
+            </div>
+           </div>
+          </form>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="ph--skeleton pricing-history-skeleton js__ph--skeleton">
+   </div>
+  </div>
+  <div class="pricing-history-skeleton js__pricing-history-skeleton" data-type="ph" style="display: block;">
+   <div class="re__product-chart">
+    <div class="re__detail-chart">
+     <h3 class="re__title">
+      <span class="skeleton-content">
+      </span>
+     </h3>
+     <div class="re__chart-sapo">
+      <ul class="re__tab-box-group re__product-type-tab list-cate">
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+      </ul>
+      <ul class="re__tab-box-group re__product-type-tab list-time">
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="re__chart-subsapo">
+      <div class="re__chart-col re__col-1">
+       <div class="text-big">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content r2">
+        </span>
+       </div>
+      </div>
+      <div class="re__chart-col re__col-2">
+       <div class="text-big">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content r2">
+        </span>
+       </div>
+      </div>
+      <div class="re__chart-col re__col-3">
+       <div class="text-big">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content r2">
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="re__div-chart">
+      <div class="re__div-chart-canvas">
+       <div class="chart-canvas">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="re__pricing-insight-extented">
+    <div class="pricing-insight-row pricing-insight-title">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="re__pricing-insight-extented-bottom">
+    <a class="re__btn re__btn-pr-ghost--sm re__btn-icon-right--sm">
+     <span class="skeleton-content">
+     </span>
+    </a>
+   </div>
+  </div>
+  <div class="re__pricing-history-kyc--block-v2">
+   <h3 class="re__pricing-history-kyc--ph-title">
+    Lịch sử giá khu vực
+   </h3>
+   <div class="re__pricing-history-kyc-v2">
+    <div class="re__pricing-history-kyc-v2-img">
+     <img src="https://staticfile.batdongsan.com.vn/images/Product/PricingHistory/illus_kyc_v2.svg"/>
+    </div>
+    <div class="re__pricing-history-kyc-v2-title">
+     <span>
+      Đây có phải là thời điểm tốt nhất để mua căn hộ chung cư tại Alphanam Luxury Apartment ?
+     </span>
+    </div>
+    <div class="re__pricing-history-kyc-v2-button">
+     <a class="re__btn re__btn-pr-solid--sm js__pricing-history-kyc-btn" tracking-id="pricing-history-call-kyc-form" tracking-label="loc=Sale-Listing Details">
+      Xem ngay
+     </a>
+    </div>
+   </div>
+  </div>
+  <div class="re__pricing-history-kyc--block-v2-skeleton js__pricing-history-skeleton" data-type="kyc-v2" style="display: none;">
+   <h3 class="re__pricing-history-kyc--ph-title">
+    <span class="skeleton-content">
+    </span>
+   </h3>
+   <div class="re__pricing-history-kyc-v2">
+    <div class="re__pricing-history-kyc-v2-img">
+     <img src="https://staticfile.batdongsan.com.vn/images/chart/img-kyc-skeleton.svg"/>
+    </div>
+    <div class="re__pricing-history-kyc-v2-title">
+     <span class="skeleton-content">
+     </span>
+     <br/>
+     <span class="skeleton-content r2">
+     </span>
+    </div>
+    <div class="re__pricing-history-kyc-v2-button">
+     <a>
+      <span class="skeleton-content">
+      </span>
+     </a>
+    </div>
+   </div>
+  </div>
+ </div>
+ <script src="https://staticfile.batdongsan.com.vn/js/Product/filestatic.vere3ff636a.msvbds.FrontEnd.Product.PricingHistory.min.js" type="text/javascript">
+ </script>
+ <script type="text/javascript">
+  (function callFunction(){
+            if (window.FrontEnd && window.FrontEnd.Product && window.FrontEnd.Product.PricingHistory && window.CommonJS && window.CommonJS.Common) {
+                new FrontEnd.Product.PricingHistory();
+            }
+            else {
+                setTimeout(callFunction, 100);
+            }
+        })();
+ </script>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0699615478516,108.245346069336&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/255x180/2023/10/06/20231006132332-d6eb.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Cao Cường">
+     Cao Cường
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/569420b52aebdebc" tracking-id="user-listing-ldp">
+      Xem thêm 4 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38333487">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/can-ho-alphanam-luxury-apartment-tu-80-m2-den-100-m2" title="Căn hộ Alphanam Luxury Apartment từ 80 m2 đến 100 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Alphanam Luxury Apartment từ 80 m2 đến 100 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/can-ho-phuoc-my-son-tra" title="Căn hộ Phước Mỹ Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Phước Mỹ Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/can-ho-vo-nguyen-giap-son-tra" title="Căn hộ Võ Nguyên Giáp Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Võ Nguyên Giáp Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/can-ho-son-tra-da-nang" title="Căn hộ Sơn Trà Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Sơn Trà Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/can-ho-da-nang-2-pn" title="Căn hộ Đà Nẵng 2 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Đà Nẵng 2 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/can-ho-da-nang-tu-50-trieu-den-80-trieu" title="Căn hộ Đà Nẵng từ 50 triệu đến 80 triệu" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Đà Nẵng từ 50 triệu đến 80 triệu
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    26/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    05/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38333487
+   </span>
+  </div>
+ </div>
+</div>

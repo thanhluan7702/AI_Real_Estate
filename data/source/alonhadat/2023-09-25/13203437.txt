@@ -1,0 +1,1650 @@
+<div class="body">
+ <div class="top-link" id="ctl00_content_top_link" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a href="/" itemprop="item">
+    <span itemprop="name">
+     Trang chủ
+    </span>
+   </a>
+   <meta content="1" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/cho-thue.html" itemprop="item">
+    <span itemprop="name">
+     Cho thuê
+    </span>
+   </a>
+   <meta content="2" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/cho-thue/can-ho-chung-cu.html" itemprop="item">
+    <span itemprop="name">
+     Cho thuê chung cư
+    </span>
+   </a>
+   <meta content="3" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/cho-thue/can-ho-chung-cu/3/da-nang.html" itemprop="item">
+    <span itemprop="name">
+     Cho thuê chung cư Đà Nẵng
+    </span>
+   </a>
+   <meta content="4" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/cho-thue/can-ho-chung-cu/da-nang/588/quan-lien-chieu.html" itemprop="item">
+    <span itemprop="name">
+     Cho thuê chung cư  Liên Chiểu
+    </span>
+   </a>
+   <meta content="5" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/cho-thue/can-ho-chung-cu/phuong-hoa-hiep-nam-quan-lien-chieu-px1124.html" itemprop="item">
+    <span itemprop="name">
+     Cho thuê chung cư  Hòa Hiệp Nam
+    </span>
+   </a>
+   <meta content="6" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/cho-thue/can-ho-chung-cu/duong-so-5-quan-lien-chieu-dp11821.html" itemprop="item">
+    <span itemprop="name">
+     Cho thuê chung cư  số 5
+    </span>
+   </a>
+   <meta content="7" itemprop="position"/>
+  </span>
+ </div>
+ <div class="top-line">
+ </div>
+ <div class="content plp" id="ctl00_content_pc_content">
+  <div id="left">
+   <div class="property">
+    <div class="title">
+     <h1>
+      Tổng hợp căn cho thuê tại chung cư the ori garden
+     </h1>
+     <span class="date">
+      Ngày đăng: 22/09/2023
+     </span>
+    </div>
+    <div class="detail">
+     <p>
+      <span style="font-family: Helvetica, Arial, Roboto, sans-serif; font-size: 14px; text-align: justify; white-space-collapse: preserve-breaks;">
+       1. Căn 1 phòng ngủ, 45m2, 1 wc, có nội thất tủ bếp cho thuê 3 triệu/tháng ( trường hợp làm thêm nội thất 3.5 triệu/tháng )
+      </span>
+     </p>
+     <p>
+      <span style="font-family: Helvetica, Arial, Roboto, sans-serif; font-size: 14px; text-align: justify; white-space-collapse: preserve-breaks;">
+       2. Căn 2 phòng ngủ,55m2, 2 wc, có tủ bếp dưới, căn góc, view hồ bơi, giá 3 triệu/tháng
+      </span>
+     </p>
+     <p>
+      <span style="font-family: Helvetica, Arial, Roboto, sans-serif; font-size: 14px; text-align: justify; white-space-collapse: preserve-breaks;">
+       3. Căn 2 phòng ngủ, 56m2, 2 wc, view bà nà hill, có bếp dưới, có rèm, cho thuê 3 triệu/tháng
+      </span>
+     </p>
+     <p>
+      <span style="font-family: Helvetica, Arial, Roboto, sans-serif; font-size: 14px; text-align: justify; white-space-collapse: preserve-breaks;">
+       4. căn 2 phòng ngủ, 58m2, 2wc, có đầy đủ nội thất bếp, nội thất phòng ngủ lớn, tủ giày, shopha, view hồ bàu tràm, giá cho thuê 3.5 triệu/tháng
+      </span>
+     </p>
+     <p>
+      <span style="font-family: Helvetica, Arial, Roboto, sans-serif; font-size: 14px; text-align: justify; white-space-collapse: preserve-breaks;">
+       5. Căn 2 phòng ngủ, 58m2, 2 wc, full nội thất chỉ sách ba lô vào ở như hình, giá cho thuê 5 triệu
+      </span>
+     </p>
+     <p>
+      <span style="font-family: Helvetica, Arial, Roboto, sans-serif; font-size: 14px; text-align: justify; white-space-collapse: preserve-breaks;">
+       6. Căn 3 phòng ngủ, 2 wc, căn góc, có bếp dưới, điều hoà, rèm, giá cho thuê 4.5 triệu và còn nhiều căn shophouse khối đế với giá cho thuê từ 8 triệu/tháng
+      </span>
+     </p>
+     <p>
+      <span style="font-family: Helvetica, Arial, Roboto, sans-serif; font-size: 14px; text-align: justify; white-space-collapse: preserve-breaks;">
+       Lưu ý: giá các căn trên chưa bao gồm phí quản lý vận hành 7.7k/m2
+      </span>
+     </p>
+     <p>
+      <span style="font-family: Helvetica, Arial, Roboto, sans-serif; font-size: 14px; text-align: justify; white-space-collapse: preserve-breaks;">
+       Liên hệ qua sđt hoặc zalo để nhận hình ảnh thực tế và đi xem nhà
+      </span>
+     </p>
+    </div>
+    <div class="moreinfor">
+     <span class="price">
+      <span class="label">
+       Giá:
+      </span>
+      <span class="value">
+       3 triệu / tháng
+      </span>
+     </span>
+     <span class="square">
+      <span class="label">
+       Diện tích:
+      </span>
+      <span class="value">
+       55 m
+       <sup>
+        2
+       </sup>
+      </span>
+     </span>
+     <div class="clear">
+     </div>
+    </div>
+    <div class="address">
+     <span class="label">
+      Địa chỉ tài sản:
+     </span>
+     <span class="value">
+      Đường số 5, Phường Hòa Hiệp Nam, Quận Liên Chiểu, Đà Nẵng
+     </span>
+    </div>
+    <div class="moreinfor1">
+     <div class="title">
+      Các thông tin khác
+     </div>
+     <div class="infor">
+      <table cellspacing="0" hspace="0" vspace="0">
+       <tbody>
+        <tr>
+         <td>
+          Mã tin
+         </td>
+         <td>
+          13203437
+         </td>
+         <td>
+          Hướng
+         </td>
+         <td>
+          Đông Nam
+         </td>
+         <td>
+          Phòng ăn
+         </td>
+         <td>
+          <img src="/publish/img/check.gif"/>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Loại tin
+         </td>
+         <td>
+          Cho thuê
+         </td>
+         <td>
+          Đường trước nhà
+         </td>
+         <td>
+          7,5m
+         </td>
+         <td>
+          Nhà bếp
+         </td>
+         <td>
+          <img src="/publish/img/check.gif"/>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Loại BDS
+         </td>
+         <td>
+          Căn hộ chung cư
+         </td>
+         <td>
+          Pháp lý
+         </td>
+         <td>
+          Sổ hồng/ Sổ đỏ
+         </td>
+         <td>
+          Sân thượng
+         </td>
+         <td>
+          <img src="/publish/img/check.gif"/>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Chiều ngang
+         </td>
+         <td>
+          6m
+         </td>
+         <td>
+          Số lầu
+         </td>
+         <td>
+          14
+         </td>
+         <td>
+          Chổ để xe hơi
+         </td>
+         <td>
+          <img src="/publish/img/check.gif"/>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Chiều dài
+         </td>
+         <td>
+          9m
+         </td>
+         <td>
+          Số phòng ngủ
+         </td>
+         <td>
+          2
+         </td>
+         <td>
+          Chính chủ
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Thuộc dự án
+         </td>
+         <td colspan="5">
+          <span class="project">
+           <a href="/du-an-can-ho-chung-cu-the-ori-garden-da-nang-pj10044">
+            Căn hộ chung cư The Ori Garden Đà Nẵng
+           </a>
+           (xem chi tiết dự án)
+          </span>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+    </div>
+    <div class="images">
+    </div>
+    <div class="agent-fee">
+     Lưu ý: Người giới thiệu muốn có phí hoa hồng khi giới thiệu tài sản này (mức phí do bạn và người giới thiệu thỏa thuận).
+    </div>
+    <div class="utility">
+     <span class="save" tabindex="0">
+      Lưu tin
+     </span>
+    </div>
+    <input id="hddDemand" type="hidden" value="2"/>
+    <input id="hddPropertyType" type="hidden" value="4"/>
+    <input id="hddPropertyId" type="hidden" value="13203437"/>
+    <input id="hddNguoiDang" type="hidden" user="0" value="315549"/>
+    <div class="reflect-form">
+     <div class="loading">
+     </div>
+     <div class="title">
+      Phản ánh tin rao vi phạm
+     </div>
+     <div class="notice">
+      Thông tin phản ánh của Quý khách giúp chúng tôi sàn lọc thông tin tốt hơn và loại trừ các nhà môi giới không trung thực. Xin trân trọng cám ơn.
+     </div>
+     <div class="content">
+      <div class="reason">
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="1"/>
+        <span>
+         Tài sản đã bán/cho thuê
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="2"/>
+        <span>
+         Tin không có thật
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="3"/>
+        <span>
+         Nội dung không đúng với thực tế
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="4"/>
+        <span>
+         Giá không đúng
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="5"/>
+        <span>
+         Không liên lạc được
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="6"/>
+        <span>
+         Địa chỉ bất động sản không đúng
+        </span>
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="other-reason">
+       <input class="reason-item" name="reason" type="radio" value="10"/>
+       <span>
+        Lý do khác:
+       </span>
+       <br/>
+       <textarea class="txtcontent" maxlength="240" placeholder="Nội dung phản ánh"></textarea>
+      </div>
+      <div class="check-ignore">
+       <input class="chkdayignore" type="checkbox"/>
+       <b class="bdayignore">
+        Tôi không muốn xem tin của người đăng này trong vòng:
+       </b>
+       <select class="dayignore" disabled="disabled" name="dayignore" style="color:red; background:#eeeeee;">
+        <option value="0">
+         Số ngày
+        </option>
+        <option value="1">
+         1 ngày
+        </option>
+        <option value="3">
+         3 ngày
+        </option>
+        <option value="7">
+         7 ngày
+        </option>
+        <option value="14">
+         14 ngày
+        </option>
+        <option value="21">
+         21 ngày
+        </option>
+        <option value="30">
+         30 ngày
+        </option>
+        <option value="60">
+         60 ngày
+        </option>
+        <option value="90">
+         90 ngày
+        </option>
+        <option value="180">
+         180 ngày
+        </option>
+        <option value="360">
+         360 ngày
+        </option>
+       </select>
+       <i>
+        Tất cả các tin của thành viên này sẽ ẩn đi với bạn trong khoảng thời gian bạn đã chọn.
+       </i>
+      </div>
+      <div>
+       <font style="color:blue">
+        Mã an toàn
+       </font>
+       :
+       <br/>
+       <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx" width="90"/>
+       <input class="captcha" id="captcha" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+       <input class="btnSubmit" type="button" value="Gửi phản ánh"/>
+      </div>
+     </div>
+    </div>
+    <div class="tags">
+     <span>
+      Có thể bạn muốn xem:
+     </span>
+     <a href="/nha-dat/cho-thue/can-ho-chung-cu/3/da-nang.html">
+      Cho thuê chung cư Đà Nẵng
+     </a>
+     <a href="/nha-dat/cho-thue/can-ho-chung-cu/da-nang/588/quan-lien-chieu.html">
+      Cho thuê chung cư Quận Liên Chiểu
+     </a>
+     <a href="/nha-dat/cho-thue/can-ho-chung-cu/phuong-hoa-hiep-nam-quan-lien-chieu-px1124.html">
+      Cho thuê chung cư Phường Hòa Hiệp Nam
+     </a>
+     <a href="/nha-dat/cho-thue/can-ho-chung-cu/duong-so-5-quan-lien-chieu-dp11821.html">
+      Cho thuê chung cư Đường số 5
+     </a>
+     <a href="/cho-thue-can-ho-chung-cu/p10044/the-ori-garden-da-nang.html">
+      Cho thuê chung cư The Ori Garden Đà Nẵng
+     </a>
+    </div>
+    <div class="notices">
+     <h3>
+      Lưu ý:
+     </h3>
+     <p>
+      Các bạn đang xem tin đăng trong mục "
+      <b>
+       Cho thuê căn hộ chung cư Quận Liên Chiểu, Đà Nẵng
+      </b>
+      ". Các thông tin rao vặt là do người đăng tin đăng tải toàn bộ thông tin. Chúng tôi hoàn toàn không chịu trách nhiệm về bất cứ thông tin nào liên qua đến các thông tin này. Chúng tôi luôn cố gắng để đưa các tin tức nhanh và chính xác nhất cho các bạn.
+     </p>
+    </div>
+   </div>
+   <!--property-->
+   <div class="relative-property">
+    <div>
+     <div class="content-header" id="ctl00_content_relative_property_title">
+      <h2>
+       Cho thuê Căn hộ chung cư tại Quận Liên Chiểu
+      </h2>
+     </div>
+    </div>
+    <div class="content-items" id="ctl00_content_relative_property_content">
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/cho-thue-can-ho-chung-cu-the-ori-garden-bau-tram-lien-chieu-da-nang-ho-boi-an-ninh-tot-13406049.html">
+         Cho thuê căn hộ chung cư The Ori Garden, Bàu Tràm, Liên Chiểu, Đà Nẵng. Hồ bơi,An ninh tốt
+        </a>
+       </div>
+       <div class="ct_date">
+        17/09/2023
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/cho-thue-can-ho-chung-cu-the-ori-garden-bau-tram-lien-chieu-da-nang-ho-boi-an-ninh-tot-13406049.html">
+        <img alt="Cho thuê căn hộ chung cư The Ori Garden, Bàu Tràm, Liên Chiểu, Đà Nẵng. Hồ bơi,An ninh tốt" src="/files/properties/2023/9/17/thumbnails/013406049-2223-cho-thue-can-ho-chung-cu-quan-lien-chieu-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="bedroom" title="3 phòng ngủ">
+         3 phòng ngủ
+        </span>
+        <span class="parking" title="có chỗ để ô tô">
+         chỗ để xe
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         ---
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         68 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3 triệu / tháng
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/cho-thue/can-ho-chung-cu/duong-huynh-dang-quan-lien-chieu-dp29462.html">
+          Đường Huỳnh Dạng
+         </a>
+         ,
+         <a href="/nha-dat/cho-thue/can-ho-chung-cu/phuong-hoa-hiep-nam-quan-lien-chieu-px1124.html">
+          Phường Hòa Hiệp Nam
+         </a>
+         , Quận Liên Chiểu, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/can-ho-2-phong-ngu-view-ho-chi-3-trieu-thang-13274293.html">
+         Căn hộ 2 phòng ngủ view hồ chỉ 3 triệu/tháng
+        </a>
+       </div>
+       <div class="ct_date">
+        20/09/2023
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/can-ho-2-phong-ngu-view-ho-chi-3-trieu-thang-13274293.html">
+        <img alt="Căn hộ 2 phòng ngủ view hồ chỉ 3 triệu/tháng" src="/files/properties/2023/8/15/thumbnails/20230815_080147_315549_1.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 7,5m">
+         7,5m
+        </span>
+        <span class="floors" title="21 lầu">
+         21 lầu
+        </span>
+        <span class="bedroom" title="2 phòng ngủ">
+         2 phòng ngủ
+        </span>
+        <span class="parking" title="có chỗ để ô tô">
+         chỗ để xe
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         7x8m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         55 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         Đông Nam
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3 triệu / tháng
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/cho-thue/can-ho-chung-cu/duong-nguyen-tat-thanh-quan-lien-chieu-dp2990.html">
+          Đường Nguyễn Tất Thành
+         </a>
+         ,
+         <a href="/nha-dat/cho-thue/can-ho-chung-cu/phuong-hoa-hiep-nam-quan-lien-chieu-px1124.html">
+          Phường Hòa Hiệp Nam
+         </a>
+         , Quận Liên Chiểu, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/o-chung-cu-suong-hon-nha-kiet-chi-voi-3-trieu-thang-13235154.html">
+         Ở chung cư sướng hơn nhà kiệt chỉ với 3 triệu/tháng
+        </a>
+       </div>
+       <div class="ct_date">
+        22/09/2023
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/o-chung-cu-suong-hon-nha-kiet-chi-voi-3-trieu-thang-13235154.html">
+        <img alt="Ở chung cư sướng hơn nhà kiệt chỉ với 3 triệu/tháng" src="/files/properties/2023/8/5/thumbnails/20230805_113437_315549_0.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 7,5m">
+         7,5m
+        </span>
+        <span class="floors" title="21 lầu">
+         21 lầu
+        </span>
+        <span class="bedroom" title="2 phòng ngủ">
+         2 phòng ngủ
+        </span>
+        <span class="parking" title="có chỗ để ô tô">
+         chỗ để xe
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         7x8m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         57 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         Đông Nam
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3 triệu / tháng
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/cho-thue/can-ho-chung-cu/duong-nguyen-tat-thanh-quan-lien-chieu-dp2990.html">
+          Đường Nguyễn Tất Thành
+         </a>
+         ,
+         <a href="/nha-dat/cho-thue/can-ho-chung-cu/phuong-hoa-hiep-nam-quan-lien-chieu-px1124.html">
+          Phường Hòa Hiệp Nam
+         </a>
+         , Quận Liên Chiểu, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/cho-thue-can-ho-2-phong-ngu-co-bep-gia-3-5-trieu-thang-13212156.html">
+         Cho thuê căn hộ 2 phòng ngủ có bếp giá 3.5 triệu/tháng
+        </a>
+       </div>
+       <div class="ct_date">
+        20/09/2023
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/cho-thue-can-ho-2-phong-ngu-co-bep-gia-3-5-trieu-thang-13212156.html">
+        <img alt="Cho thuê căn hộ 2 phòng ngủ có bếp giá 3.5 triệu/tháng" src="/files/properties/2023/7/31/thumbnails/20230731_024612_315549_0.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 7,5m">
+         7,5m
+        </span>
+        <span class="floors" title="10 lầu">
+         10 lầu
+        </span>
+        <span class="bedroom" title="2 phòng ngủ">
+         2 phòng ngủ
+        </span>
+        <span class="parking" title="có chỗ để ô tô">
+         chỗ để xe
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         7x8m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         55 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         Tây Bắc
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,5 triệu / tháng
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/cho-thue/can-ho-chung-cu/duong-nguyen-tat-thanh-quan-lien-chieu-dp2990.html">
+          Đường Nguyễn Tất Thành
+         </a>
+         ,
+         <a href="/nha-dat/cho-thue/can-ho-chung-cu/phuong-hoa-hiep-nam-quan-lien-chieu-px1124.html">
+          Phường Hòa Hiệp Nam
+         </a>
+         , Quận Liên Chiểu, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/tong-hop-can-cho-thue-tai-chung-cu-the-ori-garden-13203437.html">
+         Tổng hợp căn cho thuê tại chung cư the ori garden
+        </a>
+       </div>
+       <div class="ct_date">
+        22/09/2023
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/tong-hop-can-cho-thue-tai-chung-cu-the-ori-garden-13203437.html">
+        <img alt="Tổng hợp căn cho thuê tại chung cư the ori garden" src="/files/properties/2023/7/28/thumbnails/20230728_101857_315549_0.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 7,5m">
+         7,5m
+        </span>
+        <span class="floors" title="14 lầu">
+         14 lầu
+        </span>
+        <span class="bedroom" title="2 phòng ngủ">
+         2 phòng ngủ
+        </span>
+        <span class="parking" title="có chỗ để ô tô">
+         chỗ để xe
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         6x9m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         55 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         Đông Nam
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3 triệu / tháng
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/cho-thue/can-ho-chung-cu/duong-so-5-quan-lien-chieu-dp11821.html">
+          Đường số 5
+         </a>
+         ,
+         <a href="/nha-dat/cho-thue/can-ho-chung-cu/phuong-hoa-hiep-nam-quan-lien-chieu-px1124.html">
+          Phường Hòa Hiệp Nam
+         </a>
+         , Quận Liên Chiểu, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="viewmore">
+      <a href="/nha-dat/cho-thue/can-ho-chung-cu/da-nang/588/quan-lien-chieu.html">
+       Xem thêm các tin khác
+      </a>
+     </div>
+    </div>
+    <!----end sale content----->
+   </div>
+  </div>
+  <!--left-->
+  <div id="right">
+   <div class="contact">
+    <div class="contact-info">
+     <div class="title">
+      Thông tin liên hệ
+     </div>
+     <div class="content">
+      <div class="name">
+       hồ sỹ ánh
+      </div>
+      <div class="fone">
+       <a href="javascript:void(0)">
+        0931.979.109
+       </a>
+       /
+       <a href="javascript:void(0)">
+        0905.961.966
+       </a>
+       <div class="dvviewphone">
+        <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx?a=586" width="90"/>
+        <input class="captcha" id="captcha_viewphone" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+        <span class="viewphone">
+         (Bấm xem số điện thoại)
+        </span>
+       </div>
+      </div>
+      <div class="introduce">
+       Chuyên mua bán và tư vấn các dự án ở khu vực Thành Phố Đà Nẵng.Cung các sản phẩm đầu tư với giá tốt nhất. Hoạt động với phương châm "vì khách hàng phục vụ"
+      </div>
+      <div class="review-box">
+       <span class="review-score">
+        Được đánh giá:
+       </span>
+       <span class="review-star">
+        <span class="rate" style="width:60%;">
+        </span>
+       </span>
+      </div>
+      <div class="view-more">
+       <a href="/nha-moi-gioi/093-315549.html">
+        Xem thêm 13 tin khác của thành viên này
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="head-search">
+    Tìm kiếm nhà đất
+   </div>
+   <div class="search-box">
+    <div>
+     <input class="location" placeholder="Nhập địa điểm cần tìm" type="text"/>
+     <div class="suggesstion">
+      <div class="title">
+       Gợi ý
+      </div>
+      <ul>
+       <li>
+        <span>
+         Nhập tên đường/phố, phường/xã, quận/huyện, tỉnh/thành phố hoặc tên dự án. Ví dụ:
+         <br/>
+         <span style="color:#000000">
+          - Nguyễn Xí, Bình Thạnh
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Láng Hạ, Đống Đa
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Vũng Tàu
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Times City
+         </span>
+        </span>
+       </li>
+       <li>
+        <span>
+         Phải chọn các gợi ý chúng tôi đề xuất bên dưới để kết quả chính xác
+        </span>
+       </li>
+       <li>
+        <span>
+         Nếu không nhập địa điểm ở đây, Quý vị có thể chọn lựa khu vực bằng các ô phía dưới trong công cụ tìm kiếm này
+        </span>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="demand-container">
+     <div class="text">
+      Cần bán
+     </div>
+     <div class="view">
+      <div>
+       <ul>
+        <li name="can-ban">
+         Cần bán
+        </li>
+        <li name="cho-thue">
+         Cho thuê
+        </li>
+        <li name="can-mua">
+         Cần mua
+        </li>
+        <li name="can-thue">
+         Cần thuê
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="property-type-container multicolumns">
+     <div class="text">
+      Nhà mặt tiền
+     </div>
+     <div class="view">
+      <span class="exit">
+       Loại bất động sản
+      </span>
+      <div>
+       <ul>
+        <li name="nha">
+         NHÀ
+        </li>
+        <li name="nha-mat-tien" style="text-indent:20px;">
+         Nhà mặt tiền
+        </li>
+        <li name="nha-trong-hem" style="text-indent:20px;">
+         Nhà trong hẻm
+        </li>
+        <li name="biet-thu-nha-lien-ke">
+         Biệt thự, nhà liền kề
+        </li>
+        <li name="can-ho-chung-cu">
+         Căn hộ chung cư
+        </li>
+        <li name="phong-tro-nha-tro">
+         Phòng trọ, nhà trọ
+        </li>
+       </ul>
+       <ul>
+        <li name="van-phong">
+         Văn phòng
+        </li>
+        <li name="kho-xuong">
+         Kho, xưởng
+        </li>
+        <li name="nha-hang-khach-san">
+         Nhà hàng, khách sạn
+        </li>
+        <li name="shop-kiot-quan">
+         Shop, kiot, quán
+        </li>
+        <li name="trang-trai">
+         Trang trại
+        </li>
+       </ul>
+       <ul>
+        <li name="mat-bang">
+         Mặt bằng
+        </li>
+        <li name="dat-tho-cu-dat-o" style="font-weight:bold">
+         Đất thổ cư, đất ở
+        </li>
+        <li name="dat-nen-lien-ke-dat-du-an">
+         Đất nền, liền kề, đất dự án
+        </li>
+        <li name="dat-nong-lam-nghiep">
+         Đất nông, lâm nghiệp
+        </li>
+        <li name="cac-loai-khac">
+         Các loại khác
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="province-container multicolumns">
+     <div class="text" name="0">
+      --- Tỉnh/Thành --
+     </div>
+     <div class="view">
+      <span class="exit">
+       Tỉnh/Thành
+      </span>
+      <div>
+       <ul>
+        <h3>
+         Miền Nam
+        </h3>
+        <li name="2">
+         Hồ Chí Minh
+        </li>
+        <li name="7">
+         Bà Rịa-Vũng Tàu
+        </li>
+        <li name="14">
+         Bình Dương
+        </li>
+        <li name="23">
+         Đồng Nai
+        </li>
+        <li name="5">
+         Cần Thơ
+        </li>
+        <li name="39">
+         Long An
+        </li>
+        <li name="6">
+         An Giang
+        </li>
+        <li name="8">
+         Bạc Liêu
+        </li>
+        <li name="13">
+         Bến Tre
+        </li>
+        <li name="16">
+         Bình Phước
+        </li>
+        <li name="18">
+         Cà Mau
+        </li>
+        <li name="20">
+         Đắk Lắk
+        </li>
+        <li name="21">
+         Đăk Nông
+        </li>
+        <li name="24">
+         Đồng Tháp
+        </li>
+        <li name="25">
+         Gia Lai
+        </li>
+        <li name="29">
+         Hậu Giang
+        </li>
+        <li name="33">
+         Kiên Giang
+        </li>
+        <li name="34">
+         Kon Tum
+        </li>
+        <li name="36">
+         Lâm Đồng
+        </li>
+        <li name="51">
+         Sóc Trăng
+        </li>
+        <li name="53">
+         Tây Ninh
+        </li>
+        <li name="58">
+         Tiền Giang
+        </li>
+        <li name="59">
+         Trà Vinh
+        </li>
+        <li name="61">
+         Vĩnh Long
+        </li>
+       </ul>
+       <ul>
+        <h3>
+         Miền Trung
+        </h3>
+        <li name="15">
+         Bình Định
+        </li>
+        <li name="17">
+         Bình Thuận
+        </li>
+        <li name="3">
+         Đà Nẵng
+        </li>
+        <li name="28">
+         Hà Tĩnh
+        </li>
+        <li name="57">
+         Thừa Thiên-Huế
+        </li>
+        <li name="32">
+         Khánh Hòa
+        </li>
+        <li name="41">
+         Nghệ An
+        </li>
+        <li name="43">
+         Ninh Thuận
+        </li>
+        <li name="45">
+         Phú Yên
+        </li>
+        <li name="46">
+         Quảng Bình
+        </li>
+        <li name="47">
+         Quảng Nam
+        </li>
+        <li name="48">
+         Quảng Ngãi
+        </li>
+        <li name="50">
+         Quảng Trị
+        </li>
+       </ul>
+       <ul>
+        <h3>
+         Miền Bắc
+        </h3>
+        <li name="1">
+         Hà Nội
+        </li>
+        <li name="11">
+         Hải Dương
+        </li>
+        <li name="4">
+         Hải Phòng
+        </li>
+        <li name="9">
+         Bắc Kạn
+        </li>
+        <li name="10">
+         Bắc Giang
+        </li>
+        <li name="12">
+         Bắc Ninh
+        </li>
+        <li name="19">
+         Cao Bằng
+        </li>
+        <li name="22">
+         Điện Biên
+        </li>
+        <li name="26">
+         Hà Giang
+        </li>
+        <li name="27">
+         Hà Nam
+        </li>
+        <li name="30">
+         Hòa Bình
+        </li>
+        <li name="31">
+         Hưng Yên
+        </li>
+        <li name="37">
+         Lạng Sơn
+        </li>
+        <li name="38">
+         Lào Cai
+        </li>
+        <li name="35">
+         Lai Châu
+        </li>
+        <li name="40">
+         Nam Định
+        </li>
+        <li name="42">
+         Ninh Bình
+        </li>
+        <li name="44">
+         Phú Thọ
+        </li>
+        <li name="49">
+         Quảng Ninh
+        </li>
+        <li name="52">
+         Sơn La
+        </li>
+        <li name="54">
+         Thái Bình
+        </li>
+        <li name="55">
+         Thái Nguyên
+        </li>
+        <li name="56">
+         Thanh Hóa
+        </li>
+        <li name="60">
+         Tuyên Quang
+        </li>
+        <li name="62">
+         Vĩnh Phúc
+        </li>
+        <li name="63">
+         Yên Bái
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="district-container multicolumns">
+     <div class="text" name="0">
+      --- Quận/Huyện ---
+     </div>
+     <div class="view">
+      <span class="exit">
+       Quận/Huyện
+      </span>
+      <div class="district">
+      </div>
+      <div class="ajax-loading">
+      </div>
+     </div>
+    </div>
+    <div class="price-container multicolumns">
+     <div class="text" name="0">
+      ---------- Giá --------
+     </div>
+     <div class="view">
+      <span class="exit">
+       Mức giá
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         0 - 1 triệu
+        </li>
+        <li name="2">
+         1 - 3 triệu
+        </li>
+        <li name="3">
+         3 - 5 triệu
+        </li>
+        <li name="4">
+         5 - 10 triệu
+        </li>
+        <li name="5">
+         10 - 15 triệu
+        </li>
+        <li name="6">
+         15 - 20 triệu
+        </li>
+        <li name="7">
+         20 - 30 triệu
+        </li>
+        <li name="8">
+         30 - 40 triệu
+        </li>
+        <li name="9">
+         40 - 60 triệu
+        </li>
+       </ul>
+       <ul>
+        <li name="10">
+         60 - 80 triệu
+        </li>
+        <li name="11">
+         80 - 100 triệu
+        </li>
+        <li name="12">
+         100 - 300 triệu
+        </li>
+        <li name="13">
+         300 - 500 triệu
+        </li>
+        <li name="14">
+         500 - 800 triệu
+        </li>
+        <li name="15">
+         800 - 1 tỷ
+        </li>
+        <li name="16">
+         1 - 2 tỷ
+        </li>
+        <li name="17">
+         2 - 3 tỷ
+        </li>
+        <li name="18">
+         3 - 4 tỷ
+        </li>
+       </ul>
+       <ul>
+        <li name="19">
+         4 - 6 tỷ
+        </li>
+        <li name="20">
+         6 - 8 tỷ
+        </li>
+        <li name="21">
+         8 - 10 tỷ
+        </li>
+        <li name="22">
+         10 - 15 tỷ
+        </li>
+        <li name="23">
+         15 - 20 tỷ
+        </li>
+        <li name="24">
+         20 - 30 tỷ
+        </li>
+        <li name="25">
+         30 - 60 tỷ
+        </li>
+        <li name="26">
+         Trên 60 tỷ
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="square-container multicolumns">
+     <div class="text" name="0">
+      ----- Diện tích ---
+     </div>
+     <div class="view">
+      <span class="exit">
+       Diện tích
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         0 - 30m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="2">
+         30 - 50m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="3">
+         50 - 70m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="4">
+         70 - 100m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="5">
+         100 - 150m
+         <sup>
+          2
+         </sup>
+        </li>
+       </ul>
+       <ul>
+        <li name="6">
+         150 - 200
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="7">
+         200 - 250m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="8">
+         250 - 300m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="9">
+         300 - 350m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="10">
+         350 - 400m
+         <sup>
+          2
+         </sup>
+        </li>
+       </ul>
+       <ul>
+        <li name="11">
+         400 - 600m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="12">
+         600 - 800m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="13">
+         800 - 1000m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="14">
+         Trên 1000m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="direct-container multicolumns">
+     <div class="text" name="0">
+      ------ Hướng -----
+     </div>
+     <div class="view">
+      <span class="exit">
+       Hướng
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         Đông
+        </li>
+        <li name="6">
+         Đông Bắc
+        </li>
+        <li name="5">
+         Đông Nam
+        </li>
+       </ul>
+       <ul>
+        <li name="2">
+         Tây
+        </li>
+        <li name="8">
+         Tây Bắc
+        </li>
+        <li name="7">
+         Tây Nam
+        </li>
+       </ul>
+       <ul>
+        <li name="3">
+         Nam
+        </li>
+        <li name="4">
+         Bắc
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="button-search">
+     Tìm nhanh
+    </div>
+    <div class="advanced-search">
+     <a href="/tim-kiem-nang-cao.html" rel="nofollow">
+      Tìm kiếm nâng cao
+     </a>
+    </div>
+   </div>
+   <div class="banner-center">
+   </div>
+   <div class="right-navigation-box">
+    <div class="item groupbyproject" id="ctl00_content_groupByProject">
+     <div class="title">
+      <h2 id="ctl00_content_groupByPropertyProjectTitle">
+       Cho thuê căn hộ chung cư tại các dự án ở Quận Liên Chiểu
+      </h2>
+     </div>
+     <div class="content" id="ctl00_content_groupByPropertyProjectContent">
+      <ul>
+       <li>
+        <a href="/cho-thue-can-ho-chung-cu/p10044/the-ori-garden-da-nang.html" title="Cho thue chung cu The Ori Garden Da Nang">
+         Cho thuê chung cư
+         <b>
+          The Ori Garden Đà Nẵng
+         </b>
+        </a>
+        (
+        <span class="number">
+         6
+        </span>
+        )
+       </li>
+       <li>
+        <a href="/cho-thue-can-ho-chung-cu/p1602/bau-tram-lakeside-palace.html" title="Cho thue chung cu Bau Tram Lakeside Palace">
+         Cho thuê chung cư
+         <b>
+          Bàu Tràm Lakeside Palace
+         </b>
+        </a>
+        (
+        <span class="number">
+         2
+        </span>
+        )
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="item groupbydistrict">
+     <div class="title">
+      <h2 id="ctl00_content_groupByPropertyDistrictTitle">
+       Cho thuê căn hộ chung cư tại Đà Nẵng
+      </h2>
+     </div>
+     <div class="content" id="ctl00_content_groupByPropertyDistrict">
+      <ul>
+       <li>
+        <a href="/nha-dat/cho-thue/can-ho-chung-cu/da-nang/584/quan-hai-chau.html" title="Cho thue can ho chung cu Quan Hai Chau">
+         Cho thuê chung cư
+         <b>
+          Quận Hải Châu
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/cho-thue/can-ho-chung-cu/da-nang/585/quan-thanh-khe.html" title="Cho thue can ho chung cu Quan Thanh Khe">
+         Cho thuê chung cư
+         <b>
+          Quận Thanh Khê
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/cho-thue/can-ho-chung-cu/da-nang/586/quan-son-tra.html" title="Cho thue can ho chung cu Quan Son Tra">
+         Cho thuê chung cư
+         <b>
+          Quận Sơn Trà
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/cho-thue/can-ho-chung-cu/da-nang/587/quan-ngu-hanh-son.html" title="Cho thue can ho chung cu Quan Ngu Hanh Son">
+         Cho thuê chung cư
+         <b>
+          Quận Ngũ Hành Sơn
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/cho-thue/can-ho-chung-cu/da-nang/588/quan-lien-chieu.html" title="Cho thue can ho chung cu Quan Lien Chieu">
+         Cho thuê chung cư
+         <b>
+          Quận Liên Chiểu
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/cho-thue/can-ho-chung-cu/da-nang/589/quan-cam-le.html" title="Cho thue can ho chung cu Quan Cam Le">
+         Cho thuê chung cư
+         <b>
+          Quận Cẩm Lệ
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/cho-thue/can-ho-chung-cu/da-nang/590/huyen-hoa-vang.html" title="Cho thue can ho chung cu Huyen Hoa Vang">
+         Cho thuê chung cư
+         <b>
+          Huyện Hòa Vang
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/cho-thue/can-ho-chung-cu/da-nang/712/huyen-hoang-sa.html" title="Cho thue can ho chung cu Huyen Hoang Sa">
+         Cho thuê chung cư
+         <b>
+          Huyện Hoàng Sa
+         </b>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!--right-->
+  <div class="clear">
+  </div>
+ </div>
+</div>

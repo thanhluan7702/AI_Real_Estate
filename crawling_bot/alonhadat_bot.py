@@ -8,12 +8,16 @@ import re
 import json 
 from datetime import date
 import os 
+import random 
 
 flatform = 'alonhadat'
 today = date.today() 
-order = 0 # increase one when new run same day
+name = 'huong'
+# order = 0 # increase one when new run same day
+order=int(input('Nhap order: '))
+start=int(input('Start: '))
 
-path_txt = f'../data/source/{flatform}/{today}'
+path_txt = f'd:/DUE/AI_Real_Estate/data/source/{flatform}/{today}'
 
 exist = False 
 try:
@@ -80,17 +84,27 @@ def crawl_data(content, type_news, link):
     record['Liên hệ'] = contact.find('div', class_ = 'name').text.strip()
     record['phone'] = contact.find('div', class_ = 'fone').text.split('(')[0]
     
-    time.sleep(10)
+    time.sleep(3)
+    # time.sleep(10)
+    # time.sleep(random.uniform(2,5))
     save_html(content, post_id)
     time.sleep(1)
     
     return record
 
 ## crawling 
-name_file = f'../data/record/{flatform}/{today}_{order}.json'
+name_file = f'd:/DUE/AI_Real_Estate/data/record/{flatform}/{today}'
+
+exist = False 
+try:
+    os.mkdir(name_file)
+except:
+    exist = True
+    pass 
+
 exist_data = [] 
 try:
-    with open(name_file, "r", encoding="utf-8") as file:
+    with open(f'{name_file}/{name}_{order}.json', "r", encoding="utf-8") as file:
         exist_data = json.load(file)
         # for line in file:
         #     try:
@@ -102,8 +116,9 @@ except FileNotFoundError:
     pass
 
 try: 
-    for type_news in ['Cần bán', 'Cho thuê', 'Cần mua', 'Cần thuê']: 
-        for id_page in range(1, 5): #limited
+    for type_news in ['Cần bán']: #limited
+    # for type_news in ['Cần bán', 'Cho thuê', 'Cần mua', 'Cần thuê']: 
+        for id_page in range(start,21): #limited  #80
             print(f'Crawling with {type_news} on {id_page} page')
             soup = get_content(create_url(id_page, type_news))
             items = soup.findAll('div', class_ = 'content-item')
@@ -117,10 +132,13 @@ try:
             for link in links: 
                 print(link)
                 content = get_content(link)
-                exist_data.append(crawl_data(content, type_news, link))
+                try: 
+                    exist_data.append(crawl_data(content, type_news, link))
+                except: 
+                    pass
 except Exception as e: 
     print(e)
 
 
-with open(name_file, "w", encoding="utf-8") as json_file:
+with open(f'{name_file}/{name}_{order}.json', "w", encoding="utf-8") as json_file:
     json.dump(exist_data, json_file, ensure_ascii=False, indent=4) 

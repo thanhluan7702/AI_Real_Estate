@@ -1,0 +1,2089 @@
+<div class="body">
+ <div class="top-link" id="ctl00_content_top_link" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a href="/" itemprop="item">
+    <span itemprop="name">
+     Trang chủ
+    </span>
+   </a>
+   <meta content="1" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban.html" itemprop="item">
+    <span itemprop="name">
+     Cần bán
+    </span>
+   </a>
+   <meta content="2" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-trong-hem.html" itemprop="item">
+    <span itemprop="name">
+     Bán nhà
+    </span>
+   </a>
+   <meta content="3" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-trong-hem/3/da-nang.html" itemprop="item">
+    <span itemprop="name">
+     Bán nhà Đà Nẵng
+    </span>
+   </a>
+   <meta content="4" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-trong-hem/da-nang/585/quan-thanh-khe.html" itemprop="item">
+    <span itemprop="name">
+     Bán nhà  Thanh Khê
+    </span>
+   </a>
+   <meta content="5" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-trong-hem/phuong-chinh-gian-quan-thanh-khe-px1103.html" itemprop="item">
+    <span itemprop="name">
+     Bán nhà  Chính Gián
+    </span>
+   </a>
+   <meta content="6" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-trong-hem/duong-thai-thi-boi-quan-thanh-khe-dp10733.html" itemprop="item">
+    <span itemprop="name">
+     Bán nhà  Thái Thị Bôi
+    </span>
+   </a>
+   <meta content="7" itemprop="position"/>
+  </span>
+ </div>
+ <div class="top-line">
+ </div>
+ <div class="content plp" id="ctl00_content_pc_content">
+  <div id="left">
+   <div class="property">
+    <div class="title">
+     <h1>
+      Bán Nhà Hẻm  Ôt ô  Đường Thái Thị Bôi,P Chính Gian, Q Thanh Khê,Dt 50m2,Giá 3,6 tỷ
+     </h1>
+     <span class="date">
+      Ngày đăng: Hôm nay
+     </span>
+    </div>
+    <div class="detail text-content">
+     Bán Nhà hẻm đường Thái Thị Bôi, Phường Chính Gián, Quận Thanh Khê, TP. Đà Nẵng
+•	Diện tích đất: 50m2 (5,2x9,6m2)
+•	Diện tích sử dụng: 150m2
+•	Số phòng ngủ: 4
+•	Số phòng tắm: 2
+•	Đường trước nhà: 4,5m
+•	Nhà 3 tầng
+•	Giá bán: 3,6 tỷ đồng
+Thông tin chi tiết: Chúng tôi xin gửi đến Quý khách thông tin về căn nhà đang bán tại hẻm đường Thái Thị Bôi, Phường Chính Gián, Quận Thanh Khê, TP. Đà Nẵng. Với diện tích đất 50m2 (5,2x9,6m2), diện tích sử dụng 150m2, căn nhà này có thiết kế gồm 4 phòng ngủ và 2 phòng tắm, phù hợp cho gia đình có nhu cầu sống thoải mái và tiện nghi.
+Ngôi nhà được xây dựng trên 3 tầng, tận dụng tối đa không gian sử dụng. Diện tích sử dụng rộng 150m2 giúp mang lại không gian sống rộng rãi và thoáng đãng. Các phòng ngủ được thiết kế rộng rãi và sáng tự nhiên. Có 2 phòng tắm tiện lợi phục vụ nhu cầu hàng ngày của gia đình.
+Vị trí của căn nhà nằm trong khu vực phát triển, gần trung tâm thành phố Đà Nẵng. Xung quanh khu vực có đầy đủ các tiện ích cần thiết như trường học, bệnh viện, chợ và siêu thị. Giao thông thuận tiện và hẻm rộng 4,5m, giúp di chuyển dễ dàng.
+Nhà nằm trong khu vực an ninh, yên tĩnh và dân trí cao. Hẻm rộng rãi, ô tô có thể vào ra thoải mái.
+Giá bán căn nhà là 3,6 tỷ đồng. Đây là một mức giá hợp lý cho một căn nhà có vị trí tốt, diện tích sử dụng lớn và tiện nghi như vậy tại khu vực Đà Nẵng.
+    </div>
+    <div class="moreinfor">
+     <span class="price">
+      <span class="label">
+       Giá:
+      </span>
+      <span class="value">
+       3,6 tỷ
+      </span>
+     </span>
+     <span class="square">
+      <span class="label">
+       Diện tích:
+      </span>
+      <span class="value">
+       50 m
+       <sup>
+        2
+       </sup>
+      </span>
+     </span>
+     <div class="clear">
+     </div>
+    </div>
+    <div class="address">
+     <span class="label">
+      Địa chỉ tài sản:
+     </span>
+     <span class="value">
+      Đường Thái Thị Bôi, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng
+     </span>
+    </div>
+    <div class="moreinfor1">
+     <div class="title">
+      Các thông tin khác
+     </div>
+     <div class="infor">
+      <table cellspacing="0" hspace="0" vspace="0">
+       <tbody>
+        <tr>
+         <td>
+          Mã tin
+         </td>
+         <td>
+          13126462
+         </td>
+         <td>
+          Hướng
+         </td>
+         <td>
+          _
+         </td>
+         <td>
+          Phòng ăn
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Loại tin
+         </td>
+         <td>
+          Cần bán
+         </td>
+         <td>
+          Đường trước nhà
+         </td>
+         <td>
+          4,5m
+         </td>
+         <td>
+          Nhà bếp
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Loại BDS
+         </td>
+         <td>
+          Nhà trong hẻm
+         </td>
+         <td>
+          Pháp lý
+         </td>
+         <td>
+          Sổ hồng/ Sổ đỏ
+         </td>
+         <td>
+          Sân thượng
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Chiều ngang
+         </td>
+         <td>
+          5,2m
+         </td>
+         <td>
+          Số lầu
+         </td>
+         <td>
+          3
+         </td>
+         <td>
+          Chổ để xe hơi
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Chiều dài
+         </td>
+         <td>
+          9,6m
+         </td>
+         <td>
+          Số phòng ngủ
+         </td>
+         <td>
+          3
+         </td>
+         <td>
+          Chính chủ
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+    </div>
+    <div class="image-tab">
+     <span class="view-image selected">
+      Hình ảnh
+     </span>
+    </div>
+    <div class="images">
+     <div class="imageview">
+      <img alt="Bán Nhà Hẻm  Ôt ô  Đường Thái Thị Bôi,P Chính Gian, Q Thanh Khê,Dt 50m2,Giá 3,6 tỷ" id="limage" onclick="showImage(this.src)" src="/files/properties/2023/7/11/images/013126462-1123-ban-nha-hem-ot-o-duong-thai-thi-boi-p-chinh-gian-q-thanh-khe-dt-50m2-gia-3-6-ty.jpg"/>
+     </div>
+     <div class="image-list">
+      <span>
+       <img alt="Bán Nhà Hẻm  Ôt ô  Đường Thái Thị Bôi,P Chính Gian, Q Thanh Khê,Dt 50m2,Giá 3,6 tỷ - 0" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/7/11/images/013126462-1123-ban-nha-hem-ot-o-duong-thai-thi-boi-p-chinh-gian-q-thanh-khe-dt-50m2-gia-3-6-ty.jpg"/>
+      </span>
+      <span>
+       <img alt="Bán Nhà Hẻm  Ôt ô  Đường Thái Thị Bôi,P Chính Gian, Q Thanh Khê,Dt 50m2,Giá 3,6 tỷ - 1" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/7/11/images/113126462-1123-ban-nha-trong-hem-da-nang-gia-re.jpg"/>
+      </span>
+      <span>
+       <img alt="Bán Nhà Hẻm  Ôt ô  Đường Thái Thị Bôi,P Chính Gian, Q Thanh Khê,Dt 50m2,Giá 3,6 tỷ - 2" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/7/11/images/213126462-1123-ban-nha-trong-hem-quan-thanh-khe-gia-re.jpg"/>
+      </span>
+      <span>
+       <img alt="Bán Nhà Hẻm  Ôt ô  Đường Thái Thị Bôi,P Chính Gian, Q Thanh Khê,Dt 50m2,Giá 3,6 tỷ - 3" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/7/11/images/313126462-1123-ban-nha-hem-ot-o-duong-thai-thi-boi-p-chinh-gian-q-thanh-khe-dt-50m2-gia-3-6-ty.jpg"/>
+      </span>
+      <span>
+       <img alt="Bán Nhà Hẻm  Ôt ô  Đường Thái Thị Bôi,P Chính Gian, Q Thanh Khê,Dt 50m2,Giá 3,6 tỷ - 4" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/7/11/images/413126462-1123-ban-nha-trong-hem-da-nang.jpg"/>
+      </span>
+      <span>
+       <img alt="Bán Nhà Hẻm  Ôt ô  Đường Thái Thị Bôi,P Chính Gian, Q Thanh Khê,Dt 50m2,Giá 3,6 tỷ - 5" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/7/11/images/513126462-1123-ban-nha-hem-ot-o-duong-thai-thi-boi-p-chinh-gian-q-thanh-khe-dt-50m2-gia-3-6-ty.jpg"/>
+      </span>
+      <span>
+       <img alt="Bán Nhà Hẻm  Ôt ô  Đường Thái Thị Bôi,P Chính Gian, Q Thanh Khê,Dt 50m2,Giá 3,6 tỷ - 6" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/7/11/images/613126462-1123-ban-nha-trong-hem-da-nang-chinh-chu.jpg"/>
+      </span>
+      <span>
+       <img alt="Bán Nhà Hẻm  Ôt ô  Đường Thái Thị Bôi,P Chính Gian, Q Thanh Khê,Dt 50m2,Giá 3,6 tỷ - 7" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/7/11/images/713126462-1123-ban-nha-hem-ot-o-duong-thai-thi-boi-p-chinh-gian-q-thanh-khe-dt-50m2-gia-3-6-ty.jpg"/>
+      </span>
+      <span>
+       <img alt="Bán Nhà Hẻm  Ôt ô  Đường Thái Thị Bôi,P Chính Gian, Q Thanh Khê,Dt 50m2,Giá 3,6 tỷ - 8" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/7/11/images/813126462-1123-ban-nha-hem-ot-o-duong-thai-thi-boi-p-chinh-gian-q-thanh-khe-dt-50m2-gia-3-6-ty.jpg"/>
+      </span>
+     </div>
+    </div>
+    <div class="utility">
+     <span class="save" tabindex="0">
+      Lưu tin
+     </span>
+    </div>
+    <input id="hddDemand" type="hidden" value="1"/>
+    <input id="hddPropertyType" type="hidden" value="2"/>
+    <input id="hddPropertyId" type="hidden" value="13126462"/>
+    <input id="hddNguoiDang" type="hidden" user="0" value="283953"/>
+    <div class="reflect-form">
+     <div class="loading">
+     </div>
+     <div class="title">
+      Phản ánh tin rao vi phạm
+     </div>
+     <div class="notice">
+      Thông tin phản ánh của Quý khách giúp chúng tôi sàn lọc thông tin tốt hơn và loại trừ các nhà môi giới không trung thực. Xin trân trọng cám ơn.
+     </div>
+     <div class="content">
+      <div class="reason">
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="1"/>
+        <span>
+         Tài sản đã bán/cho thuê
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="2"/>
+        <span>
+         Tin không có thật
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="3"/>
+        <span>
+         Nội dung không đúng với thực tế
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="4"/>
+        <span>
+         Giá không đúng
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="5"/>
+        <span>
+         Không liên lạc được
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="6"/>
+        <span>
+         Địa chỉ bất động sản không đúng
+        </span>
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="other-reason">
+       <input class="reason-item" name="reason" type="radio" value="10"/>
+       <span>
+        Lý do khác:
+       </span>
+       <br/>
+       <textarea class="txtcontent" maxlength="240" placeholder="Nội dung phản ánh"></textarea>
+      </div>
+      <div class="check-ignore">
+       <input class="chkdayignore" type="checkbox"/>
+       <b class="bdayignore">
+        Tôi không muốn xem tin của người đăng này trong vòng:
+       </b>
+       <select class="dayignore" disabled="disabled" name="dayignore" style="color:red; background:#eeeeee;">
+        <option value="0">
+         Số ngày
+        </option>
+        <option value="1">
+         1 ngày
+        </option>
+        <option value="3">
+         3 ngày
+        </option>
+        <option value="7">
+         7 ngày
+        </option>
+        <option value="14">
+         14 ngày
+        </option>
+        <option value="21">
+         21 ngày
+        </option>
+        <option value="30">
+         30 ngày
+        </option>
+        <option value="60">
+         60 ngày
+        </option>
+        <option value="90">
+         90 ngày
+        </option>
+        <option value="180">
+         180 ngày
+        </option>
+        <option value="360">
+         360 ngày
+        </option>
+       </select>
+       <i>
+        Tất cả các tin của thành viên này sẽ ẩn đi với bạn trong khoảng thời gian bạn đã chọn.
+       </i>
+      </div>
+      <div>
+       <font style="color:blue">
+        Mã an toàn
+       </font>
+       :
+       <br/>
+       <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx" width="90"/>
+       <input class="captcha" id="captcha" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+       <input class="btnSubmit" type="button" value="Gửi phản ánh"/>
+      </div>
+     </div>
+    </div>
+    <div class="tags">
+     <span>
+      Có thể bạn muốn xem:
+     </span>
+     <a href="/nha-dat/can-ban/nha-trong-hem/3/da-nang.html">
+      Bán nhà Đà Nẵng
+     </a>
+     <a href="/nha-dat/can-ban/nha-trong-hem/da-nang/585/quan-thanh-khe.html">
+      Bán nhà Quận Thanh Khê
+     </a>
+     <a href="/nha-dat/can-ban/nha-trong-hem/phuong-chinh-gian-quan-thanh-khe-px1103.html">
+      Bán nhà Phường Chính Gián
+     </a>
+     <a href="/nha-dat/can-ban/nha-trong-hem/duong-thai-thi-boi-quan-thanh-khe-dp10733.html">
+      Bán nhà Đường Thái Thị Bôi
+     </a>
+    </div>
+    <div class="notices">
+     <h3>
+      Lưu ý:
+     </h3>
+     <p>
+      Các bạn đang xem tin đăng trong mục "
+      <b>
+       Mua bán nhà trong ngõ, bán nhà cấp 4, nhà hẻm, nhà kiệt  Quận Thanh Khê, Đà Nẵng
+      </b>
+      ". Các thông tin rao vặt là do người đăng tin đăng tải toàn bộ thông tin. Chúng tôi hoàn toàn không chịu trách nhiệm về bất cứ thông tin nào liên qua đến các thông tin này. Chúng tôi luôn cố gắng để đưa các tin tức nhanh và chính xác nhất cho các bạn.
+     </p>
+    </div>
+   </div>
+   <!--property-->
+   <div class="randomvip-box" id="ctl00_content_random_vip_box">
+    <div class="title">
+     <h2>
+      Bất động sản nổi bật
+     </h2>
+    </div>
+    <div class="content" id="ctl00_content_randomvip">
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/ban-nha-kiet-402-le-duan-kiet-chuan-4m-gan-nga-3-cai-lang-ngang-5m-gia-re-tang-nha--12683801.html">
+        <img alt="Bán Nhà Kiệt 402 Lê Duẩn Kiệt Chuẩn 4m Gần Ngã 3 Cái Lăng Ngang 5m Giá Rẻ Tặng Nhà." src="/files/properties/2023/4/5/thumbnails/012683801-4455-ban-nha-mat-tien-quan-thanh-khe-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-nha-kiet-402-le-duan-kiet-chuan-4m-gan-nga-3-cai-lang-ngang-5m-gia-re-tang-nha--12683801.html">
+         Bán Nhà Kiệt 402 Lê Duẩn Kiệt Chuẩn 4m Gần Ngã 3 Cái Lăng Ngang 5m Giá Rẻ Tặng Nhà.
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,6 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         66 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Thanh Khê
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 4m">
+        4m
+       </span>
+       <span class="floors" title="1 lầu">
+        1 lầu
+       </span>
+       <span class="bedroom" title="2 phòng ngủ">
+        2 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/sap-ham-nha-3-tang-ha-huy-tap-gan-bien-thanh-khe-dt-65m2-vuong-vuc-chi-4-2-ty--13441950.html">
+        <img alt="Sập hầm! Nhà 3 tầng 3 mê Hà Huy Tập ( gần biển), Thanh Khê. DT 72m2 vuông vức chỉ 4,25 tỷ." src="/files/properties/2023/9/25/thumbnails/013441950-1939-ban-nha-trong-hem-quan-thanh-khe.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/sap-ham-nha-3-tang-ha-huy-tap-gan-bien-thanh-khe-dt-65m2-vuong-vuc-chi-4-2-ty--13441950.html">
+         Sập hầm! Nhà 3 tầng 3 mê Hà Huy Tập ( gần biển), Thanh Khê. DT 72m2 vuông vức chỉ 4,25 tỷ.
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         4,25 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         72 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Thanh Khê
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 5m">
+        5m
+       </span>
+       <span class="floors" title="3 lầu">
+        3 lầu
+       </span>
+       <span class="bedroom" title="4 phòng ngủ">
+        4 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-nha-thanh-khe-co-ho-boi-gia-4190-trieu-13471527.html">
+        <img alt="Bán nhà Thanh Khê có hồ bơi, giá 4190 triêu" src="/files/properties/2023/10/2/thumbnails/013471527-0903-ban-nha-trong-hem-quan-thanh-khe-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-nha-thanh-khe-co-ho-boi-gia-4190-trieu-13471527.html">
+         Bán nhà Thanh Khê có hồ bơi, giá 4190 triêu
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         4,19 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         65 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Thanh Khê
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 2,5m">
+        2,5m
+       </span>
+       <span class="floors" title="3 lầu">
+        3 lầu
+       </span>
+       <span class="bedroom" title="3 phòng ngủ">
+        3 pn
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/can-ban-nha-kiet-le-duan-trung-tam-thanh-pho-13470650.html">
+        <img alt="Cần bán nhà kiệt Lê Duẩn trung tâm Thành phố" src="/files/properties/default.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/can-ban-nha-kiet-le-duan-trung-tam-thanh-pho-13470650.html">
+         Cần bán nhà kiệt Lê Duẩn trung tâm Thành phố
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         1,67 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         35 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Thanh Khê
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 2m">
+        2m
+       </span>
+       <span class="floors" title="2 lầu">
+        2 lầu
+       </span>
+       <span class="bedroom" title="2 phòng ngủ">
+        2 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/can-ban-nha-o-duong-dien-bien-phu-quan-thanh-khe-tp-da-nang-13423313.html">
+        <img alt="CẦN BÁN NHÀ Ở ĐƯỜNG ĐIỆN BIEN PHU QUAN THANH KHÊ TP ĐÀ NẴNG" src="/files/properties/2023/9/21/thumbnails/013423313-2209-ban-nha-trong-hem-quan-thanh-khe-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/can-ban-nha-o-duong-dien-bien-phu-quan-thanh-khe-tp-da-nang-13423313.html">
+         CẦN BÁN NHÀ Ở ĐƯỜNG ĐIỆN BIEN PHU QUAN THANH KHÊ TP ĐÀ NẴNG
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,3 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         75 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Thanh Khê
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 5m">
+        5m
+       </span>
+       <span class="floors" title="2 lầu">
+        2 lầu
+       </span>
+       <span class="bedroom" title="3 phòng ngủ">
+        3 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/nha-dep-sang-xin-min-gia-tot-chi-xach-vali-vao-o-thoi-nhe--13397648.html">
+        <img alt="NHÀ ĐẸP SANG XỊN MỊN GIÁ TỐT. CHỈ XÁCH VALI VÀO Ở THÔI NHÉ." src="/files/properties/2023/9/15/thumbnails/013397648-0731-ban-nha-trong-hem-quan-thanh-khe-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/nha-dep-sang-xin-min-gia-tot-chi-xach-vali-vao-o-thoi-nhe--13397648.html">
+         NHÀ ĐẸP SANG XỊN MỊN GIÁ TỐT. CHỈ XÁCH VALI VÀO Ở THÔI NHÉ.
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,05 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         50 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Thanh Khê
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 2,5m">
+        2,5m
+       </span>
+       <span class="floors" title="3 lầu">
+        3 lầu
+       </span>
+       <span class="bedroom" title="3 phòng ngủ">
+        3 pn
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/sieu-pham-5-tang-sau-lung-mat-tien-hung-vuong-su-dung-200m-san-gia-hop-ly-12701666.html">
+        <img alt="Siêu Phẩm 5 Tầng Sau Lưng Mặt Tiền Hùng Vương , Sử Dụng 200m Sàn Giá Hợp Lý" src="/files/properties/2023/4/8/thumbnails/012701666-1749-ban-nha-trong-hem-da-nang-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/sieu-pham-5-tang-sau-lung-mat-tien-hung-vuong-su-dung-200m-san-gia-hop-ly-12701666.html">
+         Siêu Phẩm 5 Tầng Sau Lưng Mặt Tiền Hùng Vương , Sử Dụng 200m Sàn Giá Hợp Lý
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,9 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         43 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Thanh Khê
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 3m">
+        3m
+       </span>
+       <span class="floors" title="5 lầu">
+        5 lầu
+       </span>
+       <span class="bedroom" title="5 phòng ngủ">
+        5 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/chao-ban-nha-3-tang-3-me-full-noi-that-kiet-o-to-tai-le-duan-12186378.html">
+        <img alt="Chào bán nhà 3 tầng 3 mê full nội thất kiệt ô tô tải lê duẩn" src="/files/properties/2023/8/31/thumbnails/012186378-5642-ban-nha-trong-hem-da-nang-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/chao-ban-nha-3-tang-3-me-full-noi-that-kiet-o-to-tai-le-duan-12186378.html">
+         Chào bán nhà 3 tầng 3 mê full nội thất kiệt ô tô tải lê duẩn
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         4,05 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         85 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Thanh Khê
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 4m">
+        4m
+       </span>
+       <span class="floors" title="3 lầu">
+        3 lầu
+       </span>
+       <span class="bedroom" title="3 phòng ngủ">
+        3 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/nha-3-tang-2-mat-kiet-le-duan-thanh-khe-da-nang-vi-tri-trung-tam-gia-chi-nhinh-3-ty-13457155.html">
+        <img alt="Nhà 3 tầng 2 mặt kiệt Lê Duẩn, Thanh Khê - Đà Nẵng. Vị trí trung tâm giá chỉ nhỉnh 3 tỷ" src="/files/properties/2023/9/28/thumbnails/013457155-4116-ban-nha-trong-hem-da-nang.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/nha-3-tang-2-mat-kiet-le-duan-thanh-khe-da-nang-vi-tri-trung-tam-gia-chi-nhinh-3-ty-13457155.html">
+         Nhà 3 tầng 2 mặt kiệt Lê Duẩn, Thanh Khê - Đà Nẵng. Vị trí trung tâm giá chỉ nhỉnh 3 tỷ
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,6 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         135 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Thanh Khê
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 3m">
+        3m
+       </span>
+       <span class="floors" title="3 lầu">
+        3 lầu
+       </span>
+       <span class="bedroom" title="5 phòng ngủ">
+        5 pn
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/chu-goi-ban-nha-3tang-60m2-ngang-5m-no-hau-kiet-ly-thai-to-gia-nhinh-3-ty-13469358.html">
+        <img alt="CHỦ GỞI BÁN NHÀ 3TẦNG- 60M2- NGANG:5M -NỞ HẬU KIỆT LÝ THÁI TỔ - GIÁ NHỈNH 3 TỶ" src="/files/properties/2023/10/2/thumbnails/013469358-3106-ban-nha-trong-hem-da-nang.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/chu-goi-ban-nha-3tang-60m2-ngang-5m-no-hau-kiet-ly-thai-to-gia-nhinh-3-ty-13469358.html">
+         CHỦ GỞI BÁN NHÀ 3TẦNG- 60M2- NGANG:5M -NỞ HẬU KIỆT LÝ THÁI TỔ - GIÁ NHỈNH 3 TỶ
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,45 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         60 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Thanh Khê
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 7m">
+        7m
+       </span>
+       <span class="floors" title="3 lầu">
+        3 lầu
+       </span>
+       <span class="bedroom" title="3 phòng ngủ">
+        3 pn
+       </span>
+      </div>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <div class="relative-property">
+    <div>
+     <div class="content-header" id="ctl00_content_relative_property_title">
+      <h2>
+       Cần bán Nhà trong hẻm tại Quận Thanh Khê
+      </h2>
+     </div>
+    </div>
+    <div class="content-items" id="ctl00_content_relative_property_content">
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/-ban-nha-2-mat-kiet-thoang-mat-tran-cao-van-doan-gan-ong-ich-khiem-13471800.html">
+         - Bán Nhà 2 Mặt Kiệt Thoáng mát TRẦN CAO VÂN , Đoạn Gần Ông Ích Khiêm
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/-ban-nha-2-mat-kiet-thoang-mat-tran-cao-van-doan-gan-ong-ich-khiem-13471800.html">
+        <img alt="- Bán Nhà 2 Mặt Kiệt Thoáng mát TRẦN CAO VÂN , Đoạn Gần Ông Ích Khiêm" src="/files/properties/2023/10/2/thumbnails/013471800-3906-ban-nha-trong-hem-quan-thanh-khe-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 2,5m">
+         2,5m
+        </span>
+        <span class="floors" title="3 lầu">
+         3 lầu
+        </span>
+        <span class="bedroom" title="3 phòng ngủ">
+         3 phòng ngủ
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         ---
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         65 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,95 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-trong-hem/duong-tran-cao-van-quan-thanh-khe-dp2738.html">
+          Đường Trần Cao Vân
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-trong-hem/phuong-xuan-ha-quan-thanh-khe-px1111.html">
+          Phường Xuân Hà
+         </a>
+         , Quận Thanh Khê, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/ban-nha-3-tang-3-me-duc-k145-tran-cao-van-thanh-khe-da-nang-13471304.html">
+         Bán Nhà 3 tầng 3 mê đúc K145 Trần Cao Vân, Thanh Khê - Đà Nẵng
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/ban-nha-3-tang-3-me-duc-k145-tran-cao-van-thanh-khe-da-nang-13471304.html">
+        <img alt="Bán Nhà 3 tầng 3 mê đúc K145 Trần Cao Vân, Thanh Khê - Đà Nẵng" src="/files/properties/2023/10/2/thumbnails/013471304-4045-ban-nha-trong-hem-da-nang.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 2,5m">
+         2,5m
+        </span>
+        <span class="floors" title="3 lầu">
+         3 lầu
+        </span>
+        <span class="bedroom" title="3 phòng ngủ">
+         3 phòng ngủ
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         ---
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         64 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         Tây Nam
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,95 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-trong-hem/duong-tran-cao-van-quan-thanh-khe-dp2738.html">
+          Đường Trần Cao Vân
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-trong-hem/phuong-tam-thuan-quan-thanh-khe-px1105.html">
+          Phường Tam Thuận
+         </a>
+         , Quận Thanh Khê, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/ban-gap-nha-3-tang-kien-co-dt-60m2-o-to-do-cua-huynh-ngoc-hue-thanh-khe-da-nang--13470095.html">
+         BÁN GẤP ! NHÀ 3 TẦNG KIÊN CỐ-DT 60M2. Ô TÔ ĐỖ CỬA. HUỲNH NGỌC HUỆ-THANH KHÊ-ĐÀ NẴNG.
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/ban-gap-nha-3-tang-kien-co-dt-60m2-o-to-do-cua-huynh-ngoc-hue-thanh-khe-da-nang--13470095.html">
+        <img alt="BÁN GẤP ! NHÀ 3 TẦNG KIÊN CỐ-DT 60M2. Ô TÔ ĐỖ CỬA. HUỲNH NGỌC HUỆ-THANH KHÊ-ĐÀ NẴNG." src="/files/properties/2023/10/2/thumbnails/013470095-5218-ban-nha-trong-hem-da-nang-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 5m">
+         5m
+        </span>
+        <span class="floors" title="3 lầu">
+         3 lầu
+        </span>
+        <span class="bedroom" title="3 phòng ngủ">
+         3 phòng ngủ
+        </span>
+        <span class="parking" title="có chỗ để ô tô">
+         chỗ để xe
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         5x12,5m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         60 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,65 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-trong-hem/duong-huynh-ngoc-hue-quan-thanh-khe-dp2694.html">
+          Đường Huỳnh Ngọc Huệ
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-trong-hem/phuong-hoa-khe-quan-thanh-khe-px1104.html">
+          Phường Hòa Khê
+         </a>
+         , Quận Thanh Khê, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/ban-gap-dinh-cu-lo-goc-ha-khe-ngay-ha-huy-tap-san-thuong-view-bien-gia-hon-3-ty--13468952.html">
+         BÁN GẤP ĐỊNH CƯ LÔ GÓC HÀ KHÊ, NGAY HÀ HUY TẬP, SÂN THƯỢNG VIEW BIỂN, GIÁ HƠN 3 TỶ.
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/ban-gap-dinh-cu-lo-goc-ha-khe-ngay-ha-huy-tap-san-thuong-view-bien-gia-hon-3-ty--13468952.html">
+        <img alt="BÁN GẤP ĐỊNH CƯ LÔ GÓC HÀ KHÊ, NGAY HÀ HUY TẬP, SÂN THƯỢNG VIEW BIỂN, GIÁ HƠN 3 TỶ." src="/files/properties/2023/10/2/thumbnails/013468952-4522-ban-nha-trong-hem-quan-thanh-khe.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 5,5m">
+         5,5m
+        </span>
+        <span class="floors" title="3 lầu">
+         3 lầu
+        </span>
+        <span class="bedroom" title="3 phòng ngủ">
+         3 phòng ngủ
+        </span>
+        <span class="parking" title="có chỗ để ô tô">
+         chỗ để xe
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         ---
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         70 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,78 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-trong-hem/duong-ha-khe-quan-thanh-khe-dp16477.html">
+          Đường Hà Khê
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-trong-hem/phuong-xuan-ha-quan-thanh-khe-px1111.html">
+          Phường Xuân Hà
+         </a>
+         , Quận Thanh Khê, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/ban-nha-2-tang-kiet-o-to-4m-phan-thanh-p-thac-gian-q-thanh-khe-gia-tot-13468737.html">
+         Bán Nhà 2 Tầng Kiệt Ô TÔ 4m Phan Thanh, P. Thạc Gian, Q. Thanh Khê, Giá Tốt
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/ban-nha-2-tang-kiet-o-to-4m-phan-thanh-p-thac-gian-q-thanh-khe-gia-tot-13468737.html">
+        <img alt="Bán Nhà 2 Tầng Kiệt Ô TÔ 4m Phan Thanh, P. Thạc Gian, Q. Thanh Khê, Giá Tốt" src="/files/properties/2023/10/2/thumbnails/013468737-0840-ban-nha-trong-hem-da-nang.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 4m">
+         4m
+        </span>
+        <span class="floors" title="2 lầu">
+         2 lầu
+        </span>
+        <span class="bedroom" title="2 phòng ngủ">
+         2 phòng ngủ
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         ---
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         55 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,1 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-trong-hem/duong-phan-thanh-quan-thanh-khe-dp9968.html">
+          Đường Phan Thanh
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-trong-hem/phuong-thac-gian-quan-thanh-khe-px1107.html">
+          Phường Thạc Gián
+         </a>
+         , Quận Thanh Khê, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="viewmore">
+      <a href="/nha-dat/can-ban/nha-trong-hem/da-nang/585/quan-thanh-khe.html">
+       Xem thêm các tin khác
+      </a>
+     </div>
+    </div>
+    <!----end sale content----->
+   </div>
+  </div>
+  <!--left-->
+  <div id="right">
+   <div class="contact">
+    <div class="contact-info">
+     <div class="title">
+      Thông tin liên hệ
+     </div>
+     <div class="content">
+      <div class="name">
+       nguyễn tấn phi
+      </div>
+      <div class="fone">
+       <a href="javascript:void(0)">
+        0984.939.383
+       </a>
+       <div class="dvviewphone">
+        <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx?a=5059" width="90"/>
+        <input class="captcha" id="captcha_viewphone" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+        <span class="viewphone">
+         (Bấm xem số điện thoại)
+        </span>
+       </div>
+      </div>
+      <div class="introduce">
+      </div>
+      <div class="review-box">
+       <span class="review-score">
+        Được đánh giá:
+       </span>
+       <span class="review-star">
+        <span class="rate" style="width:60%;">
+        </span>
+       </span>
+      </div>
+      <div class="view-more">
+       <a href="/nha-moi-gioi/phi-283953.html">
+        Xem thêm 123 tin khác của thành viên này
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="head-search">
+    Tìm kiếm nhà đất
+   </div>
+   <div class="search-box">
+    <div>
+     <input class="location" placeholder="Nhập địa điểm cần tìm" type="text"/>
+     <div class="suggesstion">
+      <div class="title">
+       Gợi ý
+      </div>
+      <ul>
+       <li>
+        <span>
+         Nhập tên đường/phố, phường/xã, quận/huyện, tỉnh/thành phố hoặc tên dự án. Ví dụ:
+         <br/>
+         <span style="color:#000000">
+          - Nguyễn Xí, Bình Thạnh
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Láng Hạ, Đống Đa
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Vũng Tàu
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Times City
+         </span>
+        </span>
+       </li>
+       <li>
+        <span>
+         Phải chọn các gợi ý chúng tôi đề xuất bên dưới để kết quả chính xác
+        </span>
+       </li>
+       <li>
+        <span>
+         Nếu không nhập địa điểm ở đây, Quý vị có thể chọn lựa khu vực bằng các ô phía dưới trong công cụ tìm kiếm này
+        </span>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="demand-container">
+     <div class="text">
+      Cần bán
+     </div>
+     <div class="view">
+      <div>
+       <ul>
+        <li name="can-ban">
+         Cần bán
+        </li>
+        <li name="cho-thue">
+         Cho thuê
+        </li>
+        <li name="can-mua">
+         Cần mua
+        </li>
+        <li name="can-thue">
+         Cần thuê
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="property-type-container multicolumns">
+     <div class="text">
+      Nhà mặt tiền
+     </div>
+     <div class="view">
+      <span class="exit">
+       Loại bất động sản
+      </span>
+      <div>
+       <ul>
+        <li name="nha">
+         NHÀ
+        </li>
+        <li name="nha-mat-tien" style="text-indent:20px;">
+         Nhà mặt tiền
+        </li>
+        <li name="nha-trong-hem" style="text-indent:20px;">
+         Nhà trong hẻm
+        </li>
+        <li name="biet-thu-nha-lien-ke">
+         Biệt thự, nhà liền kề
+        </li>
+        <li name="can-ho-chung-cu">
+         Căn hộ chung cư
+        </li>
+        <li name="phong-tro-nha-tro">
+         Phòng trọ, nhà trọ
+        </li>
+       </ul>
+       <ul>
+        <li name="van-phong">
+         Văn phòng
+        </li>
+        <li name="kho-xuong">
+         Kho, xưởng
+        </li>
+        <li name="nha-hang-khach-san">
+         Nhà hàng, khách sạn
+        </li>
+        <li name="shop-kiot-quan">
+         Shop, kiot, quán
+        </li>
+        <li name="trang-trai">
+         Trang trại
+        </li>
+       </ul>
+       <ul>
+        <li name="mat-bang">
+         Mặt bằng
+        </li>
+        <li name="dat-tho-cu-dat-o" style="font-weight:bold">
+         Đất thổ cư, đất ở
+        </li>
+        <li name="dat-nen-lien-ke-dat-du-an">
+         Đất nền, liền kề, đất dự án
+        </li>
+        <li name="dat-nong-lam-nghiep">
+         Đất nông, lâm nghiệp
+        </li>
+        <li name="cac-loai-khac">
+         Các loại khác
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="province-container multicolumns">
+     <div class="text" name="0">
+      --- Tỉnh/Thành --
+     </div>
+     <div class="view">
+      <span class="exit">
+       Tỉnh/Thành
+      </span>
+      <div>
+       <ul>
+        <h3>
+         Miền Nam
+        </h3>
+        <li name="2">
+         Hồ Chí Minh
+        </li>
+        <li name="7">
+         Bà Rịa-Vũng Tàu
+        </li>
+        <li name="14">
+         Bình Dương
+        </li>
+        <li name="23">
+         Đồng Nai
+        </li>
+        <li name="5">
+         Cần Thơ
+        </li>
+        <li name="39">
+         Long An
+        </li>
+        <li name="6">
+         An Giang
+        </li>
+        <li name="8">
+         Bạc Liêu
+        </li>
+        <li name="13">
+         Bến Tre
+        </li>
+        <li name="16">
+         Bình Phước
+        </li>
+        <li name="18">
+         Cà Mau
+        </li>
+        <li name="20">
+         Đắk Lắk
+        </li>
+        <li name="21">
+         Đăk Nông
+        </li>
+        <li name="24">
+         Đồng Tháp
+        </li>
+        <li name="25">
+         Gia Lai
+        </li>
+        <li name="29">
+         Hậu Giang
+        </li>
+        <li name="33">
+         Kiên Giang
+        </li>
+        <li name="34">
+         Kon Tum
+        </li>
+        <li name="36">
+         Lâm Đồng
+        </li>
+        <li name="51">
+         Sóc Trăng
+        </li>
+        <li name="53">
+         Tây Ninh
+        </li>
+        <li name="58">
+         Tiền Giang
+        </li>
+        <li name="59">
+         Trà Vinh
+        </li>
+        <li name="61">
+         Vĩnh Long
+        </li>
+       </ul>
+       <ul>
+        <h3>
+         Miền Trung
+        </h3>
+        <li name="15">
+         Bình Định
+        </li>
+        <li name="17">
+         Bình Thuận
+        </li>
+        <li name="3">
+         Đà Nẵng
+        </li>
+        <li name="28">
+         Hà Tĩnh
+        </li>
+        <li name="57">
+         Thừa Thiên-Huế
+        </li>
+        <li name="32">
+         Khánh Hòa
+        </li>
+        <li name="41">
+         Nghệ An
+        </li>
+        <li name="43">
+         Ninh Thuận
+        </li>
+        <li name="45">
+         Phú Yên
+        </li>
+        <li name="46">
+         Quảng Bình
+        </li>
+        <li name="47">
+         Quảng Nam
+        </li>
+        <li name="48">
+         Quảng Ngãi
+        </li>
+        <li name="50">
+         Quảng Trị
+        </li>
+       </ul>
+       <ul>
+        <h3>
+         Miền Bắc
+        </h3>
+        <li name="1">
+         Hà Nội
+        </li>
+        <li name="11">
+         Hải Dương
+        </li>
+        <li name="4">
+         Hải Phòng
+        </li>
+        <li name="9">
+         Bắc Kạn
+        </li>
+        <li name="10">
+         Bắc Giang
+        </li>
+        <li name="12">
+         Bắc Ninh
+        </li>
+        <li name="19">
+         Cao Bằng
+        </li>
+        <li name="22">
+         Điện Biên
+        </li>
+        <li name="26">
+         Hà Giang
+        </li>
+        <li name="27">
+         Hà Nam
+        </li>
+        <li name="30">
+         Hòa Bình
+        </li>
+        <li name="31">
+         Hưng Yên
+        </li>
+        <li name="37">
+         Lạng Sơn
+        </li>
+        <li name="38">
+         Lào Cai
+        </li>
+        <li name="35">
+         Lai Châu
+        </li>
+        <li name="40">
+         Nam Định
+        </li>
+        <li name="42">
+         Ninh Bình
+        </li>
+        <li name="44">
+         Phú Thọ
+        </li>
+        <li name="49">
+         Quảng Ninh
+        </li>
+        <li name="52">
+         Sơn La
+        </li>
+        <li name="54">
+         Thái Bình
+        </li>
+        <li name="55">
+         Thái Nguyên
+        </li>
+        <li name="56">
+         Thanh Hóa
+        </li>
+        <li name="60">
+         Tuyên Quang
+        </li>
+        <li name="62">
+         Vĩnh Phúc
+        </li>
+        <li name="63">
+         Yên Bái
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="district-container multicolumns">
+     <div class="text" name="0">
+      --- Quận/Huyện ---
+     </div>
+     <div class="view">
+      <span class="exit">
+       Quận/Huyện
+      </span>
+      <div class="district">
+      </div>
+      <div class="ajax-loading">
+      </div>
+     </div>
+    </div>
+    <div class="price-container multicolumns">
+     <div class="text" name="0">
+      ---------- Giá --------
+     </div>
+     <div class="view">
+      <span class="exit">
+       Mức giá
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         0 - 1 triệu
+        </li>
+        <li name="2">
+         1 - 3 triệu
+        </li>
+        <li name="3">
+         3 - 5 triệu
+        </li>
+        <li name="4">
+         5 - 10 triệu
+        </li>
+        <li name="5">
+         10 - 15 triệu
+        </li>
+        <li name="6">
+         15 - 20 triệu
+        </li>
+        <li name="7">
+         20 - 30 triệu
+        </li>
+        <li name="8">
+         30 - 40 triệu
+        </li>
+        <li name="9">
+         40 - 60 triệu
+        </li>
+       </ul>
+       <ul>
+        <li name="10">
+         60 - 80 triệu
+        </li>
+        <li name="11">
+         80 - 100 triệu
+        </li>
+        <li name="12">
+         100 - 300 triệu
+        </li>
+        <li name="13">
+         300 - 500 triệu
+        </li>
+        <li name="14">
+         500 - 800 triệu
+        </li>
+        <li name="15">
+         800 - 1 tỷ
+        </li>
+        <li name="16">
+         1 - 2 tỷ
+        </li>
+        <li name="17">
+         2 - 3 tỷ
+        </li>
+        <li name="18">
+         3 - 4 tỷ
+        </li>
+       </ul>
+       <ul>
+        <li name="19">
+         4 - 6 tỷ
+        </li>
+        <li name="20">
+         6 - 8 tỷ
+        </li>
+        <li name="21">
+         8 - 10 tỷ
+        </li>
+        <li name="22">
+         10 - 15 tỷ
+        </li>
+        <li name="23">
+         15 - 20 tỷ
+        </li>
+        <li name="24">
+         20 - 30 tỷ
+        </li>
+        <li name="25">
+         30 - 60 tỷ
+        </li>
+        <li name="26">
+         Trên 60 tỷ
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="square-container multicolumns">
+     <div class="text" name="0">
+      ----- Diện tích ---
+     </div>
+     <div class="view">
+      <span class="exit">
+       Diện tích
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         0 - 30m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="2">
+         30 - 50m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="3">
+         50 - 70m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="4">
+         70 - 100m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="5">
+         100 - 150m
+         <sup>
+          2
+         </sup>
+        </li>
+       </ul>
+       <ul>
+        <li name="6">
+         150 - 200
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="7">
+         200 - 250m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="8">
+         250 - 300m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="9">
+         300 - 350m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="10">
+         350 - 400m
+         <sup>
+          2
+         </sup>
+        </li>
+       </ul>
+       <ul>
+        <li name="11">
+         400 - 600m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="12">
+         600 - 800m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="13">
+         800 - 1000m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="14">
+         Trên 1000m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="direct-container multicolumns">
+     <div class="text" name="0">
+      ------ Hướng -----
+     </div>
+     <div class="view">
+      <span class="exit">
+       Hướng
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         Đông
+        </li>
+        <li name="6">
+         Đông Bắc
+        </li>
+        <li name="5">
+         Đông Nam
+        </li>
+       </ul>
+       <ul>
+        <li name="2">
+         Tây
+        </li>
+        <li name="8">
+         Tây Bắc
+        </li>
+        <li name="7">
+         Tây Nam
+        </li>
+       </ul>
+       <ul>
+        <li name="3">
+         Nam
+        </li>
+        <li name="4">
+         Bắc
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="button-search">
+     Tìm nhanh
+    </div>
+    <div class="advanced-search">
+     <a href="/tim-kiem-nang-cao.html" rel="nofollow">
+      Tìm kiếm nâng cao
+     </a>
+    </div>
+   </div>
+   <div class="banner-center">
+   </div>
+   <div class="right-navigation-box">
+    <div class="item groupbydistrict">
+     <div class="title">
+      <h2 id="ctl00_content_groupByPropertyDistrictTitle">
+       Bán nhà tại Đà Nẵng
+      </h2>
+     </div>
+     <div class="content" id="ctl00_content_groupByPropertyDistrict">
+      <ul>
+       <li>
+        <a href="/nha-dat/can-ban/nha-trong-hem/da-nang/584/quan-hai-chau.html" title="Ban nha Quan Hai Chau">
+         Bán nhà
+         <b>
+          Quận Hải Châu
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-trong-hem/da-nang/585/quan-thanh-khe.html" title="Ban nha Quan Thanh Khe">
+         Bán nhà
+         <b>
+          Quận Thanh Khê
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-trong-hem/da-nang/586/quan-son-tra.html" title="Ban nha Quan Son Tra">
+         Bán nhà
+         <b>
+          Quận Sơn Trà
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-trong-hem/da-nang/587/quan-ngu-hanh-son.html" title="Ban nha Quan Ngu Hanh Son">
+         Bán nhà
+         <b>
+          Quận Ngũ Hành Sơn
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-trong-hem/da-nang/588/quan-lien-chieu.html" title="Ban nha Quan Lien Chieu">
+         Bán nhà
+         <b>
+          Quận Liên Chiểu
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-trong-hem/da-nang/589/quan-cam-le.html" title="Ban nha Quan Cam Le">
+         Bán nhà
+         <b>
+          Quận Cẩm Lệ
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-trong-hem/da-nang/590/huyen-hoa-vang.html" title="Ban nha Huyen Hoa Vang">
+         Bán nhà
+         <b>
+          Huyện Hòa Vang
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-trong-hem/da-nang/712/huyen-hoang-sa.html" title="Ban nha Huyen Hoang Sa">
+         Bán nhà
+         <b>
+          Huyện Hoàng Sa
+         </b>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!--right-->
+  <div class="clear">
+  </div>
+ </div>
+</div>

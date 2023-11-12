@@ -394,14 +394,14 @@ Cảm ơn quý cô chú anh chị đã xem tin.
     <div class="content" id="ctl00_content_randomvip">
      <div class="item">
       <div class="thumbnail">
-       <a href="/ban-nha-mt-d-au-co-p-hoa-khanh-bac-q-lien-chieu-145-m2-gia-4-9-ty-tl--13416472.html">
-        <img alt="Bán nhà MT, Đ. Âu Cơ, P. Hòa Khánh Bắc, Q. Liên Chiểu 145 m2 giá 4.9 tỷ TL;" src="/files/properties/2023/9/19/thumbnails/013416472-2541-ban-nha-mat-tien-quan-lien-chieu-gia-re.jpg"/>
+       <a href="/ban-toa-can-ho-5-tang-duong-7-5m-pham-dinh-ho-lien-chieu-cach-bien-nguyen-tat-thanh-15-13421983.html">
+        <img alt="Bán tòa căn hộ 5 tầng đường (7,5m) Phạm Đình Hổ, Liên Chiểu. Cách biển Nguyễn Tất Thành 15" src="/files/properties/2023/9/20/thumbnails/013421983-3644-ban-nha-mat-tien-da-nang.jpg"/>
        </a>
       </div>
       <div class="text">
        <div class="ct_title">
-        <a href="/ban-nha-mt-d-au-co-p-hoa-khanh-bac-q-lien-chieu-145-m2-gia-4-9-ty-tl--13416472.html">
-         Bán nhà MT, Đ. Âu Cơ, P. Hòa Khánh Bắc, Q. Liên Chiểu 145 m2 giá 4.9 tỷ TL;
+        <a href="/ban-toa-can-ho-5-tang-duong-7-5m-pham-dinh-ho-lien-chieu-cach-bien-nguyen-tat-thanh-15-13421983.html">
+         Bán tòa căn hộ 5 tầng đường (7,5m) Phạm Đình Hổ, Liên Chiểu. Cách biển Nguyễn Tất Thành 15
         </a>
        </div>
        <div>
@@ -409,13 +409,60 @@ Cảm ơn quý cô chú anh chị đã xem tin.
          <label>
           Giá:
          </label>
-         4,9 tỷ
+         6,9 tỷ
         </div>
         <div class="ct_dt">
          <label>
           DT:
          </label>
-         145 m
+         88 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Liên Chiểu
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 8m">
+        8m
+       </span>
+       <span class="floors" title="5 lầu">
+        5 lầu
+       </span>
+       <span class="bedroom" title="12 phòng ngủ">
+        12 pn
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-lo-dat-kem-nha-cap-4-mt-ngoc-hoi-re-nhat-khu-vuc-q-lien-chieu-dt-75m2-gia-3-ty-415-13421800.html">
+        <img alt="Bán lô đất kèm nhà cấp 4 MT Ngọc Hồi, rẻ nhất khu vực, Q Liên Chiểu, DT 75m2 giá 3 tỷ 415" src="/files/properties/2023/9/20/thumbnails/013421800-0536-ban-nha-mat-tien-da-nang-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-lo-dat-kem-nha-cap-4-mt-ngoc-hoi-re-nhat-khu-vuc-q-lien-chieu-dt-75m2-gia-3-ty-415-13421800.html">
+         Bán lô đất kèm nhà cấp 4 MT Ngọc Hồi, rẻ nhất khu vực, Q Liên Chiểu, DT 75m2 giá 3 tỷ 415
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,415 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         75 m
          <sup>
           2
          </sup>
@@ -431,306 +478,15 @@ Cảm ơn quý cô chú anh chị đã xem tin.
        <span class="road-width" title="Đường trước nhà 6m">
         6m
        </span>
-       <span class="floors" title="2 lầu">
-        2 lầu
-       </span>
-       <span class="bedroom" title="2 phòng ngủ">
-        2 pn
-       </span>
-      </div>
-     </div>
-     <div class="item extracolor">
-      <div class="thumbnail">
-       <a href="/-nguyen-huy-tuong-mat-tien-kinh-doanh-vip-chi-4ty1--13257609.html">
-        <img alt="😍😍 Nguyễn Huy Tưởng - Mặt tiền kinh doanh VIP chỉ 3ty9" src="/files/properties/2023/8/10/thumbnails/013257609-5145-ban-nha-mat-tien-da-nang-gia-re.jpg"/>
-       </a>
-      </div>
-      <div class="text">
-       <div class="ct_title">
-        <a href="/-nguyen-huy-tuong-mat-tien-kinh-doanh-vip-chi-4ty1--13257609.html">
-         😍😍 Nguyễn Huy Tưởng - Mặt tiền kinh doanh VIP chỉ 3ty9
-        </a>
-       </div>
-       <div>
-        <div class="ct_price">
-         <label>
-          Giá:
-         </label>
-         3,9 tỷ
-        </div>
-        <div class="ct_dt">
-         <label>
-          DT:
-         </label>
-         82 m
-         <sup>
-          2
-         </sup>
-        </div>
-        <div class="clear">
-        </div>
-       </div>
-       <div class="ct_dis">
-        Quận Liên Chiểu
-       </div>
-      </div>
-      <div class="characteristics">
-       <span class="road-width" title="Đường trước nhà 7,5m">
-        7,5m
-       </span>
-       <span class="floors" title="1 lầu">
-        1 lầu
-       </span>
-       <span class="bedroom" title="2 phòng ngủ">
-        2 pn
-       </span>
-       <span class="parking" title="có chỗ để ô tô">
-       </span>
-      </div>
-     </div>
-     <div class="item extracolor">
-      <div class="thumbnail">
-       <a href="/giam-soc-ban-nha-mat-tien-nguyen-huy-tuong-82m2-2-tang-gia-chi-4-7-ty--12726456.html">
-        <img alt="Giảm sốc, bán nhà mặt tiền NGuyễn Huy Tưởng, 82m2, 2 Tầng, Giá chỉ 3,9 tỷ." src="/files/properties/2023/4/12/thumbnails/012726456-0332-ban-nha-mat-tien-quan-lien-chieu-chinh-chu.jpg"/>
-       </a>
-      </div>
-      <div class="text">
-       <div class="ct_title">
-        <a href="/giam-soc-ban-nha-mat-tien-nguyen-huy-tuong-82m2-2-tang-gia-chi-4-7-ty--12726456.html">
-         Giảm sốc, bán nhà mặt tiền NGuyễn Huy Tưởng, 82m2, 2 Tầng, Giá chỉ 3,9 tỷ.
-        </a>
-       </div>
-       <div>
-        <div class="ct_price">
-         <label>
-          Giá:
-         </label>
-         3,9 tỷ
-        </div>
-        <div class="ct_dt">
-         <label>
-          DT:
-         </label>
-         82 m
-         <sup>
-          2
-         </sup>
-        </div>
-        <div class="clear">
-        </div>
-       </div>
-       <div class="ct_dis">
-        Quận Liên Chiểu
-       </div>
-      </div>
-      <div class="characteristics">
-       <span class="road-width" title="Đường trước nhà 7,5m">
-        7,5m
-       </span>
-       <span class="floors" title="2 lầu">
-        2 lầu
-       </span>
-       <span class="bedroom" title="3 phòng ngủ">
-        3 pn
-       </span>
-      </div>
-     </div>
-     <div class="item">
-      <div class="thumbnail">
-       <a href="/ban-nha-3-tang-tran-minh-tong-hoa-minh-lien-chieu-funll-noi-that-13133948.html">
-        <img alt="Bán nhà 3 tầng TRẦN MINH TÔNG  - hòa minh - Liên Chiểu.  Funll nội thất" src="/files/properties/2023/8/21/thumbnails/013133948-0009-ban-nha-mat-tien-quan-lien-chieu-gia-re.jpg"/>
-       </a>
-      </div>
-      <div class="text">
-       <div class="ct_title">
-        <a href="/ban-nha-3-tang-tran-minh-tong-hoa-minh-lien-chieu-funll-noi-that-13133948.html">
-         Bán nhà 3 tầng TRẦN MINH TÔNG  - hòa minh - Liên Chiểu.  Funll nội thất
-        </a>
-       </div>
-       <div>
-        <div class="ct_price">
-         <label>
-          Giá:
-         </label>
-         6,5 tỷ
-        </div>
-        <div class="ct_dt">
-         <label>
-          DT:
-         </label>
-         105 m
-         <sup>
-          2
-         </sup>
-        </div>
-        <div class="clear">
-        </div>
-       </div>
-       <div class="ct_dis">
-        Quận Liên Chiểu
-       </div>
-      </div>
-      <div class="characteristics">
-       <span class="road-width" title="Đường trước nhà 7,5m">
-        7,5m
-       </span>
-       <span class="floors" title="3 lầu">
-        3 lầu
-       </span>
-       <span class="bedroom" title="4 phòng ngủ">
-        4 pn
-       </span>
-       <span class="parking" title="có chỗ để ô tô">
-       </span>
-      </div>
-     </div>
-     <div class="item">
-      <div class="thumbnail">
-       <a href="/-ban-gap-nha-mat-tien-nguyen-xi-3-tang-dt-125m2-gia-chi-5-9-ty-13419616.html">
-        <img alt="🔥Bán gấp nhà mặt tiền Nguyễn Xí, 3 tầng, DT 125m2 giá chỉ 5,9 tỷ" src="/files/properties/2023/9/20/thumbnails/013419616-1407-ban-nha-mat-tien-quan-lien-chieu.jpg"/>
-       </a>
-      </div>
-      <div class="text">
-       <div class="ct_title">
-        <a href="/-ban-gap-nha-mat-tien-nguyen-xi-3-tang-dt-125m2-gia-chi-5-9-ty-13419616.html">
-         🔥Bán gấp nhà mặt tiền Nguyễn Xí, 3 tầng, DT 125m2 giá chỉ 5,9 tỷ
-        </a>
-       </div>
-       <div>
-        <div class="ct_price">
-         <label>
-          Giá:
-         </label>
-         5,9 tỷ
-        </div>
-        <div class="ct_dt">
-         <label>
-          DT:
-         </label>
-         125 m
-         <sup>
-          2
-         </sup>
-        </div>
-        <div class="clear">
-        </div>
-       </div>
-       <div class="ct_dis">
-        Quận Liên Chiểu
-       </div>
-      </div>
-      <div class="characteristics">
-       <span class="road-width" title="Đường trước nhà 7,5m">
-        7,5m
-       </span>
-       <span class="floors" title="2 lầu">
-        2 lầu
-       </span>
-       <span class="bedroom" title="4 phòng ngủ">
-        4 pn
-       </span>
-      </div>
-     </div>
-     <div class="item extracolor">
-      <div class="thumbnail">
-       <a href="/so-huu-cua-hang-kinh-doanh-tai-khu-to-hop-cu-dan-the-ori-hot-nhat-tay-bac-13308654.html">
-        <img alt="Sở Hữu Cửa Hàng Kinh Doanh Tại Khu Tổ Hợp Cư Dân The Ori Hot Nhất Tây Bắc" src="/files/properties/2023/8/23/thumbnails/013308654-0543-ban-nha-mat-tien-quan-lien-chieu-gia-re.jpg"/>
-       </a>
-      </div>
-      <div class="text">
-       <div class="ct_title">
-        <a href="/so-huu-cua-hang-kinh-doanh-tai-khu-to-hop-cu-dan-the-ori-hot-nhat-tay-bac-13308654.html">
-         Sở Hữu Cửa Hàng Kinh Doanh Tại Khu Tổ Hợp Cư Dân The Ori Hot Nhất Tây Bắc
-        </a>
-       </div>
-       <div>
-        <div class="ct_price">
-         <label>
-          Giá:
-         </label>
-         700 triệu / m
-         <sup>
-          2
-         </sup>
-        </div>
-        <div class="ct_dt">
-         <label>
-          DT:
-         </label>
-         50 m
-         <sup>
-          2
-         </sup>
-        </div>
-        <div class="clear">
-        </div>
-       </div>
-       <div class="ct_dis">
-        Quận Liên Chiểu
-       </div>
-      </div>
-      <div class="characteristics">
-       <span class="road-width" title="Đường trước nhà 7,5m">
-        7,5m
-       </span>
        <span class="floors" title="1 lầu">
         1 lầu
        </span>
        <span class="bedroom" title="1 phòng ngủ">
         1 pn
        </span>
-       <span class="parking" title="có chỗ để ô tô">
-       </span>
       </div>
      </div>
      <div class="item extracolor">
-      <div class="thumbnail">
-       <a href="/-ban-nha-3-tang-moi-duong-7m5-nguyen-xi-hoa-minh-lien-chieu-125m2-gia-5-95-ty--13416376.html">
-        <img alt="-	Bán nhà 3 tầng mới đường ( 7m5) Nguyễn Xí, Hòa Minh, Liên Chiểu. 125m2- Giá 5.95 Tỷ." src="/files/properties/2023/9/19/thumbnails/013416376-1214-ban-nha-mat-tien-da-nang-gia-re.jpg"/>
-       </a>
-      </div>
-      <div class="text">
-       <div class="ct_title">
-        <a href="/-ban-nha-3-tang-moi-duong-7m5-nguyen-xi-hoa-minh-lien-chieu-125m2-gia-5-95-ty--13416376.html">
-         -	Bán nhà 3 tầng mới đường ( 7m5) Nguyễn Xí, Hòa Minh, Liên Chiểu. 125m2- Giá 5.95 Tỷ.
-        </a>
-       </div>
-       <div>
-        <div class="ct_price">
-         <label>
-          Giá:
-         </label>
-         5,95 tỷ
-        </div>
-        <div class="ct_dt">
-         <label>
-          DT:
-         </label>
-         125 m
-         <sup>
-          2
-         </sup>
-        </div>
-        <div class="clear">
-        </div>
-       </div>
-       <div class="ct_dis">
-        Quận Liên Chiểu
-       </div>
-      </div>
-      <div class="characteristics">
-       <span class="road-width" title="Đường trước nhà 7m">
-        7m
-       </span>
-       <span class="floors" title="3 lầu">
-        3 lầu
-       </span>
-       <span class="bedroom" title="3 phòng ngủ">
-        3 pn
-       </span>
-      </div>
-     </div>
-     <div class="item">
       <div class="thumbnail">
        <a href="/ban-dat-tang-nha-cap-4-doi-dien-cong-truoc-cho-hoa-khanh-120m2-6-ti1-da-giam-xuong-con-4-13408147.html">
         <img alt="Bán đất tặng nhà cấp 4.đối diện cổng trước, Chợ Hòa Khánh 120m2.6 tỉ1. Đã giảm xuống còn 4" src="/files/properties/2023/9/17/thumbnails/013408147-1456-ban-nha-mat-tien-da-nang-gia-re.jpg"/>
@@ -781,14 +537,14 @@ Cảm ơn quý cô chú anh chị đã xem tin.
      </div>
      <div class="item">
       <div class="thumbnail">
-       <a href="/ban-nha-mat-tien-duong-nguyen-luong-bang-quan-lien-chieu-dt-125m2-gia-5-8-ty-12976978.html">
-        <img alt="Bán nhà mặt tiền đường Nguyễn Lương Bằng, gần Phan Văn Định, DT: 5x25m, Giá chỉ: 5 Tỷ 1" src="/files/properties/2023/8/8/thumbnails/012976978-0723-ban-nha-mat-tien-da-nang-gia-re.jpg"/>
+       <a href="/giam-soc-ban-nha-mat-tien-nguyen-huy-tuong-82m2-2-tang-gia-chi-4-7-ty--12726456.html">
+        <img alt="Giảm sốc, bán nhà mặt tiền NGuyễn Huy Tưởng, 82m2, 2 Tầng, Giá chỉ 3,9 tỷ." src="/files/properties/2023/4/12/thumbnails/012726456-0332-ban-nha-mat-tien-quan-lien-chieu-chinh-chu.jpg"/>
        </a>
       </div>
       <div class="text">
        <div class="ct_title">
-        <a href="/ban-nha-mat-tien-duong-nguyen-luong-bang-quan-lien-chieu-dt-125m2-gia-5-8-ty-12976978.html">
-         Bán nhà mặt tiền đường Nguyễn Lương Bằng, gần Phan Văn Định, DT: 5x25m, Giá chỉ: 5 Tỷ 1
+        <a href="/giam-soc-ban-nha-mat-tien-nguyen-huy-tuong-82m2-2-tang-gia-chi-4-7-ty--12726456.html">
+         Giảm sốc, bán nhà mặt tiền NGuyễn Huy Tưởng, 82m2, 2 Tầng, Giá chỉ 3,9 tỷ.
         </a>
        </div>
        <div>
@@ -796,7 +552,101 @@ Cảm ơn quý cô chú anh chị đã xem tin.
          <label>
           Giá:
          </label>
-         5,1 tỷ
+         3,9 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         82 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Liên Chiểu
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 7,5m">
+        7,5m
+       </span>
+       <span class="floors" title="2 lầu">
+        2 lầu
+       </span>
+       <span class="bedroom" title="3 phòng ngủ">
+        3 pn
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/ban-biet-thu-3tang-duong-7-5m-pham-dinh-ho-lien-chieu-sat-bien-nguyen-tat-thanh-140m2--13421834.html">
+        <img alt="Bán biệt thự 3tầng đường(7,5m)Phạm Đình Hổ, Liên Chiểu, sát biển Nguyễn Tất Thành. 140m2." src="/files/properties/2023/9/20/thumbnails/013421834-1101-ban-nha-mat-tien-da-nang-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-biet-thu-3tang-duong-7-5m-pham-dinh-ho-lien-chieu-sat-bien-nguyen-tat-thanh-140m2--13421834.html">
+         Bán biệt thự 3tầng đường(7,5m)Phạm Đình Hổ, Liên Chiểu, sát biển Nguyễn Tất Thành. 140m2.
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         6,8 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         140 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Liên Chiểu
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 8m">
+        8m
+       </span>
+       <span class="floors" title="3 lầu">
+        3 lầu
+       </span>
+       <span class="bedroom" title="5 phòng ngủ">
+        5 pn
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-mat-tien-kinh-doanh-sieu-khung-8tyxx-125m2-ngang5m-ton-duc-thang-2-tang-xac-ben-xe-11449186.html">
+        <img alt="BÁN MẶT TIỀN _KINH DOANH SIÊU KHỦNG 7TỶXX_125M2_NGANG5M_TÔN ĐỨC THẮNG _2 TẦNG_XÁC BẾN XE" src="/files/properties/2022/10/2/thumbnails/011449186-3551-ban-nha-mat-tien-da-nang-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-mat-tien-kinh-doanh-sieu-khung-8tyxx-125m2-ngang5m-ton-duc-thang-2-tang-xac-ben-xe-11449186.html">
+         BÁN MẶT TIỀN _KINH DOANH SIÊU KHỦNG 7TỶXX_125M2_NGANG5M_TÔN ĐỨC THẮNG _2 TẦNG_XÁC BẾN XE
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         7,9 tỷ
         </div>
         <div class="ct_dt">
          <label>
@@ -815,8 +665,155 @@ Cảm ơn quý cô chú anh chị đã xem tin.
        </div>
       </div>
       <div class="characteristics">
-       <span class="road-width" title="Đường trước nhà 30m">
-        30m
+       <span class="road-width" title="Đường trước nhà 10m">
+        10m
+       </span>
+       <span class="floors" title="2 lầu">
+        2 lầu
+       </span>
+       <span class="bedroom" title="3 phòng ngủ">
+        3 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-nha-mat-pho-duong-nguyen-nhu-hanh-p-hoa-minh-q-lien-chieu-dt-54m2-gia-2-89-ty-13420813.html">
+        <img alt="Bán nhà mặt phố đường Nguyễn Như Hạnh, P. Hòa Minh, Q. Liên Chiểu. DT: 54m2, giá 2,89 tỷ" src="/files/properties/2023/9/20/thumbnails/013420813-0001-ban-nha-mat-tien-quan-lien-chieu-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-nha-mat-pho-duong-nguyen-nhu-hanh-p-hoa-minh-q-lien-chieu-dt-54m2-gia-2-89-ty-13420813.html">
+         Bán nhà mặt phố đường Nguyễn Như Hạnh, P. Hòa Minh, Q. Liên Chiểu. DT: 54m2, giá 2,89 tỷ
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         2,89 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         54 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Liên Chiểu
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 7,5m">
+        7,5m
+       </span>
+       <span class="floors" title="2 lầu">
+        2 lầu
+       </span>
+       <span class="bedroom" title="3 phòng ngủ">
+        3 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/nha-3-tang-mat-tien-ton-duc-thang-ngang-6m-doan-nga-3-hoang-van-thai-gia-ban-4-xx-ty-13422146.html">
+        <img alt="Nhà 3 tầng mặt tiền Tôn Đức Thằng ngang 6m đoạn ngã 3 Hoàng Văn Thái. Giá Bán: 4.xx tỷ" src="/files/properties/2023/9/20/thumbnails/013422146-1245-nha-3-tang-mat-tien-ton-duc-thang-ngang-6m-doan-nga-3-hoang-van-thai-gia-ban-4-xx-ty.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/nha-3-tang-mat-tien-ton-duc-thang-ngang-6m-doan-nga-3-hoang-van-thai-gia-ban-4-xx-ty-13422146.html">
+         Nhà 3 tầng mặt tiền Tôn Đức Thằng ngang 6m đoạn ngã 3 Hoàng Văn Thái. Giá Bán: 4.xx tỷ
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         4,9 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         50 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Liên Chiểu
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 33m">
+        33m
+       </span>
+       <span class="floors" title="3 lầu">
+        3 lầu
+       </span>
+       <span class="bedroom" title="3 phòng ngủ">
+        3 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/-ban-nha-cap-4-duong-bau-nang-3-tinh-dat-gia-3-ty-750-tl-13250197.html">
+        <img alt="🍀Bán nhà cấp 4 đường BÀU NĂNG 3 - Tính đất - Giá 3 tỷ 4 tl" src="/files/properties/2023/8/9/thumbnails/013250197-5455--ban-nha-cap-4-duong-bau-nang-3-tinh-dat-gia-3-ty-750-tl.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/-ban-nha-cap-4-duong-bau-nang-3-tinh-dat-gia-3-ty-750-tl-13250197.html">
+         🍀Bán nhà cấp 4 đường BÀU NĂNG 3 - Tính đất - Giá 3 tỷ 4 tl
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         3,4 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         90 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Liên Chiểu
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 7,5m">
+        7,5m
        </span>
        <span class="floors" title="1 lầu">
         1 lầu
@@ -830,14 +827,14 @@ Cảm ơn quý cô chú anh chị đã xem tin.
      </div>
      <div class="item extracolor">
       <div class="thumbnail">
-       <a href="/nha-2-tang-dep-2pn-gia-qua-re-cach-bien-1km-tai-khu-do-thi-sinh-thai-gllolden-hills-13418780.html">
-        <img alt="NHÀ 2 TẦNG ĐẸP 2PN GIÁ QUÁ RẺ,  CÁCH BIỂN 1KM TẠI KHU ĐÔ THỊ SINH THÁI GLLOLDEN HILLS" src="/files/properties/2023/9/20/thumbnails/013418780-3958-ban-nha-mat-tien-da-nang-gia-re.jpg"/>
+       <a href="/-ban-nha-mt-bau-nang-3-dt-90m2-3-5-ty-tl-duong-7m5-13373781.html">
+        <img alt="🏩 Bán nhà MT Bàu Năng 3 dt 90m2, 3.4 tỷ tl, đường 7m5" src="/files/properties/2023/9/9/thumbnails/013373781-3315-ban-nha-mat-tien-da-nang-gia-re.jpg"/>
        </a>
       </div>
       <div class="text">
        <div class="ct_title">
-        <a href="/nha-2-tang-dep-2pn-gia-qua-re-cach-bien-1km-tai-khu-do-thi-sinh-thai-gllolden-hills-13418780.html">
-         NHÀ 2 TẦNG ĐẸP 2PN GIÁ QUÁ RẺ,  CÁCH BIỂN 1KM TẠI KHU ĐÔ THỊ SINH THÁI GLLOLDEN HILLS
+        <a href="/-ban-nha-mt-bau-nang-3-dt-90m2-3-5-ty-tl-duong-7m5-13373781.html">
+         🏩 Bán nhà MT Bàu Năng 3 dt 90m2, 3.4 tỷ tl, đường 7m5
         </a>
        </div>
        <div>
@@ -845,13 +842,13 @@ Cảm ơn quý cô chú anh chị đã xem tin.
          <label>
           Giá:
          </label>
-         3,3 tỷ
+         3,4 tỷ
         </div>
         <div class="ct_dt">
          <label>
           DT:
          </label>
-         125 m
+         90 m
          <sup>
           2
          </sup>
@@ -864,14 +861,14 @@ Cảm ơn quý cô chú anh chị đã xem tin.
        </div>
       </div>
       <div class="characteristics">
-       <span class="road-width" title="Đường trước nhà 7m">
-        7m
+       <span class="road-width" title="Đường trước nhà 5,5m">
+        5,5m
        </span>
-       <span class="floors" title="2 lầu">
-        2 lầu
+       <span class="floors" title="1 lầu">
+        1 lầu
        </span>
-       <span class="bedroom" title="3 phòng ngủ">
-        3 pn
+       <span class="bedroom" title="2 phòng ngủ">
+        2 pn
        </span>
       </div>
      </div>
@@ -888,6 +885,164 @@ Cảm ơn quý cô chú anh chị đã xem tin.
      </div>
     </div>
     <div class="content-items" id="ctl00_content_relative_property_content">
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/ban-3-tang-mt-nguyen-xi-khu-dan-tri-cao-g-ia-5ty9-sap-ham-13419955.html">
+         Bán 3 Tầng MT Nguyễn Xí Khu Dân Trí Cao. G.iá 5tỷ9 Sập Hầm
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/ban-3-tang-mt-nguyen-xi-khu-dan-tri-cao-g-ia-5ty9-sap-ham-13419955.html">
+        <img alt="Bán 3 Tầng MT Nguyễn Xí Khu Dân Trí Cao. G.iá 5tỷ9 Sập Hầm" src="/files/properties/2023/9/20/thumbnails/013419955-5519-ban-nha-mat-tien-quan-lien-chieu-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 7,5m">
+         7,5m
+        </span>
+        <span class="floors" title="3 lầu">
+         3 lầu
+        </span>
+        <span class="bedroom" title="3 phòng ngủ">
+         3 phòng ngủ
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         5x25m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         125 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         Đông Bắc
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         5,9 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-mat-tien/duong-nguyen-xi-quan-lien-chieu-dp11438.html">
+          Đường Nguyễn Xí
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-mat-tien/phuong-hoa-minh-quan-lien-chieu-px1127.html">
+          Phường Hòa Minh
+         </a>
+         , Quận Liên Chiểu, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/-ban-gap-nha-mat-tien-nguyen-xi-3-tang-dt-125m2-gia-chi-5-9-ty-13419616.html">
+         🔥Bán gấp nhà mặt tiền Nguyễn Xí, 3 tầng, DT 125m2 giá chỉ 5,9 tỷ
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/-ban-gap-nha-mat-tien-nguyen-xi-3-tang-dt-125m2-gia-chi-5-9-ty-13419616.html">
+        <img alt="🔥Bán gấp nhà mặt tiền Nguyễn Xí, 3 tầng, DT 125m2 giá chỉ 5,9 tỷ" src="/files/properties/2023/9/20/thumbnails/013419616-1407-ban-nha-mat-tien-quan-lien-chieu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 7,5m">
+         7,5m
+        </span>
+        <span class="floors" title="2 lầu">
+         2 lầu
+        </span>
+        <span class="bedroom" title="4 phòng ngủ">
+         4 phòng ngủ
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         5x25m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         125 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         5,9 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-mat-tien/duong-nguyen-xi-quan-lien-chieu-dp11438.html">
+          Đường Nguyễn Xí
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-mat-tien/phuong-hoa-minh-quan-lien-chieu-px1127.html">
+          Phường Hòa Minh
+         </a>
+         , Quận Liên Chiểu, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
      <div class="content-item">
       <div>
        <div class="ct_title">
@@ -1128,164 +1283,6 @@ Cảm ơn quý cô chú anh chị đã xem tin.
       <div class="clear">
       </div>
      </div>
-     <div class="content-item">
-      <div>
-       <div class="ct_title">
-        <a href="/can-ban-nha-3-tang-nguyen-chich-hoa-minh-sat-bien-13418166.html">
-         CẦN BÁN NHÀ 3 TẦNG, NGUYỄN CHÍCH, HOÀ MINH, SÁT BIỂN
-        </a>
-       </div>
-       <div class="ct_date">
-        Hôm nay
-       </div>
-       <div class="clear">
-       </div>
-      </div>
-      <div class="thumbnail">
-       <a href="/can-ban-nha-3-tang-nguyen-chich-hoa-minh-sat-bien-13418166.html">
-        <img alt="CẦN BÁN NHÀ 3 TẦNG, NGUYỄN CHÍCH, HOÀ MINH, SÁT BIỂN" src="/files/properties/2023/9/20/thumbnails/013418166-2033-ban-nha-mat-tien-da-nang-chinh-chu.jpg"/>
-       </a>
-      </div>
-      <div class="text">
-       <div class="characteristics">
-        <span class="road-width" title="Đường trước nhà 5,5m">
-         5,5m
-        </span>
-        <span class="floors" title="3 lầu">
-         3 lầu
-        </span>
-        <span class="bedroom" title="3 phòng ngủ">
-         3 phòng ngủ
-        </span>
-       </div>
-       <div class="square-direct">
-        <div class="ct_kt">
-         <label>
-          KT:
-         </label>
-         5x17m
-        </div>
-        <div class="ct_dt">
-         <label>
-          Diện tích:
-         </label>
-         75 m
-         <sup>
-          2
-         </sup>
-        </div>
-        <div class="ct_direct">
-         <label>
-          Hướng:
-         </label>
-         _
-        </div>
-        <div class="clear">
-        </div>
-       </div>
-       <div class="price-dis">
-        <div class="ct_price">
-         <label>
-          Giá:
-         </label>
-         4,9 tỷ
-        </div>
-        <div class="ct_dis">
-         <a href="/nha-dat/can-ban/nha-mat-tien/duong-nguyen-chich-quan-lien-chieu-dp9889.html">
-          Đường Nguyễn Chích
-         </a>
-         ,
-         <a href="/nha-dat/can-ban/nha-mat-tien/phuong-hoa-minh-quan-lien-chieu-px1127.html">
-          Phường Hòa Minh
-         </a>
-         , Quận Liên Chiểu, Đà Nẵng
-        </div>
-        <div class="clear">
-        </div>
-       </div>
-      </div>
-      <div class="clear">
-      </div>
-     </div>
-     <div class="content-item">
-      <div>
-       <div class="ct_title">
-        <a href="/ban-toa-can-ho-5-tang-mt-duong-pham-dinh-ho-lien-chieu-da-nang-thong-bien-n-t-thanh--13416321.html">
-         Bán tòa căn hộ 5 tầng MT đường Phạm Đình Hổ, Liên Chiểu, Đà Nẵng (thông biển N.T.Thành)
-        </a>
-       </div>
-       <div class="ct_date">
-        Hôm nay
-       </div>
-       <div class="clear">
-       </div>
-      </div>
-      <div class="thumbnail">
-       <a href="/ban-toa-can-ho-5-tang-mt-duong-pham-dinh-ho-lien-chieu-da-nang-thong-bien-n-t-thanh--13416321.html">
-        <img alt="Bán tòa căn hộ 5 tầng MT đường Phạm Đình Hổ, Liên Chiểu, Đà Nẵng (thông biển N.T.Thành)" src="/files/properties/2023/9/19/thumbnails/013416321-0502-ban-toa-can-ho-5-tang-mt-duong-pham-dinh-ho-lien-chieu-da-nang-thong-bien-n-t-thanh-.jpg"/>
-       </a>
-      </div>
-      <div class="text">
-       <div class="characteristics">
-        <span class="road-width" title="Đường trước nhà 7,5m">
-         7,5m
-        </span>
-        <span class="floors" title="5 lầu">
-         5 lầu
-        </span>
-        <span class="bedroom" title="8 phòng ngủ">
-         8 phòng ngủ
-        </span>
-       </div>
-       <div class="square-direct">
-        <div class="ct_kt">
-         <label>
-          KT:
-         </label>
-         5x17,5m
-        </div>
-        <div class="ct_dt">
-         <label>
-          Diện tích:
-         </label>
-         88 m
-         <sup>
-          2
-         </sup>
-        </div>
-        <div class="ct_direct">
-         <label>
-          Hướng:
-         </label>
-         _
-        </div>
-        <div class="clear">
-        </div>
-       </div>
-       <div class="price-dis">
-        <div class="ct_price">
-         <label>
-          Giá:
-         </label>
-         6,8 tỷ
-        </div>
-        <div class="ct_dis">
-         <a href="/nha-dat/can-ban/nha-mat-tien/duong-pham-dinh-ho-quan-lien-chieu-dp17130.html">
-          Đường Phạm Đình Hổ
-         </a>
-         ,
-         <a href="/nha-dat/can-ban/nha-mat-tien/phuong-hoa-khanh-nam-quan-lien-chieu-px1126.html">
-          Phường Hòa Khánh Nam
-         </a>
-         , Quận Liên Chiểu, Đà Nẵng
-        </div>
-        <div class="clear">
-        </div>
-       </div>
-      </div>
-      <div class="clear">
-      </div>
-     </div>
      <div class="viewmore">
       <a href="/nha-dat/can-ban/nha-mat-tien/da-nang/588/quan-lien-chieu.html">
        Xem thêm các tin khác
@@ -1311,7 +1308,7 @@ Cảm ơn quý cô chú anh chị đã xem tin.
         0935.282.118
        </a>
        <div class="dvviewphone">
-        <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx?a=9394" width="90"/>
+        <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx?a=3713" width="90"/>
         <input class="captcha" id="captcha_viewphone" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
         <span class="viewphone">
          (Bấm xem số điện thoại)
@@ -1332,7 +1329,7 @@ Cảm ơn quý cô chú anh chị đã xem tin.
       </div>
       <div class="view-more">
        <a href="/nha-moi-gioi/tha-389794.html">
-        Xem thêm 183 tin khác của thành viên này
+        Xem thêm 185 tin khác của thành viên này
        </a>
       </div>
      </div>

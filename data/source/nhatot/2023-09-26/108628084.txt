@@ -1,0 +1,1080 @@
+<div class="row base">
+ <div class="Styles_googleDfpAdViewTop__DsrUF text-center">
+  <div>
+   <div data-google-query-id="CMbXz6uvx4EDFYG1lgodS5sF6Q" id="rgpt-16" style="display: none;">
+    <div id="google_ads_iframe_/325540922/oneweb_des_top_adview_728x90_970x90_1__container__" style="border: 0pt none; width: 728px; height: 0px;">
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="row" style="width: 100%; overflow: auto; display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
+  <div class="col-sm-12">
+   <div>
+    <div class="BreadCrumb_wrapperOverflow__Iycpy">
+     <ol class="BreadCrumb_breadcrumb__zGT1y" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+      <li class="BreadCrumb_breadcrumbItem__M8Q4i BreadCrumb_link__KeNbI" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+       <meta content="1" itemprop="position"/>
+       <a href="https://www.nhatot.com" itemprop="item">
+        <span itemprop="name">
+         Nhà Tốt
+        </span>
+       </a>
+      </li>
+      <li class="BreadCrumb_breadcrumbItem__M8Q4i BreadCrumb_link__KeNbI" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+       <meta content="2" itemprop="position"/>
+       <a href="https://www.nhatot.com/mua-ban-dat" itemprop="item">
+        <span itemprop="name">
+         Mua bán Đất
+        </span>
+       </a>
+      </li>
+      <li class="BreadCrumb_breadcrumbItem__M8Q4i BreadCrumb_link__KeNbI" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+       <meta content="3" itemprop="position"/>
+       <a href="https://www.nhatot.com/mua-ban-dat-da-nang" itemprop="item">
+        <span itemprop="name">
+         Mua bán Đất Đà Nẵng
+        </span>
+       </a>
+      </li>
+      <li class="BreadCrumb_breadcrumbItem__M8Q4i BreadCrumb_link__KeNbI" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+       <meta content="4" itemprop="position"/>
+       <a href="https://www.nhatot.com/mua-ban-dat-quan-son-tra-da-nang" itemprop="item">
+        <span itemprop="name">
+         Mua bán Đất Quận Sơn Trà
+        </span>
+       </a>
+      </li>
+      <li class="BreadCrumb_breadcrumbItem__M8Q4i" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+       <span itemprop="name" style="color: rgb(34, 34, 34);">
+        Bán lô gần chợ chiều. Bán ngay trong ngày
+       </span>
+       <meta content="5" itemprop="position"/>
+      </li>
+     </ol>
+     <i aria-label="Prev" class="BreadCrumb_iconPrev__2wAMN false" role="button" tabindex="0">
+     </i>
+     <i aria-label="Next" class="BreadCrumb_iconNext__r0oRt BreadCrumb_iconNextActive__wem8y" role="button" tabindex="0">
+     </i>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div style="margin: 10px 0px;">
+  <div>
+  </div>
+ </div>
+ <div class="col-md-8">
+  <div class="DetailView_adviewCointainer__rdzwn">
+   <div>
+    <div class="AdImage_adImageWrapper__HkN6D" style='background-image: url("https://static.chotot.com/storage/logo/svg/chotot-logo-text.svg"); background-position: center center; background-repeat: no-repeat; background-color: rgb(238, 238, 238); background-size: 50%;'>
+     <div id="adview-carousel-placeholder" style="display: none; position: absolute; overflow: scroll; width: 100%; max-height: 450px;">
+      <img alt="https://cdn.chotot.com/TXp7l3LTtDFJIfoGb8xXywpif9QpD1SaWUCrv-ULvww/preset:view/plain/a7adaaa31abd6b9af35956751a50708c-2836431770954845611.jpg" height="auto" src="https://cdn.chotot.com/TXp7l3LTtDFJIfoGb8xXywpif9QpD1SaWUCrv-ULvww/preset:view/plain/a7adaaa31abd6b9af35956751a50708c-2836431770954845611.jpg" style="object-fit: contain;" width="100%"/>
+      <img alt="https://cdn.chotot.com/D9VcUW1XaZlMylsgUf4ageckmdu_09Uhqp7z6q_TJmE/preset:view/plain/22abf545e0e3b45dbd0f6d686afa7bf2-2836431771844103595.jpg" height="auto" src="https://cdn.chotot.com/D9VcUW1XaZlMylsgUf4ageckmdu_09Uhqp7z6q_TJmE/preset:view/plain/22abf545e0e3b45dbd0f6d686afa7bf2-2836431771844103595.jpg" style="object-fit: contain;" width="100%"/>
+      <img alt="https://cdn.chotot.com/A2Eam9Vjv25biAU7TemtpLnjhSLug-FiXI2l0sZR1kE/preset:view/plain/48c195ffd03886642120ab0be48cf8a7-2836431770439849782.jpg" height="auto" src="https://cdn.chotot.com/A2Eam9Vjv25biAU7TemtpLnjhSLug-FiXI2l0sZR1kE/preset:view/plain/48c195ffd03886642120ab0be48cf8a7-2836431770439849782.jpg" style="object-fit: contain;" width="100%"/>
+     </div>
+     <div>
+      <div class="AdImage_galleryPreview__RGawb" style="position: relative;">
+       <div class="AdImage_sliderImage__ddiFA">
+        <div class="AdImage_sliderWrapper___jIpt">
+         <div class="AdImage_imageWrapper__j1z2m">
+          <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+           <img alt="Bán lô gần chợ chiều. Bán ngay trong ngày" data-nimg="fill" decoding="async" role="presentation" src="https://cdn.chotot.com/TXp7l3LTtDFJIfoGb8xXywpif9QpD1SaWUCrv-ULvww/preset:view/plain/a7adaaa31abd6b9af35956751a50708c-2836431770954845611.jpg" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+          </span>
+         </div>
+        </div>
+       </div>
+       <span class="AdImage_imgPosition__PIaiL">
+        1 / 4
+       </span>
+      </div>
+      <div class="AdImage_gallerySlider__QeuHQ">
+       <div class="slick-slider sc-1nl301i-0 iCcejU AdImage_imageSlider__ICkDC slick-initialized">
+        <div class="slick-list">
+         <div class="slick-track" style="width: 488px; opacity: 1; transform: translate3d(0px, 0px, 0px);">
+          <div aria-hidden="false" class="slick-slide slick-active slick-current" data-index="0" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_ AdImage_sliderItemActive__BnbtB" data-index="0" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Bán lô gần chợ chiều. Bán ngay trong ngày" data-nimg="fill" decoding="async" role="presentation" src="https://cdn.chotot.com/TXp7l3LTtDFJIfoGb8xXywpif9QpD1SaWUCrv-ULvww/preset:view/plain/a7adaaa31abd6b9af35956751a50708c-2836431770954845611.jpg" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div aria-hidden="false" class="slick-slide slick-active" data-index="1" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_" data-index="1" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Bán lô gần chợ chiều. Bán ngay trong ngày" data-nimg="fill" decoding="async" role="presentation" src="https://cdn.chotot.com/D9VcUW1XaZlMylsgUf4ageckmdu_09Uhqp7z6q_TJmE/preset:view/plain/22abf545e0e3b45dbd0f6d686afa7bf2-2836431771844103595.jpg" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div aria-hidden="false" class="slick-slide slick-active" data-index="2" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_" data-index="2" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Bán lô gần chợ chiều. Bán ngay trong ngày" data-nimg="fill" decoding="async" role="presentation" src="https://cdn.chotot.com/A2Eam9Vjv25biAU7TemtpLnjhSLug-FiXI2l0sZR1kE/preset:view/plain/48c195ffd03886642120ab0be48cf8a7-2836431770439849782.jpg" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div aria-hidden="false" class="slick-slide slick-active" data-index="3" style="outline: none;" tabindex="-1">
+           <div>
+            <div class="AdImage_sliderItem__rl6i_" data-index="3" data-type="image" style="width: 100%; display: inline-block;" tabindex="-1">
+             <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+              <img alt="Bán lô gần chợ chiều. Bán ngay trong ngày" data-nimg="fill" decoding="async" role="presentation" src="https://cdn.chotot.com/A2Eam9Vjv25biAU7TemtpLnjhSLug-FiXI2l0sZR1kE/preset:view/plain/48c195ffd03886642120ab0be48cf8a7-2836431770439849782.jpg" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+             </span>
+             <div class="AdImage_sliderCtaOverlay__3LSxM">
+              <div class="AdImage_sliderCtaOverlayWrapper__6CQ9Q">
+               <img alt="" src="https://static.chotot.com/storage/chotot-icons/svg/adview-cta-button.svg"/>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="AdImage_imageCaption__aUFNp">
+      <span class="AdImage_imageCaptionText__ScM56">
+       Tin cá nhân đăng 2 tháng trước
+      </span>
+     </div>
+    </div>
+   </div>
+   <div class="DetailView_adviewPtyItem__V_sof">
+    <div class="AdDecriptionVeh_adDecriptionWrapper__bleBW">
+     <h1 class="AdDecriptionVeh_adTitle__vEuKD" itemprop="name">
+      Bán lô gần chợ chiều. Bán ngay trong ngày
+     </h1>
+     <div class="AdDecriptionVeh_priceWrapper__y7Aj6">
+      <meta content="1" itemprop="position"/>
+      <div class="AdDecriptionVeh_adPrice__UTqQV" itemprop="price">
+       <span>
+        <div>
+         <span class="AdDecriptionVeh_priceWrapper__y7Aj6 AdDecriptionVeh_priceWrapperVeh__mBdrn">
+          <span class="AdDecriptionVeh_price__u_N83">
+           <span itemprop="price">
+            2,25 tỷ
+            <span class="AdDecriptionVeh_squareMetre__eG8lb">
+             - 85 m
+             <sup>
+              2
+             </sup>
+            </span>
+           </span>
+           <span itemprop="priceCurrency" style="display: none;">
+            đ
+           </span>
+          </span>
+          <div class="AdDecriptionVeh_actionWrapper__ijwfS AdDecriptionVeh_actionWrapperVeh__qvMzX">
+           <div class="sc-i36vn2-1 gEmCbl">
+            <button type="button">
+            </button>
+            <button aria-expanded="false" aria-haspopup="true" class="styles_btnShareSocial__ARzC2" id="share_social_btn" type="button">
+             <img alt="share icon" src="https://static.chotot.com/storage/icons/svg/share-new.svg"/>
+             <span style="font-size: 12px;">
+              <!--sse-->
+              Chia sẻ
+              <!--/sse-->
+             </span>
+            </button>
+            <div aria-labelledby="share_social_btn" class="sc-i36vn2-0 ieIOfc" style="position: absolute; top: 0px; left: 0px; opacity: 0; pointer-events: none;">
+             <div style="margin-bottom: 10px;">
+              <span>
+               Chia sẻ qua:
+              </span>
+              <a class="sc-htpNat emcEhg">
+               <img alt="facebook" height="40" loading="lazy" src="https://static.chotot.com/storage/chotot-icons/svg/circle-facebook.svg" width="40"/>
+              </a>
+              <a class="sc-htpNat emcEhg">
+               <img alt="messenger" height="40" loading="lazy" src="https://static.chotot.com/storage/chotot-icons/svg/circle-messenger.svg" width="40"/>
+              </a>
+              <span class="sc-ifAKCX eGJmLz">
+               <a class="sc-htpNat emcEhg">
+                <img alt="copy" height="40" loading="lazy" src="https://static.chotot.com/storage/chotot-icons/svg/circle-copylink.svg" width="40"/>
+               </a>
+              </span>
+             </div>
+            </div>
+           </div>
+           <div class="SaveAd_saveAdWrapper___sBMh AdDecriptionVeh_saveAd__HXlG9">
+            <button class="SaveAd_btnSavedAd__jwoYd SaveAd_btnSavedAdVeh__IbhEh" id="btn_save_ad" type="button">
+             <img alt="like" height="20" loading="lazy" src="https://static.chotot.com/storage/icons/saveAd/save-ad.svg" width="20"/>
+             <span>
+              Lưu tin
+             </span>
+            </button>
+           </div>
+          </div>
+         </span>
+         <div class="AdDecriptionVeh_date__SpYR1">
+          <div class="col-xs-12 no-padding">
+           <div class="media margin-top-05" style="display: flex; align-items: start;">
+            <div class="media-left media-middle">
+             <img alt="location" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/location.svg"/>
+            </div>
+            <div class="media-body media-middle AdParam_address__5wp1F AdParam_addressClickable__coDWA" role="button" tabindex="0">
+             <span class="fz13">
+              Ngô Quyền, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng
+              <span class="AdParam_addressClickableLoadMap__FLeKT" role="button" tabindex="0">
+               Xem bản đồ
+               <img alt="see project" src="https://static.chotot.com/storage/default_images/project/rightIcon.svg"/>
+              </span>
+             </span>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="AdDecriptionVeh_date__SpYR1">
+          <img alt="location" src="https://static.chotot.com/storage/icons/svg/order_timer.svg" width="20px"/>
+          <span>
+           Đăng 2 tháng trước
+          </span>
+         </div>
+         <div class="AdDecriptionVeh_date__SpYR1">
+         </div>
+         <div class="AdDecriptionVeh_date__SpYR1">
+          <img alt="location" height="20px" src="https://static.chotot.com/storage/icons/svg/shield.svg" width="20px"/>
+          <span>
+           Tin đã được kiểm duyệt.
+          </span>
+          <a class="AdDecriptionVeh_link__t_Y_n" href="https://trogiup.chotot.com/nguoi-ban/tai-sao-chotot-vn-duyet-tin-truoc-khi-dang/" rel="noreferrer nofollow" style="margin-left: 8px;" target="_blank">
+           Tìm hiểu thêm
+          </a>
+         </div>
+        </div>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="DetailView_adviewPtyItem__V_sof">
+    <div class="AdParam_adParamTitle__bU__w">
+     Đặc điểm bất động sản
+    </div>
+    <div class="AdParam_adParamContainerVeh__Vz4Zt">
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Diện tích" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/size.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Diện tích:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="size">
+          85 m²
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Giá/m2" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/price_m2.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Giá/m2:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="price_m2">
+          26,47 triệu/m²
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Hướng cửa chính" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/direction.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Hướng cửa chính:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="direction">
+          Tây Bắc
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Giấy tờ pháp lý" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/property_legal_document.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Giấy tờ pháp lý:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="property_legal_document">
+          Đã có sổ
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Loại hình đất" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/land_type.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Loại hình đất:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="land_type">
+          Đất thổ cư
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Chiều ngang" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/width.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Chiều ngang:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="width">
+          47 m
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Chiều dài" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/length.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Chiều dài:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="length">
+          180 m
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-6 no-padding AdParam_adParamItemVeh__mCpPS" data-testid="param-item">
+      <div class="AdParam_adMediaParam__3epxo">
+       <div class="media-left media-top">
+        <img alt="Đặc điểm nhà/đất" class="AdParam_adParamIcon__m87Vj" src="https://static.chotot.com/storage/icons/logos/ad-param/pty_characteristics.png"/>
+       </div>
+       <div class="media-body media-middle">
+        <span>
+         <span>
+          Đặc điểm nhà/đất:
+         </span>
+         <span class="AdParam_adParamValue__IfaYa" itemprop="pty_characteristics">
+          Hẻm xe hơi,Nở hậu
+         </span>
+        </span>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="DetailView_adviewPtyItem__V_sof">
+    <div class="d-lg-block styles_adBodyCollapse__1Xvk7">
+     <div class="styles_adBodyTitle__JrqDu">
+      Mô tả chi tiết
+     </div>
+     <p class="styles_adBody__vGW74" itemprop="description">
+      Cách chợ chiều 50m
+Cách ngô quyền 100m
+Kiệt 3,5m thông thoáng.
+85m2, rộng 4,7m, dài 18m.
+     </p>
+     <div style="margin: 5px 0px 15px;">
+      <div class="false col-xs-12 no-padding">
+       <div class="InlineShowPhoneButton_wrapper__NtHmX">
+        <div class="InlineShowPhoneButton_linkContact__YEWbK InlineShowPhoneButton_phoneHidden__GJPGi">
+         <span>
+          Nhấn để hiện số: 034375 ***
+         </span>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="DetailView_adviewPtyItem__V_sof">
+    <div class="styles_priceRangeWrapper__xmuD3">
+     <h5 class="styles_introductionText__7RGGl">
+      Tham khảo giá tại Phường Thọ Quang
+     </h5>
+     <p class="styles_introductionDescription__2KzYv">
+      Giá được tổng hợp bởi
+      <a href="https://www.nhatot.com">
+       nhatot.com
+      </a>
+      trong 3 tháng gần nhất và mang tính chất tham khảo
+     </p>
+     <p class="styles_dashedBorder__vVLA8">
+     </p>
+     <div class="styles_priceRangeWrapper__xmuD3">
+      <h5 class="styles_priceRangeInfoText__kzEhR">
+       Khoảng giá phổ biến (tr/m2)
+      </h5>
+      <div class="styles_rangeProgress__sgNPr">
+       <div class="styles_progress__coajk styles_left__KOV1t" id="leftProcessBar">
+        <div class="styles_iconArrow__K74O2 styles_iconArrowLeft__q3q7Q">
+         <span class="styles_numberText__jihT5 styles_iconText__5qwU_">
+          37,5
+         </span>
+        </div>
+       </div>
+       <div class="styles_middle__OawOg styles_progress__coajk" id="middleProcessBar">
+        <div class="styles_progressMark__XP1fz" style="left: -24.0008%;">
+         <div class="styles_customTooltip__0S3JN styles_farLeftCustomTooltip__5hPdK" id="priceCustomTooltip">
+          <p>
+           Tin đang xem
+          </p>
+          <span class="styles_priceText__dU_qY">
+           26,47 tr/m2
+          </span>
+         </div>
+        </div>
+       </div>
+       <div class="styles_right__BeDTw styles_progress__coajk" id="rightProcessBar">
+        <div class="styles_iconArrow__K74O2 styles_iconArrowRight__FCw7P">
+         <span class="styles_numberText__jihT5 styles_iconText__5qwU_">
+          78,22
+         </span>
+        </div>
+       </div>
+      </div>
+     </div>
+     <hr/>
+     <div class="styles_priceRangeWrapper__xmuD3">
+      <h6>
+       Xem thêm tin đăng của Phường Thọ Quang
+      </h6>
+      <div class="AdPriceSelectionPty_priceSelectionWrapper__94Jvh">
+       <span class="AdPriceSelectionPty_rangeText__YRuZ3">
+        Khoảng giá từ
+        <b>
+         37
+        </b>
+        đến
+        <b>
+         79 tr/m2
+        </b>
+       </span>
+       <div class="AdPriceSelectionPty_priceInputWrapper__fneZI">
+        <div class="w9qufw0">
+         <div class="c15n0w6r" style="--c15n0w6r-0: 100%;">
+          <div class="i150i3eh">
+           <input class="iaadyk7 i1s50tqi hasValue noLabel required" inputmode="decimal" type="text" value="37"/>
+          </div>
+          <p class="pzy15jr">
+          </p>
+         </div>
+         <div class="AdPriceSelectionPty_unit__CsSSR c1qusiw8" style="--c1qusiw8-0: 33.33%;">
+          <div class="wrapper disabled i1gpt5sn">
+           <select class="select i12gzpjg isDropdown hasValue" disabled="">
+            <option hidden="" value="">
+            </option>
+            <option disabled="" value="">
+             tr/m2
+            </option>
+           </select>
+           <label class="label" for="">
+            tr/m2
+           </label>
+           <svg class="arrow" data-type="monochrome" fill="none" height="1em" viewBox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg">
+            <path d="M7.9 156.8l2.8 3.3 214.8 247.2c7.3 8.4 18.2 13.6 30.3 13.6 12.2 0 23.1-5.4 30.3-13.6l214.7-246.7 3.6-4.1c2.7-3.9 4.3-8.7 4.3-13.7 0-13.7-11.7-25-26.2-25h-453c-14.5 0-26.2 11.2-26.2 25 0 5.2 1.7 10.1 4.6 14z" fill="currentColor">
+            </path>
+           </svg>
+          </div>
+          <p class="helptext p1g5v6cu">
+          </p>
+         </div>
+        </div>
+        <p class="pfqxg8t">
+        </p>
+        <span class="AdPriceSelectionPty_spacingSpan__SqVBV">
+         -
+        </span>
+        <div class="w9qufw0">
+         <div class="c15n0w6r" style="--c15n0w6r-0: 100%;">
+          <div class="i150i3eh">
+           <input class="iaadyk7 i1s50tqi hasValue noLabel required" inputmode="decimal" type="text" value="79"/>
+          </div>
+          <p class="pzy15jr">
+          </p>
+         </div>
+         <div class="AdPriceSelectionPty_unit__CsSSR c1qusiw8" style="--c1qusiw8-0: 33.33%;">
+          <div class="wrapper disabled i1gpt5sn">
+           <select class="select i12gzpjg isDropdown hasValue" disabled="">
+            <option hidden="" value="">
+            </option>
+            <option disabled="" value="">
+             tr/m2
+            </option>
+           </select>
+           <label class="label" for="">
+            tr/m2
+           </label>
+           <svg class="arrow" data-type="monochrome" fill="none" height="1em" viewBox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg">
+            <path d="M7.9 156.8l2.8 3.3 214.8 247.2c7.3 8.4 18.2 13.6 30.3 13.6 12.2 0 23.1-5.4 30.3-13.6l214.7-246.7 3.6-4.1c2.7-3.9 4.3-8.7 4.3-13.7 0-13.7-11.7-25-26.2-25h-453c-14.5 0-26.2 11.2-26.2 25 0 5.2 1.7 10.1 4.6 14z" fill="currentColor">
+            </path>
+           </svg>
+          </div>
+          <p class="helptext p1g5v6cu">
+          </p>
+         </div>
+        </div>
+        <p class="pfqxg8t">
+        </p>
+       </div>
+       <div class="AdPriceSelectionPty_viewAdsLink__fyrYv" role="button" tabindex="0">
+        Xem 21 tin trong khoảng đã chọn
+        <img alt="see project" src="https://static.chotot.com/storage/default_images/project/rightIcon.svg"/>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="DetailView_adviewPtyItem__V_sof">
+    <div>
+     <div class="col-xs-12 no-padding">
+      <div class="AdParam_adMapImage__Ysu7w">
+       <h2>
+        Địa điểm bất động sản
+       </h2>
+       <img alt="Bán lô gần chợ chiều. Bán ngay trong ngày" role="button" src="https://cdn.chotot.com/admincentre/location/16x116784_108x274140_c.jpg" tabindex="0" title="Bán lô gần chợ chiều. Bán ngay trong ngày"/>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="col-xs-12 no-padding DetailView_bankLoans__prFOu DetailView_adviewPtyItem__V_sof" id="FinaContainer">
+    <div class="styles_container__rXJnm">
+     <div class="styles_wrapper___nTh0">
+      <div class="styles_header__4KEcL">
+       <p>
+        Gói vay tham khảo từ Nhà Tốt
+       </p>
+       <div class="styles_logoContainer__0Uhff">
+        <img alt="cho tot logo" height="28" src="https://static.chotot.com/storage/default_images/pty/nhatot-white-logo.svg" width="65"/>
+        <p>
+         x
+        </p>
+        <img alt="fina logo" height="16" src="https://static.chotot.com/storage/default_images/fina/logo-fina-white.png" width="62"/>
+       </div>
+      </div>
+      <div class="styles_content__9EVBQ">
+       <h2 class="styles_title__s1S3b">
+        <a href="https://www.nhatot.com/vay-mua-nha">
+         Vay Mua Nhà
+        </a>
+       </h2>
+       <div class="styles_text__JyuEZ">
+        Nhà Tốt giúp
+        <p>
+         tính toán
+        </p>
+        và
+        <p>
+         tiếp cận các khoản vay mua nhà
+        </p>
+        từ nhiều ngân hàng đối tác, phù hợp với từng nhu cầu riêng biệt của mỗi cá nhân.
+        <div role="button" tabindex="0">
+         Tìm hiểu thêm
+        </div>
+       </div>
+       <div class="styles_highlights__SIKds">
+        <div class="styles_item__tShPY">
+         <img alt="highlight" src="https://static.chotot.com/storage/default_images/fina/house.png" style="width: 32px; height: 32px;"/>
+         <div class="styles_textHighlight__vmYLQ">
+          Hơn
+          <span>
+           30+
+          </span>
+          gói vay
+         </div>
+         <div class="styles_des__uO95c">
+          từ nhiều ngân hàng với
+          <span>
+           lãi suất thấp hơn thị trường
+          </span>
+          .
+         </div>
+        </div>
+        <div class="styles_borderBar__l7B2x">
+        </div>
+        <div class="styles_item__tShPY">
+         <img alt="highlight" src="https://static.chotot.com/storage/default_images/fina/time.png" style="width: 32px; height: 32px;"/>
+         <div class="styles_textHighlight__vmYLQ">
+          Có kết quả từ
+          <span>
+           3-5 ngày
+          </span>
+         </div>
+         <div class="styles_des__uO95c">
+          thay bạn
+          <span>
+           làm mọi thủ tục
+          </span>
+          .
+         </div>
+        </div>
+        <div class="styles_borderBar__l7B2x">
+        </div>
+        <div class="styles_item__tShPY">
+         <img alt="highlight" src="https://static.chotot.com/storage/default_images/fina/money.png" style="width: 32px; height: 32px;"/>
+         <div class="styles_textHighlight__vmYLQ">
+          Đền bù
+          <span>
+           1 Triệu
+          </span>
+         </div>
+         <div class="styles_des__uO95c">
+          nếu ngân hàng từ chối
+          <span>
+           giải ngân
+          </span>
+          .
+         </div>
+        </div>
+       </div>
+       <div class="styles_installment__ONZtV">
+        <img alt="highlight" src="https://static.chotot.com/storage/default_images/fina/bank.png"/>
+        <p>
+         Trả góp
+         <span>
+          14,5 triệu/tháng
+         </span>
+         , trả trước
+         <span>
+          450 triệu
+         </span>
+         (tính tham khảo).
+        </p>
+       </div>
+       <div class="styles_buttons__HcC5y">
+        <div class="styles_register__hC2e8" role="button" tabindex="0">
+         <p>
+          ĐĂNG KÝ VAY MUA NHÀ
+         </p>
+        </div>
+        <p>
+         hoặc
+        </p>
+        <a class="styles_caller__5WriP isMobile" role="button" tabindex="0">
+         <p id="phone-number">
+          GỌI CHUYÊN GIA TƯ VẤN
+         </p>
+         <span>
+          (miễn phí cước gọi)
+         </span>
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="calForm_container__vFNew">
+      <div class="calForm_wrapper__2Nf9e">
+       <div class="calForm_header__anwy0">
+        <h3>
+         Công cụ tính khoản vay
+        </h3>
+        <div role="button" tabindex="0">
+         <img alt="highlight" src="https://static.chotot.com/storage/default_images/fina/icons/new-look-down.svg" style="width: 24px; height: 24px;"/>
+        </div>
+       </div>
+       <div class="calForm_content__E9hVu" style="display: none;">
+        <div class="calForm_formGroup____2H9">
+         <div class="calForm_field__XPSF1">
+          <div class="calForm_amount__hYGMT calForm_amountDesktop__HByV3">
+           <p class="calForm_titleField__OriK4">
+            Số tiền muốn vay
+           </p>
+           <div class="calForm_amountInput__IaaO3">
+            <input class="calForm_input__qsrtg calForm_maxWidth__UawHa" type="text" value="1.800.000.000"/>
+            <div class="calForm_unit__nkeZm calForm_paddingLeftRight__li0ZY">
+             <p>
+              VNĐ
+             </p>
+            </div>
+           </div>
+          </div>
+          <div class="calForm_per___oQw6">
+           <p class="calForm_titleField__OriK4">
+            Tỷ lệ vay
+           </p>
+           <div class="calForm_perInput__IxAng">
+            <input class="calForm_perNumber__goeqo" max="100" min="0" step="0.1" type="number" value="80"/>
+            <div class="calForm_unit__nkeZm">
+             <p>
+              %
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="calForm_field__XPSF1">
+          <div class="calForm_amount__hYGMT">
+           <p class="calForm_titleField__OriK4">
+            Thời hạn vay
+           </p>
+           <div class="calForm_amountInput__IaaO3">
+            <input class="calForm_input__qsrtg" type="text"/>
+            <div class="calForm_unit__nkeZm">
+             <p>
+              Năm
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="calForm_field__XPSF1">
+          <div class="calForm_wrapper__2Nf9e">
+           <p class="calForm_titleField__OriK4">
+            Lãi suất theo ngân hàng % /năm
+           </p>
+           <div class="calForm_amount__hYGMT">
+            <div class="calForm_selection__AtMST calForm_selectionDesktop__ynzUP" role="button" tabindex="0">
+             <p>
+              Tùy chỉnh
+             </p>
+             <img alt="down" src="https://static.chotot.com/storage/default_images/project/triangle.svg"/>
+            </div>
+            <div class="calForm_per___oQw6">
+             <div class="calForm_perInput__IxAng">
+              <input class="calForm_perNumber__goeqo" type="text" value="7,5"/>
+              <div class="calForm_unit__nkeZm">
+               <p>
+                %
+               </p>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="calForm_optionsList__dEgZl" style="z-index: 2;">
+          </div>
+         </div>
+         <div class="calForm_field__XPSF1">
+          <div class="calForm_amount__hYGMT">
+           <p class="calForm_titleField__OriK4">
+            Loại hình
+           </p>
+           <div class="calForm_selection__AtMST" role="button" tabindex="0">
+            <p>
+             Trả lãi chia đều
+            </p>
+            <img alt="down" src="https://static.chotot.com/storage/default_images/project/triangle.svg"/>
+           </div>
+          </div>
+          <div class="calForm_optionsList__dEgZl">
+           <div class="calForm_option__M2ETR" role="button" tabindex="0">
+            <p>
+             Dư nợ giảm dần
+            </p>
+           </div>
+           <div class="calForm_option__M2ETR" role="button" tabindex="0">
+            <p>
+             Trả lãi chia đều
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="calForm_calculator__TtF1l">
+         <div class="calForm_ptyRevenue__uFO0u">
+          <img alt="highlight" src="https://cdn.chotot.com/TXp7l3LTtDFJIfoGb8xXywpif9QpD1SaWUCrv-ULvww/preset:view/plain/a7adaaa31abd6b9af35956751a50708c-2836431770954845611.jpg"/>
+          <p>
+           Giá trị BĐS:
+           <span>
+            2,25 tỷ
+           </span>
+          </p>
+         </div>
+         <div class="calForm_perBar__eVVCj">
+          <div class="calForm_perWrapper__9BPTw" style="width: 11%;">
+           <div class="calForm_per1__iSLkQ">
+           </div>
+           <p class="calForm_number__egp2U" style="color: rgb(254, 153, 0);">
+            11%
+           </p>
+          </div>
+          <div class="calForm_perWrapper__9BPTw" style="width: 46%;">
+           <div class="calForm_per2__FLHGA">
+           </div>
+           <p class="calForm_number__egp2U" style="color: rgb(255, 206, 71);">
+            46%
+           </p>
+          </div>
+          <div class="calForm_perWrapper__9BPTw" style="width: 43%;">
+           <div class="calForm_per3__7pIZT">
+           </div>
+           <p class="calForm_number__egp2U" style="color: rgb(34, 117, 211);">
+            43%
+           </p>
+          </div>
+         </div>
+         <div class="calForm_result__SQU91">
+          <div class="calForm_item__gTVvA">
+           <div class="calForm_wrapper__2Nf9e">
+            <div class="calForm_dot__bd_4_" style="background: rgb(254, 153, 0);">
+            </div>
+            <p class="calForm_text__prkv1">
+             Cần trả trước:
+            </p>
+           </div>
+           <div class="calForm_money__lHtnU">
+            450 triệu
+           </div>
+          </div>
+          <div class="calForm_item__gTVvA">
+           <div class="calForm_wrapper__2Nf9e">
+            <div class="calForm_dot__bd_4_" style="background: rgb(255, 206, 71);">
+            </div>
+            <p class="calForm_text__prkv1">
+             Gốc cần trả:
+            </p>
+           </div>
+           <div class="calForm_money__lHtnU">
+            1,8 tỷ
+           </div>
+          </div>
+          <div class="calForm_item__gTVvA">
+           <div class="calForm_wrapper__2Nf9e">
+            <div class="calForm_dot__bd_4_" style="background: rgb(34, 117, 211);">
+            </div>
+            <p class="calForm_text__prkv1">
+             Lãi cần trả:
+            </p>
+           </div>
+           <div class="calForm_money__lHtnU">
+            1,68 tỷ
+           </div>
+          </div>
+          <div class="calForm_item__gTVvA" style="padding: 14px 0px 0px; border-top: 1px solid rgb(232, 232, 232);">
+           <p>
+            Thanh toán hàng tháng
+           </p>
+           <div class="calForm_amount__hYGMT">
+            14,5 triệu
+           </div>
+          </div>
+          <div class="calForm_item__gTVvA" style="padding: 14px 0px 0px; border-top: 1px solid rgb(232, 232, 232);">
+           <p>
+            Tổng phải trả
+           </p>
+           <div class="calForm_amount__hYGMT">
+            3,93 tỷ
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="d-none">
+    <div class="Styles_reportWrapper__74GS_">
+     <div class="Styles_reportBtn__izL5E">
+      <button class="btn btn-default btn-xs Styles_reportBad__4g9zg" id="report-bad-ad-btn" type="button">
+       Báo tin không hợp lệ
+      </button>
+      <button class="btn btn-default btn-xs Styles_reportBad__4g9zg" type="button">
+       Báo tin đã bán
+      </button>
+      <a class="Styles_insertSimilarAd__DHfAJ" href="https://www.chotot.com/dang-tin?category=1040" rel="nofollow noreferrer" target="_blank">
+       Đăng nhanh - Bán gọn
+      </a>
+     </div>
+     <div class="Styles_buyerProtect__5zjc4">
+      <div class="sc-htoDjs dpMCsK">
+       <img alt="mua bán an toàn" class="sc-dnqmqq iGIZUt" src="https://static.chotot.com/storage/marketplace/shield-iconx4.png"/>
+       <div class="sc-iwsKbI ldVnoa">
+        <em>
+         Tin đăng này đã được kiểm duyệt. Nếu gặp vấn đề, vui lòng báo cáo tin đăng hoặc liên hệ CSKH để được trợ giúp.
+         <a href="http://trogiup.chotot.com/ban-hang-tai-chotot-vn/kiem-duyet-tin/tai-sao-chotot-vn-duyet-tin-truoc-khi-dang/?utm_source=chotot&amp;utm_medium=user_protection&amp;utm_campaign=user_protection_ad_view" rel="noopener" target="_blank">
+          Xem thêm ››
+         </a>
+        </em>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="col-md-4 no-padding dtView">
+  <div>
+   <div>
+   </div>
+   <div class="" style="position: fixed; top: 120px; width: 318.663px;">
+    <div class="d-lg-block d-none" style="background-color: white; padding-bottom: 10px;">
+     <div class="SellerProfile_profileWrapper__ubLwW SellerProfile_profileWrapperVeh__BVDOo" itemprop="seller" itemscope="" itemtype="http://schema.org/Person">
+      <a class="SellerProfile_sellerWrapperVeh__UFHlO" href="https://www.chotot.com/user/efb4d9fa9f71af1800c39ec71741fa88#xtatc=INT-10-[Adview]" rel="nofollow" target="_blank">
+       <div role="presentation">
+        <div class="img-thumbnail img-circle Avatar_imageWrapper__6tGNZ Avatar_defaultSize__a_WTh">
+        </div>
+       </div>
+       <div class="SellerProfile_nameBounder__btDeS" role="button" tabindex="0">
+        <div class="SellerProfile_flexDiv__IEgQl">
+         <div class="SellerProfile_nameDivVeh__vE94K">
+          <b role="presentation" style="margin-right: 5px; font-size: 14px;">
+           trần nguyên thơ
+          </b>
+         </div>
+         <button class="SellerProfile_secondaryButtonPty__DN1Sa" type="button">
+          Xem trang
+          <img alt="&gt;" src="https://static.chotot.com/storage/icons/svg/next-orange.svg"/>
+         </button>
+        </div>
+        <div class="SellerProfile_statusOnlineDivVeh__kgmx4">
+         <div class="SellerProfile_shopIconWrapper__mXmWK" role="presentation">
+          <img alt="https://static.chotot.com/storage/default_images/pty/private-pty-icon.svg" height="16px" src="https://static.chotot.com/storage/default_images/pty/private-pty-icon.svg" width="16px"/>
+         </div>
+         Cá nhân
+        </div>
+        <div class="SellerProfile_statusOnlineDivVeh__kgmx4">
+         <div class="SellerProfile_offlineBullet__by5mZ">
+          •
+         </div>
+         Hoạt động 11 ngày trước
+        </div>
+       </div>
+      </a>
+      <div class="SellerProfile_inforWrapper__KXg71">
+      </div>
+     </div>
+    </div>
+    <div style="background-color: white;">
+     <div class="IntersectBox" style="min-height: 100px;">
+      <div class="ChatTemplate_chatTempWrapper__uAELZ">
+       <div class="ChatTemplate_titleChatTemp__IWGIA ChatTemplate_titleChatTempVeh__CcvPa">
+        Liên hệ với người bán
+        <div class="ChatTemplate_inforItem__CoFv1">
+         <div class="ChatTemplate_inforText__sbLZ7">
+          <span class="">
+           Phản hồi:
+          </span>
+          <span>
+           ---
+          </span>
+         </div>
+        </div>
+       </div>
+       <div class="ChatTemplate_templateItemWrapper__AP8xV">
+        <ul class="ChatTemplate_templateMessage__a_aks">
+         <li class="ChatTemplate_templateItem__7p1c6 ChatTemplate_templateItemVeh__rCiXd" role="menuitem">
+          Đất này còn không ạ ?
+         </li>
+         <li class="ChatTemplate_templateItem__7p1c6 ChatTemplate_templateItemVeh__rCiXd" role="menuitem">
+          Thời hạn thuê tối đa là bao lâu?
+         </li>
+         <li class="ChatTemplate_templateItem__7p1c6 ChatTemplate_templateItemVeh__rCiXd" role="menuitem">
+          Đặt cọc bao nhiêu ạ?
+         </li>
+         <li class="ChatTemplate_templateItem__7p1c6 ChatTemplate_templateItemVeh__rCiXd" role="menuitem">
+          Thời gian thuê tối thiểu là bao lâu?
+         </li>
+         <li class="ChatTemplate_templateItem__7p1c6 ChatTemplate_templateItemVeh__rCiXd" role="menuitem">
+          Tình trạng giấy tờ như thế nào ạ?
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="LeadButton_wrapperLeadButtonDesktop__SVKE8" style="padding: 8px 12px;">
+       <div class="LeadButton_showPhoneButton__1BIwH LeadButton_showPhoneButtonVeh__54zfM">
+        <div class="ShowPhoneButton_wrapper__B627I">
+         <div class="ShowPhoneButton_phoneButton__p5Cvt ShowPhoneButton_phoneNotClicked__dlQn_">
+          <div class="ShowPhoneButton_flexDiv__3qpNj">
+           <span>
+            <img alt="loadingIcon" class="ShowPhoneButton_icon__wsnZ5" src="https://static.chotot.com/storage/chotot-icons/svg/white-phone.svg"/>
+            034375 ***
+           </span>
+           <span>
+            BẤM ĐỂ HIỆN SỐ
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="LeadButton_chatDesktopButton__HSQyg">
+        <a class="btn LeadButton_buttonChatDesktop__gbYM9" href="https://chat.chotot.com/chatroom/join/MjMyODA2Nzd8MTA4NjI4MDg0" rel="nofollow">
+         <img alt="chat" src="https://static.chotot.com/storage/chotot-icons/png/chat_green.png"/>
+         <span class="text-success">
+          <span>
+           CHAT VỚI NGƯỜI BÁN
+          </span>
+         </span>
+        </a>
+       </div>
+      </div>
+      <div class="LeadButton_wrapperLeadButtonMobileVEH__qiqML">
+       <a class="btn LeadButton_buttonSupportMobile__JPIBr" id="call_phone_btn">
+        <img alt="call" src="https://static.chotot.com/storage/chotot-icons/png/call.png" width="20"/>
+        <div>
+         Gọi điện
+        </div>
+       </a>
+       <a class="btn LeadButton_buttonDefault__pB0PM LeadButton_HozDivider__x7f0d" href="https://chat.chotot.com/chatroom/join/MjMyODA2Nzd8MTA4NjI4MDg0" id="chat_btn" rel="nofollow">
+        <img alt="chat" src="https://static.chotot.com/storage/chotot-icons/png/chat.png"/>
+        <span class="text-success">
+         Chat
+        </span>
+       </a>
+       <a class="btn LeadButton_buttonDefault__pB0PM LeadButton_HozDivider__x7f0d" id="sms_btn">
+        <img alt="sms" src="https://static.chotot.com/storage/icons/svg/secondary_sms.svg"/>
+        <span class="text-success">
+         Nhắn tin
+        </span>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="d-lg-block d-none">
+     <div class="styles_helpboxWrapper__97D4i">
+      <div class="styles_helpboxItem__oJx4l">
+       <img alt="Cần trợ giúp" src="https://storage.googleapis.com/static-chotot-com/storage/chotot-icons/svg/support.svg"/>
+       <a href="https://trogiup.chotot.com/" rel="noopener noreferrer">
+        Cần trợ giúp
+       </a>
+      </div>
+      <div class="styles_helpboxItem__oJx4l">
+       <img alt="Báo cáo tin đăng này" src="https://storage.googleapis.com/static-chotot-com/storage/chotot-icons/svg/warning_grey.svg"/>
+       <button class="styles_buttonReport__hhOIr" type="button">
+        Báo cáo tin đăng này
+       </button>
+      </div>
+     </div>
+     <div class="Styles_rightHandSiteAdView__O90bj">
+      <div>
+       <div data-google-query-id="CObSz6uvx4EDFWTUFgUdLg4ANQ" id="rgpt-17" style="display: none;">
+        <div id="google_ads_iframe_/325540922/oneweb_des_RHS3_Adview_300x250_1__container__" style="border: 0pt none; width: 300px; height: 0px;">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

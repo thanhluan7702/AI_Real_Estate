@@ -1,0 +1,311 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="35928539" uid="427546">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Sàn giao dịch BĐS hàng hiệu Hoàng Phương, phân phối một số quỹ đất vàng trung tâm thành phố Đà Nẵng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Bạch Đằng, Phường Hải Châu I, Hải Châu, Đà Nẵng.
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    3.400 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":35928539,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2022/11/23/20221123151235-e722_wm.jpg","vipType":0,"title":"Sàn giao dịch BĐS hàng hiệu Hoàng Phương, phân phối một số quỹ đất vàng trung tâm thành phố Đà Nẵng","titleHiddenMobile":"Sàn giao dịch BĐS hàng hiệu Hoàng Phương, phân phối một số quỹ đất vàng trung tâm thành phố Đà Nẵng","url":"https://batdongsan.com.vn/ban-dat-duong-bach-dang-phuong-hai-chau-i/ban-mot-so-quy-vang-trieu-do-trung-tam-thanh-pho-da-nang-pr35928539","productIdPrefix":"35928539$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-dat-duong-bach-dang-phuong-hai-chau-i/ban-mot-so-quy-vang-trieu-do-trung-tam-thanh-pho-da-nang-pr35928539&amp;t=Sàn giao dịch BĐS hàng hiệu Hoàng Phương, phân phối một số quỹ đất vàng trung tâm thành phố Đà Nẵng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-dat-duong-bach-dang-phuong-hai-chau-i/ban-mot-so-quy-vang-trieu-do-trung-tam-thanh-pho-da-nang-pr35928539" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=35928539">
+   Sàn giao dịch bất động sản hàng hiệu Hoàng Phương phân phối một số quỹ đất vàng, triệu đô ven biển - trung tâm thành phố Đà Nẵng.
+   <br/>
+   <br/>
+   1. Quỹ đất 4 mặt tiền Trần Hưng Đạo An đồn.
+   <br/>
+   Vị trí: Bên bờ sông Hàn, P. An Hải Bắc, Q. Sơn Trà.
+   <br/>
+   Đặc điểm: DT: 14.000m², Đất TMDV xây cao tầng.
+   <br/>
+   2. Quỹ đất Chương Dương - Phạm Tuấn Tài.
+   <br/>
+   Vị trí: Ven sông Hàn, P. Khuê Mỹ, Ngũ Hành Sơn.
+   <br/>
+   Đặc điểm: DT: 25.683m², Đất TMDV xây cao tầng 16 - 25 tầng.
+   <br/>
+   3. Quỹ đất biển Trường Sa.
+   <br/>
+   Vị trí: Đối diện Hyyat, Khu đô thị Hoà Hải, P. Hoà Hải, Ngũ Hành Sơn.
+   <br/>
+   Đặc điểm: DT: 2033m², Đất ở tại đô thị, xây dựng 6 tầng.
+   <br/>
+   4. Quỹ đất 3MT Bạch Đằng.
+   <br/>
+   Vị trí: Ven Sông Hàn, P. Bình Thuận, Hải Châu.
+   <br/>
+   Đặc điểm: DT: 3400m², Đất ở tại đô thị, xây căn hộ, thương mại.
+   <br/>
+   5. Quỹ đất trung Tâm MT Lý Thường Kiệt.
+   <br/>
+   Vị trí: 2MT Lý Thường Kiệt, P. Thạch Thang, Hải Châu.
+   <br/>
+   Đặc điểm: DT: 1448.2m², Đất ở tại đô thị, xây 20 tầng.
+   <br/>
+   6. Quỹ đất MT Ngũ Hành Sơn.
+   <br/>
+   Vị Trí: MT Ngũ Hành Sơn, P. Mỹ An, Ngũ Hành Sơn.
+   <br/>
+   Đặc điểm: DT: 2.862m², Đất ở tại đô thị.
+   <br/>
+   7. Quỹ đất 2MT Ngô Quyền Bùi Quốc Hưng.
+   <br/>
+   Vị trí: 2MT Ngô Quyền Bùi Quốc Hưng, P. Thọ Quang, Sơn Trà.
+   <br/>
+   Đặc điểm: DT: 1676.5m², Đất TMDV, đã có Hồ sơ giấy phép 12 tầng.
+   <br/>
+   8. Quỹ đất MT Hồ Xuân Hương.
+   <br/>
+   Vị trí: MT Hồ Xuân Hương. P. Mỹ An. Ngũ Hành Sơn.
+   <br/>
+   Đặc điểm: DT: 1808m², đất TMDV, đã có giấy phép xây Khách sạn 25 tầng.
+   <br/>
+   9. Quỹ đất MT Hồ Xuân Hương.
+   <br/>
+   Vị trí: MT Hồ Xuân Hương, P. Mỹ An, Ngũ Hành Sơn.
+   <br/>
+   Đặc điểm: DT: 2102.7m², Đất ở tại đô thị, xây chung cư cao tầng.
+   <br/>
+   10. Quỹ đất 2MT Quang Trung - Nguyễn Thị Minh Khai.
+   <br/>
+   Vị trí: MT Quang Trung - Nguyễn Thị Minh Khai. P. Hải Châu 1, Hải Châu.
+   <br/>
+   Đặc điểm: DT: 754m², Đất ở tại đô thị.
+   <br/>
+   11. Quỹ đất 2MT Hồ Nghinh.
+   <br/>
+   Vị trí: MT Hồ Nghinh, P. An Hải Bắc, Sơn Trà.
+   <br/>
+   Đặc điểm: DT: 593m², Đất ở tại đô thị.
+   <br/>
+   Hồ sơ Pháp Lý rõ ràng, đầy đủ.
+   <br/>
+   Giá bán: Thỏa thuận trực tiếp.
+   <br/>
+   Liên hệ: Trịnh Lâm
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="c901b14fb01ca7489d6fd07ce024c4c0" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=35928539">
+    0913 485 ***
+   </span>
+   .
+   <br/>
+   Sàn giao dịch BĐS Hàng hiệu Hoàng Phương.
+   <br/>
+   Địa chỉ: 383 Trần Hưng Đạo P. An Hải Trung - Q. Sơn Trà - TP. Đà Nẵng.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3.400 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="2">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0710192,108.2251796&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2022/11/18/20221118134735-2f55.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Trịnh Lâm">
+     Trịnh Lâm
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/d6cad5917a2b4eab" tracking-id="user-listing-ldp">
+      Xem thêm 4 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=35928539">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-phuong-hai-chau-i" title="Đất Hải Châu I " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Hải Châu I
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-duong-bach-dang-45" title="Đất Bạch Đằng " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Bạch Đằng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-da-nang" title="Đất Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-phuong-hoa-hai" title="Đất Hòa Hải Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Hòa Hải Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-phuong-an-hai-bac" title="Đất An Hải Bắc Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất An Hải Bắc Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-duong-quang-trung-46" title="Đất Quang Trung Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Quang Trung Hải Châu
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    02/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    12/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    35928539
+   </span>
+  </div>
+ </div>
+</div>

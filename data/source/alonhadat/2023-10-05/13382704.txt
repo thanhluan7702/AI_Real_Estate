@@ -1,0 +1,1959 @@
+<div class="body">
+ <div class="top-link" id="ctl00_content_top_link" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a href="/" itemprop="item">
+    <span itemprop="name">
+     Trang chủ
+    </span>
+   </a>
+   <meta content="1" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban.html" itemprop="item">
+    <span itemprop="name">
+     Cần bán
+    </span>
+   </a>
+   <meta content="2" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-hang-khach-san.html" itemprop="item">
+    <span itemprop="name">
+     Bán khách sạn
+    </span>
+   </a>
+   <meta content="3" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-hang-khach-san/3/da-nang.html" itemprop="item">
+    <span itemprop="name">
+     Bán khách sạn Đà Nẵng
+    </span>
+   </a>
+   <meta content="4" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-hang-khach-san/da-nang/586/quan-son-tra.html" itemprop="item">
+    <span itemprop="name">
+     Bán khách sạn  Sơn Trà
+    </span>
+   </a>
+   <meta content="5" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-hang-khach-san/phuong-phuoc-my-quan-son-tra-px1117.html" itemprop="item">
+    <span itemprop="name">
+     Bán khách sạn  Phước Mỹ
+    </span>
+   </a>
+   <meta content="6" itemprop="position"/>
+  </span>
+  <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+   <a class="title" href="/nha-dat/can-ban/nha-hang-khach-san/duong-loseby-quan-son-tra-dp16665.html" itemprop="item">
+    <span itemprop="name">
+     Bán khách sạn Đường Loseby
+    </span>
+   </a>
+   <meta content="7" itemprop="position"/>
+  </span>
+ </div>
+ <div class="top-line">
+ </div>
+ <div class="content plp" id="ctl00_content_pc_content">
+  <div id="left">
+   <div class="property">
+    <div class="title">
+     <h1>
+      Bán Khách Sạn 4 Sao Biển Mỹ Khê, DT 460m2, 13 Tầng, Doanh Thu Khủng
+     </h1>
+     <span class="date">
+      Ngày đăng: Hôm nay
+     </span>
+    </div>
+    <div class="detail text-content">
+     Cần chuyển nhượng khách sạn 4 sao biển Mỹ Khê, Đà Nẵng
+
+Diện tích: 460m2, 13 tầng, mặt tiền 20m.
+Pháp lý sạch, sang tên nhanh chóng.
+Giá bán: 125 tỷ có thương lượng.
+
++ Vị trí: Đường rộng 10m5, lề mỗi bên gần 7m. Trục thông thẳng Công viên Biển đông Mỹ Khê. Từ khách sạn đi bộ ra biển 3 phút đi bộ. Phố tương lai mở rộng 18m² sẽ là tuyến phố đắt ngang Phạm Văn Đồng hay Võ Văn Kiệt vì vị trí đắc địa và hiếm có của mình. 
+
++ Diện tích đất: 20m² x 23m² = 460m². 
+- Diện tích sàn 5.500m².
+- Khách sạn có 4 thang máy chạy ầm ầm. 
+- Số tầng: 13 tầng. Trong đó gồm 2 căn hộ TỔNG THỐNG. 6 phòng VIP và 72 phòng to, nhỏ.
+- Tầng 12 là skybar rộng 300m² và hồ bơi rộng cả 100m².
+- Đây là khách sạn 4 sao đẳng cấp nhất phố nên phòng họp, hội nghị có thể tổ chức trên 250 người. Phòng ăn và nhà bếp rất sang trọng, đẳng cấp, hằng ngày có 100 món ăn giành cho thực khách lựa chọn. 
+
++ Vào thăm quan khách sạn sẽ thấy sự chuẩn chỉ, chu toàn từ những chi tiết nhỏ nhất để khách hàng luôn cảm thấy gần gũi không muốn rời xa nơi đây.
+
++ Liên hệ. Mr Dũng.
++ Chuyên nhà đất thổ cư, nhà mặt phố Đà Nẵng, Hỗ trợ vay vốn ngân hàng ưu đãi tốt
++ Miễn phí xem nhà, tư vấn thủ tục pháp lý..
+    </div>
+    <div class="moreinfor">
+     <span class="price">
+      <span class="label">
+       Giá:
+      </span>
+      <span class="value">
+       125 tỷ
+      </span>
+     </span>
+     <span class="square">
+      <span class="label">
+       Diện tích:
+      </span>
+      <span class="value">
+       460 m
+       <sup>
+        2
+       </sup>
+      </span>
+     </span>
+     <div class="clear">
+     </div>
+    </div>
+    <div class="address">
+     <span class="label">
+      Địa chỉ tài sản:
+     </span>
+     <span class="value">
+      Đường Loseby, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng
+     </span>
+    </div>
+    <div class="moreinfor1">
+     <div class="title">
+      Các thông tin khác
+     </div>
+     <div class="infor">
+      <table cellspacing="0" hspace="0" vspace="0">
+       <tbody>
+        <tr>
+         <td>
+          Mã tin
+         </td>
+         <td>
+          13382704
+         </td>
+         <td>
+          Hướng
+         </td>
+         <td>
+          _
+         </td>
+         <td>
+          Phòng ăn
+         </td>
+         <td>
+          <img src="/publish/img/check.gif"/>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Loại tin
+         </td>
+         <td>
+          Cần bán
+         </td>
+         <td>
+          Đường trước nhà
+         </td>
+         <td>
+          10m
+         </td>
+         <td>
+          Nhà bếp
+         </td>
+         <td>
+          <img src="/publish/img/check.gif"/>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Loại BDS
+         </td>
+         <td>
+          Nhà hàng, khách sạn
+         </td>
+         <td>
+          Pháp lý
+         </td>
+         <td>
+          Sổ hồng/ Sổ đỏ
+         </td>
+         <td>
+          Sân thượng
+         </td>
+         <td>
+          <img src="/publish/img/check.gif"/>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Chiều ngang
+         </td>
+         <td>
+          20m
+         </td>
+         <td>
+          Số lầu
+         </td>
+         <td>
+          13
+         </td>
+         <td>
+          Chổ để xe hơi
+         </td>
+         <td>
+          <img src="/publish/img/check.gif"/>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          Chiều dài
+         </td>
+         <td>
+          23m
+         </td>
+         <td>
+          Số phòng ngủ
+         </td>
+         <td>
+          80
+         </td>
+         <td>
+          Chính chủ
+         </td>
+         <td>
+          ---
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+    </div>
+    <div class="image-tab">
+     <span class="view-image selected">
+      Hình ảnh
+     </span>
+    </div>
+    <div class="images">
+     <div class="imageview">
+      <img alt="Bán Khách Sạn 4 Sao Biển Mỹ Khê, DT 460m2, 13 Tầng, Doanh Thu Khủng" id="limage" onclick="showImage(this.src)" src="/files/properties/2023/9/11/images/013382704-2758-ban-nha-hang-khach-san-quan-son-tra-chinh-chu.jpg"/>
+     </div>
+     <div class="image-list">
+      <span>
+       <img alt="Bán Khách Sạn 4 Sao Biển Mỹ Khê, DT 460m2, 13 Tầng, Doanh Thu Khủng - 0" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/9/11/images/013382704-2758-ban-nha-hang-khach-san-quan-son-tra-chinh-chu.jpg"/>
+      </span>
+      <span>
+       <img alt="Bán Khách Sạn 4 Sao Biển Mỹ Khê, DT 460m2, 13 Tầng, Doanh Thu Khủng - 1" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/9/11/images/113382704-2758-ban-nha-hang-khach-san-quan-son-tra.jpg"/>
+      </span>
+      <span>
+       <img alt="Bán Khách Sạn 4 Sao Biển Mỹ Khê, DT 460m2, 13 Tầng, Doanh Thu Khủng - 2" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/9/11/images/213382704-2758-ban-nha-hang-khach-san-quan-son-tra-chinh-chu.jpg"/>
+      </span>
+      <span>
+       <img alt="Bán Khách Sạn 4 Sao Biển Mỹ Khê, DT 460m2, 13 Tầng, Doanh Thu Khủng - 3" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/9/11/images/413382704-2758-ban-nha-hang-khach-san-quan-son-tra.jpg"/>
+      </span>
+      <span>
+       <img alt="Bán Khách Sạn 4 Sao Biển Mỹ Khê, DT 460m2, 13 Tầng, Doanh Thu Khủng - 4" class="limage" onclick="showImage(this.src)" src="/files/properties/2023/9/11/images/513382704-2758-ban-khach-san-4-sao-bien-my-khe-dt-460m2-13-tang-doanh-thu-khung.jpg"/>
+      </span>
+     </div>
+    </div>
+    <div class="utility">
+     <span class="save" tabindex="0">
+      Lưu tin
+     </span>
+    </div>
+    <input id="hddDemand" type="hidden" value="1"/>
+    <input id="hddPropertyType" type="hidden" value="6"/>
+    <input id="hddPropertyId" type="hidden" value="13382704"/>
+    <input id="hddNguoiDang" type="hidden" user="0" value="832595"/>
+    <div class="reflect-form">
+     <div class="loading">
+     </div>
+     <div class="title">
+      Phản ánh tin rao vi phạm
+     </div>
+     <div class="notice">
+      Thông tin phản ánh của Quý khách giúp chúng tôi sàn lọc thông tin tốt hơn và loại trừ các nhà môi giới không trung thực. Xin trân trọng cám ơn.
+     </div>
+     <div class="content">
+      <div class="reason">
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="1"/>
+        <span>
+         Tài sản đã bán/cho thuê
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="2"/>
+        <span>
+         Tin không có thật
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="3"/>
+        <span>
+         Nội dung không đúng với thực tế
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="4"/>
+        <span>
+         Giá không đúng
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="5"/>
+        <span>
+         Không liên lạc được
+        </span>
+       </div>
+       <div>
+        <input class="reason-item" name="reason" type="radio" value="6"/>
+        <span>
+         Địa chỉ bất động sản không đúng
+        </span>
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="other-reason">
+       <input class="reason-item" name="reason" type="radio" value="10"/>
+       <span>
+        Lý do khác:
+       </span>
+       <br/>
+       <textarea class="txtcontent" maxlength="240" placeholder="Nội dung phản ánh"></textarea>
+      </div>
+      <div class="check-ignore">
+       <input class="chkdayignore" type="checkbox"/>
+       <b class="bdayignore">
+        Tôi không muốn xem tin của người đăng này trong vòng:
+       </b>
+       <select class="dayignore" disabled="disabled" name="dayignore" style="color:red; background:#eeeeee;">
+        <option value="0">
+         Số ngày
+        </option>
+        <option value="1">
+         1 ngày
+        </option>
+        <option value="3">
+         3 ngày
+        </option>
+        <option value="7">
+         7 ngày
+        </option>
+        <option value="14">
+         14 ngày
+        </option>
+        <option value="21">
+         21 ngày
+        </option>
+        <option value="30">
+         30 ngày
+        </option>
+        <option value="60">
+         60 ngày
+        </option>
+        <option value="90">
+         90 ngày
+        </option>
+        <option value="180">
+         180 ngày
+        </option>
+        <option value="360">
+         360 ngày
+        </option>
+       </select>
+       <i>
+        Tất cả các tin của thành viên này sẽ ẩn đi với bạn trong khoảng thời gian bạn đã chọn.
+       </i>
+      </div>
+      <div>
+       <font style="color:blue">
+        Mã an toàn
+       </font>
+       :
+       <br/>
+       <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx" width="90"/>
+       <input class="captcha" id="captcha" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+       <input class="btnSubmit" type="button" value="Gửi phản ánh"/>
+      </div>
+     </div>
+    </div>
+    <div class="tags">
+     <span>
+      Có thể bạn muốn xem:
+     </span>
+     <a href="/nha-dat/can-ban/nha-hang-khach-san/3/da-nang.html">
+      Bán khách sạn Đà Nẵng
+     </a>
+     <a href="/nha-dat/can-ban/nha-hang-khach-san/da-nang/586/quan-son-tra.html">
+      Bán khách sạn Quận Sơn Trà
+     </a>
+     <a href="/nha-dat/can-ban/nha-hang-khach-san/phuong-phuoc-my-quan-son-tra-px1117.html">
+      Bán khách sạn Phường Phước Mỹ
+     </a>
+     <a href="/nha-dat/can-ban/nha-hang-khach-san/duong-loseby-quan-son-tra-dp16665.html">
+      Bán khách sạn Đường Loseby
+     </a>
+    </div>
+    <div class="notices">
+     <h3>
+      Lưu ý:
+     </h3>
+     <p>
+      Các bạn đang xem tin đăng trong mục "
+      <b>
+       Cần bán nhà hàng, khách sạn Quận Sơn Trà, Đà Nẵng
+      </b>
+      ". Các thông tin rao vặt là do người đăng tin đăng tải toàn bộ thông tin. Chúng tôi hoàn toàn không chịu trách nhiệm về bất cứ thông tin nào liên qua đến các thông tin này. Chúng tôi luôn cố gắng để đưa các tin tức nhanh và chính xác nhất cho các bạn.
+     </p>
+    </div>
+   </div>
+   <!--property-->
+   <div class="randomvip-box" id="ctl00_content_random_vip_box">
+    <div class="title">
+     <h2>
+      Bất động sản nổi bật
+     </h2>
+    </div>
+    <div class="content" id="ctl00_content_randomvip">
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/ban-toa-can-ho-khach-san-7-tang-moi-dep-duong-7m5-hoang-bich-son-cach-bien-400m-11673932.html">
+        <img alt="Bán Tòa Căn hộ, khách sạn 7 tầng mới đẹp Đường 7m5 Hoàng Bích Sơn - Cách biển 400m" src="/files/properties/2022/9/22/thumbnails/011673932-2135-ban-nha-hang-khach-san-da-nang-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-toa-can-ho-khach-san-7-tang-moi-dep-duong-7m5-hoang-bich-son-cach-bien-400m-11673932.html">
+         Bán Tòa Căn hộ, khách sạn 7 tầng mới đẹp Đường 7m5 Hoàng Bích Sơn - Cách biển 400m
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         12,5 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         75 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Sơn Trà
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 7,5m">
+        7,5m
+       </span>
+       <span class="floors" title="7 lầu">
+        7 lầu
+       </span>
+       <span class="bedroom" title="11 phòng ngủ">
+        11 pn
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-khach-san-4-sao-mat-tien-duong-vo-nguyen-giap-doi-dien-nha-hang-4u-beach-13469162.html">
+        <img alt="Bán khách sạn 4 sao mặt tiền đường Võ Nguyên Giáp đối diện nhà hàng 4U Beach" src="/files/properties/2023/10/2/thumbnails/013469162-1052-ban-khach-san-4-sao-mat-tien-duong-vo-nguyen-giap-doi-dien-nha-hang-4u-beach.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-khach-san-4-sao-mat-tien-duong-vo-nguyen-giap-doi-dien-nha-hang-4u-beach-13469162.html">
+         Bán khách sạn 4 sao mặt tiền đường Võ Nguyên Giáp đối diện nhà hàng 4U Beach
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         320 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         600 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Sơn Trà
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 40m">
+        40m
+       </span>
+       <span class="floors" title="19 lầu">
+        19 lầu
+       </span>
+       <span class="bedroom" title="110 phòng ngủ">
+        110 pn
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/chuyen-nhuong-khach-san-3-sao-mt-ha-bong-quan-son-tra-200m2-11-tang-52-phong-gia-77-ty-12530384.html">
+        <img alt="Chuyển nhượng Khách sạn biển 3 sao mặt tiền đường Hà Bổng Quận Sơn Trà Đà Nẵng" src="/files/properties/2023/3/10/thumbnails/012530384-1603-ban-nha-mat-tien-da-nang-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/chuyen-nhuong-khach-san-3-sao-mt-ha-bong-quan-son-tra-200m2-11-tang-52-phong-gia-77-ty-12530384.html">
+         Chuyển nhượng Khách sạn biển 3 sao mặt tiền đường Hà Bổng Quận Sơn Trà Đà Nẵng
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         77 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         200 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Sơn Trà
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 8m">
+        8m
+       </span>
+       <span class="floors" title="11 lầu">
+        11 lầu
+       </span>
+       <span class="bedroom" title="52 phòng ngủ">
+        52 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/ban-toa-can-ho-bien-quan-son-tra-da-nang-8-tang-thang-may-15-phong-gia-chi-1x-ty-13476165.html">
+        <img alt="Bán Tòa Căn Hộ Biển Quận Sơn Trà Đà Nẵng 8 Tầng Thang Máy 15 Phòng Giá Chỉ 1X Tỷ" src="/files/properties/2023/10/3/thumbnails/013476165-0900-ban-nha-hang-khach-san-da-nang.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-toa-can-ho-bien-quan-son-tra-da-nang-8-tang-thang-may-15-phong-gia-chi-1x-ty-13476165.html">
+         Bán Tòa Căn Hộ Biển Quận Sơn Trà Đà Nẵng 8 Tầng Thang Máy 15 Phòng Giá Chỉ 1X Tỷ
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         16,5 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         100 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Sơn Trà
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 7,5m">
+        7,5m
+       </span>
+       <span class="floors" title="8 lầu">
+        8 lầu
+       </span>
+       <span class="bedroom" title="15 phòng ngủ">
+        15 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item">
+      <div class="thumbnail">
+       <a href="/chinh-chu-can-ban-khach-san-gan-vo-nguyen-giap-500m2-15-tang-110-ty-bien-pham-van-dong-13387226.html">
+        <img alt="Chính chủ cần bán Khách sạn gần Võ Nguyên Giáp 500m2 15 tầng 110 tỷ Biển Phạm Văn Đồng" src="/files/properties/2023/9/12/thumbnails/013387226-3004-ban-nha-mat-tien-da-nang.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/chinh-chu-can-ban-khach-san-gan-vo-nguyen-giap-500m2-15-tang-110-ty-bien-pham-van-dong-13387226.html">
+         Chính chủ cần bán Khách sạn gần Võ Nguyên Giáp 500m2 15 tầng 110 tỷ Biển Phạm Văn Đồng
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         110 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         500 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Sơn Trà
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 11m">
+        11m
+       </span>
+       <span class="floors" title="15 lầu">
+        15 lầu
+       </span>
+       <span class="bedroom" title="80 phòng ngủ">
+        80 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-khach-san-6-tang-mt-my-khe-2-quan-son-tra-500m-ra-bien-kinh-doanh-on-dinh-12638277.html">
+        <img alt="Bán khách sạn 6 tầng gần Biển Mỹ Khê ngay Võ Văn Kiệt Quận Sơn Trà Đà Nẵng CHỈ 11,5 tỷ" src="/files/properties/2023/7/11/thumbnails/012638277-2832-ban-nha-hang-khach-san-quan-son-tra-gia-re.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-khach-san-6-tang-mt-my-khe-2-quan-son-tra-500m-ra-bien-kinh-doanh-on-dinh-12638277.html">
+         Bán khách sạn 6 tầng gần Biển Mỹ Khê ngay Võ Văn Kiệt Quận Sơn Trà Đà Nẵng CHỈ 11,5 tỷ
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         11,5 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         90 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Sơn Trà
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 6m">
+        6m
+       </span>
+       <span class="floors" title="6 lầu">
+        6 lầu
+       </span>
+       <span class="bedroom" title="21 phòng ngủ">
+        21 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="item extracolor">
+      <div class="thumbnail">
+       <a href="/ban-khach-san-trung-tam-quan-son-tra-view-song-han-vip-nhat-da-nang-13477365.html">
+        <img alt="Bán khách sạn trung tâm Quân Sơn Trà, View Sông Hàn Vip nhất Đà Nẵng" src="/files/properties/2023/10/3/thumbnails/013477365-5419-ban-nha-hang-khach-san-quan-son-tra.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="ct_title">
+        <a href="/ban-khach-san-trung-tam-quan-son-tra-view-song-han-vip-nhat-da-nang-13477365.html">
+         Bán khách sạn trung tâm Quân Sơn Trà, View Sông Hàn Vip nhất Đà Nẵng
+        </a>
+       </div>
+       <div>
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         90 tỷ
+        </div>
+        <div class="ct_dt">
+         <label>
+          DT:
+         </label>
+         375 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="ct_dis">
+        Quận Sơn Trà
+       </div>
+      </div>
+      <div class="characteristics">
+       <span class="road-width" title="Đường trước nhà 20m">
+        20m
+       </span>
+       <span class="floors" title="10 lầu">
+        10 lầu
+       </span>
+       <span class="bedroom" title="60 phòng ngủ">
+        60 pn
+       </span>
+       <span class="parking" title="có chỗ để ô tô">
+       </span>
+      </div>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <div class="relative-property">
+    <div>
+     <div class="content-header" id="ctl00_content_relative_property_title">
+      <h2>
+       Cần bán Nhà hàng, khách sạn tại Quận Sơn Trà
+      </h2>
+     </div>
+    </div>
+    <div class="content-items" id="ctl00_content_relative_property_content">
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/can-san-nhuong-khach-san-bien-hoang-sa-son-tra-kinh-doanh-tot-13485619.html">
+         CẦN SAN NHƯỢNG KHÁCH SẠN BIỂN - HOÀNG SA - SƠN TRÀ - KINH DOANH TỐT
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/can-san-nhuong-khach-san-bien-hoang-sa-son-tra-kinh-doanh-tot-13485619.html">
+        <img alt="CẦN SAN NHƯỢNG KHÁCH SẠN BIỂN - HOÀNG SA - SƠN TRÀ - KINH DOANH TỐT" src="/files/properties/2023/10/5/thumbnails/013485619-4244-ban-nha-hang-khach-san-da-nang-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 20m">
+         20m
+        </span>
+        <span class="floors" title="13 lầu">
+         13 lầu
+        </span>
+        <span class="bedroom" title="66 phòng ngủ">
+         66 phòng ngủ
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         10x25m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         226 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         130 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-hang-khach-san/duong-hoang-sa-quan-son-tra-dp2774.html">
+          Đường Hoàng Sa
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-hang-khach-san/phuong-man-thai-quan-son-tra-px1115.html">
+          Phường Mân Thái
+         </a>
+         , Quận Sơn Trà, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/ban-khach-san-460m2-duong-loseby-gia-132-ty--13478240.html">
+         Bán khách sạn 460m2 đường Loseby giá 132 tỷ.
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm qua
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/ban-khach-san-460m2-duong-loseby-gia-132-ty--13478240.html">
+        <img alt="Bán khách sạn 460m2 đường Loseby giá 132 tỷ." src="/files/properties/2023/10/3/thumbnails/013478240-1447-ban-nha-hang-khach-san-quan-son-tra-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="bedroom" title="90 phòng ngủ">
+         90 phòng ngủ
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         ---
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         460 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         132 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-hang-khach-san/duong-loseby-quan-son-tra-dp16665.html">
+          Đường Loseby
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-hang-khach-san/phuong-phuoc-my-quan-son-tra-px1117.html">
+          Phường Phước Mỹ
+         </a>
+         , Quận Sơn Trà, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/can-chuyen-nhuong-khach-san-3-view-bien-duong-hoang-sa-son-tra-da-nang-13474278.html">
+         Cần chuyển nhượng khách sạn 3* view biển đường Hoàng Sa, Sơn Trà, Đà Nẵng
+        </a>
+       </div>
+       <div class="ct_date">
+        Hôm nay
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/can-chuyen-nhuong-khach-san-3-view-bien-duong-hoang-sa-son-tra-da-nang-13474278.html">
+        <img alt="Cần chuyển nhượng khách sạn 3* view biển đường Hoàng Sa, Sơn Trà, Đà Nẵng" src="/files/properties/2023/10/3/thumbnails/013474278-1613-ban-nha-hang-khach-san-quan-son-tra.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 15m">
+         15m
+        </span>
+        <span class="floors" title="14 lầu">
+         14 lầu
+        </span>
+        <span class="bedroom" title="70 phòng ngủ">
+         70 phòng ngủ
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         10x22m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         226 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         Đông
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         120 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-hang-khach-san/duong-hoang-sa-quan-son-tra-dp2774.html">
+          Đường Hoàng Sa
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-hang-khach-san/phuong-man-thai-quan-son-tra-px1115.html">
+          Phường Mân Thái
+         </a>
+         , Quận Sơn Trà, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/khach-san-3sao-duong-loseby-son-tra-90-phong-cao-cap-co-be-boi--13472930.html">
+         Khách sạn 3sao đường Loseby, Sơn Trà. 90 phòng cao cấp có bể bơi.
+        </a>
+       </div>
+       <div class="ct_date">
+        03/10/2023
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/khach-san-3sao-duong-loseby-son-tra-90-phong-cao-cap-co-be-boi--13472930.html">
+        <img alt="Khách sạn 3sao đường Loseby, Sơn Trà. 90 phòng cao cấp có bể bơi." src="/files/properties/2023/10/2/thumbnails/013472930-3852-khach-san-3sao-duong-loseby-son-tra-90-phong-cao-cap-co-be-boi-.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 10m">
+         10m
+        </span>
+        <span class="floors" title="10 lầu">
+         10 lầu
+        </span>
+        <span class="bedroom" title="90 phòng ngủ">
+         90 phòng ngủ
+        </span>
+        <span class="parking" title="có chỗ để ô tô">
+         chỗ để xe
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         20x23m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         460 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         100 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-hang-khach-san/duong-loseby-quan-son-tra-dp16665.html">
+          Đường Loseby
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-hang-khach-san/phuong-phuoc-my-quan-son-tra-px1117.html">
+          Phường Phước Mỹ
+         </a>
+         , Quận Sơn Trà, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="content-item">
+      <div>
+       <div class="ct_title">
+        <a href="/khach-san-3sao-duong-loseby-son-tra-90-phong-cao-cap-co-be-boi--13471452.html">
+         Khách sạn 3sao đường Loseby, Sơn Trà. 90 phòng cao cấp có bể bơi.
+        </a>
+       </div>
+       <div class="ct_date">
+        02/10/2023
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <div class="thumbnail">
+       <a href="/khach-san-3sao-duong-loseby-son-tra-90-phong-cao-cap-co-be-boi--13471452.html">
+        <img alt="Khách sạn 3sao đường Loseby, Sơn Trà. 90 phòng cao cấp có bể bơi." src="/files/properties/2023/10/2/thumbnails/013471452-5758-ban-nha-hang-khach-san-quan-son-tra-chinh-chu.jpg"/>
+       </a>
+      </div>
+      <div class="text">
+       <div class="characteristics">
+        <span class="road-width" title="Đường trước nhà 10m">
+         10m
+        </span>
+        <span class="floors" title="10 lầu">
+         10 lầu
+        </span>
+        <span class="bedroom" title="90 phòng ngủ">
+         90 phòng ngủ
+        </span>
+        <span class="parking" title="có chỗ để ô tô">
+         chỗ để xe
+        </span>
+       </div>
+       <div class="square-direct">
+        <div class="ct_kt">
+         <label>
+          KT:
+         </label>
+         20x23m
+        </div>
+        <div class="ct_dt">
+         <label>
+          Diện tích:
+         </label>
+         460 m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="ct_direct">
+         <label>
+          Hướng:
+         </label>
+         _
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="price-dis">
+        <div class="ct_price">
+         <label>
+          Giá:
+         </label>
+         100 tỷ
+        </div>
+        <div class="ct_dis">
+         <a href="/nha-dat/can-ban/nha-hang-khach-san/duong-loseby-quan-son-tra-dp16665.html">
+          Đường Loseby
+         </a>
+         ,
+         <a href="/nha-dat/can-ban/nha-hang-khach-san/phuong-phuoc-my-quan-son-tra-px1117.html">
+          Phường Phước Mỹ
+         </a>
+         , Quận Sơn Trà, Đà Nẵng
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="viewmore">
+      <a href="/nha-dat/can-ban/nha-hang-khach-san/da-nang/586/quan-son-tra.html">
+       Xem thêm các tin khác
+      </a>
+     </div>
+    </div>
+    <!----end sale content----->
+   </div>
+  </div>
+  <!--left-->
+  <div id="right">
+   <div class="contact">
+    <div class="contact-info">
+     <div class="title">
+      Thông tin liên hệ
+     </div>
+     <div class="content">
+      <div class="name">
+       Mr Dũng
+      </div>
+      <div class="fone">
+       <a href="javascript:void(0)">
+        0798.154.555
+       </a>
+       <div class="dvviewphone">
+        <img align="left" class="captchagenerator" height="30" src="/CaptchaGenerator.ashx?a=3794" width="90"/>
+        <input class="captcha" id="captcha_viewphone" maxlength="5" name="captcha" style="height:26px; margin-left:5px; width:75px" type="text"/>
+        <span class="viewphone">
+         (Bấm xem số điện thoại)
+        </span>
+       </div>
+      </div>
+      <div class="introduce">
+      </div>
+      <div class="review-box">
+       <span class="review-score">
+        Được đánh giá:
+       </span>
+       <span class="review-star">
+        <span class="rate" style="width:60%;">
+        </span>
+       </span>
+      </div>
+      <div class="view-more">
+       <a href="/nha-moi-gioi/ken-832595.html">
+        Xem thêm 28 tin khác của thành viên này
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="head-search">
+    Tìm kiếm nhà đất
+   </div>
+   <div class="search-box">
+    <div>
+     <input class="location" placeholder="Nhập địa điểm cần tìm" type="text"/>
+     <div class="suggesstion">
+      <div class="title">
+       Gợi ý
+      </div>
+      <ul>
+       <li>
+        <span>
+         Nhập tên đường/phố, phường/xã, quận/huyện, tỉnh/thành phố hoặc tên dự án. Ví dụ:
+         <br/>
+         <span style="color:#000000">
+          - Nguyễn Xí, Bình Thạnh
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Láng Hạ, Đống Đa
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Vũng Tàu
+         </span>
+         <br/>
+         <span style="color:#000000">
+          - Times City
+         </span>
+        </span>
+       </li>
+       <li>
+        <span>
+         Phải chọn các gợi ý chúng tôi đề xuất bên dưới để kết quả chính xác
+        </span>
+       </li>
+       <li>
+        <span>
+         Nếu không nhập địa điểm ở đây, Quý vị có thể chọn lựa khu vực bằng các ô phía dưới trong công cụ tìm kiếm này
+        </span>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="demand-container">
+     <div class="text">
+      Cần bán
+     </div>
+     <div class="view">
+      <div>
+       <ul>
+        <li name="can-ban">
+         Cần bán
+        </li>
+        <li name="cho-thue">
+         Cho thuê
+        </li>
+        <li name="can-mua">
+         Cần mua
+        </li>
+        <li name="can-thue">
+         Cần thuê
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="property-type-container multicolumns">
+     <div class="text">
+      Nhà mặt tiền
+     </div>
+     <div class="view">
+      <span class="exit">
+       Loại bất động sản
+      </span>
+      <div>
+       <ul>
+        <li name="nha">
+         NHÀ
+        </li>
+        <li name="nha-mat-tien" style="text-indent:20px;">
+         Nhà mặt tiền
+        </li>
+        <li name="nha-trong-hem" style="text-indent:20px;">
+         Nhà trong hẻm
+        </li>
+        <li name="biet-thu-nha-lien-ke">
+         Biệt thự, nhà liền kề
+        </li>
+        <li name="can-ho-chung-cu">
+         Căn hộ chung cư
+        </li>
+        <li name="phong-tro-nha-tro">
+         Phòng trọ, nhà trọ
+        </li>
+       </ul>
+       <ul>
+        <li name="van-phong">
+         Văn phòng
+        </li>
+        <li name="kho-xuong">
+         Kho, xưởng
+        </li>
+        <li name="nha-hang-khach-san">
+         Nhà hàng, khách sạn
+        </li>
+        <li name="shop-kiot-quan">
+         Shop, kiot, quán
+        </li>
+        <li name="trang-trai">
+         Trang trại
+        </li>
+       </ul>
+       <ul>
+        <li name="mat-bang">
+         Mặt bằng
+        </li>
+        <li name="dat-tho-cu-dat-o" style="font-weight:bold">
+         Đất thổ cư, đất ở
+        </li>
+        <li name="dat-nen-lien-ke-dat-du-an">
+         Đất nền, liền kề, đất dự án
+        </li>
+        <li name="dat-nong-lam-nghiep">
+         Đất nông, lâm nghiệp
+        </li>
+        <li name="cac-loai-khac">
+         Các loại khác
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="province-container multicolumns">
+     <div class="text" name="0">
+      --- Tỉnh/Thành --
+     </div>
+     <div class="view">
+      <span class="exit">
+       Tỉnh/Thành
+      </span>
+      <div>
+       <ul>
+        <h3>
+         Miền Nam
+        </h3>
+        <li name="2">
+         Hồ Chí Minh
+        </li>
+        <li name="7">
+         Bà Rịa-Vũng Tàu
+        </li>
+        <li name="14">
+         Bình Dương
+        </li>
+        <li name="23">
+         Đồng Nai
+        </li>
+        <li name="5">
+         Cần Thơ
+        </li>
+        <li name="39">
+         Long An
+        </li>
+        <li name="6">
+         An Giang
+        </li>
+        <li name="8">
+         Bạc Liêu
+        </li>
+        <li name="13">
+         Bến Tre
+        </li>
+        <li name="16">
+         Bình Phước
+        </li>
+        <li name="18">
+         Cà Mau
+        </li>
+        <li name="20">
+         Đắk Lắk
+        </li>
+        <li name="21">
+         Đăk Nông
+        </li>
+        <li name="24">
+         Đồng Tháp
+        </li>
+        <li name="25">
+         Gia Lai
+        </li>
+        <li name="29">
+         Hậu Giang
+        </li>
+        <li name="33">
+         Kiên Giang
+        </li>
+        <li name="34">
+         Kon Tum
+        </li>
+        <li name="36">
+         Lâm Đồng
+        </li>
+        <li name="51">
+         Sóc Trăng
+        </li>
+        <li name="53">
+         Tây Ninh
+        </li>
+        <li name="58">
+         Tiền Giang
+        </li>
+        <li name="59">
+         Trà Vinh
+        </li>
+        <li name="61">
+         Vĩnh Long
+        </li>
+       </ul>
+       <ul>
+        <h3>
+         Miền Trung
+        </h3>
+        <li name="15">
+         Bình Định
+        </li>
+        <li name="17">
+         Bình Thuận
+        </li>
+        <li name="3">
+         Đà Nẵng
+        </li>
+        <li name="28">
+         Hà Tĩnh
+        </li>
+        <li name="57">
+         Thừa Thiên-Huế
+        </li>
+        <li name="32">
+         Khánh Hòa
+        </li>
+        <li name="41">
+         Nghệ An
+        </li>
+        <li name="43">
+         Ninh Thuận
+        </li>
+        <li name="45">
+         Phú Yên
+        </li>
+        <li name="46">
+         Quảng Bình
+        </li>
+        <li name="47">
+         Quảng Nam
+        </li>
+        <li name="48">
+         Quảng Ngãi
+        </li>
+        <li name="50">
+         Quảng Trị
+        </li>
+       </ul>
+       <ul>
+        <h3>
+         Miền Bắc
+        </h3>
+        <li name="1">
+         Hà Nội
+        </li>
+        <li name="11">
+         Hải Dương
+        </li>
+        <li name="4">
+         Hải Phòng
+        </li>
+        <li name="9">
+         Bắc Kạn
+        </li>
+        <li name="10">
+         Bắc Giang
+        </li>
+        <li name="12">
+         Bắc Ninh
+        </li>
+        <li name="19">
+         Cao Bằng
+        </li>
+        <li name="22">
+         Điện Biên
+        </li>
+        <li name="26">
+         Hà Giang
+        </li>
+        <li name="27">
+         Hà Nam
+        </li>
+        <li name="30">
+         Hòa Bình
+        </li>
+        <li name="31">
+         Hưng Yên
+        </li>
+        <li name="37">
+         Lạng Sơn
+        </li>
+        <li name="38">
+         Lào Cai
+        </li>
+        <li name="35">
+         Lai Châu
+        </li>
+        <li name="40">
+         Nam Định
+        </li>
+        <li name="42">
+         Ninh Bình
+        </li>
+        <li name="44">
+         Phú Thọ
+        </li>
+        <li name="49">
+         Quảng Ninh
+        </li>
+        <li name="52">
+         Sơn La
+        </li>
+        <li name="54">
+         Thái Bình
+        </li>
+        <li name="55">
+         Thái Nguyên
+        </li>
+        <li name="56">
+         Thanh Hóa
+        </li>
+        <li name="60">
+         Tuyên Quang
+        </li>
+        <li name="62">
+         Vĩnh Phúc
+        </li>
+        <li name="63">
+         Yên Bái
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="district-container multicolumns">
+     <div class="text" name="0">
+      --- Quận/Huyện ---
+     </div>
+     <div class="view">
+      <span class="exit">
+       Quận/Huyện
+      </span>
+      <div class="district">
+      </div>
+      <div class="ajax-loading">
+      </div>
+     </div>
+    </div>
+    <div class="price-container multicolumns">
+     <div class="text" name="0">
+      ---------- Giá --------
+     </div>
+     <div class="view">
+      <span class="exit">
+       Mức giá
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         0 - 1 triệu
+        </li>
+        <li name="2">
+         1 - 3 triệu
+        </li>
+        <li name="3">
+         3 - 5 triệu
+        </li>
+        <li name="4">
+         5 - 10 triệu
+        </li>
+        <li name="5">
+         10 - 15 triệu
+        </li>
+        <li name="6">
+         15 - 20 triệu
+        </li>
+        <li name="7">
+         20 - 30 triệu
+        </li>
+        <li name="8">
+         30 - 40 triệu
+        </li>
+        <li name="9">
+         40 - 60 triệu
+        </li>
+       </ul>
+       <ul>
+        <li name="10">
+         60 - 80 triệu
+        </li>
+        <li name="11">
+         80 - 100 triệu
+        </li>
+        <li name="12">
+         100 - 300 triệu
+        </li>
+        <li name="13">
+         300 - 500 triệu
+        </li>
+        <li name="14">
+         500 - 800 triệu
+        </li>
+        <li name="15">
+         800 - 1 tỷ
+        </li>
+        <li name="16">
+         1 - 2 tỷ
+        </li>
+        <li name="17">
+         2 - 3 tỷ
+        </li>
+        <li name="18">
+         3 - 4 tỷ
+        </li>
+       </ul>
+       <ul>
+        <li name="19">
+         4 - 6 tỷ
+        </li>
+        <li name="20">
+         6 - 8 tỷ
+        </li>
+        <li name="21">
+         8 - 10 tỷ
+        </li>
+        <li name="22">
+         10 - 15 tỷ
+        </li>
+        <li name="23">
+         15 - 20 tỷ
+        </li>
+        <li name="24">
+         20 - 30 tỷ
+        </li>
+        <li name="25">
+         30 - 60 tỷ
+        </li>
+        <li name="26">
+         Trên 60 tỷ
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="square-container multicolumns">
+     <div class="text" name="0">
+      ----- Diện tích ---
+     </div>
+     <div class="view">
+      <span class="exit">
+       Diện tích
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         0 - 30m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="2">
+         30 - 50m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="3">
+         50 - 70m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="4">
+         70 - 100m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="5">
+         100 - 150m
+         <sup>
+          2
+         </sup>
+        </li>
+       </ul>
+       <ul>
+        <li name="6">
+         150 - 200
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="7">
+         200 - 250m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="8">
+         250 - 300m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="9">
+         300 - 350m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="10">
+         350 - 400m
+         <sup>
+          2
+         </sup>
+        </li>
+       </ul>
+       <ul>
+        <li name="11">
+         400 - 600m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="12">
+         600 - 800m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="13">
+         800 - 1000m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="14">
+         Trên 1000m
+         <sup>
+          2
+         </sup>
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="direct-container multicolumns">
+     <div class="text" name="0">
+      ------ Hướng -----
+     </div>
+     <div class="view">
+      <span class="exit">
+       Hướng
+      </span>
+      <div>
+       <ul>
+        <li name="1">
+         Đông
+        </li>
+        <li name="6">
+         Đông Bắc
+        </li>
+        <li name="5">
+         Đông Nam
+        </li>
+       </ul>
+       <ul>
+        <li name="2">
+         Tây
+        </li>
+        <li name="8">
+         Tây Bắc
+        </li>
+        <li name="7">
+         Tây Nam
+        </li>
+       </ul>
+       <ul>
+        <li name="3">
+         Nam
+        </li>
+        <li name="4">
+         Bắc
+        </li>
+        <li name="0">
+         <b>
+          Chọn tất cả
+         </b>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="button-search">
+     Tìm nhanh
+    </div>
+    <div class="advanced-search">
+     <a href="/tim-kiem-nang-cao.html" rel="nofollow">
+      Tìm kiếm nâng cao
+     </a>
+    </div>
+   </div>
+   <div class="banner-center">
+   </div>
+   <div class="right-navigation-box">
+    <div class="item groupbyproject" id="ctl00_content_groupByProject">
+     <div class="title">
+      <h2 id="ctl00_content_groupByPropertyProjectTitle">
+       Bán nhà hàng, khách sạn tại các dự án ở Quận Sơn Trà
+      </h2>
+     </div>
+     <div class="content" id="ctl00_content_groupByPropertyProjectContent">
+      <ul>
+       <li>
+        <a href="/can-ban-nha-hang-khach-san/p3261/an-cu-3.html" title="Ban khach san An Cu 3">
+         Bán khách sạn
+         <b>
+          An Cư 3
+         </b>
+        </a>
+        (
+        <span class="number">
+         1
+        </span>
+        )
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="item groupbydistrict">
+     <div class="title">
+      <h2 id="ctl00_content_groupByPropertyDistrictTitle">
+       Bán khách sạn tại Đà Nẵng
+      </h2>
+     </div>
+     <div class="content" id="ctl00_content_groupByPropertyDistrict">
+      <ul>
+       <li>
+        <a href="/nha-dat/can-ban/nha-hang-khach-san/da-nang/584/quan-hai-chau.html" title="Ban khach san Quan Hai Chau">
+         Bán khách sạn
+         <b>
+          Quận Hải Châu
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-hang-khach-san/da-nang/585/quan-thanh-khe.html" title="Ban khach san Quan Thanh Khe">
+         Bán khách sạn
+         <b>
+          Quận Thanh Khê
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-hang-khach-san/da-nang/586/quan-son-tra.html" title="Ban khach san Quan Son Tra">
+         Bán khách sạn
+         <b>
+          Quận Sơn Trà
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-hang-khach-san/da-nang/587/quan-ngu-hanh-son.html" title="Ban khach san Quan Ngu Hanh Son">
+         Bán khách sạn
+         <b>
+          Quận Ngũ Hành Sơn
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-hang-khach-san/da-nang/588/quan-lien-chieu.html" title="Ban khach san Quan Lien Chieu">
+         Bán khách sạn
+         <b>
+          Quận Liên Chiểu
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-hang-khach-san/da-nang/589/quan-cam-le.html" title="Ban khach san Quan Cam Le">
+         Bán khách sạn
+         <b>
+          Quận Cẩm Lệ
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-hang-khach-san/da-nang/590/huyen-hoa-vang.html" title="Ban khach san Huyen Hoa Vang">
+         Bán khách sạn
+         <b>
+          Huyện Hòa Vang
+         </b>
+        </a>
+       </li>
+       <li>
+        <a href="/nha-dat/can-ban/nha-hang-khach-san/da-nang/712/huyen-hoang-sa.html" title="Ban khach san Huyen Hoang Sa">
+         Bán khách sạn
+         <b>
+          Huyện Hoàng Sa
+         </b>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!--right-->
+  <div class="clear">
+  </div>
+ </div>
+</div>

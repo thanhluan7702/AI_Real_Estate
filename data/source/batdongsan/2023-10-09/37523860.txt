@@ -1,0 +1,351 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="37523860" uid="502594">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Bán lô đất Võ Văn Đồng đối diện bãi tắm Tân Trà, 90m2 giá rẻ
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Võ Văn Đồng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    3,2 tỷ
+   </span>
+   <span class="ext">
+    ~35,56 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    90 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":37523860,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/06/24/20230624085020-aee0_wm.jpeg","vipType":0,"title":"Bán lô đất Võ Văn Đồng đối diện bãi tắm Tân Trà, 90m2 giá rẻ","titleHiddenMobile":"Bán lô đất Võ Văn Đồng đối diện bãi tắm Tân Trà, 90m2 giá rẻ","url":"https://batdongsan.com.vn/ban-dat-duong-vo-van-dong-phuong-hoa-hai/ban-lo-doi-dien-bai-tam-tan-tra-90m2-gia-re-pr37523860","productIdPrefix":"37523860$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-dat-duong-vo-van-dong-phuong-hoa-hai/ban-lo-doi-dien-bai-tam-tan-tra-90m2-gia-re-pr37523860&amp;t=Bán lô đất Võ Văn Đồng đối diện bãi tắm Tân Trà, 90m2 giá rẻ" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-dat-duong-vo-van-dong-phuong-hoa-hai/ban-lo-doi-dien-bai-tam-tan-tra-90m2-gia-re-pr37523860" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=37523860">
+   Bán đất Võ Văn Đồng lô đẹp nhất khu vực.
+   <br/>
+   - Sát biển bãi tắm Tân Trà.
+   <br/>
+   - Giá 3.2 tỷ.
+   <br/>
+   Vị trí: Nằm ngay bãi tắm Tân Trà, cách biển chỉ vài bước chân, nên rất thoáng mát, không khí trong lành. Gần các dự án vui chơi giải trí Cocobay, Sheraton, Ocean Villa, Naman Retreat, sân golf...
+   <br/>
+   - Diện tích 5x 18m = 90m², hướng Bắc, sạch đẹp, đường 7,5m lề mỗi bên 4m. Sát Trường Sa. Pháp lý: Sổ đỏ chính chủ, sẵn sàng giao dịch ngay.
+   <br/>
+   Giá bán: 3.2 tỷ thương lượng.
+   <br/>
+   Liên hệ
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="c91987fb229f4fa3a5409f41ba906bfb" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=37523860">
+    0914 949 ***
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      90 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3,2 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Bắc
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.verbabfb824.msvbds.pricing-insight.min.css" rel="stylesheet"/>
+ <div class="re__section pd-pricing-insight lazyloaded" data-func='new FrontEnd.Product.Details.PricingInsight({"prefixPrice":"~","price":35.56,"min":26.0,"max":98.0,"avg":44.0,"isRent":"false"})' data-script="https://staticfile.batdongsan.com.vn/js/Product/Binnova/Details/filestatic.verbabfb824.msvbds.FrontEnd.Product.Details.PricingInsight.min.js" tracking-id="ldp-listing-pricing-insight">
+  <h3 class="re__section-title">
+   Khoảng giá phổ biến
+   <span class="re__icon-info-circle--sm pricing-insight--info js__pricing-insight--info">
+    <span class="pricing-insight--note">
+     Thông tin được tổng hợp bởi Batdongsan.com.vn trong vòng 3 tháng gần nhất
+    </span>
+   </span>
+  </h3>
+  <div class="pricing-insight--sub-title">
+   Bán đất tại phường Hòa Hải, quận Ngũ Hành Sơn
+  </div>
+  <div class="pd-pricing-insight--border js__pd-pricing-insight--border">
+   <div class="pd-pricing-insight--content">
+    <div class="pricing-content-row-label">
+     <div class="pricing-avg-min pricing-content-row" style="left: calc(12% - 56px);">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+       26 triệu/m²
+      </div>
+     </div>
+     <div class="pricing-avg pricing-content-row" style="left: calc(31% - 56px);">
+      <div class="pricing-content--r1">
+       Giá phổ biến nhất
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+       44 triệu/m²
+      </div>
+     </div>
+     <div class="pricing-avg-max pricing-content-row" style="left: calc(88% - 56px);">
+      <div class="pricing-content--r1">
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+       98 triệu/m²
+      </div>
+     </div>
+    </div>
+    <div class="bg-pricing">
+    </div>
+    <div class="bg-pricing-avg" style="width: 76%; left: 12%;">
+    </div>
+    <div class="pricing-avg-min pricing-default" style="left: calc(12% - 56px);">
+     <div class="pricing-content">
+      <div class="pricing--line" style="width: 2px; clip-path: polygon(0px 0px, 1px 0px, 2px 16px, 1px 16px); left: 56px;">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+        26 triệu/m²
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg pricing-default" style="left: calc(31% - 56px);">
+     <div class="pricing-content">
+      <div class="pricing--line" style="width: 2px; clip-path: polygon(0px 0px, 1px 0px, 2px 16px, 1px 16px); left: 56px;">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+        Giá phổ biến nhất
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+        44 triệu/m²
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-avg-max pricing-default" style="left: calc(88% - 56px);">
+     <div class="pricing-content">
+      <div class="pricing--line" style="width: 2px; clip-path: polygon(0px 0px, 1px 0px, 2px 16px, 1px 16px); left: 56px;">
+      </div>
+      <div class="pricing-content-row">
+       <div class="pricing-content--r1">
+       </div>
+       <br/>
+       <div class="pricing-content--r2">
+        98 triệu/m²
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="pricing-product" style="left: calc(22% - 73px);">
+     <div class="pricing-content">
+      <div class="pricing-content--r1">
+       Tin đang xem
+      </div>
+      <br/>
+      <div class="pricing-content--r2">
+       ~35,6 triệu/m²
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=15.9861233,108.2688832&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   T
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Huỳnh Thùy Trang">
+     Huỳnh Thùy Trang
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/83d5e6ad53fb3e94" tracking-id="user-listing-ldp">
+      Xem thêm 6 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=37523860">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/dat-hoa-hai" title="Đất Hòa Hải " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Hòa Hải
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/dat-vo-van-dong" title="Đất Võ Văn Đồng " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Võ Văn Đồng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/dat-da-nang" title="Đất Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/dat-tan-tra-ngu-hanh-son" title="Đất Tân Trà Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Tân Trà Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/dat-truong-sa-ngu-hanh-son" title="Đất Trường Sa Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Trường Sa Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/dat-my-an-ngu-hanh-son" title="Đất Mỹ An Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Mỹ An Ngũ Hành Sơn
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    03/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    13/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    37523860
+   </span>
+  </div>
+ </div>
+</div>

@@ -1,0 +1,320 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="37210928" uid="1789628">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cho thuê căn hộ dát vàng Golden Bay 5 sao, giá chỉ 9 triệu/tháng có thể cho thuê theo đêm 1 tr/đêm
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án Hòa Bình Green Đà Nẵng, Đường Lê Văn Duyệt, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    9 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    40 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":37210928,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/05/12/20230512134903-7e8e_wm.jpg","vipType":0,"title":"Cho thuê căn hộ dát vàng Golden Bay 5 sao, giá chỉ 9 triệu/tháng có thể cho thuê theo đêm 1 tr/đêm","titleHiddenMobile":"Cho thuê căn hộ dát vàng Golden Bay 5 sao, giá chỉ 9 triệu/tháng có thể cho thuê theo đêm 1 tr/đêm","url":"https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-prj-hoa-binh-green-da-nang/c-dat-vang-golden-bay-gia-chi-10-trieu-thang-co-the-c-theo-dem-1-tr-dem-pr37210928","productIdPrefix":"37210928$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-prj-hoa-binh-green-da-nang/c-dat-vang-golden-bay-gia-chi-10-trieu-thang-co-the-c-theo-dem-1-tr-dem-pr37210928&amp;t=Cho thuê căn hộ dát vàng Golden Bay 5 sao, giá chỉ 9 triệu/tháng có thể cho thuê theo đêm 1 tr/đêm" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-prj-hoa-binh-green-da-nang/c-dat-vang-golden-bay-gia-chi-10-trieu-thang-co-the-c-theo-dem-1-tr-dem-pr37210928" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=37210928">
+   Chính chủ cho thuê căn hộ tại khách sạn 5 sao Whyndham Golden Bay. LH:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="f00942e97fd3813e84ab1aa37112fd9f" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=37210928">
+    0911 296 ***
+   </span>
+   <br/>
+   - Vị trí: Căn hộ khách sạn đẳng cấp 5 sao nằm tại bán đảo Sơn Trà, ngay cửa biển sông Hàn chảy ra biển Đông. Đây là dự án về căn hộ dát vàng đầu tiên tại Việt Nam.
+   <br/>
+   - Căn hộ 1 PN nội thất sang trọng chuẩn 5 sao theo kiến trúc Pháp, mang phong cách sang trọng, các căn hộ đều có tầm nhìn tuyệt đẹp ra bãi biển Mỹ Khê, vịnh Đà Nẵng, bán đảo Sơn Trà và trung tâm thành phố.
+   <br/>
+   - DT đa dạng: 40 - 60 - 70m².
+   <br/>
+   - Gía cho thuê: 9 triệu/tháng.
+   <br/>
+   - Có thể cho thuê theo đêm giá 1 - 1,2 triệu/đêm.
+   <br/>
+   Phù hợp với người đi công tác, du lịch, tại Đà Nẵng...
+   <br/>
+   - Tiện ích:
+   <br/>
+   - Dự án cách trung tâm thành phố: 1km.
+   <br/>
+   - Cách bãi biển Mỹ Khê một trong 6 bãi biển đẹp nhất thế giới: 2,5km.
+   <br/>
+   - Cách bãi tắm Tiên Sa: 500m.
+   <br/>
+   Sân bay quốc tế: 5km.
+   <br/>
+   - Với bể bơi vô cực cao nhất và lớn nhất Đông Dương, du khách có thể thoải mái tận hưởng cảm giác như được bơi giữa không trung và chiêm ngưỡng toàn cảnh thành phố Đà Nẵng.
+   <br/>
+   Hệ thống an ninh 24/7.
+   <br/>
+   - 3 tầng trung tâm thương mại;
+   <br/>
+   Khu vui chơi mua sắm;
+   <br/>
+   - Rạp chiếu phim;
+   <br/>
+   - Casino;
+   <br/>
+   - Vũ trường;
+   <br/>
+   - Khu vực tổ chức chợ đêm và lễ hội;
+   <br/>
+   Sân tennis, gym;
+   <br/>
+   - Spa và bể bơi vô cực tầng thượng.
+   <br/>
+   Liên hệ:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="f00942e97fd3813e84ab1aa37112fd9f" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=37210928">
+    0911 296 ***
+   </span>
+   Chị Ánh.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      40 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      9 triệu/tháng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-cho-thue-hoa-binh-green-da-nang" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 17 tin đăng cho thuê
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-can-ho-chung-cu-son-tra-ddn/hoa-binh-green-da-nang-pj2575" target="_blank">
+      <img alt="Hòa Bình Green Đà Nẵng" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2016/07/18/0I4XNtd4/20160718095114-69f2.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       Hòa Bình Green Đà Nẵng
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Đã bàn giao" class="re__prj-card-config-value re__wrap-long-text" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Đã bàn giao
+       </span>
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Công ty TNHH Hoà Bình" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Công ty TNHH Hoà Bình
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="2">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0981044769287,108.224586486816&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   G
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Đất Vàng Group">
+     Đất Vàng Group
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/17f22d78e34c37e9" tracking-id="user-listing-ldp">
+      Xem thêm 9 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=37210928">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-hoa-binh-green-da-nang/dt-tu-50m2-den-80m2" title="Thuê căn hộ Hòa Bình Green Đà Nẵng từ 50 m2 đến 80 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Hòa Bình Green Đà Nẵng từ 50 m2 đến 80 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-phuong-nai-hien-dong" title="Thuê căn hộ Nại Hiên Đông " tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Nại Hiên Đông
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-duong-le-van-duyet-45" title="Thuê căn hộ Lê Văn Duyệt " tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Lê Văn Duyệt
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-da-nang" title="Thuê căn hộ Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-da-nang?gtn=10-trieu&amp;gcn=40-trieu" title="Thuê căn hộ Đà Nẵng từ 10 triệu đến 40 triệu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Đà Nẵng từ 10 triệu đến 40 triệu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-duong-my-khe-49" title="Thuê căn hộ Mỹ Khê Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Mỹ Khê Sơn Trà
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    31/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    10/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    37210928
+   </span>
+  </div>
+ </div>
+</div>

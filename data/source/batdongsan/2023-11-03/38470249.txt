@@ -1,0 +1,308 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38470249" uid="1161689">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cơ hội có 1 không 2 sở hữu căn hộ DaNang Landmark vị trí kim cương điểm nhấn kiến trúc bên sông Hàn
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án Landmark Tower Đà Nẵng, Phường Bình Thuận, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    56 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38470249,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/11/03/20231103153740-af21_wm.jpg","vipType":0,"title":"Cơ hội có 1 không 2 sở hữu căn hộ DaNang Landmark vị trí kim cương điểm nhấn kiến trúc bên sông Hàn","titleHiddenMobile":"Cơ hội có 1 không 2 sở hữu căn hộ DaNang Landmark vị trí kim cương điểm nhấn kiến trúc bên sông Hàn","url":"https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-binh-thuan-prj-landmark-tower-da-nang/co-i-co-1-kng-2-khi-so-huu-vi-tri-kim-cuong-va-la-diem-nhan-kien-truc-ben-song-han-pr38470249","productIdPrefix":"38470249$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-binh-thuan-prj-landmark-tower-da-nang/co-i-co-1-kng-2-khi-so-huu-vi-tri-kim-cuong-va-la-diem-nhan-kien-truc-ben-song-han-pr38470249&amp;t=Cơ hội có 1 không 2 sở hữu căn hộ DaNang Landmark vị trí kim cương điểm nhấn kiến trúc bên sông Hàn" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-binh-thuan-prj-landmark-tower-da-nang/co-i-co-1-kng-2-khi-so-huu-vi-tri-kim-cuong-va-la-diem-nhan-kien-truc-ben-song-han-pr38470249" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38470249">
+   - Da Nang Landmark Tower Da Nang Landmark Tower trở thành một sự lựa chọn hoàn hảo, một nam châm thu hút giới đầu tư trong và ngoài nước năm 2023 nhờ sỡ hữu:
+   <br/>
+   - Khả năng thanh khoản cao: Thị trường các bất động sản ven sông gần như lúc nào cũng nhộn nhịp nhu cầu người mua.
+   <br/>
+   - Tiềm năng cho thuê cực tốt: Các căn hộ gần cầu Rồng, sông Hàn luôn trong tình trạng lấp đầy phòng với mức giá cho thuê tương đối cao.
+   <br/>
+   - Quỹ đất khan hiếm: Hiện tại quỹ đất ven sông Hàn gần như đã hết nên dần trở nên rất khan hiếm, đắt giá. Nhưng Landmark lại sở hữu là lô đất với vị thế độc tôn, giáp ranh với công viên Apec, ngay cầu Rồng, sông Hàn và công viên APEC.
+   <br/>
+   - Tầm nhìn triệu đô: Công viên 9000m², Cầu Rồng, Cầu Trần Thị Lý, trung tâm thành phố. Điếm nhấn là view sông Hàn vĩnh cữu.
+   <br/>
+   - Tâm điểm kết nối: Cầu Trần Thị Lý, Asia Park và Bảo Tàng Chăm trong phạm vi 800m, di chuyển đến con đường kinh tế Nguyễn Văn Linh trong nháy mắt và chỉ mất 5 phút là tới sân bay quốc tế hay biển Mỹ Khê.
+   <br/>
+   - Vị thế tương lai: Với 3 mặt tiền bên bờ sông hàn và nơi sẽ là khu phố đi bộ sầm uất tại Đà Nẵng, liệu rằng Landmark có tiềm năng tăng giá đỉnh cao như phố đi bộ Nguyễn Huệ Sài Gòn hay phố đi bộ Hồ Gươm tại Hà Nội?
+   <br/>
+   Thiên Kim Real - Nhận giữ chỗ quỹ căn giới hạn view đẹp Danang Landmark Tower! Hotline:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="7b5484feec06633c892299e646bdce56" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38470249">
+    0907 222 ***
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      56 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-ban-landmark-tower-da-nang" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 10 tin đăng bán
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-can-ho-chung-cu-hai-chau-ddn/landmark-tower-da-nang-pj5565" target="_blank">
+      <img alt="Landmark Tower Đà Nẵng" class="lazyload" src="https://staticfile.batdongsan.com.vn/images/avatar/no-image-enterprise-avatar.svg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       Landmark Tower Đà Nẵng
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Sắp triển khai" class="re__prj-card-config-value" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Sắp triển khai
+       </span>
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="Diện tích 55-390 m²" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-size--sm">
+       </i>
+       55-390 m²
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="446 căn hộ" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-home--sm">
+       </i>
+       446
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="2 tòa nhà" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-building--sm">
+       </i>
+       2
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư CÔNG TY CỔ PHẦN COSMOS HOUSING" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        CÔNG TY CỔ PHẦN COSMOS HOUSING
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="2">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.048683166503906,108.2237777709961&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/255x180/2020/11/12/20201112144501-21a7.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Thiên Kim 1">
+     Thiên Kim 1
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/4ae854c9b647311b" tracking-id="user-listing-ldp">
+      Xem thêm 17 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38470249">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-landmark-tower-da-nang/dt-tu-50m2-den-80m2" title="Căn hộ Landmark Tower Đà Nẵng từ 50 m2 đến 80 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Landmark Tower Đà Nẵng từ 50 m2 đến 80 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-phuong-binh-thuan" title="Căn hộ Bình Thuận Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Bình Thuận Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-hai-chau-ddn" title="Căn hộ Hải Châu Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Hải Châu Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-da-nang" title="Căn hộ Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-phuong-binh-thuan-prj-landmark-tower-da-nang" title="Căn hộ Landmark Tower Đà Nẵng Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Landmark Tower Đà Nẵng Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-duong-bach-dang-phuong-binh-thuan-prj-the-filmore-da-nang" title="Căn hộ The Filmore Da Nang Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ The Filmore Da Nang Hải Châu
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    03/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    10/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin VIP Bạc
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38470249
+   </span>
+  </div>
+ </div>
+</div>

@@ -1,0 +1,305 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38173490" uid="1789785">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Danh sách 10 văn phòng làm việc từ 20 - 30 nhân sự TP Đà Nẵng, giá chỉ từ 15tr/tháng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Duy Tân, Phường  Hòa Thuận Đông, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    117 nghìn/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    200 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38173490,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/09/25/20230925073208-bf6f_wm.jpg","vipType":0,"title":"Danh sách 10 văn phòng làm việc từ 20 - 30 nhân sự TP Đà Nẵng, giá chỉ từ 15tr/tháng","titleHiddenMobile":"Danh sách 10 văn phòng làm việc từ 20 - 30 nhân sự TP Đà Nẵng, giá chỉ từ 15tr/tháng","url":"https://batdongsan.com.vn/cho-thue-van-phong-duong-duy-tan-phuong-hoa-thuan-dong/danh-sach-10-lam-viec-tu-20-30nhan-su-tp-da-nang-gia-chi-tu-5-m2-thang-pr38173490","productIdPrefix":"38173490$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-van-phong-duong-duy-tan-phuong-hoa-thuan-dong/danh-sach-10-lam-viec-tu-20-30nhan-su-tp-da-nang-gia-chi-tu-5-m2-thang-pr38173490&amp;t=Danh sách 10 văn phòng làm việc từ 20 - 30 nhân sự TP Đà Nẵng, giá chỉ từ 15tr/tháng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-van-phong-duong-duy-tan-phuong-hoa-thuan-dong/danh-sach-10-lam-viec-tu-20-30nhan-su-tp-da-nang-gia-chi-tu-5-m2-thang-pr38173490" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38173490">
+   Danh sách 10 văn phòng làm việc từ 20 - 30nhân sự TP Đà Nẵng, Giá chỉ từ 15tr/tháng.
+   <br/>
+   <br/>
+   1. Văn phòng cho thuê đường Phan Châu Trinh.
+   <br/>
+   - Diện tích thuê: 68 m².
+   <br/>
+   - Giá thuê: 265.000 /m²/tháng.
+   <br/>
+   - Ưu điểm: Thiết kế hiện đại, đầy đủ thiết bị trần sàn, điều hoà, CĐT thân thiện.
+   <br/>
+   - Đặc biệt, đã đầy đủ bàn ghế.
+   <br/>
+   <br/>
+   2. Văn phòng cho thuê đường Đống Đa.
+   <br/>
+   - Diện tích thuê: 120m².
+   <br/>
+   - Giá thuê: 155.827đ/m²/tháng (25tr/tháng).
+   <br/>
+   - Ưu điểm: Toà nhà đẹp, yên tĩnh, mới, đã đầy đủ trần sàn gạch, điều hoà.
+   <br/>
+   <br/>
+   3. Văn phòng cho thuê đường Núi Thành.
+   <br/>
+   - Diện tích thuê: 139m².
+   <br/>
+   - Giá thuê: 180.000đ/m²/tháng.
+   <br/>
+   - Ưu điểm: Giá tốt, vị trí thuận lợi, nơi tập trunh nhiều toà nhà văn phòng.
+   <br/>
+   <br/>
+   4. Văn phòng cho thuê đường Xô Nghệ Tĩnh.
+   <br/>
+   - Diện tích thuê: 75m².
+   <br/>
+   - Giá thuê: 200.000/m²/tháng.
+   <br/>
+   - Ưu điểm: Thời gian làm việc 24/7 có bảo vệ, miễn phí dịch vụ làm ngoài giờ, ngày trung tâm thành phố, miễn phí nước sinh hoạt, vệ sinh khu vực chung.
+   <br/>
+   <br/>
+   5. Văn phòng cho thuê đường Trần Phú.
+   <br/>
+   - Diện tích thuê: 106m².
+   <br/>
+   - Giá thuê: 15 triệu VND/tháng.
+   <br/>
+   - Ưu điểm: Bãi xe cực lớn, có thể làm việc 24/24.
+   <br/>
+   <br/>
+   6. Văn phòng cho thuê đường Xô Viết Nghệ Tĩnh.
+   <br/>
+   - Diện tích thuê: 170m².
+   <br/>
+   - Giá thuê: 15 Triệu VND/tháng.
+   <br/>
+   - Ưu điểm: Giá tốt, vị trí yên tĩnh, vị trí góc ngã tư, thuận lợi giao thông.
+   <br/>
+   <br/>
+   7. Văn phòng cho thuê đường Xuân Thuỷ.
+   <br/>
+   - Diện tích thuê: 70 - 115 - 150m².
+   <br/>
+   - Giá thuê: 240.000/m²/tháng.
+   <br/>
+   - Ưu điểm: Vị trí đẹp, ngay trung tâm thành phố, đã đầy đủ thiết bị trần sàn, điều hoà.
+   <br/>
+   <br/>
+   8. Văn phòng cho thuê đường Lê Đình Lý.
+   <br/>
+   - Diện tích thuê: 120m².
+   <br/>
+   - Giá thuê: 200.349đ/m²/tháng.
+   <br/>
+   - Ưu điểm: Toà nhà lớn, Thiết kế vách kính hiện đại, trần ngập ánh sáng, đã đầy đủ trần sàn, điều hoà.
+   <br/>
+   <br/>
+   9. Văn phòng cho thuê đường Trần Hưng Đạo.
+   <br/>
+   - Diện tích thuê: 200m².
+   <br/>
+   - Giá thuê: 111.305đ/m²/tháng.
+   <br/>
+   - Ưu điểm: Văn phòng view bờ sông hàn, bãi xe siêu rộng.
+   <br/>
+   <br/>
+   10. Văn phòng cho thuê đường Duy Tân.
+   <br/>
+   - Diện tích thuê: 90m².
+   <br/>
+   - Giá thuê: 170.000/m²/tháng.
+   <br/>
+   - Ưu điểm: Giá tốt, điều kiện cho thuê tốt, gần sân bay, bãi xe cực lớn.
+   <br/>
+   - Đặc biệt, có thể làm việc 24/7.
+   <br/>
+   <br/>
+   Liên hệ Trang ngay: Để Trang tư vấn các khách sạn, văn phòng, villa, căn hộ trên TP Đà Nẵng.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      200 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      117 nghìn/m²
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0486656,108.2154723&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   R
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Công Ty Tnhh Cát Việt Rồng">
+     Công Ty Tnhh Cát Việt Rồng
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/c2873d7522c266bc" tracking-id="user-listing-ldp">
+      Xem thêm 3 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38173490">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-hoa-thuan-dong" title="Văn phòng Hòa Thuận Đông Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hòa Thuận Đông Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-duong-duy-tan-46" title="Văn phòng duy tân Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng duy tân Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-hai-chau-ddn" title="Văn phòng Hải Châu Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hải Châu Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-da-nang" title="Văn phòng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    12/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    27/10/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38173490
+   </span>
+  </div>
+ </div>
+</div>
