@@ -1,0 +1,335 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38488256" uid="512512">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Vị trí đất đẹp phân khu FPT City Đà Nẵng diện tích 90m2 - 108m2 - 144m2- 180m2 - 216m2 - 600m2
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    108 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38488256,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/11/06/20231106144851-2533_wm.jpg","vipType":0,"title":"Vị trí đất đẹp phân khu FPT City Đà Nẵng diện tích 90m2 - 108m2 - 144m2- 180m2 - 216m2 - 600m2","titleHiddenMobile":"Vị trí đất đẹp phân khu FPT City Đà Nẵng diện tích 90m2 - 108m2 - 144m2- 180m2 - 216m2 - 600m2","url":"https://batdongsan.com.vn/ban-dat-nen-du-an-phuong-hoa-hai-prj-fpt-city-da-nang/ban-1-so-vi-tri-dep-gia-u-tu-phan-khu-v1-kdt-nang-pr38488256","productIdPrefix":"38488256$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-dat-nen-du-an-phuong-hoa-hai-prj-fpt-city-da-nang/ban-1-so-vi-tri-dep-gia-u-tu-phan-khu-v1-kdt-nang-pr38488256&amp;t=Vị trí đất đẹp phân khu FPT City Đà Nẵng diện tích 90m2 - 108m2 - 144m2- 180m2 - 216m2 - 600m2" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-dat-nen-du-an-phuong-hoa-hai-prj-fpt-city-da-nang/ban-1-so-vi-tri-dep-gia-u-tu-phan-khu-v1-kdt-nang-pr38488256" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38488256">
+   Lô đất vị trí đẹp cần bán tại Khu đô thị FPT City Đà Nẵng:
+   <br/>
+   <br/>
+   + 99m² (6x16.4) lô B2.131.0x &amp; B2.137.0x khu V2 (vỉa hè 5m) giá 2,6 tỷ.
+   <br/>
+   + 102m² (6x17) lô B2.123.0x khu V2 cạnh Đại học FPT &amp; trường mẫu giáo giá 2,6x tỷ.
+   <br/>
+   + 108m² (6x18) cặp B2.125.3x khu V2 trục đường lớn 2 làn giá 2,9 tỷ.
+   <br/>
+   <br/>
+   + 90m² (6x15) lô B2.28.1x khu V5 sạch, hướng Bắc giá 2,7 tỷ.
+   <br/>
+   + 104m² (6x17.4) lô B2.21.2x khu V5 trục thông, hướng Nam giá 2,9x tỷ.
+   <br/>
+   + 130m² (7.5x17.4) lô B3.28.0x khu V5 sát công viên trung tâm giá 3,5 tỷ.
+   <br/>
+   + Góc 128m² lô B3.85.0x khu V5 hướng Đông Nam giá 4,6x tỷ.
+   <br/>
+   + Góc 110m² lô B2.89.0x khu V5 hướng Tây Bắc giá 3,8x tỷ.
+   <br/>
+   + Góc 128m² lô B3.17.0x khu V5 hướng Đông Nam giá 5, x tỷ.
+   <br/>
+   + Góc 128m² lô B3.21.0x khu V5 hướng Tây Nam giá 3,8x tỷ.
+   <br/>
+   <br/>
+   + Nhà Shophouse 90m² (hoàn thiện) hướng tây giá 4, x tỷ.
+   <br/>
+   + Nhà Shophouse 108m² (thô) hướng Đông giá 3,9x tỷ.
+   <br/>
+   <br/>
+   + 144m (6x24) lô B2.57.0x &amp; B2.50.1x khu V1 sát trục Shophouse giá 3, x tỷ.
+   <br/>
+   + 180m (7.5x24) lô B2.55.1x khu V1 hướng Nam giá 4,1 tỷ.
+   <br/>
+   + 216m (9x24) lô B3.39.0x, B3.43.0x, B3.30.0x khu V1 giá 4,9x tỷ.
+   <br/>
+   + Đất shophouse 108m (6x18) lô B2.36.0x hướng Đông giá 3, x tỷ.
+   <br/>
+   <br/>
+   + Góc trục Bắc Nam 367m (14x26.4) B3.33.15 (đường 9.5m, vỉa hè 8m) giá 11, x tỷ.
+   <br/>
+   + Đất trục Bắc Nam 395m (15x26.7) lô B3.44.01 (vệt cây xanh 10m phía trước, đối diện ĐH FPT) giá 11, x tỷ.
+   <br/>
+   + Biệt thự 2 mt 605.7m (19x31.9) B3.52.0x khu R1 giá 14, x tỷ.
+   <br/>
+   <br/>
+   Vui lòng ib
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="4b90f7a25b16114d2c2c123e3a5fdfcb" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38488256">
+    0907 653 ***
+   </span>
+   - Chuyên đất nền Khu đô thị FPT City Đà Nẵng.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      108 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-ban-fpt-city-da-nang" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 278 tin đăng bán
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-khu-do-thi-moi-ngu-hanh-son-ddn/fpt-city-da-nang-pj769" target="_blank">
+      <img alt="FPT City Đà Nẵng" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2021/07/21/20210721162159-88cb.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       FPT City Đà Nẵng
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Đã bàn giao" class="re__prj-card-config-value" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Đã bàn giao
+       </span>
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="Diện tích 90-288 m²" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-size--sm">
+       </i>
+       90-288 m²
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Công ty CP Đô thị FPT Đà Nẵng" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Công ty CP Đô thị FPT Đà Nẵng
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=15.9832468032837,108.252090454102&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2023/10/16/20231016221937-e56f.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Trọng Đạt">
+     Trọng Đạt
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/80c8fb4229db8c5d" tracking-id="navigate-agent-profile">
+      Xem thêm 1 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38488256">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/dat-nen-fpt-city-da-nang-tu-100-m2-den-150-m2" title="Đất nền FPT City Đà Nẵng từ 100 m2 đến 150 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất nền FPT City Đà Nẵng từ 100 m2 đến 150 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/dat-nen-hoa-hai-ngu-hanh-son" title="Đất nền Hòa Hải Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất nền Hòa Hải Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/dat-nen-ngu-hanh-son-da-nang" title="Đất nền Ngũ Hành Sơn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất nền Ngũ Hành Sơn Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/dat-nen-da-nang" title="Đất nền Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất nền Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-lo-goc-da-nang" title="Bán lô góc Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán lô góc Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-dat-nen-da-nang" title="Bán đất nền Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán đất nền Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    17/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    02/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin VIP Bạc
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38488256
+   </span>
+  </div>
+ </div>
+</div>

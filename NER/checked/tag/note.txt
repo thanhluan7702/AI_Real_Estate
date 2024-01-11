@@ -1,0 +1,27 @@
+- regex tạo mới riêng chứ không đè
+AN_NINH -> dân trí - an ninh
+DUONG_KIET -> đường - kiệt
+
+Ứng dụng: NLP
+- Dự đoán giá khu vực, giá ngôi nhà ... 
+- Dự đoán tăng giảm giá
+- 
+
+WEb: 
+- search dựa trên attributes
+- chatbot tra cứu
+
+Tasks:
+- Chạy Predict trên model
+- Viết đề cương chi tiết của báo cáo luận văn 
+- Soạn cơ sở lý luận (tài liệu tham khảo)
+- Phân tích giá - Làm thế nào quy tụ các bài đơn lẻ quy về 1 địa điểm/ khu vực bán (dựa trên thuật toán)
+  + Geocoding API -> quy về phường và quận 
+- Làm sao biết 2 bds là 1
+  + Tách -> so sánh attribute
+  + 
+- Làm sao nhận biết bài đăng fake, seeding
+  + Giá quá thấp hoặc quá cao, phi thực tế -> so sánh giá với các bds tương tự trong khu vực, thị trường... 
+  + 
+
+

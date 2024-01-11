@@ -1,0 +1,248 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="37711601" uid="2334380">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  CHủ đại hạ giá giảm gần 2 tỷ đồng, bán gấp 2 lô đất liền kề lấy tiền cho con đi du học nước ngoài
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Quốc Lộ 14B, Xã Hòa Khương, Hòa Vang, Đà Nẵng.
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    9,9 tỷ
+   </span>
+   <span class="ext">
+    ~12,21 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    811 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":37711601,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/04/27/20230427075106-47ae_wm.jpg","vipType":0,"title":"CHủ đại hạ giá giảm gần 2 tỷ đồng, bán gấp 2 lô đất liền kề lấy tiền cho con đi du học nước ngoài","titleHiddenMobile":"CHủ đại hạ giá giảm gần 2 tỷ đồng, bán gấp 2 lô đất liền kề lấy tiền cho con đi du học nước ngoài","url":"https://batdongsan.com.vn/ban-dat-duong-quoc-lo-14b-xa-hoa-khuong/chinh-chu-ha-sap-ham-can-ban-gap-02-lien-ke-cung-mot-thua-tang-nha-go-cao-cap-09681557-pr37711601","productIdPrefix":"37711601$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-dat-duong-quoc-lo-14b-xa-hoa-khuong/chinh-chu-ha-sap-ham-can-ban-gap-02-lien-ke-cung-mot-thua-tang-nha-go-cao-cap-09681557-pr37711601&amp;t=CHủ đại hạ giá giảm gần 2 tỷ đồng, bán gấp 2 lô đất liền kề lấy tiền cho con đi du học nước ngoài" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-dat-duong-quoc-lo-14b-xa-hoa-khuong/chinh-chu-ha-sap-ham-can-ban-gap-02-lien-ke-cung-mot-thua-tang-nha-go-cao-cap-09681557-pr37711601" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=37711601">
+   - Cần bán gấp 02 lô đất liền kề cùng một thửa đất, tặng nhà gỗ cao cấp, đã có Giấy chứng nhận quyền sử dụng đất có đặc điểm như sau:
+   <br/>
+   - Hai mặt tiền gồm một mặt là quốc lộ 14B hiện nay đang được cải tạo, nâng cấp, đoạn qua địa bàn thành phố Đà Nẵng, con đường lớn nhất miền trung, là con đường thương mại nối liền các tỉnh miền trung với Tây nguyên, thửa đất cần bán thuộc điểm cuối tại khoảng Km32 + 185, nằm trên địa phận xã Hòa Khương, huyện Hòa Vang, thành phố Đà Nẵng, đây là tuyến đường trục chính đô thị, cấp đô thị, vận tốc thiết kế 80km/h với quy mô 6 làn xe, phần cầu trên tuyến được tận dụng toàn bộ, mở rộng thêm để đồng bộ với bề rộng đường; tổng số cầu mở rộng dự kiến là 4 cầu, mặt tiền còn lại là con đường 5,5m nối dài thông đến quốc lộ 14A.
+   <br/>
+   - Đã đầu tư xây dựng biệt thự đẳng cấp sống, vườn tiểu cảnh siêu vip, hồ cá koi, sân để ô tô rộng rãi thoải mái, thiết kế tối ưu, thích hợp để ở, không khí mát mẻ trong lành, không gian xanh tự nhiên, đặc biệt đất cao ráo không sợ mưa lũ. Đối với nhà đầu tư có ý định kinh doanh thì phương án đầu tư sẽ rất thuận tiện với mô hình như nhà hàng tiệc cưới, cây xăng, cà phê vườn, siêu thị mini vì khả năng đến năm 2025 toàn huyện Hòa Vang đạt tiêu chí đô thị loại IV, đủ điều kiện trở thành thị xã trực thuộc thành phố Đà Nẵng.
+   <br/>
+   - Cách trung tâm hành chính huyện Hòa Vang 500 m, nằm trong khu dân cư đông đúc, gần trường học cấp 1,2,3, gần nhiều chợ.
+   <br/>
+   - Cách trung tâm thành phố Đà Nẵng chỉ 7,9 km, cách đường vào cao tốc Đà Nẵng - Quảng Ngãi 2 km.
+   <br/>
+   - Cách khu du lịch núi thần tài 4 km, cách khu du lịch Bà Nà suối mơ 7 km.
+   <br/>
+   - Pháp lý: 02 Giấy chứng nhận QSDĐ không cầm cố thế chấp, không tranh chấp, có thể công chứng ngay.
+   <br/>
+   - Địa chỉ: Đường Quốc Lộ 14B, xã Hòa Khương, huyện Hòa Vang, thành phố Đà Nẵng.
+   <br/>
+   - Diện tích: 811m² (nở hậu). Ngang: 31m, dài 26.10m.
+   <br/>
+   - Giá bán: 9.9 tỷ đồng, (12,2tr/m²) bán đến công chứng, không thương lượng.
+   <br/>
+   - Bán cho người có nhu cầu thực sự, miễn trung gian, liên lạc số điện thoại Chị Thư
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="5617709e137abd9216a4c1793363adf7" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=37711601">
+    0968 155 ***
+   </span>
+   , Anh Trung
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="e769d7685d43fd673c6a80dc62f2d68f" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=37711601">
+    0901 033 ***
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      811 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      9,9 tỷ
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=15.960873,108.1398327&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   T
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Anh Trung">
+     Anh Trung
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/3ed7da9f9b5ceb30" tracking-id="navigate-agent-profile">
+      Xem thêm 1 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=37711601">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-xa-hoa-khuong" title="Đất Hòa Khương " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Hòa Khương
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-duong-quoc-lo-14b-45" title="Đất quốc lộ 14b " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất quốc lộ 14b
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-da-nang" title="Đất Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/can-ban-gap-biet-thu-gia-re" title="Cần bán gấp biệt thự giá rẻ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Cần bán gấp biệt thự giá rẻ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/chinh-chu-can-ban-gap-chung-cu" title="Chính chủ cần bán gấp chung cư" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Chính chủ cần bán gấp chung cư
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/can-ban-gap-nha-chinh-chu" title="Cần bán gấp nhà chính chủ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Cần bán gấp nhà chính chủ
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    27/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    12/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin VIP Kim Cương
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    37711601
+   </span>
+  </div>
+ </div>
+</div>

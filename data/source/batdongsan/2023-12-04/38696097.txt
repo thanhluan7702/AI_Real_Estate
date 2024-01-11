@@ -1,0 +1,311 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38696097" uid="529074">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Toà nhà căn hộ mini cho thuê quận Ngũ Hành Sơn, đường Võ Nguyên Giáp
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Phạm Kiêm Ích, Phường  Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    2,5 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    35 m²
+   </span>
+   <span class="ext">
+    5 tầng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    1 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38696097,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/12/03/20231203164408-4c83_wm.jpg","vipType":0,"title":"Toà nhà căn hộ mini cho thuê quận Ngũ Hành Sơn, đường Võ Nguyên Giáp","titleHiddenMobile":"Toà nhà căn hộ mini cho thuê quận Ngũ Hành Sơn, đường Võ Nguyên Giáp","url":"https://batdongsan.com.vn/cho-thue-nha-tro-phong-tro-duong-pham-kiem-ich-phuong-khue-my/toa-can-ho-mini-cho-quan-ngu-hanh-son-vo-nguyen-giap-pr38696097","productIdPrefix":"38696097$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-nha-tro-phong-tro-duong-pham-kiem-ich-phuong-khue-my/toa-can-ho-mini-cho-quan-ngu-hanh-son-vo-nguyen-giap-pr38696097&amp;t=Toà nhà căn hộ mini cho thuê quận Ngũ Hành Sơn, đường Võ Nguyên Giáp" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-nha-tro-phong-tro-duong-pham-kiem-ich-phuong-khue-my/toa-can-ho-mini-cho-quan-ngu-hanh-son-vo-nguyen-giap-pr38696097" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38696097">
+   Cho thuê căn hộ giá sinh viên đường 04 Phạm Kiêm Ích, Khuê Mỹ - Ngũ Hành Sơn - Đà Nẵng.
+   <br/>
+   Toà nhà căn hộ mini cho thuê Quận Ngũ Hành Sơn, Đường Trường Sa - Võ Nguyên Giáp.
+   <br/>
+   - Cách trường đại học Kinh tế 5p đi xe máy.
+   <br/>
+   - Cách trường đại học FPT 6p đi xe máy.
+   <br/>
+   - Cách trường Việt Hàn 10p đi xe máy.
+   <br/>
+   - Cách trường Kiến Trúc 8p đi xe máy.
+   <br/>
+   - Tòa nhà tọa lạc ngay gần đường Võ Nguyên Giáp - Trường Sa, cung đường đi thẳng ra biển Mỹ Khê,
+   <br/>
+   Phòng: Stiudio, 1PN, 2PN, chung cư.
+   <br/>
+   Địa chỉ: Studio gần đường Võ Nguyên Giáp - gần, đối diện Crown.
+   <br/>
+   Gía chỉ: 2, x tr/ tháng căn stiudio.
+   <br/>
+   3, x tr/ tháng căn 45m², cửa sổ, bếp riêng (ở ĐK 3 - 4 người).
+   <br/>
+   Căn stiudio - cửa sổ.
+   <br/>
+   Nội thất bao gồm: Full nội thất, điều hoà, nóng lạnh.
+   <br/>
+   Giờ giấc tự do, không chung chủ.
+   <br/>
+   Hỗ trợ thanh toán từng tháng.
+   <br/>
+   Đầy đủ tiện nghi, chỉ cần mang vali tới là ở.
+   <br/>
+   Camera giám sát 24/24 hãy gọi tôi ngay Mr. An Đông.
+   <br/>
+   Hẹn gặp lại ở căn hộ yêu quý của riêng bạn.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      35 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2,5 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      5 tầng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      1 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      1 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Cơ bản
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="1">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0173817,108.2558642&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2017/04/27/20170427081315-ed03.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Phuc Anh">
+     Phuc Anh
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/9caec37e11f1ca66" tracking-id="navigate-agent-profile">
+      Xem thêm 1 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38696097">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-tro-phong-tro-phuong-khue-my" title="Thuê trọ Khuê Mỹ Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê trọ Khuê Mỹ Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-tro-phong-tro-duong-pham-kiem-ich-48" title="Thuê trọ Phạm Kiêm Ích Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê trọ Phạm Kiêm Ích Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-tro-phong-tro-ngu-hanh-son-ddn" title="Thuê trọ Ngũ Hành Sơn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê trọ Ngũ Hành Sơn Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-tro-phong-tro-da-nang/1pn" title="Thuê trọ Đà Nẵng 1 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê trọ Đà Nẵng 1 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-studio-da-nang" title="Thuê studio Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê studio Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-can-ho-mini-da-nang" title="Thuê căn hộ mini Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ mini Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    03/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    13/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38696097
+   </span>
+  </div>
+ </div>
+</div>

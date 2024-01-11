@@ -1,0 +1,6 @@
+domain: real_estate 
+rules: 
+
+  - type: "GIA"
+    regex: 
+      - "gi[aáấắ][^0-9]*(\\d+(?:[.,]\\d+)?)\\s*(?:t[yỷiỉ]|tri[eêệẹ]u|tr|t)?\\s*(\\d+(?:[.,]\\d+)?)?\\s*(?:t[yỷiỉ]|tri[eêệẹ]u|tr|t)?\\s*(\\d+(?:[.,]\\d+)?)?\\s*([\/]\\s*(m2|m²|m))?"

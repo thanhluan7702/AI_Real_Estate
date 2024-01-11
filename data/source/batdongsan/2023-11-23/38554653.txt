@@ -1,0 +1,259 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38554653" uid="1000564">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cần chuyển nhượng một số lô đất Võ Nguyên Giáp trực diện biển TP. Đà Nẵng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Võ Nguyên Giáp, Phường Phước Mỹ, Sơn Trà, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    600 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38554653,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/11/14/20231114152743-5806_wm.jpg","vipType":0,"title":"Cần chuyển nhượng một số lô đất Võ Nguyên Giáp trực diện biển TP. Đà Nẵng","titleHiddenMobile":"Cần chuyển nhượng một số lô đất Võ Nguyên Giáp trực diện biển TP. Đà Nẵng","url":"https://batdongsan.com.vn/ban-dat-duong-vo-nguyen-giap-phuong-phuoc-my/can-chuyen-nhuong-mot-so-lo-truc-dien-bien-tp-da-nang-pr38554653","productIdPrefix":"38554653$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-dat-duong-vo-nguyen-giap-phuong-phuoc-my/can-chuyen-nhuong-mot-so-lo-truc-dien-bien-tp-da-nang-pr38554653&amp;t=Cần chuyển nhượng một số lô đất Võ Nguyên Giáp trực diện biển TP. Đà Nẵng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-dat-duong-vo-nguyen-giap-phuong-phuoc-my/can-chuyen-nhuong-mot-so-lo-truc-dien-bien-tp-da-nang-pr38554653" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38554653">
+   1 vài lô đất đẹp khu biển Đà Nẵng cần chuyển nhượng năm 2023.
+   <br/>
+   <br/>
+   1) Bán 3 MT Võ Nguyễn Giáp với Đỗ Bá khu phố Tây An Thượng vị trí cực kỳ đắc địa.
+   <br/>
+   DT: 1462m², Hướng Đông, xây cao tầng, Giá bán: 420tr/m (Thoả Thuận).
+   <br/>
+   <br/>
+   2) Chuyển nhượng đất mặt tiền Võ Nguyên Đối diện nhà khu hàng Mỹ Hạnh, sát võ văn kiệt, ngay trục đi thăng sân bay ra biển, Dãy mặt tiền biển đắc địa nhất Đà Nẵng.
+   <br/>
+   DT 600m² &amp; 700m². Hướng Đông, đất ở đô thị, được phép xây cao tầng, giá 350 tr/m².
+   <br/>
+   <br/>
+   3) Chuyển nhượng đất 3 MT Hoàng Sa - Lê Đức Thọ - Thành Vinh khu Sơn Trà, View biển.
+   <br/>
+   DT 10.000m, đã có quy hoạch và chủ trương đầu tư. (có thương lượng).
+   <br/>
+   <br/>
+   4) Chuyển nhượng 2 mặt tiền biển Võ Nguyên Giáp với Lê Văn Thứ.
+   <br/>
+   Vị trí đẹp cách công viên Biển Đông 1km, gần dãy nhà hàng Bé Mặn, Đất ở tại đô thị, Sở hữu lâu dài, Được phép xây cao tầng.
+   <br/>
+   DT: 900m. Hướng Đông, Giá 320tr/m² - 340tr/m² (có thương lượng).
+   <br/>
+   <br/>
+   5) Bán 2MT Võ Văn Kiệt 1.200m² &amp; 400m², Đất ở đô thị, sát biển hướng nam giá chuyển nhượng 250tr - 280tr/m².
+   <br/>
+   <br/>
+   6) Bán 3 MT Hồ Xuân Hương ngay gần đường Võ Nguyên Giáp đã có giấy phép xây khách sạn 25 tầng.
+   <br/>
+   DT: 1.808m, Hướng Đông, Đất TMDV.
+   <br/>
+   Giá bán: 1xxtr/m²(thoả thuận).
+   <br/>
+   <br/>
+   7) Đất 2 MT và 3 MT Võ Nguyên Giáp hướng đi chùa linh ứng: Diện tích 580m² - 670m² giá chuyển nhượng 230tr/m² đến 250tr/m². (có Đàm phán).
+   <br/>
+   - Cam kết làm việc chính chủ không qua đơn vị trung gian thứ 2.
+   <br/>
+   - Anh chị nhà đầu tư thành ý muốn mua giá chuyển nhượng thực sự xin inbox hoặc gọi
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="64e895c84e5dad23a71707665533e0a7" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38554653">
+    0901 997 ***
+   </span>
+   trực tiếp để được hỗ trợ cũng như biết thêm chi tiết về pháp lý.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      600 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0574731,108.2465536&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2023/08/22/20230822114011-b050.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Minh Ms Holdings">
+     Minh Ms Holdings
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/deafc43c3e3cd94f" tracking-id="navigate-agent-profile">
+      Xem thêm 14 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38554653">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-phuong-phuoc-my" title="Đất Phước Mỹ Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Phước Mỹ Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-duong-vo-nguyen-giap-49" title="Đất Võ Nguyên Giáp Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Võ Nguyên Giáp Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-son-tra-ddn" title="Đất Sơn Trà Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Sơn Trà Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-da-nang" title="Đất Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-khach-san-da-nang" title="Bán khách sạn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán khách sạn Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/nha-dat-chinh-chu-da-nang" title="Nhà đất chính chủ đà nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà đất chính chủ đà nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    21/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    21/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38554653
+   </span>
+  </div>
+ </div>
+</div>

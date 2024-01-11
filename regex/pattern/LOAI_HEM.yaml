@@ -1,0 +1,13 @@
+domain: real_estate
+rules: 
+  - type: "hẻm ô tô"
+    regex: 
+      - "(ki[eêèềéếẻểẹệẽễ]t|h[eêèềéếẻểẹệẽễ]m|h|k)\\s*[oô]\\s*t[oô]"
+    
+  - type: "hẻm thông"
+    regex: 
+      - "(ki[eêèềéếẻểẹệẽễ]t|h[eêèềéếẻểẹệẽễ]m|h|k)\\s*th[oô]ng"
+  
+  - type: "hẻm cụt"
+    regex: 
+      - "(ki[eêèềéếẻểẹệẽễ]t|h[eêèềéếẻểẹệẽễ]m|h|k)\\s*c[uưùừúứụựủửũữ]t"

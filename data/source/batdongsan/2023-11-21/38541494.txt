@@ -1,0 +1,243 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38541494" uid="1661981">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Nhà xưởng cho thuê tại khu Công nghệ Thông tin tập trung Đà Nẵng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Xã Hòa Ninh, Hòa Vang, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    110 nghìn/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    3.000 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38541494,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/11/13/20231113111632-2044_wm.jpg","vipType":0,"title":"Nhà xưởng cho thuê tại khu Công nghệ Thông tin tập trung Đà Nẵng","titleHiddenMobile":"Nhà xưởng cho thuê tại khu Công nghệ Thông tin tập trung Đà Nẵng","url":"https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-xa-hoa-ninh/-cho-tai-khu-cong-nghe-thong-tin-tap-trung-da-nang-pr38541494","productIdPrefix":"38541494$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-xa-hoa-ninh/-cho-tai-khu-cong-nghe-thong-tin-tap-trung-da-nang-pr38541494&amp;t=Nhà xưởng cho thuê tại khu Công nghệ Thông tin tập trung Đà Nẵng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-xa-hoa-ninh/-cho-tai-khu-cong-nghe-thong-tin-tap-trung-da-nang-pr38541494" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38541494">
+   Nhà xưởng cho thuê tại khu Công nghệ Thông tin tập trung Đà Nẵng (Đà Nẵng IT Park).
+   <br/>
+   Nhà xưởng cho thuê tại khu công nghệ thông tin tập trung Đà Nẵng (Đà Nẵng IT Park).
+   <br/>
+   Diện tích cho thuê: Tổng diện tích 147.809 m² các loại nhà xưởng từ 3000 m² đến 15000 m².
+   <br/>
+   Loại nhà xưởng: Nhà xưởng cao tầng.
+   <br/>
+   Tiểu chuẩn nhà xưởng: Chiều cao mỗi tầng 6m, tải trọng sàn 2 - 5 tấn tùy sàn.
+   <br/>
+   Giá thuê nhà xưởng: 100.174,5đ-155.827đ/m²/tháng tùy diện tích và vị trí thuê.
+   <br/>
+   Phí quản lý: 11.130,5đ/m²/năm.
+   <br/>
+   Điều kiện thuê xưởng: Thời gian thuê tối thiểu 3 năm, đặt cọc 6 tháng.
+   <br/>
+   Ngành nghề thu hút:
+   <br/>
+   Công nghiệp phần cứng: Sản xuất các sản phẩm phần cứng, sản phẩm điện tử, bao gồm phụ tùng, linh kiện, thiết bị số, các sản phẩm vi mạch phù hợp với Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sản phẩm công nghệ cao được khuyến khích phát triển theo quy định của pháp luật về công nghệ cao.
+   <br/>
+   Công nghiệp phần mềm: Sản xuất các sản phẩm phần mềm, bao gồm phần mềm hệ thống, phần mềm ứng dụng, phần mềm điều khiển, tự động hóa và các sản phẩm tương tự khác; cung cấp các giải pháp cài đặt, bảo trì, hướng dẫn sử dụng.
+   <br/>
+   Nghiên cứu, phát triển, chuyển giao ứng dụng về Công nghệ thông tin;
+   <br/>
+   <br/>
+   Thông tin chi tiết về nhà xưởng cho thuê tại khu công nghệ thông tin tập trung Đà Nẵng (Đà Nẵng IP Park) quý khách vui lòng liên hệ.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3.000 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      110 nghìn/m²
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="1">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q= 16.0487222841441230,108.0393229524480500&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2021/11/12/20211112165146-24ec.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Nso.industrial@gmail.com">
+     Nso.industrial@gmail.com
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/2d8e94cd1993a11e" tracking-id="navigate-agent-profile">
+      Xem thêm 15 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38541494">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-xa-hoa-ninh" title="Thuê nhà xưởng Hòa Ninh Hòa Vang" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Hòa Ninh Hòa Vang
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-hoa-vang-ddn" title="Thuê nhà xưởng Hòa Vang Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Hòa Vang Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-da-nang" title="Thuê nhà xưởng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-xa-hoa-chau" title="Thuê nhà xưởng Hòa Châu Hòa Vang" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Hòa Châu Hòa Vang
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-xa-hoa-phuoc" title="Thuê nhà xưởng Hòa Phước Hòa Vang" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Hòa Phước Hòa Vang
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-xa-hoa-nhon" title="Thuê nhà xưởng Hòa Nhơn Hòa Vang" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Hòa Nhơn Hòa Vang
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    13/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    23/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38541494
+   </span>
+  </div>
+ </div>
+</div>

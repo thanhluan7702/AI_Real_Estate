@@ -1,0 +1,280 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="37115432" uid="588386">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  List văn phòng cho thuê cho team từ 10 nhân sự khu vực Q. Liên Chiểu - Mizuland
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Hồ Tùng Mậu, Phường Hòa Minh, Liên Chiểu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    75 nghìn/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    200 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":37115432,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/04/27/20230427155115-90d2_wm.jpg","vipType":0,"title":"List văn phòng cho thuê cho team từ 10 nhân sự khu vực Q. Liên Chiểu - Mizuland","titleHiddenMobile":"List văn phòng cho thuê cho team từ 10 nhân sự khu vực Q. Liên Chiểu - Mizuland","url":"https://batdongsan.com.vn/cho-thue-van-phong-duong-ho-tung-mau-phuong-hoa-minh/list-cho-cho-team-tu-10-nhan-su-khu-vuc-q-lien-chieu-mizuland-pr37115432","productIdPrefix":"37115432$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-van-phong-duong-ho-tung-mau-phuong-hoa-minh/list-cho-cho-team-tu-10-nhan-su-khu-vuc-q-lien-chieu-mizuland-pr37115432&amp;t=List văn phòng cho thuê cho team từ 10 nhân sự khu vực Q. Liên Chiểu - Mizuland" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-van-phong-duong-ho-tung-mau-phuong-hoa-minh/list-cho-cho-team-tu-10-nhan-su-khu-vuc-q-lien-chieu-mizuland-pr37115432" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=37115432">
+   Tòa nhà đường Hồ Tùng Mậu.
+   <br/>
+   Trống diện tích: 200m² - tầng 1,2,3.
+   <br/>
+   Giá thuê từ 75.000 đ/m²/tháng.
+   <br/>
+   Ưu điểm: Tòa nhà nằm tại vị trí 2 mặt tiền, có tầng hầm để xe, đầy đủ tiện nghi, sẵn cơ sở vật chất.
+   <br/>
+   Mã: TN4759.
+   <br/>
+   <br/>
+   Tòa nhà đường Hòa Minh 30.
+   <br/>
+   Trống diện tích: Hơn 80m² - tầng 1.
+   <br/>
+   Giá thuê từ: 122.000 đ/m²/tháng (chưa VAT).
+   <br/>
+   Ưu điểm: Văn phòng mới 100%, có đầy đủ tiện nghi, vỉa hè rộng, gần trung tâm quận Liên Chiểu.
+   <br/>
+   Mã: TN4745.
+   <br/>
+   <br/>
+   Tòa nhà đường Hoàng Thị Loan.
+   <br/>
+   Trống diện tích: 175m² - tầng 5,6.
+   <br/>
+   Giá thuê từ 143.000 đ/m²/tháng (chưa VAT).
+   <br/>
+   Ưu điểm: Tòa nhà có sẵn trần, sàn gạch men, tường, hệ thống đèn chiếu sáng, hệ thống điều hòa, thang máy; Bãi đỗ xe thoáng, gồm tầng trệt, bãi trước nhà và bãi riêng.
+   <br/>
+   Mã: TN3352.
+   <br/>
+   <br/>
+   Tòa nhà đường Nguyễn Tất Thành.
+   <br/>
+   Trống diện tích: Hơn 300m², 400m², 500m², 800m² (có thể cắt theo nhu cầu của khách hàng).
+   <br/>
+   Giá cho thuê: Từ 161. 000 đ/m²/tháng (chưa VAT).
+   <br/>
+   Ưu điểm: Tòa nhà có vị trí đẹp, sàn trống suốt, bãi đỗ xe thoải mái, view tầng cao đẹp.
+   <br/>
+   Mã: TN0089.
+   <br/>
+   <br/>
+   Xem chi tiết từng văn phòng trong danh sách + 200 văn phòng, nhà nguyên căn Đà Nẵng:
+   <br/>
+   https://mizuland.vn/loai/van-phong-trong-toa-nha
+   <br/>
+   <br/>
+   Link zalo: https://zalo.me/2133494340083163446
+   <br/>
+   <br/>
+   Cảm ơn quý anh chị đã đọc tin sản phẩm văn phòng cho thuê Mizuland. Nếu anh chị có thắc mắc hay nhu cầu tìm thuê văn phòng, vui lòng gọi điện đến hotline hoặc nhắn tin qua zalo để được tư vấn miễn phí.
+   <br/>
+   <br/>
+   * Gọi cho chúng tôi ngay để được tư vấn, báo giá và tham quan thực tế miễn phí!
+   <br/>
+   ---------------------------------------------------------------------
+   <br/>
+   Công ty Mizuki chuyên kinh doanh - tư vấn BĐS thương mại tại Đà Nẵng: Cho thuê văn phòng, cho thuê khách sạn kinh doanh, cho thuê mặt bằng kinh doanh, cho thuê căn hộ cao cấp,... Với quy trình tư vấn minh bạch, trung thực cùng sự hiểu rõ tường tận ưu - nhược điểm của hơn 200 tòa nhà văn phòng cho thuê tại Đà Nẵng.
+   <br/>
+   ---------------------------------------------------------------------
+   <br/>
+   Công ty TNHH LLC Mizuki.
+   <br/>
+   Website: https://mizuland.vn/
+   <br/>
+   Địa chỉ VP: Tầng 1, 06 Trần Phú, P. Thạch Thang, Q. Hải Châu, TP. Đà Nẵng.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      200 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      75 nghìn/m²
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="2">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0779653,108.1605179&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2018/01/16/20180116102509-1a6e.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Mizuland">
+     Mizuland
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/9b39db30e487d89e" tracking-id="navigate-agent-profile">
+      Xem thêm 47 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=37115432">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-hoa-minh" title="Văn phòng Hòa Minh " tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hòa Minh
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-da-nang" title="Văn phòng Hồ Tùng Mậu " tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hồ Tùng Mậu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-duong-nguyen-tat-thanh-47" title="Văn phòng Nguyễn Tất Thành Liên Chiểu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Nguyễn Tất Thành Liên Chiểu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-duong-hoang-thi-loan-47" title="Văn phòng Hoàng Thị Loan Liên Chiểu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hoàng Thị Loan Liên Chiểu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-thach-thang" title="Văn phòng Thạch Thang Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Thạch Thang Hải Châu
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    29/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    09/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    37115432
+   </span>
+  </div>
+ </div>
+</div>

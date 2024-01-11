@@ -1,6 +1,0 @@
-alonhadat: mua bán: 1300 + 70
-           cho thuê: 285
-nhatot: mua bán: 304
-        cho thuê: 250 + 100
-batdonsan:  mua bán: 80
-	    cho thuê: 49 (hết)

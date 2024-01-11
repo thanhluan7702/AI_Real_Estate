@@ -1,0 +1,320 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38559567" uid="2470415">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Các tầng văn phòng rộng rãi thoáng mát cần cho thuê ở khu vực siêu thị Mega
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Phường Khuê Trung, Cẩm Lệ, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    39,5 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    150 m²
+   </span>
+   <span class="ext">
+    7 tầng
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38559567,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/12/08/20231208165737-28e1_wm.jpg","vipType":0,"title":"Các tầng văn phòng rộng rãi thoáng mát cần cho thuê ở khu vực siêu thị Mega","titleHiddenMobile":"Các tầng văn phòng rộng rãi thoáng mát cần cho thuê ở khu vực siêu thị Mega","url":"https://batdongsan.com.vn/cho-thue-van-phong-phuong-khue-trung/cac-tang-rong-rai-thoang-mat-can-cho-o-khu-vuc-sieu-thi-mega-pr38559567","productIdPrefix":"38559567$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-van-phong-phuong-khue-trung/cac-tang-rong-rai-thoang-mat-can-cho-o-khu-vuc-sieu-thi-mega-pr38559567&amp;t=Các tầng văn phòng rộng rãi thoáng mát cần cho thuê ở khu vực siêu thị Mega" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-van-phong-phuong-khue-trung/cac-tang-rong-rai-thoang-mat-can-cho-o-khu-vuc-sieu-thi-mega-pr38559567" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38559567">
+   Văn phòng cho thuê tại gần Mega Market, Khuê Trung, Cẩm Lệ.
+   <br/>
+   - Vị trí.
+   <br/>
+   + Cách 10 phút đi xe đến siêu thị MM Mega Market.
+   <br/>
+   + Gần công viên Thanh Niên, sân tập golf DNC Đà Nẵng, trung tâm hội chợ triển lãm Đà Nẵng, trường THCS - THPT Nguyễn Khuyến.
+   <br/>
+   + Cách 5 phút đi xe đến bệnh viện Đa khoa Tâm Trí Đà Nẵng.
+   <br/>
+   + Cách 5 phút đi xe đến trung tâm thể thao Nam Hải Vân.
+   <br/>
+   + Cách 5 phút đi xe đến trường đại học Đông Á.
+   <br/>
+   + Xung quanh có nhiều tiện ích, dễ dàng tiếp cận.
+   <br/>
+   <br/>
+   - Thông tin văn phòng + giá cả.
+   <br/>
+   + Không gian rộng rãi. Đường rộng rãi có thể đậu xe ô tô.
+   <br/>
+   + Tầng 1 - diện tích: 115m² - giá 39.500.000VND/tháng.
+   <br/>
+   + Tầng 2 - diện tích: 115m² - giá 29.500.000VND/tháng.
+   <br/>
+   + Tầng 4 - diện tích: 150m² - giá 39.500.000VND/tháng.
+   <br/>
+   + Tầng 5 - diện tích: 70m² - giá 18.500.000VND/tháng.
+   <br/>
+   + Cho thuê dài hạn - HĐ thanh toán 3 cọc 3.
+   <br/>
+   <br/>
+   - Giá thuê đã bao gồm:
+   <br/>
+   + Đã bao gồm thuế VAT.
+   <br/>
+   + Chi phí dịch vụ và quản lí vận hành.
+   <br/>
+   + Chi phí bảo dưỡng định kỳ toàn bộ hệ thống điều hoà, hệ thống điện, thang máy.
+   <br/>
+   + Chi phí nước sinh hoạt và vệ sinh môi trường ở khu vực chung.
+   <br/>
+   + Chi phí bảo vệ 24/24 và giữ xe máy (1 xe máy/10m² thuê).
+   <br/>
+   + Thời gian setup: Miễn phí 15 ngày.
+   <br/>
+   <br/>
+   Professionalism. Honesty and Integrity.
+   <br/>
+   * Liên hệ ngay để được em tư vấn và dẫn trải nghiệm.
+   <br/>
+   * Sẵn sàng hỗ trợ, tư vấn 24/7.
+   <br/>
+   * Chuyên cho thuê, mua bán tất cả BDS khắp Đà Nẵng.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      150 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      39,5 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đông - Nam
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      7 tầng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Không nội thất
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.026959304082,108.211597940217&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2023/07/20/20230720140754-308f.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Mã Hồng Phúc">
+     Mã Hồng Phúc
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/4a176ae8e4fac854" tracking-id="navigate-agent-profile">
+      Xem thêm 2 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38559567">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-khue-trung" title="Văn phòng Khuê Trung Cẩm Lệ" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Khuê Trung Cẩm Lệ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-cam-le-ddn" title="Văn phòng Cẩm Lệ Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Cẩm Lệ Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-da-nang" title="Văn phòng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-hoa-xuan" title="Văn phòng Hòa Xuân Cẩm Lệ" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hòa Xuân Cẩm Lệ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-hoa-an" title="Văn phòng Hòa An Cẩm Lệ" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hòa An Cẩm Lệ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-van-phong-gia-re-tai-da-nang" title="Thuê văn phòng giá rẻ tại đà nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê văn phòng giá rẻ tại đà nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    09/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    19/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38559567
+   </span>
+  </div>
+ </div>
+</div>

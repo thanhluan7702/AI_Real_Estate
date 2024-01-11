@@ -1,0 +1,50 @@
+domain: real_estate 
+rules: 
+
+  - type: "căn hộ"
+    regex: 
+      - "(c[aâầaàăằ]n\\s*b[aáấắ]n|b[aáấắ]n\\s*l[ạa]i|b[aáấắ]n).*(t[oồòờ][àaăâ]\\s*c[ăaâ]n\\s*h[ộọợoôơ]|c[ăaâ]n\\s*h[ộọợoôơ])"
+      - "(t[oồòờ][àaăâ]\\s*c[ăaâ]n\\s*h[ộọợoôơ]|c[ăaâ]n\\s*h[ộọợoôơ]).*(c[aâầaàăằ]n\\s*b[aáấắ]n|b[aáấắ]n\\s*l[ạa]i|b[aáấắ]n)"
+      
+  - type: "nhà"
+    regex:
+      - "(c[aâầaàăằ]n\\s*b[aáấắ]n|b[aáấắ]n\\s*l[ạa]i|b[aáấắ]n).*(nh[aàằầ]|c[ăâa]n\\s*nh[àằầa]|t[oồòờ][àaăâ]\\s*nh[aàằầ]|ng[oôơ]i\\s*nh[aàằầ])"
+      - "(nh[aàằầ]|c[ăâa]n\\s*nh[àằầa]|t[oồòờ][àaăâ]\\s*nh[aàằầ]|ng[oôơ]i\\s*nh[aàằầ]).*(c[aâầaàăằ]n\\s*b[aáấắ]n|b[aáấắ]n\\s*l[ạa]i|b[aáấắ]n)"
+      - "b[áấắa]n\\s*[dđ][aấáắ]t\\s*t[ặạậa]ng\\s*(nh[aàằầ]|c[ăâa]n\\s*nh[àằầa]|t[oồòờ][àaăâ]\\s*nh[aàằầ]|ng[oôơ]i\\s*nh[aàằầ])"
+      - "mua\\s*[dđ][ấáắa]t\\s*t[ặạậa]ng.*(nh[aàằầ]|c[ăâa]n\\s*nh[àằầa]|t[oồòờ][àaăâ]\\s*nh[aàằầ]|ng[oôơ]i\\s*nh[aàằầ])"
+      - "(nh[aàằầ]|c[ăâa]n\\s*nh[àằầa]|t[oồòờ][àaăâ]\\s*nh[aàằầ]|ng[oôơ]i\\s*nh[aàằầ])\\s*(c4|c[aấâ]p\\s*4)"
+  
+  - type: "biệt thự"
+    regex: 
+      - "(c[aâầaàăằ]n\\s*b[aáấắ]n|b[aáấắ]n\\s*l[ạa]i|b[aáấắ]n).*(villa|c[ăâa]n\\s*bi[ệẹêe]t\\s*th[ựụuư]|t[oồòờ][àaăâ]\\s*bi[ệẹêe]t th[ựụuư]|bi[ệẹêe]t\\s*th[ựụuư])"
+      - "(villa|c[ăâa]n\\s*bi[ệẹêe]t\\s*th[ựụuư]|t[oồòờ][àaăâ]\\s*bi[ệẹêe]t\\s*th[ựụuư]|bi[ệẹêe]t\\s*th[ựụuư]).*(c[aâầaàăằ]n b[aáấắ]n|b[aáấắ]n\\s*l[ạa]i|b[aáấắ]n)"
+      
+  - type: "khách sạn"
+    regex: 
+      - "(c[aâầaàăằ]n\\s*b[aáấắ]n|b[aáấắ]n\\s*l[ạa]i|b[aáấắ]n).*(t[oồòờ][àaăâ]\\s*kh[áăâa]ch\\s*s[aạặậ]n|kh[áăâa]ch s[aạặậ]n|ks|ks[aạặậ]n|hotel)"
+      - "(kh[áăâa]ch\\s*s[aạặậ]n|ks|ks[aạặậ]n|hotel).*(c[aâầaàăằ]n\\s*b[aáấắ]n|b[aáấắ]n\\s*l[ạa]i|b[aáấắ]n)"
+
+  - type: "đất"
+    regex: 
+      - "(c[aâầaàăằ]n\\s*b[aáấắ]n|b[aáấắ]n\\s*l[ạa]i|b[aáấắ]n).*(l[ôoơ]\\s*đ[aấáắ]t|đ[a|ấáắ]t|l[ôoơ])"
+      - "(l[ôoơ]\\s*đ[aấáắ]t|đ[a|ấáắ]t|l[ôoơ]).*(c[aâầaàăằ]n\\s*b[aáấắ]n|b[aáấắ]n\\s*l[ạa]i|b[aáấắ]n)"
+  
+  - type: "căn hộ"
+    regex: 
+      - "(t[oồòờ][àaăâ]\\s*c[ăaâ]n\\s*h[ộọợoôơ]|c[ăaâ]n\\s*h[ộọợoôơ])"
+      
+  - type: "nhà"
+    regex:
+      - "(nh[aàằầ]|c[ăâa]n\\s*nh[àằầa]|t[oồòờ][àaăâ]\\s*nh[aàằầ]|ng[oôơ]i\\s*nh[aàằầ])"
+  
+  - type: "đất"
+    regex: 
+      - "(l[ôoơ]\\s*đ[aấáắ]t|đ[a|ấáắ]t|l[ôoơ])"
+  
+  - type: "biệt thự"
+    regex: 
+      - "(villa|c[ăâa]n\\s*bi[ệẹêe]t\\s*th[ựụuư]|t[oồòờ][àaăâ]\\s*bi[ệẹêe]t\\s*th[ựụuư]|bi[ệẹêe]t\\s*th[ựụuư])" 
+      
+  - type: "khách sạn"
+    regex: 
+      - "(kh[áăâa]ch\\s*s[aạặậ]n|ks|ks[aạặậ]n|hotel)"

@@ -1,0 +1,814 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38657297" uid="418857">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cần bán nhanh lô đất Hòa Hải, Ngũ Hành Sơn, Đà Nẵng: Cơ hội đầu tư sinh lời không thể bỏ qua
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Nguyễn Văn Nguyễn, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    80 triệu/m²
+   </span>
+   <span class="ext">
+    ~10,64 tỷ
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    133 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38657297,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/11/28/20231128152806-a2ee_wm.jpg","vipType":0,"title":"Cần bán nhanh lô đất Hòa Hải, Ngũ Hành Sơn, Đà Nẵng: Cơ hội đầu tư sinh lời không thể bỏ qua","titleHiddenMobile":"Cần bán nhanh lô đất Hòa Hải, Ngũ Hành Sơn, Đà Nẵng: Cơ hội đầu tư sinh lời không thể bỏ qua","url":"https://batdongsan.com.vn/ban-dat-duong-nguyen-van-nguyen-phuong-hoa-hai/can-ban-nhanh-lo-ngu-hanh-son-da-nang-co-hoi-dau-tu-sinh-loi-khong-the-bo-qua-pr38657297","productIdPrefix":"38657297$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-dat-duong-nguyen-van-nguyen-phuong-hoa-hai/can-ban-nhanh-lo-ngu-hanh-son-da-nang-co-hoi-dau-tu-sinh-loi-khong-the-bo-qua-pr38657297&amp;t=Cần bán nhanh lô đất Hòa Hải, Ngũ Hành Sơn, Đà Nẵng: Cơ hội đầu tư sinh lời không thể bỏ qua" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-dat-duong-nguyen-van-nguyen-phuong-hoa-hai/can-ban-nhanh-lo-ngu-hanh-son-da-nang-co-hoi-dau-tu-sinh-loi-khong-the-bo-qua-pr38657297" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+  <div class="re__clearfix clear">
+   <span class="re__link-pr re__ldp-pricing-cta js__ldp-pricing-cta" tracking-id="pricing-history-click-onboarding" tracking-label="loc=Sale-Listing Details">
+    Xem lịch sử giá phường Hòa Hải, quận Ngũ Hành Sơn
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38657297">
+   "Bạn đang tìm kiếm một cơ hội đầu tư sinh lời cao tại Đà Nẵng? Bạn muốn sở hữu một lô đất nằm trong khu vực phát triển, thuận lợi cho việc kinh doanh và sinh sống? Nếu vậy, lô đất khu đô thị Hòa Hải, Đà Nẵng chính là lựa chọn hoàn hảo dành cho bạn.
+   <br/>
+   Diện tích:
+   <br/>
+   - Thửa 349: 219,94 m².
+   <br/>
+   - Thửa 350: 133,5 m².
+   <br/>
+   - Thửa 351: 133 m².
+   <br/>
+   - Thửa 352: 133 m².
+   <br/>
+   - Thửa 353: 133 m².
+   <br/>
+   Hướng: Đông, Đông Bắc, Đông Nam.
+   <br/>
+   - Liên kết vùng: Đây là một vị trí vô cùng đắc địa.
+   <br/>
+   + Chỉ cách bãi tắm 2 phút.
+   <br/>
+   + Cách khu du lịch Ngũ Hành Sơn 2 phút.
+   <br/>
+   + Cách bệnh viện phụ sản - nhi 5 phút.
+   <br/>
+   + Cách bãi biển Non Nước 5 phút di chuyển, và cách các tiện ích như khu vui chơi, trung tâm mua sắm khác chỉ vài phút di chuyển.
+   <br/>
+   - Pháp lý: Lô đất đã có sổ đỏ, pháp lý rõ ràng.
+   <br/>
+   - Giá bán chỉ 80tr/m².
+   <br/>
+   -----------------------------------------------------------------------------------
+   <br/>
+   Nam Thành Đạt Land.
+   <br/>
+   Chuyên các dịch vụ về bất động sản:
+   <br/>
+   Phát triển Bất động sản.
+   <br/>
+   Kinh doanh dịch vụ Bất động sản.
+   <br/>
+   (Thẩm định, quản lý, môi giới, phân phối, ký gửi mua bán, thuê, cho thuê, ).
+   <br/>
+   Đầu tư Bất động sản.
+   <br/>
+   Đặc biệt, Nam Thành Đạt Land tiên phong tích hợp toàn bộ các công nghệ về bất động sản mới nhất; cung cấp đầy đủ, minh bạch thông tin dự án bằng công nghệ thực tế ảo VR360, hợp đồng điện tử và chữ ký số giúp quá trình giao dịch diễn ra nhanh chóng, an toàn, minh bạch, dễ dàng.
+   <br/>
+   --------------------------------------------------------------------------------------
+   <br/>
+   Hotline:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="815761501df34b46a371bcd873b52dcd" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38657297">
+    0905 255 ***
+   </span>
+   .
+   <br/>
+   Website: https://bdsnamthanhdat.com/
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      133 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      80 triệu/m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đông - Nam
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="True" data-kyc-type="1">
+ </div>
+ <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.verc505b051.msvbds.pricing-history.min.css" rel="stylesheet"/>
+ <div class="lazyload js__pricing-history-scroll-to" data-func='new FrontEnd.Product.Details.PricingHistoryLazyload({"ProductId":38657297,"ProductType":0,"StrProductType":"a68626d3a1f2e0e7","CateId":0,"CityCode":null,"DistrictId":0,"WardId":0,"ProjectId":0,"TimeType":0,"StrTimeType":"337f86f8ccb80abc","IsExtented":false,"PriceDisplay":null,"PriceMillion":null,"RequestString":"98d96b7470c0a1d1bcfafe8f2c5b5f9ab5ba19af797a6e2c040fecde7b9155c5a63833eef423a35e9297e17e47f0fc65f1310ed0fb5b9d89ad148e80b9d44d330cd889c15899cc148b1ac33041253db0ea232580d82c1f1c270f6f64e9206550d6e8dce0767e9e8bf4a5dc8b6b4dc82b237aa04cfdf6e320bae6c977b0195cab9709770c78f7292268c525091f493fe37b377e5ad78d042068c525091f493fe35b45febc6c2404f743b237f8edee152608495a7c71977326b8c23d6155ab26a2f6a764961394d1a51824682970fb02efe8b0085103a00f6e521e5402db17cb2427394c776ab329f93e7459e45c9ac6cc132d46bda1320907"})' data-script="https://staticfile.batdongsan.com.vn/js/Charts/filestatic.verc505b051.msvbds.Chart.min.js;https://staticfile.batdongsan.com.vn/js/Product/Details/filestatic.verc505b051.msvbds.FrontEnd.Product.Details.PricingHistory.min.js">
+ </div>
+ <div class="js__pricing-history re__pricing-history" data-event="view-pricing-history" data-loc="Sale-Listing Details" data-url="/Origins/CommonData/GetPricingHistory" data-url-product-type="/Origins/CommonData/GetPricingHistoryByProductType" data-url-type="/Origins/CommonData/GetPricingHistoryByType">
+  <div class="pricing-history-content">
+   <div class="re__product-chart ph-product-chart js__pricing-history-chart">
+    <div class="chart-anchor">
+    </div>
+    <div class="re__detail-chart js__detail-chart">
+     <h3 class="re__title js__pricing-history--title">
+      Lịch sử giá bán đất tại phường Hòa Hải, quận Ngũ Hành Sơn
+     </h3>
+     <div class="re__chart-sapo">
+      <ul class="re__tab-box-group re__product-type-tab list-cate js__list-cate">
+       <li class="re__tab-box--sm re__tab-box--actived" data-price="4f4a447de1ba1b0f" data-prid="38657297" data-val="a68626d3a1f2e0e7" tracking-id="pricing-history-select-product-type" tracking-label="loc=Sale-Listing Details,type=Sale">
+        Mua bán
+       </li>
+       <li class="re__tab-box--sm" data-price="5a311b15a372847d" data-prid="0" data-val="79a85b9ca957fb51" tracking-id="pricing-history-select-product-type" tracking-label="loc=Sale-Listing Details,type=Rent">
+        Cho thuê
+       </li>
+      </ul>
+      <ul class="re__tab-box-group re__product-type-tab list-time js__list-time">
+       <li class="re__tab-box--sm re__tab-box--actived" data-val="337f86f8ccb80abc" tracking-id="pricing-history-select-duration" tracking-label="loc=Sale-Listing Details,year=1">
+        1 năm
+       </li>
+       <li class="re__tab-box--sm" data-val="7bd57ad3dfa6ce4b" tracking-id="pricing-history-select-duration" tracking-label="loc=Sale-Listing Details,year=2">
+        2 năm
+       </li>
+       <li class="re__tab-box--sm" data-val="eb21d8a98dd1f1db" tracking-id="pricing-history-select-duration" tracking-label="loc=Sale-Listing Details,year=5">
+        5 năm
+       </li>
+      </ul>
+     </div>
+     <div class="re__chart-subsapo">
+      <div class="re__chart-col re__col-1 js__pricing-history--top-col-1">
+       <div class="text-big">
+        <strong>
+         0
+        </strong>
+        <span>
+         tr/tháng
+        </span>
+       </div>
+       <div class="text-small">
+        Giá đang cập nhật
+       </div>
+      </div>
+      <div class="re__chart-col re__col-2 js__pricing-history--top-col-2">
+       <div class="text-big">
+        <i class="re__icon-up-cl">
+         <span class="path1">
+         </span>
+         <span class="path2">
+         </span>
+        </i>
+        <strong>
+         23%
+        </strong>
+       </div>
+       <div class="text-small">
+        Giá thuê đã tăng trong vòng 1 năm qua (Q2/2022 - Q2/2023)
+       </div>
+      </div>
+      <div class="re__chart-col re__col-2 no-data">
+       <div class="text-big">
+        Dữ liệu đang được cập nhật
+       </div>
+       <div class="text-small">
+        So sánh biến động giá với các quý trước
+       </div>
+      </div>
+      <div class="re__chart-col re__col-3 js__pricing-history--top-col-3">
+       <div class="text-big">
+        <i class="re__icon-down-cl">
+         <span class="path1">
+         </span>
+         <span class="path2">
+         </span>
+        </i>
+        <strong>
+         6%
+        </strong>
+       </div>
+       <div class="text-small">
+        Giá hiện tại thấp hơn đỉnh 8,5 tr/tháng vào Q1/2022
+       </div>
+      </div>
+     </div>
+     <div class="re__div-chart js__div-chart">
+      <div class="re__div-chart-canvas" style="display: none">
+       <div class="chart-title">
+        <span class="ct-content">
+         tr/m²
+        </span>
+       </div>
+       <canvas id="chart-canvas">
+       </canvas>
+       <div class="chart-footer">
+        <div class="cf-content labels-1">
+         Giá cao nhất
+        </div>
+        <div class="cf-content labels-2">
+         Giá phổ biến nhất
+        </div>
+        <div class="cf-content labels-3">
+         Giá thấp nhất
+        </div>
+        <div class="cf-content labels-4 cf-hide">
+         Giá tin đang xem 80 tr/m²
+        </div>
+       </div>
+      </div>
+      <div class="re__chart-no-data">
+       <div class="chart-img">
+        <img src="https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg"/>
+       </div>
+       <div class="chart-text">
+        Chúng tôi đang cập nhật dữ liệu. Bạn hãy quay lại sau nhé!
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="js__pricing-insight-extented pi-extented">
+    </div>
+    <div class="re__pricing-history-note js__pricing-history-note">
+     <div class="col col-1">
+      <i class="re__icon-info-cl">
+       <span class="path1">
+       </span>
+       <span class="path2">
+       </span>
+       <span class="path3">
+       </span>
+      </i>
+     </div>
+     <div class="col col-2">
+      Dữ liệu giá được tổng hợp và xử lý từ các tin đăng trên trang Batdongsan.com.vn. Bạn hãy lưu ý về tin đăng nằm ngoài khoảng giá chúng tôi gợi ý và xác minh thêm thông tin trước khi giao dịch.
+     </div>
+    </div>
+    <div class="ph-survey-ldp js__ph-survey">
+     <div class="_hj-widget-container _hj-widget-theme-light" id="survey_934264">
+      <div class="_hj-s3UIi__styles__globalStyles _hj-Pbej5__styles__resetStyles _hj-A4W17__styles__inlineSurvey">
+       <div id="hotjar-survey-459dd8ce-7797-46dc-b6bc-d889ddf2f9c1" lang="en" style="--hjFeedbackAccentColor: #324FBE; --hjFeedbackAccentHoverColor: #1C3286; --hjFeedbackAccentActiveColor: #223582; --hjFeedbackAccentTextColor: rgba(255,255,255,0.94); --hjFeedbackDisabledAccentColor: #F1F2F6; --hjFeedbackDisabledAccentTextColor: rgba(0, 0, 0, 0.43); --hjFeedbackSecondaryTextColor: rgba(0, 0, 0, 0.60); --hjFeedbackPrimaryColor: #FFFFFF; --hjFeedbackSecondaryColor: #e6e6e6; --hjFeedbackBorderColor: #E0E2E8; --hjFeedbackOptionButtonBackgroundColor: #E0E2E8; --hjFeedbackInputPlaceholderColor: rgba(0,0,0,0.43); --hjFeedbackFontColor: #111;">
+        <div aria-label="Survey" role="dialog">
+         <div class="_hj-5vKq2__styles__surveyContainer _hj-7Itnd__styles__inline _hj-se0Ow__styles__openingAnimation" style="background: rgb(255, 255, 255);">
+          <form class="_hj-hRovs__styles__form">
+           <div class="_hj-c8PC+__styles__surveyBody" style="">
+            <div aria-live="off" class="_hj-S9XKO__styles__surveyTitle" id="hj-survey-lbl-1">
+             Hãy giúp chúng tôi đánh giá mức độ hữu ích của thông tin Lịch sử giá
+            </div>
+            <div class="_hj-E2-N0__styles__surveyAnswers">
+             <div class="css-vopqjt">
+              <div aria-labelledby="hj-survey-lbl-1" class="css-1a0x1zp" role="radiogroup">
+               <div class="css-u2ayx9">
+                <label class="css-1aokw2q">
+                 <input aria-label="1" class="css-kcesia" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                 <div class="css-xrn97w">
+                  <svg fill="none" height="40" width="40" xmlns="http://www.w3.org/2000/svg">
+                   <path d="M17.72 2a2.5 2.5 0 014.56 0l3.87 8.66a2.5 2.5 0 002.02 1.47l9.43 1a2.5 2.5 0 011.42 4.34l-7.05 6.35a2.5 2.5 0 00-.78 2.38l1.97 9.28a2.5 2.5 0 01-3.7 2.69l-8.21-4.74a2.5 2.5 0 00-2.5 0l-8.22 4.74a2.5 2.5 0 01-3.7-2.69l1.98-9.28a2.5 2.5 0 00-.78-2.38L.98 17.47a2.5 2.5 0 011.42-4.34l9.43-1a2.5 2.5 0 002.02-1.47L17.72 2z" fill="grey">
+                   </path>
+                  </svg>
+                 </div>
+                </label>
+                <label class="css-1aokw2q">
+                 <input aria-label="2" class="css-kcesia" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                 <div class="css-xrn97w">
+                  <svg fill="none" height="40" width="40" xmlns="http://www.w3.org/2000/svg">
+                   <path d="M17.72 2a2.5 2.5 0 014.56 0l3.87 8.66a2.5 2.5 0 002.02 1.47l9.43 1a2.5 2.5 0 011.42 4.34l-7.05 6.35a2.5 2.5 0 00-.78 2.38l1.97 9.28a2.5 2.5 0 01-3.7 2.69l-8.21-4.74a2.5 2.5 0 00-2.5 0l-8.22 4.74a2.5 2.5 0 01-3.7-2.69l1.98-9.28a2.5 2.5 0 00-.78-2.38L.98 17.47a2.5 2.5 0 011.42-4.34l9.43-1a2.5 2.5 0 002.02-1.47L17.72 2z" fill="grey">
+                   </path>
+                  </svg>
+                 </div>
+                </label>
+                <label class="css-1aokw2q">
+                 <input aria-label="3" class="css-kcesia" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                 <div class="css-xrn97w">
+                  <svg fill="none" height="40" width="40" xmlns="http://www.w3.org/2000/svg">
+                   <path d="M17.72 2a2.5 2.5 0 014.56 0l3.87 8.66a2.5 2.5 0 002.02 1.47l9.43 1a2.5 2.5 0 011.42 4.34l-7.05 6.35a2.5 2.5 0 00-.78 2.38l1.97 9.28a2.5 2.5 0 01-3.7 2.69l-8.21-4.74a2.5 2.5 0 00-2.5 0l-8.22 4.74a2.5 2.5 0 01-3.7-2.69l1.98-9.28a2.5 2.5 0 00-.78-2.38L.98 17.47a2.5 2.5 0 011.42-4.34l9.43-1a2.5 2.5 0 002.02-1.47L17.72 2z" fill="grey">
+                   </path>
+                  </svg>
+                 </div>
+                </label>
+                <label class="css-1aokw2q">
+                 <input aria-label="4" class="css-kcesia" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                 <div class="css-xrn97w">
+                  <svg fill="none" height="40" width="40" xmlns="http://www.w3.org/2000/svg">
+                   <path d="M17.72 2a2.5 2.5 0 014.56 0l3.87 8.66a2.5 2.5 0 002.02 1.47l9.43 1a2.5 2.5 0 011.42 4.34l-7.05 6.35a2.5 2.5 0 00-.78 2.38l1.97 9.28a2.5 2.5 0 01-3.7 2.69l-8.21-4.74a2.5 2.5 0 00-2.5 0l-8.22 4.74a2.5 2.5 0 01-3.7-2.69l1.98-9.28a2.5 2.5 0 00-.78-2.38L.98 17.47a2.5 2.5 0 011.42-4.34l9.43-1a2.5 2.5 0 002.02-1.47L17.72 2z" fill="grey">
+                   </path>
+                  </svg>
+                 </div>
+                </label>
+                <label class="css-1aokw2q">
+                 <input aria-label="5" class="css-kcesia" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                 <div class="css-xrn97w">
+                  <svg fill="none" height="40" width="40" xmlns="http://www.w3.org/2000/svg">
+                   <path d="M17.72 2a2.5 2.5 0 014.56 0l3.87 8.66a2.5 2.5 0 002.02 1.47l9.43 1a2.5 2.5 0 011.42 4.34l-7.05 6.35a2.5 2.5 0 00-.78 2.38l1.97 9.28a2.5 2.5 0 01-3.7 2.69l-8.21-4.74a2.5 2.5 0 00-2.5 0l-8.22 4.74a2.5 2.5 0 01-3.7-2.69l1.98-9.28a2.5 2.5 0 00-.78-2.38L.98 17.47a2.5 2.5 0 011.42-4.34l9.43-1a2.5 2.5 0 002.02-1.47L17.72 2z" fill="grey">
+                   </path>
+                  </svg>
+                 </div>
+                </label>
+               </div>
+               <div class="css-10fm8f7">
+                <span aria-label="Rất không hữu ích" class="css-1xxmljs" title="Rất không hữu ích">
+                 Rất không hữu ích
+                </span>
+                <span aria-label="Rất hữu ích" class="css-1xxmljs" title="Rất hữu ích">
+                 Rất hữu ích
+                </span>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="_hj-XpAaA__styles__surveyFooter _hj-xZ2ar__styles__inline">
+            <div class="_hj-8Lgv6__styles__surveyActions">
+             <button class="_hj-81Zzt__styles__surveyActionButton _hj-O-7CS__styles__surveysPrimaryButton _hj-SU8LU__styles__primaryButton" disabled="" type="button">
+              Kế tiếp
+             </button>
+            </div>
+            <div class="_hj-PZjqr__styles__surveyBranding">
+             <a class="_hj-fBs9+__styles__link" href="https://www.hotjar.com/feedback-surveys?utm_source=client&amp;utm_medium=poll&amp;utm_campaign=insights" rel="noopener noreferrer" style="color: rgb(50, 50, 50) !important;" target="_blank">
+              <img alt="Hotjar — Surveys page" class="_hj-KMFsk__styles__logo" src="https://www.hotjar.com/images/hotjar-logo-small.svg"/>
+              <div class="_hj-ex4tC__styles__brandingText">
+               <span style="text-decoration: underline;">
+                Made with Hotjar
+               </span>
+              </div>
+             </a>
+            </div>
+           </div>
+          </form>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="ph--skeleton pricing-history-skeleton js__ph--skeleton">
+   </div>
+  </div>
+  <div class="pricing-history-skeleton js__pricing-history-skeleton" data-type="ph" style="display: block;">
+   <div class="re__product-chart">
+    <div class="re__detail-chart">
+     <h3 class="re__title">
+      <span class="skeleton-content">
+      </span>
+     </h3>
+     <div class="re__chart-sapo">
+      <ul class="re__tab-box-group re__product-type-tab list-cate">
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+      </ul>
+      <ul class="re__tab-box-group re__product-type-tab list-time">
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="re__chart-subsapo">
+      <div class="re__chart-col re__col-1">
+       <div class="text-big">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content r2">
+        </span>
+       </div>
+      </div>
+      <div class="re__chart-col re__col-2">
+       <div class="text-big">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content r2">
+        </span>
+       </div>
+      </div>
+      <div class="re__chart-col re__col-3">
+       <div class="text-big">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content r2">
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="re__div-chart">
+      <div class="re__div-chart-canvas">
+       <div class="chart-canvas">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="re__pricing-insight-extented">
+    <div class="pricing-insight-row pricing-insight-title">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="re__pricing-insight-extented-bottom">
+    <a class="re__btn re__btn-pr-ghost--sm re__btn-icon-right--sm">
+     <span class="skeleton-content">
+     </span>
+    </a>
+   </div>
+  </div>
+  <div class="re__pricing-history-kyc re__pricing-history-kyc--block-v1">
+   <div class="re__pricing-history-kyc-title">
+    <span>
+     <span>
+      Truy cập miễn phí
+     </span>
+     thông tin độc quyền về bán đất tại phường Hòa Hải, quận Ngũ Hành Sơn
+    </span>
+   </div>
+   <div class="re__pricing-history-kyc-subtitle">
+    <i class="re__icon-other">
+    </i>
+    <div>
+     <span>
+      Khoảng giá an toàn hiện tại để giao dịch
+     </span>
+    </div>
+   </div>
+   <div class="re__pricing-history-kyc-subtitle">
+    <i class="re__icon-barchart">
+    </i>
+    <div>
+     <span>
+      Lịch sử biến động giá được tổng hợp và xử lý bởi Batdongsan.com.vn
+     </span>
+    </div>
+   </div>
+   <div class="re__pricing-history-kyc-button">
+    <a class="re__btn re__btn-pr-solid--sm js__pricing-history-kyc-btn" tracking-id="pricing-history-call-kyc-form" tracking-label="loc=Sale-Listing Details">
+     Xem lịch sử giá
+    </a>
+   </div>
+  </div>
+  <div class="re__pricing-history-kyc-skeleton js__pricing-history-skeleton" data-type="kyc-v1" style="display: none;">
+   <div class="re__pricing-history-kyc-title">
+    <span class="skeleton-content">
+    </span>
+    <br/>
+    <span class="skeleton-content r2">
+    </span>
+   </div>
+   <div class="re__pricing-history-kyc-subtitle r1">
+    <i>
+     <span class="skeleton-content">
+     </span>
+    </i>
+    <div>
+     <span class="skeleton-content">
+     </span>
+    </div>
+   </div>
+   <div class="re__pricing-history-kyc-subtitle r2">
+    <i>
+     <span class="skeleton-content">
+     </span>
+    </i>
+    <div>
+     <span class="skeleton-content">
+     </span>
+     <br/>
+     <span class="skeleton-content r2">
+     </span>
+    </div>
+   </div>
+   <div class="re__pricing-history-kyc-button">
+    <a>
+     <span class="skeleton-content">
+     </span>
+    </a>
+   </div>
+  </div>
+ </div>
+ <script src="https://staticfile.batdongsan.com.vn/js/Product/filestatic.verc505b051.msvbds.FrontEnd.Product.PricingHistory.min.js" type="text/javascript">
+ </script>
+ <script type="text/javascript">
+  (function callFunction(){
+            if (window.FrontEnd && window.FrontEnd.Product && window.FrontEnd.Product.PricingHistory && window.CommonJS && window.CommonJS.Common) {
+                new FrontEnd.Product.PricingHistory();
+            }
+            else {
+                setTimeout(callFunction, 100);
+            }
+        })();
+ </script>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0106421,108.2598587&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2023/08/21/20230821153636-5fbc.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Nam Thành Đạt Land">
+     Nam Thành Đạt Land
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/3ab132fe44b50b95" tracking-id="navigate-agent-profile">
+      Xem thêm 130 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38657297">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/dat-hoa-hai-ngu-hanh-son" title="Đất Hòa Hải Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Hòa Hải Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/dat-nguyen-van-nguyen-ngu-hanh-son" title="Đất Nguyễn Văn Nguyễn Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Nguyễn Văn Nguyễn Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/dat-ngu-hanh-son-da-nang" title="Đất Ngũ Hành Sơn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Ngũ Hành Sơn Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/dat-da-nang" title="Đất Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    28/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    08/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38657297
+   </span>
+  </div>
+ </div>
+</div>

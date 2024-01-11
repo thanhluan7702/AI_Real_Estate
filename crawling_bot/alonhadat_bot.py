@@ -118,7 +118,7 @@ except FileNotFoundError:
 try: 
     for type_news in ['Cần bán']: #limited
     # for type_news in ['Cần bán', 'Cho thuê', 'Cần mua', 'Cần thuê']: 
-        for id_page in range(start,21): #limited  #80
+        for id_page in range(start,45): #limited  #80
             print(f'Crawling with {type_news} on {id_page} page')
             soup = get_content(create_url(id_page, type_news))
             items = soup.findAll('div', class_ = 'content-item')

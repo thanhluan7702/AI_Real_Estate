@@ -1,0 +1,345 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="37694699" uid="136877">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Hạ giá 5 tỷ, bán tòa nhà khách sạn 2MT Đống Đa, Lý Tự Trọng, DTD: 240m2, DTSD: 2300m2, giá: 67 tỷ
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Đống Đa, Phường Thạch Thang, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    67 tỷ
+   </span>
+   <span class="ext">
+    ~279,17 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    240 m²
+   </span>
+   <span class="ext">
+    Mặt tiền 10 m
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    50 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":37694699,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/05/09/20230509145006-7dbb_wm.jpg","vipType":0,"title":"Hạ giá 5 tỷ, bán tòa nhà khách sạn 2MT Đống Đa, Lý Tự Trọng, DTD: 240m2, DTSD: 2300m2, giá: 67 tỷ","titleHiddenMobile":"Hạ giá 5 tỷ, bán tòa nhà khách sạn 2MT Đống Đa, Lý Tự Trọng, DTD: 240m2, DTSD: 2300m2, giá: 67 tỷ","url":"https://batdongsan.com.vn/ban-nha-mat-pho-duong-dong-da-phuong-thach-thang/ban-toa-khach-san-2mt-ly-tu-trong-dtd-240m2-dtsd-2300m2-72-ty-0903548978-pr37694699","productIdPrefix":"37694699$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-nha-mat-pho-duong-dong-da-phuong-thach-thang/ban-toa-khach-san-2mt-ly-tu-trong-dtd-240m2-dtsd-2300m2-72-ty-0903548978-pr37694699&amp;t=Hạ giá 5 tỷ, bán tòa nhà khách sạn 2MT Đống Đa, Lý Tự Trọng, DTD: 240m2, DTSD: 2300m2, giá: 67 tỷ" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-nha-mat-pho-duong-dong-da-phuong-thach-thang/ban-toa-khach-san-2mt-ly-tu-trong-dtd-240m2-dtsd-2300m2-72-ty-0903548978-pr37694699" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=37694699">
+   Bán toà nhà hai mặt tiền Đống Đa, Lý Tự Trọng, phường Thạch Thang, quận Hải Châu, ngay trung tâm thành phố Đà Nẵng.
+   <br/>
+   + Diện tích đất: 240m².
+   <br/>
+   + Diện tích sử dụng: 2300m².
+   <br/>
+   + Hướng Tây Nam.
+   <br/>
+   + Tòa nhà 10 tầng, đang có hợp đồng thuê: 200 triệu/tháng.
+   <br/>
+   + Tòa nhà xây dựng chắc chắn, móng có thể nâng lên 16 tầng.
+   <br/>
+   + Đang kinh doanh khách sạn 3 sao, 50 Phòng, Tuy nhiên có thể chuyển đổi công năng thành, phòng khám, bệnh viện, cà phê karaoke, matxa, tùy nhu cầu của khách hàng.
+   <br/>
+   + Có hồ bơi, phòng tậm Gym, trên sân thượng, view thành phố và biển rất đẹp
+   <br/>
+   + Có thể chuyển giao hợp đồng thuê, hoặc kết thúc hợp đồng thuê, tùy theo nhu cầu của người mua.
+   <br/>
+   <br/>
+   Giá bán trước đây 72 tỷ, giờ chỉ còn: 67 tỷ, thương lượng. Liên hệ làm việc chính chủ: Mr. Quốc:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="4c2dc8e74e3f026651a7e817a3d28da7" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=37694699">
+    0903 548 ***
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      240 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      67 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-home">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mặt tiền
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      10 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-road">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Đường vào
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      15 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Tây - Nam
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      10 tầng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      50 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      52 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ.
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0772091,108.2195612&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   Q
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Huỳnh Trấn Quốc">
+     Huỳnh Trấn Quốc
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/be941ad1354a2d06" tracking-id="navigate-agent-profile">
+      Xem thêm 15 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=37694699">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-phuong-thach-thang" title="Nhà mặt phố Thạch Thang " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Thạch Thang
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-duong-dong-da-45" title="Nhà mặt phố Đống Đa " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Đống Đa
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-da-nang/50pn" title="Nhà mặt phố Đà Nẵng 50 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Đà Nẵng 50 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-duong-ly-tu-trong-46" title="Nhà mặt phố Lý Tự Trọng Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Lý Tự Trọng Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-duong-hai-phong-46" title="Nhà mặt phố Hải Phòng Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Hải Phòng Hải Châu
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    16/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    01/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin VIP Kim Cương
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    37694699
+   </span>
+  </div>
+ </div>
+</div>

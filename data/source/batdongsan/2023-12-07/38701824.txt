@@ -1,0 +1,265 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38701824" uid="2630421">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cho thuê căn hộ giá bình dân - xách vali vô là ở
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Dương Loan, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    5 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    30 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    2 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38701824,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/12/04/20231204115349-efd3_wm.jpg","vipType":0,"title":"Cho thuê căn hộ giá bình dân - xách vali vô là ở","titleHiddenMobile":"Cho thuê căn hộ giá bình dân - xách vali vô là ở","url":"https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-duong-loan-phuong-hoa-xuan/c-gia-binh-dan-xach-vali-vo-la-o-pr38701824","productIdPrefix":"38701824$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-duong-loan-phuong-hoa-xuan/c-gia-binh-dan-xach-vali-vo-la-o-pr38701824&amp;t=Cho thuê căn hộ giá bình dân - xách vali vô là ở" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-duong-loan-phuong-hoa-xuan/c-gia-binh-dan-xach-vali-vo-la-o-pr38701824" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38701824">
+   Tọa lạc tại trung tâm sầm uất của Hòa Xuân, liền kề chung cư Văn Tiến Dũng.
+   <br/>
+   Diện tích từ 20m - 35m² cho mỗi căn hộ. Thiết bị nội thất tiện nghi và đầy đủ, chỉ việc vác vali vô và ở.
+   <br/>
+   Đặc biệt an ninh rất tốt và hệ thống an toàn cháy nổ rất tốt.
+   <br/>
+   Ai có nhu cầu vui lòng liên hệ ghé xem nhé!
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      30 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      5 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      1 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="2">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=15.9982959,108.218782&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   D
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Mr Đạt">
+     Mr Đạt
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38701824">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-phuong-hoa-xuan" title="Thuê căn hộ Hòa Xuân Cẩm Lệ" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Hòa Xuân Cẩm Lệ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-duong-duong-loan-45" title="Thuê căn hộ Dương Loan Cẩm Lệ" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Dương Loan Cẩm Lệ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-cam-le-ddn" title="Thuê căn hộ Cẩm Lệ Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Cẩm Lệ Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-da-nang/2pn" title="Thuê căn hộ Đà Nẵng 2 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Đà Nẵng 2 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-can-ho-chung-cu-gia-re-da-nang" title="Thuê căn hộ chung cư giá rẻ đà nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ chung cư giá rẻ đà nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-can-ho-gia-re-da-nang" title="Cho thuê căn hộ giá rẻ đà nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê căn hộ giá rẻ đà nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    04/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    19/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38701824
+   </span>
+  </div>
+ </div>
+</div>

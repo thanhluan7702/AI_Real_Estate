@@ -1,0 +1,260 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="17643247" uid="684671">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cho thuê căn hộ CTHouse đường 3 Tháng 2 trung tâm tp Đà Nẵng, nội thất gỗ, view đẹp, giá từ 5 tr/th
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường 3/2, Phường Thuận Phước, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    5 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    40 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":17643247,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2022/10/14/20221014142815-f977_wm.jpg","vipType":0,"title":"Cho thuê căn hộ CTHouse đường 3 Tháng 2 trung tâm tp Đà Nẵng, nội thất gỗ, view đẹp, giá từ 5 tr/th","titleHiddenMobile":"Cho thuê căn hộ CTHouse đường 3 Tháng 2 trung tâm tp Đà Nẵng, nội thất gỗ, view đẹp, giá từ 5 tr/th","url":"https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-3-2-2-phuong-thuan-phuoc/cho-ch-toa-nha-cthouse-trung-tam-da-nang-noi-that-go-view-dep-gia-8tr-th-nhieu-uu-dai-pr17643247","productIdPrefix":"17643247$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-3-2-2-phuong-thuan-phuoc/cho-ch-toa-nha-cthouse-trung-tam-da-nang-noi-that-go-view-dep-gia-8tr-th-nhieu-uu-dai-pr17643247&amp;t=Cho thuê căn hộ CTHouse đường 3 Tháng 2 trung tâm tp Đà Nẵng, nội thất gỗ, view đẹp, giá từ 5 tr/th" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-3-2-2-phuong-thuan-phuoc/cho-ch-toa-nha-cthouse-trung-tam-da-nang-noi-that-go-view-dep-gia-8tr-th-nhieu-uu-dai-pr17643247" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=17643247">
+   Cho thuê căn hộ tại tòa nhà CTHouse đường 3/2. View sông Hàn hoặc view thành phố. Căn hộ được trang bị nội thất đầy đủ, sang trọng và ấm cúng: Sàn gỗ, điều hòa, tivi, tủ lạnh, két sắt, máy giặt, máy hút mùi, sân phơi, ban công...
+   <br/>
+   <br/>
+   Căn hộ nằm ngay khu trung tâm thành phố. Giao thông thuận tiện, có thể để ở hoặc làm nơi làm việc, giao dịch kinh doanh.
+   <br/>
+   <br/>
+   Giá thuê phù hợp và nhiều ưu đãi khác.
+   <br/>
+   <br/>
+   + Bảo vệ an ninh 24/24h với hệ thống camera hiện đại.
+   <br/>
+   <br/>
+   + Không phí quản lý.
+   <br/>
+   <br/>
+   + Internet wifi, truyền hình cáp đặc sắc, trông giữ xe và nhiều dịch vụ khác tất cả đều được miễn phí.
+   <br/>
+   <br/>
+   Liên hệ:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="25a453245dfadd0fb2d2bcd406cd6792" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=17643247">
+    0905 123 ***
+   </span>
+   / A. Hùng Website: http://www.cthousevietnam.com
+   <br/>
+   <br/>
+   Email:
+   <a href="mailto:Hungck0507@gmail.com">
+    Hungck0507@gmail.com
+   </a>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      40 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      5 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item re__pr-item-full">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Căn hộ được trang bị nội thất cao cấp, sang trọng và ấm cúng: Sàn gỗ, điều hòa, tivi, tủ lạnh, két sắt, máy giặt, máy hút mùi, sân phơi, ban công... Sàn gỗ, điều hòa, tivi, tủ lạnh, két sắt, máy giặt,
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="1">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0791458,108.2143411&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   H
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Hùng">
+     Hùng
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/9f2d4a1acbdfbdda" tracking-id="navigate-agent-profile">
+      Xem thêm 3 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=17643247">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-phuong-thuan-phuoc" title="Thuê căn hộ Thuận Phước " tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Thuận Phước
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-duong-3-2-2-45" title="Thuê căn hộ 3 2 " tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ 3 2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-da-nang" title="Thuê căn hộ Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-duong-dong-da-46" title="Thuê căn hộ Đống Đa Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Đống Đa Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-pho-ly-thuong-kiet-46" title="Thuê căn hộ lý thường kiệt Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ lý thường kiệt Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-phuong-binh-thuan" title="Thuê căn hộ Bình Thuận Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Bình Thuận Hải Châu
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    20/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    20/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    17643247
+   </span>
+  </div>
+ </div>
+</div>

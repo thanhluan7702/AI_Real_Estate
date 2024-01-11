@@ -1,0 +1,188 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38619176" uid="431172">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Căn hộ cho thuê, 50m2, một phòng ngủ, nội thất cao cấp đầy đủ, giá thuê 7 tr/tháng. LH
+  <span class="hidden-mobile m-on-title" raw="010e12832c7dd1f3c4e89d953ea2c668">
+   0935 552 ***
+  </span>
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Lê Đức Thọ, Phường Thọ Quang, Sơn Trà, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    7 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    50 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38619176,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/11/23/20231123090330-748e_wm.jpg","vipType":0,"title":"Căn hộ cho thuê, 50m2, một phòng ngủ, nội thất cao cấp đầy đủ, giá thuê 7 tr/tháng. LH &lt;span class=\"hidden-mobile m-on-title\" raw=\"010e12832c7dd1f3c4e89d953ea2c668\"&gt;0935 552 ***&lt;/span&gt;","titleHiddenMobile":"Căn hộ cho thuê, 50m2, một phòng ngủ, nội thất cao cấp đầy đủ, giá thuê 7 tr/tháng. LH &lt;span class=\"hidden-mobile m-on-title\" raw=\"010e12832c7dd1f3c4e89d953ea2c668\"&gt;0935 552 ***&lt;/span&gt;","url":"https://batdongsan.com.vn/cho-thue-nha-mat-pho-duong-le-duc-tho-phuong-tho-quang/can-ho-cho-50m2-mot-phong-ngu-noi-that-cao-cap-day-du-gia-7-tr-thang-lh-pr38619176","productIdPrefix":"38619176$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-nha-mat-pho-duong-le-duc-tho-phuong-tho-quang/can-ho-cho-50m2-mot-phong-ngu-noi-that-cao-cap-day-du-gia-7-tr-thang-lh-pr38619176&amp;t=Căn hộ cho thuê, 50m2, một phòng ngủ, nội thất cao cấp đầy đủ, giá thuê 7 tr/tháng. LH 0935 552 ***" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-nha-mat-pho-duong-le-duc-tho-phuong-tho-quang/can-ho-cho-50m2-mot-phong-ngu-noi-that-cao-cap-day-du-gia-7-tr-thang-lh-pr38619176" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38619176">
+   Cần cho thuê căn hộ cao cấp.
+   <br/>
+   DT: 50m².
+   <br/>
+   Nội thất cao cấp đầy đủ, trục đường Lê Đức Thọ, gần biển. Giá 7 tr/tháng.
+   <br/>
+   LH:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" data-kyc-avatar="https://file4.batdongsan.com.vn/resize/200x200/2023/05/06/20230506110700-66be.jpg" data-kyc-name="Phan Thi Nuong" raw="010e12832c7dd1f3c4e89d953ea2c668" tracking-id="click-kyc-lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=38619176">
+    0935 552 ***
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      50 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      7 triệu/tháng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="1">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyloading" data-src="https://www.google.com/maps/embed/v1/place?q=16.104507,108.2426056&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2023/05/06/20230506110700-66be.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Phan Thi Nuong">
+     Phan Thi Nuong
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38619176">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    23/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    03/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38619176
+   </span>
+  </div>
+ </div>
+</div>

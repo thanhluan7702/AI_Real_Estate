@@ -1,0 +1,273 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38487332" uid="1187565">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Chính chủ cần cho thuê căn nhà mặt tiền đường Nguyễn Sinh Sắc, phường Hoà Minh. LH:
+  <span class="hidden-mobile m-on-title" raw="a258e404b3cf08dcef041b1396f32aea">
+   0913 484 ***
+  </span>
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Nhà 33, Đường Nguyễn Sinh Sắc, Phường Hòa Minh, Liên Chiểu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    35 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    157 m²
+   </span>
+   <span class="ext">
+    Mặt tiền 7 m
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38487332,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/11/06/20231106135534-14d9_wm.jpg","vipType":0,"title":"Chính chủ cần cho thuê căn nhà mặt tiền đường Nguyễn Sinh Sắc, phường Hoà Minh. LH: &lt;span class=\"hidden-mobile m-on-title\" raw=\"a258e404b3cf08dcef041b1396f32aea\"&gt;0913 484 ***&lt;/span&gt;","titleHiddenMobile":"Chính chủ cần cho thuê căn nhà mặt tiền đường Nguyễn Sinh Sắc, phường Hoà Minh. LH: &lt;span class=\"hidden-mobile m-on-title\" raw=\"a258e404b3cf08dcef041b1396f32aea\"&gt;0913 484 ***&lt;/span&gt;","url":"https://batdongsan.com.vn/cho-thue-nha-mat-pho-duong-nguyen-sinh-sac-phuong-hoa-minh/chinh-chu-can-cho-can-tien-lh-pr38487332","productIdPrefix":"38487332$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-nha-mat-pho-duong-nguyen-sinh-sac-phuong-hoa-minh/chinh-chu-can-cho-can-tien-lh-pr38487332&amp;t=Chính chủ cần cho thuê căn nhà mặt tiền đường Nguyễn Sinh Sắc, phường Hoà Minh. LH: 0913 484 ***" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-nha-mat-pho-duong-nguyen-sinh-sac-phuong-hoa-minh/chinh-chu-can-cho-can-tien-lh-pr38487332" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38487332">
+   Chính chủ cần cho thuê căn nhà mặt tiền đường Nguyễn Sinh Sắc, phường Hoà Minh, quận Liên Chiểu tp Đà Nẵng.
+   <br/>
+   Chính chủ cần cho thuê căn nhà mặt tiền khu A4 số nhà 33 đường Nguyễn Sinh Sắc, phường Hoà Mình, quận Liên Chiểu tp Đà Nẵng.
+   <br/>
+   - Phù hợp kinh doanh cafe, spa, ngân hàng, văn phòng...
+   <br/>
+   - Đường rộng 60m, vỉa hè 9m rộng rãi.
+   <br/>
+   - Diện tích đất: 154 m², ngang 7m.
+   <br/>
+   - Gồm 4 tầng, diện tích sàn: 500 m².
+   <br/>
+   - Đã hoàn thiện thang máy, điều hòa, cửa các phòng chắc chắn, đường dây internet, điện nước hoàn chỉnh.
+   <br/>
+   - Bàn giao nhà ngay.
+   <br/>
+   - Giá thuê: 35 triệu/tháng (không bao gồm thuế và các lệ phí khác).
+   <br/>
+   Liên hệ chính chủ:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="a258e404b3cf08dcef041b1396f32aea" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=38487332">
+    0913 484 ***
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      157 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      35 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-home">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mặt tiền
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      7 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-road">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Đường vào
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      60 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      4 tầng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="1">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0735613,108.1607468&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   H
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Chú Hòa">
+     Chú Hòa
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38487332">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-mat-pho-phuong-hoa-minh" title="Thuê nhà mặt phố Hòa Minh Liên Chiểu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà mặt phố Hòa Minh Liên Chiểu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-mat-pho-duong-nguyen-sinh-sac-47" title="Thuê nhà mặt phố Nguyễn Sinh Sắc Liên Chiểu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà mặt phố Nguyễn Sinh Sắc Liên Chiểu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-mat-pho-lien-chieu-ddn" title="Thuê nhà mặt phố Liên Chiểu Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà mặt phố Liên Chiểu Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-nha-mat-pho-da-nang" title="Thuê nhà mặt phố Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà mặt phố Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-nha-mat-tien-da-nang" title="Thuê nhà mặt tiền Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà mặt tiền Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    23/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    08/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin VIP Bạc
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38487332
+   </span>
+  </div>
+ </div>
+</div>

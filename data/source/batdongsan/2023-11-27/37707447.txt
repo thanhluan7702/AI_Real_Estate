@@ -1,0 +1,255 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="37707447" uid="641238">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cần bán gấp giá ngộp MT Trường Thi 6, giá sốc
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Trường Thi 6, Phường Hòa Thuận Tây, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    6,8 tỷ
+   </span>
+   <span class="ext">
+    ~55,28 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    123 m²
+   </span>
+   <span class="ext">
+    Mặt tiền 5 m
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":37707447,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/11/27/20231127192832-e514_wm.jpg","vipType":0,"title":"Cần bán gấp giá ngộp MT Trường Thi 6, giá sốc","titleHiddenMobile":"Cần bán gấp giá ngộp MT Trường Thi 6, giá sốc","url":"https://batdongsan.com.vn/ban-dat-duong-truong-thi-6-phuong-hoa-thuan-tay/ban-da-nang-gia-tot-nhu-nam-2018-re-hon-lo-ben-canh-pr37707447","productIdPrefix":"37707447$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-dat-duong-truong-thi-6-phuong-hoa-thuan-tay/ban-da-nang-gia-tot-nhu-nam-2018-re-hon-lo-ben-canh-pr37707447&amp;t=Cần bán gấp giá ngộp MT Trường Thi 6, giá sốc" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-dat-duong-truong-thi-6-phuong-hoa-thuan-tay/ban-da-nang-gia-tot-nhu-nam-2018-re-hon-lo-ben-canh-pr37707447" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=37707447">
+   Cần bán lô đất MT Trường Thi 6, Đà Nẵng, DT 123m² hướng Tây Bắc, nở hậu, khu dân trí cao trung tâm thành phố, gần công viên, yên tĩnh. Giá rẻ hơn lô bên cạnh 200tr. Liên hệ chính chủ để ép giá.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      123 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      6,8 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-home">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mặt tiền
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      5 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-road">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Đường vào
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      7,5 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Tây - Bắc
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyloading" data-src="https://www.google.com/maps/embed/v1/place?q=16.0594193488692,108.204323601208&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   D
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Đức">
+     Đức
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/b2b007d2e497e8a9" tracking-id="navigate-agent-profile">
+      Xem thêm 1 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=37707447">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-phuong-hoa-thuan-tay" title="Đất Hòa Thuận Tây " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Hòa Thuận Tây
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-duong-truong-thi-6-45" title="Đất Trường Thi 6 " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Trường Thi 6
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-da-nang" title="Đất Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-dat-da-nang-gia-re" title="Bán đất đà nẵng giá rẻ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán đất đà nẵng giá rẻ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-dat-gia-re-tai-thanh-pho-da-nang" title="Bán đất giá rẻ tại thành phố đà nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán đất giá rẻ tại thành phố đà nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    27/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    07/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    37707447
+   </span>
+  </div>
+ </div>
+</div>

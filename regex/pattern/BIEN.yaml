@@ -1,0 +1,14 @@
+domain: real_estate 
+rules: 
+  - type: "view biển"
+    regex:
+      - "view\\s*([đd][ốóôo]i\\s*di[ệêeẹ]n|l[àa]|h[ưuứú][ớơoó]ng|nh[ìi]n\\s*ra|s[áa]t|tr[ựuưụ]c\\s*di[ệêeẹ]n|tr[ựưuụ]c\\s*ti[ếêeé]p|m[ặăaạ]t)?.*(bi[eểêẻ]n|b[aảã]i\\s*t[aáăắ]m)"
+
+  - type: "đối diện biển"
+    regex:
+      - "([đd][ốóôo]i\\s*di[ệêeẹ]n\\s*(l[àa])?|gi[áa]p\\s*(v[ơớoó]i)?)\\s*(bi[eểêẻ]n|b[aảã]i\\s*t[aáăắ]m)"
+      
+  - type: "gần biển"
+    regex:
+      - "(g[ầâàa]n\\s*(b[êe]n)?\\s*(l[àa])?|(b[êe]n)?\\s*cạnh\\s*(l[àa])?|s[áa]t\\s*(b[êe]n)?|ra|t[ớơoó]i|[đd][ếêeé]n)\\s*(bi[eểêẻ]n|b[aảã]i\\s*t[aáăắ]m)"
+      - "(bi[eểêẻ]n|b[aảã]i\\s*t[aáăắ]m)"

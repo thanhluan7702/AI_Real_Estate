@@ -1,0 +1,282 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38135862" uid="1979075">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Bán nhà 4 tầng đường Trần Kim Bảng, (đối diện công viên), Khuê Trung, Cẩm Lệ. Giá 5.5 tỷ
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Trần Kim Bảng, Phường Khuê Trung, Cẩm Lệ, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    5,5 tỷ
+   </span>
+   <span class="ext">
+    ~61,11 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    90 m²
+   </span>
+   <span class="ext">
+    4 tầng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    4 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38135862,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/09/19/20230919134343-64cc_wm.jpg","vipType":0,"title":"Bán nhà 4 tầng đường Trần Kim Bảng, (đối diện công viên), Khuê Trung, Cẩm Lệ. Giá 5.5 tỷ","titleHiddenMobile":"Bán nhà 4 tầng đường Trần Kim Bảng, (đối diện công viên), Khuê Trung, Cẩm Lệ. Giá 5.5 tỷ","url":"https://batdongsan.com.vn/ban-nha-mat-pho-duong-tran-kim-bang-phuong-khue-trung/-ban-4-tang-doi-dien-cong-vien-cam-le-gia-5-6-ty-pr38135862","productIdPrefix":"38135862$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-nha-mat-pho-duong-tran-kim-bang-phuong-khue-trung/-ban-4-tang-doi-dien-cong-vien-cam-le-gia-5-6-ty-pr38135862&amp;t=Bán nhà 4 tầng đường Trần Kim Bảng, (đối diện công viên), Khuê Trung, Cẩm Lệ. Giá 5.5 tỷ" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-nha-mat-pho-duong-tran-kim-bang-phuong-khue-trung/-ban-4-tang-doi-dien-cong-vien-cam-le-gia-5-6-ty-pr38135862" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38135862">
+   - Diện tích: 90m² (5m x 18m). Kết cấu nhà 4 tầng gồm 4 PN, 4 WC.
+   <br/>
+   - Tầng 1 trống thông trước sau 1WC.
+   <br/>
+   - Tầng 2: 3 ngủ tách biệt 1 WC chung lớn không có WC trong.
+   <br/>
+   - Tầng 3: 1 phòng 1 WC.
+   <br/>
+   - Tầng 4: Nhà gỗ.
+   <br/>
+   - Vị trí: Đối diện công viên cây xanh thoáng mát.
+   <br/>
+   - Giá 5.5 tỷ
+   <br/>
+   - LH em để xem nhà và làm việc chính chủ.
+   <br/>
+   - Kim Dung
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="26a2aebbf89f454a14c4a6c69d9864d3" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38135862">
+    0901 972 ***
+   </span>
+   MTG).
+   <br/>
+   - Cty BĐS VinGrand Center chi nhánh TP Đà Nẵng.
+   <br/>
+   - Địa chỉ: TT DVTM Savico 66 Võ Văn Tần, Q Thanh Khê, Đà Nẵng.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      90 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      5,5 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      4 tầng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      4 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      4 phòng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0277328,108.2120551&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   D
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Kim Dung">
+     Kim Dung
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/d502639c685688a8" tracking-id="navigate-agent-profile">
+      Xem thêm 28 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38135862">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-phuong-khue-trung" title="Nhà mặt phố Khuê Trung Cẩm Lệ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Khuê Trung Cẩm Lệ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-duong-tran-kim-bang-45" title="Nhà mặt phố Trần Kim Bảng Cẩm Lệ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Trần Kim Bảng Cẩm Lệ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-cam-le-ddn" title="Nhà mặt phố Cẩm Lệ Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Cẩm Lệ Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-da-nang" title="Nhà mặt phố Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    10/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    20/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38135862
+   </span>
+  </div>
+ </div>
+</div>

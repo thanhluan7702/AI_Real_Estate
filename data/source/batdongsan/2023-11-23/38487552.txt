@@ -1,0 +1,284 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38487552" uid="1097504">
+ <div class="re__pr-stick-listing-verified">
+  <i class="re__icon-verified--sm">
+   <span class="path1">
+   </span>
+   <span class="path2">
+   </span>
+   <span class="path3">
+   </span>
+   <span class="path4">
+   </span>
+  </i>
+  <span class="re__text">
+   TIN XÁC THỰC
+  </span>
+  <i class="re__icon-info-circle--sm js__verified-info-click" data-bds-isentrypointvl="True" tracking-id="verified-more-infor-click" tracking-label="loc=icon">
+  </i>
+ </div>
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cần bán lô góc 2 mặt tiền khu đầu tuyến Sơn Trà, nơi được mệnh danh là Đà Lạt trong lòng Đà Nẵng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Phan Văn Hớn, Phường Thọ Quang, Sơn Trà, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    9 tỷ
+   </span>
+   <span class="ext">
+    ~54,88 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    164 m²
+   </span>
+   <span class="ext">
+    Mặt tiền 9.4 m
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38487552,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/10/24/20231024151958-536f_wm.jpg","vipType":0,"title":"Cần bán lô góc 2 mặt tiền khu đầu tuyến Sơn Trà, nơi được mệnh danh là Đà Lạt trong lòng Đà Nẵng","titleHiddenMobile":"Cần bán lô góc 2 mặt tiền khu đầu tuyến Sơn Trà, nơi được mệnh danh là Đà Lạt trong lòng Đà Nẵng","url":"https://batdongsan.com.vn/ban-dat-duong-phan-van-hon-phuong-tho-quang/can-ban-lo-goc-2-mat-tien-khu-dau-tuyen-son-tra-noi-duoc-menh-danh-la-da-lat-trong-long-da-nang-pr38487552","productIdPrefix":"38487552$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-dat-duong-phan-van-hon-phuong-tho-quang/can-ban-lo-goc-2-mat-tien-khu-dau-tuyen-son-tra-noi-duoc-menh-danh-la-da-lat-trong-long-da-nang-pr38487552&amp;t=Cần bán lô góc 2 mặt tiền khu đầu tuyến Sơn Trà, nơi được mệnh danh là Đà Lạt trong lòng Đà Nẵng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-dat-duong-phan-van-hon-phuong-tho-quang/can-ban-lo-goc-2-mat-tien-khu-dau-tuyen-son-tra-noi-duoc-menh-danh-la-da-lat-trong-long-da-nang-pr38487552" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38487552">
+   Tôi có việc cần bán lô góc 2 mặt tiền diện tích 164m² (9.4mx18m) Phan Văn Hớn và Nguyễn Đăng Tuyển, đối diện là 4 chung cư nên có thể đậu hàng chục ô tô miễn phí. Hiện nay việc kinh doanh có thu hút được nhiều khách hay không được quyết định rất lớn bởi việc điểm kinh doanh có chỗ đậu xe hay không. Nhà hàng bà Rô nổi tiếng ở Đà Nẵng cách đất của tôi 200m luôn đông nghịt khách cũng vì đồ ngon và có chỗ đậu xe thoải mái. Mới đây UBND TP Đà Nẵng cũng quy định muốn mở nhà hàng thì điểm kinh doanh phải có chỗ đậu xe. Trong tương lai lượng xe ô tô ngày càng nhiều thì quu định này ngày càng chặt. Và những vị trí lô góc ngày càng có giá, những vị trí lô góc đối diện cơ quan, trường học, chung cư, khu vực vui chơi cộng cộng để có thể đậu xe thoải mái thì lại càng có giá hơn nữa.
+   <br/>
+   Đất nằm tại Khu đầu tuyến, được mệnh danh là Đà Lạt trong lòng Đà Nẵng vì nằm cạnh khu bảo tồn rừng quốc gia Sơn Trà, được hàng triệu cây xanh tỏa hơi nước mát lạnh nên nhiệt độ luôn thấp hơn nơi khác.
+   <br/>
+   Sắp tới khi thành phố lắp các trạm quan trắc chất lượng không khí thì nơi đây sẽ luôn có vị trí xếp hạng số 1 về nhiệt độ và không khí sạch. Đây sẽ là tiêu chí chọn mua bất động sản của giới tinh hoa trong tương lai. Đà Nẵng và HCM đang được thủ tướng triển khai đề án trung tâm tài chính quốc tế và đặc biệt chính phủ định hướng Đà Nẵng sẽ trở thành 1 mắt xích quan trọng trong hệ sinh thái sản xuất chip vi mạch Quốc Tế nên giá đất còn tăng mạnh trong tương lai. Các chuyên gia IT đều nhận định nơi thích hợp Việt Nam để các kỹ sư có thể sống, làm việc và sáng tạo trong việc thiết kế vi mạch phải là nơi có khí hậu trong lành, môi trường sống tươi đẹp và an lành, có chính sách thu hút đầu tư và nhân tài, và theo như chủ tịch FPT Trương Gia Bình nhận định thì nơi đó chính là Đà Nẵng. Theo ông nhà máy sản xuất chip có thể đặt tại nơi khác, nhưng bộ phận thiết kế bao gồm các kỹ sư cao cấp chuyên thiết kế vi mạch thì nên làm việc tại Đà Nẵng để có thể sáng tạo và khởi phát nhiều ý tưởng mới trong việc thiết kế vi mạch. Tập đoàn FPT có kế hoạch mỗi năm gửi 10 nghìn đến 30 nghìn kỹ sư sang Nhật đào tạo sau đó đưa về trung tâm thiết kế vi mạch đặt tại Đà Nẵng để làm việc. Mức lương kỹ sư thiết kế vi mạch có thể lên đến 1.5 tỉ một năm cũng sẽ giúp giá đất những khu mát mẻ và yên tĩnh như khu đầu tuyến tăng giá mạnh trong tương lai. Bởi gu của giới tinh hoa là ở những nơi mát mẻ, yên tĩnh và gần gũi với thiên nhiên. Đà Nẵng cũng sẽ có chính sách thu hút các kỹ sư công nghệ cấp cao trong và ngoài nước tụ họp về đây để sinh sống và làm việc. Đất của tôi khi sốt đất 2020 đã có khách trả 14 tỉ nhưng không bán, nay bất động sản đang trầm lắng tôi có việc cần bán gấp với giá 9 tỉ ạ.
+   <br/>
+   Liên hệ chính chủ:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="6dfe3463e3d4f273dd3bead9b60c9d16" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38487552">
+    0825 766 ***
+   </span>
+  </div>
+ </div>
+ <div class="re__pr-listing-verified-section">
+  <div class="re__lv-content">
+   <i class="re__icon-verified--lg">
+    <span class="path1">
+    </span>
+    <span class="path2">
+    </span>
+    <span class="path3">
+    </span>
+    <span class="path4">
+    </span>
+   </i>
+   <span class="re__text">
+    Đặc điểm bất động sản đã được đội ngũ Batdongsan.com.vn xác thực thông qua việc kiểm tra sổ đỏ và hình ảnh do người đăng tin cung cấp.
+    <span class="re__text-bold js__verified-info-click" tracking-id="verified-more-infor-click" tracking-label="loc=text">
+     Tìm hiểu thêm
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </span>
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      164 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      9 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-home">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mặt tiền
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      9,4 m
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.1057366,108.2601347&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   K
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Anh Kiên">
+     Anh Kiên
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/cf9374e551d0b95f" tracking-id="navigate-agent-profile">
+      Xem thêm 1 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38487552">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-phuong-tho-quang" title="Đất Thọ Quang Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Thọ Quang Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-duong-phan-van-hon-49" title="Đất Phan Văn Hớn Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Phan Văn Hớn Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-son-tra-ddn" title="Đất Sơn Trà Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Sơn Trà Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-da-nang" title="Đất Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-lo-goc-da-nang" title="Bán lô góc Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán lô góc Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/nha-dat-chinh-chu-can-ban-tai-da-nang" title="Nhà đất chính chủ cần bán tại đà nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà đất chính chủ cần bán tại đà nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    17/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    24/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin VIP Bạc
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38487552
+   </span>
+  </div>
+ </div>
+</div>

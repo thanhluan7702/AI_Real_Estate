@@ -1,0 +1,375 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="37758925" uid="1249568">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Full nội thất xịn sò, căn 1PN, 2 PN F.Home - Zendiamond giá rẻ, view đẹp, giá thuê 9 triệu/tháng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  F.Home, số 16, Phố Lý Thường Kiệt, Phường Thạch Thang, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    8,5 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    70 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    2 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":37758925,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/07/27/20230727091845-9581_wm.jpg","vipType":0,"title":"Full nội thất xịn sò, căn 1PN, 2 PN F.Home - Zendiamond giá rẻ, view đẹp, giá thuê 9 triệu/tháng","titleHiddenMobile":"Full nội thất xịn sò, căn 1PN, 2 PN F.Home - Zendiamond giá rẻ, view đẹp, giá thuê 9 triệu/tháng","url":"https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-pho-ly-thuong-kiet-phuong-thach-thang-prj-khu-can-ho-f-home/c-fme-anh-zendiamond-gia-re-view-dep-tang-cao-t7-2023-1pn-2pn-3pn-chi-9tr-pr37758925","productIdPrefix":"37758925$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-pho-ly-thuong-kiet-phuong-thach-thang-prj-khu-can-ho-f-home/c-fme-anh-zendiamond-gia-re-view-dep-tang-cao-t7-2023-1pn-2pn-3pn-chi-9tr-pr37758925&amp;t=Full nội thất xịn sò, căn 1PN, 2 PN F.Home - Zendiamond giá rẻ, view đẹp, giá thuê 9 triệu/tháng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-pho-ly-thuong-kiet-phuong-thach-thang-prj-khu-can-ho-f-home/c-fme-anh-zendiamond-gia-re-view-dep-tang-cao-t7-2023-1pn-2pn-3pn-chi-9tr-pr37758925" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=37758925">
+   Căn hộ chung cư cao cấp F. Home and Zen Diamond bao gồm 25 tầng, tọa lạc tại số 16 Lý Thường Kiệt, Quận Hải Châu, Tp. Đà Nẵng.
+   <br/>
+   - Căn 1PN, 2PN, 3PN.
+   <br/>
+   - Diện tích: 65m² - 71m².
+   <br/>
+   - Giá thuê: 9 triệu đến 13 triệu/tháng.
+   <br/>
+   - Đầy đủ nội thất: Tivi, tủ lạnh, máy giặt, máy điều hòa, bếp, giường, tủ, nệm, sofa, bàn ăn...
+   <br/>
+   - Căn hộ đầy đủ các tiện ích như hồ bơi, nhà trẻ, siêu thị, bảo vệ 24/24...
+   <br/>
+   - Chỉ bước vài bước chân là tới sông Hàn thơ mộng thoải mái tự do đi dạo mát.
+   <br/>
+   - Đi sân bay Quốc tế 10 phút đi xe.
+   <br/>
+   - Tới trung tâm mua sắm 10 phút đi xe.
+   <br/>
+   - Đến trường học mầm non, cấp 1,2,3 khoản 10 phút đi xe.
+   <br/>
+   - Cách bệnh viện Đa Khoa Đà Nẵng 5 phút đi xe.
+   <br/>
+   Contact:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="798ebfcd316f7b444560a839df773d53" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=37758925">
+    0931 111 ***
+   </span>
+   Địa Ốc 24H.
+   <br/>
+   Web: canhodanang.net
+   <br/>
+   Ngoài ra còn cho thuê căn hộ chung cư cao cấp khác như: Hoàng Anh Gia lai, Indochina, Quang Nguyễn, Hiyori, Monarchy, Alacart, Mường Thanh...
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      70 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      8,5 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đông - Nam
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-private-house">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng ban công
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đông
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-cho-thue-khu-can-ho-f-home" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 24 tin đăng cho thuê
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-can-ho-chung-cu-hai-chau-ddn/khu-can-ho-f-home-pj1574" target="_blank">
+      <img alt="Khu căn hộ F.Home" class="lazyload" src="https://file1.batdongsan.com.vn/crop320x320.386483.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       Khu căn hộ F.Home
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Đã bàn giao" class="re__prj-card-config-value re__wrap-long-text" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Đã bàn giao
+       </span>
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Công ty CP Lương thực Đà Nẵng" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Công ty CP Lương thực Đà Nẵng
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0802135467529,108.220336914063&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/255x180/2023/05/13/20230513131641-5f08.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Việt Anh">
+     Việt Anh
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/6bccf0c399a0fb55" tracking-id="navigate-agent-profile">
+      Xem thêm 1 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=37758925">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-khu-can-ho-f-home/dt-tu-50m2-den-80m2" title="Thuê căn hộ F Home từ 50 m2 đến 80 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ F Home từ 50 m2 đến 80 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-phuong-thach-thang" title="Thuê căn hộ Thạch Thang Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Thạch Thang Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-pho-ly-thuong-kiet-46" title="Thuê căn hộ lý thường kiệt Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ lý thường kiệt Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-hai-chau-ddn" title="Thuê căn hộ Hải Châu Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Hải Châu Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-da-nang/2pn" title="Thuê căn hộ Đà Nẵng 2 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Đà Nẵng 2 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-da-nang?gtn=5-trieu&amp;gcn=10-trieu" title="Thuê căn hộ Đà Nẵng từ 5 triệu đến 10 triệu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Đà Nẵng từ 5 triệu đến 10 triệu
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    16/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    01/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    37758925
+   </span>
+  </div>
+ </div>
+</div>

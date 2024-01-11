@@ -1,0 +1,374 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="37815894" uid="1955895">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Siêu phẩm, bán căn hộ cao cấp The Sang 2PN tầng 16 view Biển Mỹ Khê, trung tâm Đà Nẵng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án The Sang Residence, Đường Phạm Kiệt, Phường  Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    3,99 tỷ
+   </span>
+   <span class="ext">
+    ~51,54 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    77,5 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    2 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":37815894,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/09/03/20230903090739-3c93_wm.jpg","vipType":0,"title":"Siêu phẩm, bán căn hộ cao cấp The Sang 2PN tầng 16 view Biển Mỹ Khê, trung tâm Đà Nẵng","titleHiddenMobile":"Siêu phẩm, bán căn hộ cao cấp The Sang 2PN tầng 16 view Biển Mỹ Khê, trung tâm Đà Nẵng","url":"https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-kiet-phuong-khue-my-prj-the-sang-residence/sieu-ban-cao-cap-2pn-tang-11-view-bien-khe-trung-tam-da-nang-pr37815894","productIdPrefix":"37815894$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-kiet-phuong-khue-my-prj-the-sang-residence/sieu-ban-cao-cap-2pn-tang-11-view-bien-khe-trung-tam-da-nang-pr37815894&amp;t=Siêu phẩm, bán căn hộ cao cấp The Sang 2PN tầng 16 view Biển Mỹ Khê, trung tâm Đà Nẵng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-kiet-phuong-khue-my-prj-the-sang-residence/sieu-ban-cao-cap-2pn-tang-11-view-bien-khe-trung-tam-da-nang-pr37815894" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=37815894">
+   Siêu phẩm, bán căn hộ cao cấp The Sang 2PN tầng 16 view Biển Mỹ Khê, trung tâm Đà Nẵng, sổ đỏ sở hữu lâu dài.
+   <br/>
+   Vị trí: Nằm vị trí kim cương trung tâm TP Đà Nẵng, trên trục đường sầm uất Phạm Kiệt, đối diện khu nghĩ dưỡng Furama Resort Đà Nẵng cách biển 300m. Đoạn giao nhau giữa Hồ Xuân Hương và Võ Nguyên Giáp (Võ Nguyên Giáp tuyến đường kết nối du lịch Đà Nẵng - Hội An, Hồ Xuân Hương kết nối sân bay ra bãi tắm biển Mỹ Khê).
+   <br/>
+   Tiện ích: Vị trí trung tâm nên dễ dàng tiếp cận tất cả tiện ích:
+   <br/>
+   + Tiện ích 1 chạm: Cà phê, gym, spa, nhà hàng, nhà thuốc, nhà trẻ, văn phòng, phòng sinh hoạt cộng đồng, gym, spa, bể bơi 4 mùa với 250m²,... Phục vụ mọi nhu cầu cư dân khó tính.
+   <br/>
+   + Tiện ích liền kề: Cách biển 300m, nhà hàng, cà phê, trung tâm thương mại Lotte Mart, chợ truyền thống, cơ quan nhà nước, phố Tây An Thượng, trường học các cấp 1,2,3, đại học, bệnh viện, sân bay,...
+   <br/>
+   Diện tích thông thuỷ: 77.5m².
+   <br/>
+   Nội thất cao cấp: Cửa chống An Cường, Khoá Thông Minh Hafele Đức, thiết bị điện Schneider Pháp, Sàn Vietceramics, sơn tường Jotun, bóng điện Philips ánh sáng trung tính, điều hoà âm trần LG, bếp từ Hafele Đức, máy hút mùi Hafele Đức, bồn rửa Hafale Đức, máy nóng lạnh Ariston của Ý, full nội thất nhà vệ sinh Hafele Đức, Bravat của Mỹ,...
+   <br/>
+   Đặt biệt toàn bộ căn hộ được sử dụng kính hộp Low E 27,5mm của Kibing nhập khẩu Malaysia(Chống UV, cách âm, cách nhiệt, chống nhìn trộm, chống bảo cấp 17).
+   <br/>
+   Giá bán ưu đãi: 3 tỷ 994tr.
+   <br/>
+   Pháp lý: Sổ hồng, đất ở đô thị, thời hạn sử dụng lâu dài.
+   <br/>
+   Mua lời ngay vì: Căn hộ biển - giá bán ưu đãi gốc cđt - pháp lý sổ đỏ sở hữu lâu dài.
+   <br/>
+   Liên hệ ngay:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="7301071c0d5db334b9d33534a094c7c7" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=37815894">
+    0842 800 ***
+   </span>
+   để hỗ trợ tư vấn và xem nhà.
+   <br/>
+   P/s: Ngoài ra em có căn: 2PN view sông Hàn tầng 4 giá 3 tỷ 472tr, 2PN view sông Hàn tầng 27 giá 3 tỷ 652tr; 1PN + 1 view biển tầng 27 62m² giá 3 tỷ 428tr; view trục diện biển 2PN tầng 6 và 19 giá lần lượt là 3 tỷ 848tr và 4,8 tỷ; 3PN tầng 7, tầng 12A và tầng 17 (99,5m²) giá lần lược 4 tỷ 950tr, 5 tỷ 850tr và 6 tỷ; căn hộ Duplex 12,5 tỷ.
+   <br/>
+   Anh chị gọi ngay hoặc kết bạn zalo:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="7301071c0d5db334b9d33534a094c7c7" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=37815894">
+    0842 800 ***
+   </span>
+   để em gửi video thực tế ạ.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      77,5 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3,99 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-ban-the-sang-residence" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 152 tin đăng bán
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-can-ho-chung-cu-ngu-hanh-son-ddn/the-sang-residence-pj4772" target="_blank">
+      <img alt="The Sang Residence" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2022/10/29/20221029013944-54c8_wm.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       The Sang Residence
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Đang mở bán" class="re__prj-card-config-value" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Đang mở bán
+       </span>
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="298 căn hộ" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-home--sm">
+       </i>
+       298
+      </span>
+      <span class="re__prj-card-config-dot">
+       ·
+      </span>
+      <span aria-label="1 tòa nhà" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-building--sm">
+       </i>
+       1
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư CTCP Đầu tư và Xây dựng The Sang" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        CTCP Đầu tư và Xây dựng The Sang
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0388774871826,108.247406005859&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/255x180/2022/08/04/20220804095018-9c71.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Nguyễn Anh Đài">
+     Nguyễn Anh Đài
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/6a90cc4b27fff90b" tracking-id="user-listing-ldp">
+      Xem thêm 47 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=37815894">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-the-sang-residence/dt-tu-50m2-den-80m2" title="Căn hộ The Sang Residence từ 50 m2 đến 80 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ The Sang Residence từ 50 m2 đến 80 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-phuong-khue-my" title="Căn hộ Khuê Mỹ Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Khuê Mỹ Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-duong-pham-kiet-48" title="Căn hộ Phạm Kiệt Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Phạm Kiệt Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-ngu-hanh-son-ddn" title="Căn hộ Ngũ Hành Sơn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Ngũ Hành Sơn Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-da-nang/2pn" title="Căn hộ Đà Nẵng 2 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Đà Nẵng 2 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-can-ho-chung-cu-da-nang/gia-tu-3-ty-den-5-ty" title="Căn hộ Đà Nẵng từ 3 tỉ đến 5 tỉ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Đà Nẵng từ 3 tỉ đến 5 tỉ
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    10/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    20/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin VIP Vàng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    37815894
+   </span>
+  </div>
+ </div>
+</div>

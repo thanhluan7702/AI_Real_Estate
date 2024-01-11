@@ -1,0 +1,277 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38678221" uid="803163">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cho thuê căn hộ 187 Núi Thành, Quận Hải Châu, Đà Nẵng, giá chỉ 5 tr/tháng, LH:
+  <span class="hidden-mobile m-on-title" raw="6750be5946e7a24ac4e89d953ea2c668">
+   0913 412 ***
+  </span>
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  187 Đường Núi Thành, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    5 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    40 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    1 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38678221,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2018/10/22/20181022103726-83bb_wm.jpg","vipType":0,"title":"Cho thuê căn hộ 187 Núi Thành, Quận Hải Châu, Đà Nẵng, giá chỉ 5 tr/tháng, LH: &lt;span class=\"hidden-mobile m-on-title\" raw=\"6750be5946e7a24ac4e89d953ea2c668\"&gt;0913 412 ***&lt;/span&gt;","titleHiddenMobile":"Cho thuê căn hộ 187 Núi Thành, Quận Hải Châu, Đà Nẵng, giá chỉ 5 tr/tháng, LH: &lt;span class=\"hidden-mobile m-on-title\" raw=\"6750be5946e7a24ac4e89d953ea2c668\"&gt;0913 412 ***&lt;/span&gt;","url":"https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-nui-thanh-phuong-hoa-cuong-bac/c-187-quan-hai-chau-da-nang-gia-chi-4-5-tr-thang-lh-pr38678221","productIdPrefix":"38678221$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-nui-thanh-phuong-hoa-cuong-bac/c-187-quan-hai-chau-da-nang-gia-chi-4-5-tr-thang-lh-pr38678221&amp;t=Cho thuê căn hộ 187 Núi Thành, Quận Hải Châu, Đà Nẵng, giá chỉ 5 tr/tháng, LH: 0913 412 ***" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-nui-thanh-phuong-hoa-cuong-bac/c-187-quan-hai-chau-da-nang-gia-chi-4-5-tr-thang-lh-pr38678221" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38678221">
+   Cho thuê căn hộ tại 187 Núi Thành, quận Hải Châu, Đà Nẵng.
+   <br/>
+   - Diện tích căn hộ: 40m², bao gồm 1 phòng ngủ, 1 phòng khách riêng biệt.
+   <br/>
+   - Nội thất: Đầy đủ các trang thiết bị nội thất hiện đại: Smart tivi, tủ lạnh, bếp từ, tủ bếp, tủ áo, bàn trang điểm...
+   <br/>
+   - Tòa nhà an ninh, yên tĩnh, cư dân văn minh lịch sự, siêu thị tiện ích và hàng quán kế bên, rất thuận tiện cho công việc và sinh hoạt của bạn.
+   <br/>
+   - Có sân vườn, chỗ để xe rộng rãi.
+   <br/>
+   Giá chỉ 5tr/1 tháng.
+   <br/>
+   Liên hệ:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="6750be5946e7a24ac4e89d953ea2c668" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=38678221">
+    0913 412 ***
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      40 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      5 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      1 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      1 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item re__pr-item-full">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ các trang thiết bị nội thất hiện đại: Smart tivi, tủ lạnh, bếp từ, tủ bếp, tủ áo, bàn trang điểm...
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="1">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0430209,108.2215375&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   H
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Võ Văn Hoàng">
+     Võ Văn Hoàng
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38678221">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-phuong-hoa-cuong-bac" title="Thuê căn hộ Hòa Cường Bắc Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Hòa Cường Bắc Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-duong-nui-thanh-46" title="Thuê căn hộ Núi Thành Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Núi Thành Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-hai-chau-ddn" title="Thuê căn hộ Hải Châu Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Hải Châu Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-can-ho-chung-cu-da-nang/1pn" title="Thuê căn hộ Đà Nẵng 1 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ Đà Nẵng 1 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-can-ho-chung-cu-gia-re-da-nang" title="Thuê căn hộ chung cư giá rẻ đà nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê căn hộ chung cư giá rẻ đà nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-can-ho-chung-cu-gia-re-da-nang" title="Cho thuê căn hộ chung cư giá rẻ đà nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê căn hộ chung cư giá rẻ đà nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    01/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    31/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38678221
+   </span>
+  </div>
+ </div>
+</div>

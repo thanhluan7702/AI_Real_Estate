@@ -1,0 +1,336 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38596810" uid="2536739">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Một số căn nhà mặt tiền bán giá tốt tại quận Ngũ Hành Sơn, Tp. Đà Nẵng quanh bãi tắm biển 500m
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Võ Như Hưng, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    125 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    6 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38596810,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/11/20/20231120134957-778a_wm.jpg","vipType":0,"title":"Một số căn nhà mặt tiền bán giá tốt tại quận Ngũ Hành Sơn, Tp. Đà Nẵng quanh bãi tắm biển 500m","titleHiddenMobile":"Một số căn nhà mặt tiền bán giá tốt tại quận Ngũ Hành Sơn, Tp. Đà Nẵng quanh bãi tắm biển 500m","url":"https://batdongsan.com.vn/ban-nha-mat-pho-duong-vo-nhu-hung-phuong-my-an/mot-so-can-tien-ban-gia-tot-tai-quan-ngu-hanh-son-tp-da-nang-quanh-bai-tam-bien-500m-pr38596810","productIdPrefix":"38596810$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-nha-mat-pho-duong-vo-nhu-hung-phuong-my-an/mot-so-can-tien-ban-gia-tot-tai-quan-ngu-hanh-son-tp-da-nang-quanh-bai-tam-bien-500m-pr38596810&amp;t=Một số căn nhà mặt tiền bán giá tốt tại quận Ngũ Hành Sơn, Tp. Đà Nẵng quanh bãi tắm biển 500m" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-nha-mat-pho-duong-vo-nhu-hung-phuong-my-an/mot-so-can-tien-ban-gia-tot-tai-quan-ngu-hanh-son-tp-da-nang-quanh-bai-tam-bien-500m-pr38596810" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38596810">
+   Một số căn nhà mặt tiền bán giá tốt tại quận Ngũ Hành Sơn, Tp. Đà Nẵng quanh bãi tắm biển 500m.
+   <br/>
+   1. Nhà mặt tiền Võ Như Hưng, đường 7,5m, 3 lầu, 94m² đất, ngang 7m, giá 6,3 tỷ TL.
+   <br/>
+   2. Nhà mặt tiền Mỹ An 12, đường 7,5m, cấp 4, 100m² đất, ngang 5m giá 4,8 tỷ TL.
+   <br/>
+   3. Nhà mặt tiền Nước Mặt 7, đường 10m, đường 10m, 4 lầu, 125 m² đất, ngang 5, giá 6,95 tỷ TL.
+   <br/>
+   4. Nhà mặt tiền Hồ Huấn Nghiệp, đường 7,5m, 2 lầu, 90 m² đất, ngang 5m, giá 5 tỷ TL.
+   <br/>
+   5. Nhà mặt tiền Anh Thơ, đường 7,5m, 4 lầu, 90m² đất, ngang 5, giá 7,5 tỷ.
+   <br/>
+   6. Nhà mặt tiền Mỹ An 23, đường 5,5m, C4, 96 m², ngang 4,5, giá 4,3 tỷ tl.
+   <br/>
+   7. Nhà mặt tiền Mỹ Đa Tây, đường 5,5m, 3 lầu, 76 m², Ngang 5, giá 4,75 tỷ tl.
+   <br/>
+   8. Nhà mặt tiền Tô Hiến Thành, đường 10m, 5 lầu, 80m² đất, ngang 5, giá 8,5 tỷ tl.
+   <br/>
+   9. Nhà mặt tiền Hải Triều, đường 10,5m, 2 lầu, 108m² đất, ngang 6, giá 5,8 tỷ tl.
+   <br/>
+   10. Nhà mặt tiền An Hải 14, đường 5m, C3, 52m² đất, ngang 4 giá 2,8 tỷ tl.
+   <br/>
+   11. Nhà mặt tiền Ngô Quyền, đường 48m, 3 lầu, 87m² đất, ngang 5, giá 10,5 tỷ tl.
+   <br/>
+   12. Nhà mặt tiền Ngô Quyền, đường 48m, C4, 43m² đất, ngang 7,5, giá 3,75 tỷ tl.
+   <br/>
+   13. Nhà mặt tiền Đoàn Khuê, đường 10,5m, 3 lầu, 100m² đất, ngang 5m, giá 6,8 tỷ tl.
+   <br/>
+   14. Nhà mặt tiền đường Cao Sơn, đường 7,5m, C4, 100m² đất, ngang 5, giá 4 tỷ tl.
+   <br/>
+   15. Nhà mặt tiền Ung Văn Khiêm, đường 7,5m, nhà 2 lầu, 90 m² đất, ngang 5, giá 5,8 tỷ tl.
+   <br/>
+   <br/>
+   Ngoài ra! E còn rất nhiều căn nhà mặt tiền tầm giá 3 đến 4,5 tỷ thuộc quận Ngũ Hành Sơn quanh biển và sông hàn, anh chị nào quan tâm em gửi thêm qua Zalo, Viber, Mec.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      125 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-home">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mặt tiền
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      10 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-road">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Đường vào
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      10,5 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      4 tầng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      6 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      6 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ.
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0477043,108.2377378&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/255x180/2023/10/13/20231013161843-a5ec.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Trần Phụng">
+     Trần Phụng
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/c5720213fb300b5c" tracking-id="navigate-agent-profile">
+      Xem thêm 10 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38596810">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-phuong-my-an" title="Nhà mặt phố Mỹ An Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Mỹ An Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-duong-vo-nhu-hung-48" title="Nhà mặt phố Võ Như Hưng Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Võ Như Hưng Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-ngu-hanh-son-ddn" title="Nhà mặt phố Ngũ Hành Sơn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Ngũ Hành Sơn Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-da-nang/6pn" title="Nhà mặt phố Đà Nẵng 6 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Đà Nẵng 6 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-nha-mat-tien-da-nang" title="Bán nhà mặt tiền Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán nhà mặt tiền Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    20/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    27/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin VIP Bạc
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38596810
+   </span>
+  </div>
+ </div>
+</div>

@@ -1,0 +1,246 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38687392" uid="2101143">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cho thuê nhà 3 tầng diện tích sàn hơn 300m2, mở được spa, gym,... Tu sửa thoải mái. Giá rẻ chỉ 15tr
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Đinh Tiên Hoàng, Phường Tam Thuận, Thanh Khê, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    15 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    300 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38687392,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/12/02/20231202113415-9d2a_wm.jpg","vipType":0,"title":"Cho thuê nhà 3 tầng diện tích sàn hơn 300m2, mở được spa, gym,... Tu sửa thoải mái. Giá rẻ chỉ 15tr","titleHiddenMobile":"Cho thuê nhà 3 tầng diện tích sàn hơn 300m2, mở được spa, gym,... Tu sửa thoải mái. Giá rẻ chỉ 15tr","url":"https://batdongsan.com.vn/cho-thue-sang-nhuong-cua-hang-ki-ot-duong-dinh-tien-hoang-phuong-tam-thuan/cho-nha-3-tang-dien-tich-san-hon-300m2-mo-duoc-spa-gym-tu-sua-thoai-mai-gia-re-chi-15tr-pr38687392","productIdPrefix":"38687392$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-sang-nhuong-cua-hang-ki-ot-duong-dinh-tien-hoang-phuong-tam-thuan/cho-nha-3-tang-dien-tich-san-hon-300m2-mo-duoc-spa-gym-tu-sua-thoai-mai-gia-re-chi-15tr-pr38687392&amp;t=Cho thuê nhà 3 tầng diện tích sàn hơn 300m2, mở được spa, gym,... Tu sửa thoải mái. Giá rẻ chỉ 15tr" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-sang-nhuong-cua-hang-ki-ot-duong-dinh-tien-hoang-phuong-tam-thuan/cho-nha-3-tang-dien-tich-san-hon-300m2-mo-duoc-spa-gym-tu-sua-thoai-mai-gia-re-chi-15tr-pr38687392" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38687392">
+   Nhà 3 tầng trước đây cho trường mầm non thuê, nhà rộng rãi ô tô tải vô được.
+   <br/>
+   - Địa chỉ: Kiệt Đinh Tiên Hoàng gần Ông Ích Khiêm, kiệt to 5m ô tô tải vô được.
+   <br/>
+   - Diện tích sàn hơn 300m², mặt tiền 8m.
+   <br/>
+   - Được phép tu sửa thoải mái, phù hợp mở văn phòng công ty, spa, gym, trung tâm dạy học,...
+   <br/>
+   - Có bớt chút giá thuê cho khách thiện chí.
+   <br/>
+   Cảm ơn bạn đã đọc tin, quan tâm liên hệ cho tôi qua số điện thoại:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="a1872b26c689e52ee93987801f2d4eef" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=38687392">
+    0392 544 ***
+   </span>
+   - Quân.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      300 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      15 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Cơ bản
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="2">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0748802,108.2106104&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/255x180/2022/12/12/20221212141946-70fb.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Nguyễn Hải Quân">
+     Nguyễn Hải Quân
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/7e3b697dbf4521f3" tracking-id="navigate-agent-profile">
+      Xem thêm 1 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38687392">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-sang-nhuong-cua-hang-ki-ot-phuong-tam-thuan" title="Cửa hàng Tam Thuận Thanh Khê" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cửa hàng Tam Thuận Thanh Khê
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-sang-nhuong-cua-hang-ki-ot-duong-dinh-tien-hoang-50" title="Cửa hàng Đinh Tiên Hoàng Thanh Khê" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cửa hàng Đinh Tiên Hoàng Thanh Khê
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-sang-nhuong-cua-hang-ki-ot-thanh-khe-ddn" title="Cửa hàng Thanh Khê Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cửa hàng Thanh Khê Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-sang-nhuong-cua-hang-ki-ot-da-nang" title="Cửa hàng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cửa hàng Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    02/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    12/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38687392
+   </span>
+  </div>
+ </div>
+</div>

@@ -1,0 +1,296 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38457033" uid="588386">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  List 6 VPNC, tự chủ quản lý, dễ dàng bố trí, giá thuê hợp lý, chỉ từ 3X tr/th tại trung tâm
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Lê Quý Đôn, Phường Bình Thuận, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    36 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    243 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38457033,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/11/02/20231102092407-3ceb_wm.jpg","vipType":0,"title":"List 6 VPNC, tự chủ quản lý, dễ dàng bố trí, giá thuê hợp lý, chỉ từ 3X tr/th tại trung tâm","titleHiddenMobile":"List 6 VPNC, tự chủ quản lý, dễ dàng bố trí, giá thuê hợp lý, chỉ từ 3X tr/th tại trung tâm","url":"https://batdongsan.com.vn/cho-thue-van-phong-duong-le-quy-don-1-phuong-binh-thuan/list-vpnc-tu-chu-quan-ly-de-dang-bo-tri-gia-hop-ly-chi-tu-3x-tr-th-tai-trung-tam-pr38457033","productIdPrefix":"38457033$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-van-phong-duong-le-quy-don-1-phuong-binh-thuan/list-vpnc-tu-chu-quan-ly-de-dang-bo-tri-gia-hop-ly-chi-tu-3x-tr-th-tai-trung-tam-pr38457033&amp;t=List 6 VPNC, tự chủ quản lý, dễ dàng bố trí, giá thuê hợp lý, chỉ từ 3X tr/th tại trung tâm" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-van-phong-duong-le-quy-don-1-phuong-binh-thuan/list-vpnc-tu-chu-quan-ly-de-dang-bo-tri-gia-hop-ly-chi-tu-3x-tr-th-tai-trung-tam-pr38457033" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38457033">
+   1. VP đường Lê Quý Đôn.
+   <br/>
+   DT: 243m² - Kết cấu 3 tầng.
+   <br/>
+   Giá thuê 36 tr/tháng.
+   <br/>
+   Ưu điểm: Mỗi tầng ngăn 2 phòng trước sau, thông suốt. Full nội thất: Bàn ghế làm việc cho nhân viên &amp; sếp, sẵn tủ đựng hồ sơ, quầy lễ tân, Sẵn hệ thống điều hòa, đèn điện. Khu vực WC tiện lợi sạch sẽ.
+   <br/>
+   Mã: VPNC0041.
+   <br/>
+   <br/>
+   2. VP đường CMT8.
+   <br/>
+   Tổng DT sử dụng hơn 400m².
+   <br/>
+   Giá thuê: 45 triệu/tháng.
+   <br/>
+   Ưu điểm: Tòa nhà có sẵn trần, sàn, điều hòa, đèn điện Tầng 1 trống suốt. Giao thông khu vực thuận tiện, gần bệnh viện, trung tâm hành chính quận. Xung quanh tòa nhà có khá nhiều tiện ích như bệnh viện, trường học.
+   <br/>
+   Mã: TN4485.
+   <br/>
+   <br/>
+   3. VP đường Đống Đa.
+   <br/>
+   DT sử dụng 210m² - Xây dựng 3 tầng + tầng thượng.
+   <br/>
+   Giá thuê: 45tr/ tháng.
+   <br/>
+   Ưu điểm: Thiết kế không gian đa năng, rộng rãi, dễ dàng setup. Mặt tiền ngang lớn, thu hút tầm nhìn, phù hợp quảng bá thương hiệu. Chất lượng dịch vụ, an ninh khu vực tốt. Tại khu vực đông đúc, tuyến đường lớn, giao thông thoáng thuận tiện di chuyển. Gần các điểm trung tâm của thành phố.
+   <br/>
+   Mã: NNC0731.
+   <br/>
+   <br/>
+   4. VP tại đường Tiểu La giao với Lương Nhữ Hộc.
+   <br/>
+   DT: 360m² - kết cấu 3 tầng (tầng 1 trống suốt, 2 tầng trên chia thành 1 phòng nhỏ và 1 phòng lớn).
+   <br/>
+   Giá thuê 50tr / tháng.
+   <br/>
+   Ưu điểm: Bề ngang 7,5m. Bàn giao sàn trống, chất lượng dịch vụ tốt. Nằm tại khu vực yên tĩnh, an ninh đảm bảo. Xung quanh tòa có các dịch vụ như ngân hàng, chợ, trường học các cấp, bệnh viện thuận tiện di chuyển.
+   <br/>
+   Mã: NNC0749.
+   <br/>
+   <br/>
+   5. VP đường Nguyễn Đình Tựu.
+   <br/>
+   DT đất: 270m² - kết cấu: 6 tầng.
+   <br/>
+   Giá thuê: 70tr/tháng.
+   <br/>
+   Ưu điểm: Bề ngang lớn 15m. Sàn trống suốt dễ dàng setup theo ý muốn. Mỗi tầng có 1 phòng ngủ và 1 WC đáp ứng nhu cầu sử dụng. Có thang máy thuận tiện di chuyển và vận chuyển. Khu vực dân cư văn minh, an ninh đảm bảo. Gần các điểm trung tâm của thành phố, xung quanh nhiều dịch vụ khác.
+   <br/>
+   Mã: VPNC0055.
+   <br/>
+   <br/>
+   6. VP đường 2/9.
+   <br/>
+   DT: 500m² - Kết cấu 5 tầng.
+   <br/>
+   Giá thuê: 70 triệu / tháng.
+   <br/>
+   Ưu điểm: Tòa nhà mặt tiền thu hút tầm nhìn, giao thông thuận tiện. Thiết kế văn phòng mở, đẹp mắt. Bàn giao sàn, trần, tường cơ bản. Chất lượng dịch vụ tòa tốt. Có tầng hầm để xe thuận tiện.
+   <br/>
+   Đảm bảo an ninh khu vực 24/7. View cầu rồng, sông Hàn cực đẹp.
+   <br/>
+   Mã: VPNC0060.
+   <br/>
+   <br/>
+   * Gọi cho chúng tôi ngay để được tư vấn, báo giá và tham quan thực tế miễn phí!
+   <br/>
+   -------------------------------------------------------------------------
+   <br/>
+   Công ty Mizuki chuyên kinh doanh - tư vấn BĐS thương mại tại Đà Nẵng: Cho thuê văn phòng, cho thuê khách sạn kinh doanh, cho thuê mặt bằng kinh doanh, cho thuê căn hộ cao cấp,... Với quy trình tư vấn minh bạch, trung thực cùng sự hiểu rõ tường tận ưu - nhược điểm của hơn 200 tòa nhà văn phòng cho thuê tại Đà Nẵng.
+   <br/>
+   -------------------------------------------------------------------------
+   <br/>
+   Công ty TNHH LLC Mizuki.
+   <br/>
+   Website:
+   <a href="https://mizuland.vn/" rel="nofollow" target="_blank">
+    https://mizuland.vn/
+   </a>
+   <br/>
+   Địa chỉ VP: Tầng 1, 06 Trần Phú, P. Thạch Thang, Q. Hải Châu, TP. Đà Nẵng.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      243 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      36 triệu/tháng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="2">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.055563,108.2207938&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2018/01/16/20180116102509-1a6e.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Mizuland">
+     Mizuland
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/9b39db30e487d89e" tracking-id="navigate-agent-profile">
+      Xem thêm 37 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38457033">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-binh-thuan" title="Văn phòng Bình Thuận Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Bình Thuận Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-duong-le-quy-don-1-46" title="Văn phòng lê quý đôn Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng lê quý đôn Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-hai-chau-ddn" title="Văn phòng Hải Châu Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hải Châu Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-da-nang" title="Văn phòng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-khach-san-da-nang" title="Thuê khách sạn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê khách sạn Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    23/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    30/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin VIP Bạc
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38457033
+   </span>
+  </div>
+ </div>
+</div>

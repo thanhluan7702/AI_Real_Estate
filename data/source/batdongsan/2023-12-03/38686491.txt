@@ -1,0 +1,289 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38686491" uid="733403">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Tòa building 2 mặt tiền đường 2 - 9 sát công viên Apec
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường 2/9, Phường Bình Thuận, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    580 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    370 m²
+   </span>
+   <span class="ext">
+    7 tầng
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38686491,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/12/02/20231202102951-04f4_wm.jpeg","vipType":0,"title":"Tòa building 2 mặt tiền đường 2 - 9 sát công viên Apec","titleHiddenMobile":"Tòa building 2 mặt tiền đường 2 - 9 sát công viên Apec","url":"https://batdongsan.com.vn/cho-thue-van-phong-duong-2-9-1-phuong-binh-thuan/toa-building-2-mat-tien-2-9-sat-cong-vien-apec-pr38686491","productIdPrefix":"38686491$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-van-phong-duong-2-9-1-phuong-binh-thuan/toa-building-2-mat-tien-2-9-sat-cong-vien-apec-pr38686491&amp;t=Tòa building 2 mặt tiền đường 2 - 9 sát công viên Apec" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-van-phong-duong-2-9-1-phuong-binh-thuan/toa-building-2-mat-tien-2-9-sat-cong-vien-apec-pr38686491" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38686491">
+   Cho thuê tòa building 2 mặt tiền mới xây cạnh công viên Apec, TP: Đà Nẵng:
+   <br/>
+   <br/>
+   + Vị trí: Tọa lạc trên tuyến đường 2 Tháng 9, sát cầu Rồng, nằm cạnh công viên Apec, vị trí đắc địa bậc nhất tại trung tâm Hải Châu, Tp Đà Nẵng.
+   <br/>
+   + Sở hữu chiếc view cực xịn sò, ngắm thẳng ra cầu Rồng và dòng sông Hàn thơ mộng.
+   <br/>
+   + Khoảng cách từ tòa nhà đến các địa điểm quan trọng.
+   <br/>
+   Khoảng cách di chuyển từ tòa nhà Apec Building Đà Nẵng đến các địa điểm sau:
+   <br/>
+   <br/>
+   Trung tâm hành chính thành phố: 600m.
+   <br/>
+   Sân bay: 3,7km.
+   <br/>
+   Nhà ga tàu hỏa: 3,0km.
+   <br/>
+   Bến xe: 8,0 km.
+   <br/>
+   Bệnh viện: 2,7km.
+   <br/>
+   <br/>
+   - Diện tích đất/ sàn: 370m².
+   <br/>
+   - Diện tích sử dụng: 2.570m².
+   <br/>
+   - Kết cấu: 1 tầng hầm, 7 tầng nổi.
+   <br/>
+   - Đầy đủ công năng:
+   <br/>
+   + Hệ thống PCCC và XLNT.
+   <br/>
+   + Trạm điện biến áp 400 kVA.
+   <br/>
+   + Máy phát điện.
+   <br/>
+   + Gồm 2 thang máy OTIS 750kg và 1000kg.
+   <br/>
+   + Hệ thống lạnh trung tâm,... Vv.
+   <br/>
+   <br/>
+   Thời hạn hợp đồng: 5 năm.
+   <br/>
+   Giá thuê đã bao gồm thuế TNCN, 5% thuế VAT khách hàng trả.
+   <br/>
+   <br/>
+   Anh chị quan tâm gọi trực tiếp cho Việt để trao đổi:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="59885d4e358469d7c9f81fdbb2f73ae4" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=38686491">
+    0905 494 ***
+   </span>
+   .
+   <br/>
+   <br/>
+   Anh chị tham khảo thêm sản phẩm đường 2 Tháng 9.
+   <br/>
+   <br/>
+   Lô 1: Tòa nhà 5 tầng, tổng DTSD: 350m². (đã có sẵn hệ thống PCCC).
+   <br/>
+   Lô 2: Tòa nhà tiền chế 3 tầng, diện tích đất: 264m², ngang 12m².
+   <br/>
+   Lô 3: Tòa nhà 3 tầng nổi, 1 tầng hầm, Diện tích đất: 135m², DTSD: 535m², ngang 7m².
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      370 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      580 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      7 tầng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="2">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0792406,108.2149453&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2023/11/30/20231130092902-d84e_wm.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Trần Thanh Việt">
+     Trần Thanh Việt
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/3eef86d952fe6405" tracking-id="navigate-agent-profile">
+      Xem thêm 14 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38686491">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-binh-thuan" title="Văn phòng Bình Thuận Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Bình Thuận Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-duong-2-9-1-46" title="Văn phòng 2 9 Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng 2 9 Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-hai-chau-ddn" title="Văn phòng Hải Châu Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hải Châu Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-da-nang" title="Văn phòng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-van-phong-gia-re-tai-da-nang" title="Thuê văn phòng giá rẻ tại đà nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê văn phòng giá rẻ tại đà nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    02/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    01/01/2024
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38686491
+   </span>
+  </div>
+ </div>
+</div>

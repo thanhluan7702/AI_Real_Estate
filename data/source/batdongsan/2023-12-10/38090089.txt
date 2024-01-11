@@ -1,0 +1,268 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38090089" uid="789891">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Bán 1300m2 đất trồng cây. Sát dân. Đất bằng phẳng. Sạch sẽ, vuông vắn, Xã Hoà Nhơn. Đường ô tô 4m
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Xã Hòa Nhơn, Hòa Vang, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    650 triệu
+   </span>
+   <span class="ext">
+    ~500 nghìn/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    1.300 m²
+   </span>
+   <span class="ext">
+    Mặt tiền 20 m
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38090089,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/09/12/20230912174724-92e6_wm.jpg","vipType":0,"title":"Bán 1300m2 đất trồng cây. Sát dân. Đất bằng phẳng. Sạch sẽ, vuông vắn, Xã Hoà Nhơn. Đường ô tô 4m","titleHiddenMobile":"Bán 1300m2 đất trồng cây. Sát dân. Đất bằng phẳng. Sạch sẽ, vuông vắn, Xã Hoà Nhơn. Đường ô tô 4m","url":"https://batdongsan.com.vn/ban-dat-xa-hoa-nhon/ban-1100m2-trong-cay-bang-phang-sach-se-vuong-van-duong-o-to-4m-pr38090089","productIdPrefix":"38090089$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-dat-xa-hoa-nhon/ban-1100m2-trong-cay-bang-phang-sach-se-vuong-van-duong-o-to-4m-pr38090089&amp;t=Bán 1300m2 đất trồng cây. Sát dân. Đất bằng phẳng. Sạch sẽ, vuông vắn, Xã Hoà Nhơn. Đường ô tô 4m" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-dat-xa-hoa-nhon/ban-1100m2-trong-cay-bang-phang-sach-se-vuong-van-duong-o-to-4m-pr38090089" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38090089">
+   Đường ô tô thông 4m + lề 2 bên. Cách trục đường chính 150m.
+   <br/>
+   Đất sạch sẽ. View thoáng mát.
+   <br/>
+   Đất sát nhà dân. Đèn đường trụ điện đầy đủ. Đã trồng trụ bê tông kiên cố như hình.
+   <br/>
+   Diện tích: 1300m². Ngang 20m.
+   <br/>
+   Thích hợp xây dựng nhà vườn mô hình, tiền chế.
+   <br/>
+   Trồng cây ăn quả - chăn nuôi.
+   <br/>
+   Giá: 650 tr.
+   <br/>
+   Lh:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="c18b861a30c4f8308be21e71ba532d46" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38090089">
+    0964 466 ***
+   </span>
+   gặp Mr. Ngọc. Chuyên mua bán đất hoà vang. Diện tích lớn nhỏ.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      1.300 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      650 triệu
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-home">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mặt tiền
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      20 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="1">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyloading" data-src="https://www.google.com/maps/embed/v1/place?q=16.0045689214493,108.120194253747&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   C
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Nguyễn Văn Chí">
+     Nguyễn Văn Chí
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/27870ea9ebde330a" tracking-id="navigate-agent-profile">
+      Xem thêm 7 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38090089">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-xa-hoa-nhon" title="Đất Hòa Nhơn Hòa Vang" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Hòa Nhơn Hòa Vang
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-hoa-vang-ddn" title="Đất Hòa Vang Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Hòa Vang Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-da-nang" title="Đất Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-xa-hoa-phu-1" title="Đất Hòa Phú Hòa Vang" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Hòa Phú Hòa Vang
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-xa-hoa-chau" title="Đất Hòa Châu Hòa Vang" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Hòa Châu Hòa Vang
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/mua-ban-dat-gia-re-da-nang" title="Mua bán đất giá rẻ đà nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Mua bán đất giá rẻ đà nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    10/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    20/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38090089
+   </span>
+  </div>
+ </div>
+</div>

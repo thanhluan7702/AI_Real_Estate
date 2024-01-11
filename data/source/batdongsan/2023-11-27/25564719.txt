@@ -1,0 +1,230 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="25564719" uid="1383043">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cho thuê kho ngã 3 Âu Dương Lân - QL1A và VPLV đường Nguyễn Tất Thành (đảm bảo không bị ngập nước)
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Quốc lộ 1A, Xã Hòa Châu, Hòa Vang, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    1.000 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":25564719,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2020/07/22/20200722152027-0798_wm.jpg","vipType":0,"title":"Cho thuê kho ngã 3 Âu Dương Lân - QL1A và VPLV đường Nguyễn Tất Thành (đảm bảo không bị ngập nước)","titleHiddenMobile":"Cho thuê kho ngã 3 Âu Dương Lân - QL1A và VPLV đường Nguyễn Tất Thành (đảm bảo không bị ngập nước)","url":"https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-duong-quoc-lo-1a-xa-hoa-chau/cho-va-van-phong-lam-viec-tai-da-nang-pr25564719","productIdPrefix":"25564719$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-duong-quoc-lo-1a-xa-hoa-chau/cho-va-van-phong-lam-viec-tai-da-nang-pr25564719&amp;t=Cho thuê kho ngã 3 Âu Dương Lân - QL1A và VPLV đường Nguyễn Tất Thành (đảm bảo không bị ngập nước)" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-duong-quoc-lo-1a-xa-hoa-chau/cho-va-van-phong-lam-viec-tai-da-nang-pr25564719" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=25564719">
+   Cho thuê kho và văn phòng làm việc tại Đà Nẵng (Đảm bảo không bị ngập nước trong đợt mưa vừa qua):
+   <br/>
+   1. Cho thuê kho nằm trên Quốc Lộ 1A, Hòa Châu, Hòa Vang, Đà Nẵng. Khu quy hoạch thương mại dịch vụ ngay ngã ba QL 1A và đường Âu Dương Lân, gần Cầu Đỏ. Kho mới xây dựng thông thoáng, hiện đại, thuận tiện giao thông. Có nhiều kích thước, diện tích phù hợp với nhu cầu kinh doanh khai thác: 1.000m², 2.000m², 3.000m², showroom trưng bày sản phẩm, văn phòng làm việc: 500 - 1000 m².
+   <br/>
+   2. Kho kèm văn phòng làm việc tại đường Duy Tân, gần sân bay Quốc tế Đà Nẵng, diện tích 650m².
+   <br/>
+   3. Văn phòng làm việc:
+   <br/>
+   - Địa chỉ: 475 đường Nguyễn Tất Thành, Phường Tam Thuận, Thanh Khê, Đà Nẵng. Đoạn giữa đường Ông Ích Khiêm và đường Tôn Thất Đạm (Lê Độ nối dài), đối diện khu đô thị Đa Phước (Sunrise Bay). Vị trí thuận lợi, đậu đỗ xe ô tô an toàn, có tầng hầm cho xe máy. Diện tích: 50m² - 100m² - 150m² - 200m² - 250m² với giá 160.000 đồng/m²/tháng.
+   <br/>
+   Đơn giá: Thương lượng.
+   <br/>
+   Khách hàng có nhu cầu xin liên hệ:
+   <br/>
+   Mrs Hà:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="bbd9f229814fcc9da0709f687a3d6525" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=25564719">
+    0888 833 ***
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      1.000 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="2">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=15.9868715,108.2006261&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2022/07/14/20220714162643-93c6.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Công Ty Cổ Phần Xây Dựng Công Trình 512">
+     Công Ty Cổ Phần Xây Dựng Công Trình 512
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/e193b9b419f443d7" tracking-id="navigate-agent-profile">
+      Xem thêm 1 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=25564719">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-kho-xa-hoa-chau" title="Cho thuê kho xã Hòa Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê kho xã Hòa Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-kho-xa-hoa-chau-hoa-vang" title="Cho thuê kho xã Hòa Châu Hòa Vang" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê kho xã Hòa Châu Hòa Vang
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-kho-duong-quoc-lo-1a" title="Cho thuê kho đường Quốc lộ 1A" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê kho đường Quốc lộ 1A
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-kho-duong-quoc-lo-1a-hoa-vang" title="Cho thuê kho đường Quốc lộ 1A Hòa Vang" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê kho đường Quốc lộ 1A Hòa Vang
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-kho-duong-quoc-lo-1a-xa-hoa-chau" title="Cho thuê kho đường Quốc lộ 1A xã Hòa Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê kho đường Quốc lộ 1A xã Hòa Châu
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    24/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    09/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    25564719
+   </span>
+  </div>
+ </div>
+</div>

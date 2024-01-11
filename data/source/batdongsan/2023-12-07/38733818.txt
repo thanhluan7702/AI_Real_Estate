@@ -1,0 +1,259 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38733818" uid="1377829">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cho thuê 14 kiot tầng 1 và 44 kiot tầng 2 Chợ Hàn - Đà Nẵng (Han Sizang Square). Giá chỉ 9tr/tháng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  23, Đường Nguyễn Thái Học, Phường  Hải Châu I, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    9 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    10 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38733818,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/12/07/20231207163019-e114_wm.jpg","vipType":0,"title":"Cho thuê 14 kiot tầng 1 và 44 kiot tầng 2 Chợ Hàn - Đà Nẵng (Han Sizang Square). Giá chỉ 9tr/tháng","titleHiddenMobile":"Cho thuê 14 kiot tầng 1 và 44 kiot tầng 2 Chợ Hàn - Đà Nẵng (Han Sizang Square). Giá chỉ 9tr/tháng","url":"https://batdongsan.com.vn/cho-thue-sang-nhuong-cua-hang-ki-ot-duong-nguyen-thai-hoc-phuong-hai-chau-i/cho-14-kiot-tang-1-va-44-kiot-tang-2-cho-han-da-nang-han-sizang-square-gia-chi-9tr-thang-pr38733818","productIdPrefix":"38733818$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-sang-nhuong-cua-hang-ki-ot-duong-nguyen-thai-hoc-phuong-hai-chau-i/cho-14-kiot-tang-1-va-44-kiot-tang-2-cho-han-da-nang-han-sizang-square-gia-chi-9tr-thang-pr38733818&amp;t=Cho thuê 14 kiot tầng 1 và 44 kiot tầng 2 Chợ Hàn - Đà Nẵng (Han Sizang Square). Giá chỉ 9tr/tháng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-sang-nhuong-cua-hang-ki-ot-duong-nguyen-thai-hoc-phuong-hai-chau-i/cho-14-kiot-tang-1-va-44-kiot-tang-2-cho-han-da-nang-han-sizang-square-gia-chi-9tr-thang-pr38733818" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38733818">
+   Sở hữu vị trí số 1 về thương mại mặt tiền 23 Nguyễn Thái Học &amp; 18 - 20 Phạm Phú Thứ, Quận Hải Châu, TP. Đà Nẵng. Chợ Hàn địa điểm được bình chọn đứng đầu những nơi phải đến khi đi du lịch tại Đà Nẵng.
+   <br/>
+   <br/>
+   Tiềm năng khai thác nguồn khách du lịch dồi dào sẵn có. Khu vực tập trung đông dân cư nhất Đà Nẵng. Đón hơn 1000 lượt khách Hàn Quốc ghé thăm mỗi ngày.
+   <br/>
+   <br/>
+   - Han Sizang Square là tòa nhà 8 tầng, 3 tầng đế làm trung tâm thương mại, 4 tầng khách sạn, 1 tầng dành cho quầy Bar và coffee.
+   <br/>
+   <br/>
+   - Tầng 1, 2 và 3 với diện tích sàn khoảng 3.500 m, được bố trí thành khu trung tâm thương mại với 176 quầy hàng, diện tích 2.78 - 13.22m.
+   <br/>
+   <br/>
+   Riêng tầng 1, 2 được quy hoạch kinh doanh các mặt hàng lưu niệm, thực phẩm chức năng và thời trang cao cấp như: Quần áo, giày dép, túi xách, mỹ phẩm, trang sức...
+   <br/>
+   <br/>
+   - Tầng 3: Khu spa, massage.
+   <br/>
+   - Tầng 4 - 7: Khách sạn 4* Centre Hotel.
+   <br/>
+   - Tầng 8: Khu vực Poker đang hoạt động.
+   <br/>
+   <br/>
+   + Diện tích: 1200m.
+   <br/>
+   + Diện tích khai thác: 3500m.
+   <br/>
+   + Tổng: 176 Kiot - Mở bán đợt 2 45 kiot.
+   <br/>
+   + Diện tích kiot: 2,8 - 13,22m/ki - ốt.
+   <br/>
+   <br/>
+   Chợ hàn - điểm đến khách du lịch Hàn Quốc.
+   <br/>
+   Cơ hội đầu tư - kinh doanh hấp dẫn.
+   <br/>
+   Hotline tư vấn :
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="c9b0ffc9ec475c49fb7c4a31777f5275" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=38733818">
+    0977 047 ***
+   </span>
+   ( Viết Dũng ) Ban Quản Lý để dành ngay vị trí đẹp ưu tiên.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      10 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      9 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="1">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0681646,108.2226052&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2022/08/03/20220803135847-3050.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Dũng Nguyễn Viết">
+     Dũng Nguyễn Viết
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38733818">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-sang-nhuong-cua-hang-ki-ot-phuong-hai-chau-i" title="Cửa hàng Hải Châu I Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cửa hàng Hải Châu I Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-sang-nhuong-cua-hang-ki-ot-duong-nguyen-thai-hoc-46" title="Cửa hàng nguyễn thái học Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cửa hàng nguyễn thái học Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-sang-nhuong-cua-hang-ki-ot-hai-chau-ddn" title="Cửa hàng Hải Châu Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cửa hàng Hải Châu Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-sang-nhuong-cua-hang-ki-ot-da-nang" title="Cửa hàng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cửa hàng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-khach-san-da-nang" title="Thuê khách sạn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê khách sạn Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    07/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    17/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38733818
+   </span>
+  </div>
+ </div>
+</div>

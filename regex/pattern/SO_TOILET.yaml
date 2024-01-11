@@ -1,0 +1,6 @@
+domain: real_estate 
+rules: 
+
+  - type: "TOILET"
+    regex: 
+      - "(\\d+)\\s*(toilet|ph[oồòờ]ng\\s*v[eêẹệ]\\s*sinh|ph[oồòờ]ng\\s*vs|vs|pvs|wc)"

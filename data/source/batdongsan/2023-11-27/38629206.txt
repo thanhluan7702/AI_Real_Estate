@@ -1,0 +1,280 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38629206" uid="2159430">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Thông tin các VP từ 100 - 200m2 với bãi đỗ xe thoáng, tiện lợi ngay trung tâm Q. Hải Châu
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Lê Đình Dương, Phường Phước Ninh, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    133 nghìn/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    150 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38629206,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/11/24/20231124102511-538e_wm.jpg","vipType":0,"title":"Thông tin các VP từ 100 - 200m2 với bãi đỗ xe thoáng, tiện lợi ngay trung tâm Q. Hải Châu","titleHiddenMobile":"Thông tin các VP từ 100 - 200m2 với bãi đỗ xe thoáng, tiện lợi ngay trung tâm Q. Hải Châu","url":"https://batdongsan.com.vn/cho-thue-van-phong-duong-le-dinh-duong-phuong-phuoc-ninh/thong-tin-cac-vp-tu-100-200m2-voi-bai-do-xe-thoang-tien-loi-ngay-trung-tam-q-hai-chau-pr38629206","productIdPrefix":"38629206$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-van-phong-duong-le-dinh-duong-phuong-phuoc-ninh/thong-tin-cac-vp-tu-100-200m2-voi-bai-do-xe-thoang-tien-loi-ngay-trung-tam-q-hai-chau-pr38629206&amp;t=Thông tin các VP từ 100 - 200m2 với bãi đỗ xe thoáng, tiện lợi ngay trung tâm Q. Hải Châu" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-van-phong-duong-le-dinh-duong-phuong-phuoc-ninh/thong-tin-cac-vp-tu-100-200m2-voi-bai-do-xe-thoang-tien-loi-ngay-trung-tam-q-hai-chau-pr38629206" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38629206">
+   1. VP đường 2/9.
+   <br/>
+   DT: Tầng 4 - 110m².
+   <br/>
+   Giá cho thuê: 130,000vnd/m² (chưa VAT).
+   <br/>
+   Ưu điểm: Vị trí tuyến đường lớn, thuận tiện giao thông giữa các nơi. Không gian thoáng, mô hình phù hợp sử dụng văn phòng làm việc. An ninh 24/7. Khu vực để xe ở tầng hầm và bãi ngoài.
+   <br/>
+   <br/>
+   2. VP đường Lê Đình Dương.
+   <br/>
+   DT: Tầng 1 đến tầng 7 - mỗi tầng 150m².
+   <br/>
+   Giá cho thuê: 133,300vnd/m² (chưa VAT).
+   <br/>
+   Ưu điểm: Cấu trúc tốt, sàn đẹp. Không gian thoáng, mặt tiền sáng. Quy mô bãi xe tại công viên trước tòa. Khu vực đông khách du lịch trong và ngoài nước. Ngay tuyến đường lớn giao với đường Nguyễn Văn Linh, thuận tiện di chuyển.
+   <br/>
+   <br/>
+   3. VP đường 2/9.
+   <br/>
+   DT: Tầng 4 - hơn 185m².
+   <br/>
+   Giá cho thuê: 172,500vnd/m² (chưa VAT).
+   <br/>
+   Ưu điểm: Có thể làm việc 24/24. Tòa nhà nằm ngay cầu Tuyên Sơn, khu vực đông đúc. Chỗ để xe thoải mái. Thích hợp cho các công ty IT và start up.
+   <br/>
+   <br/>
+   4. VP đường 2/9.
+   <br/>
+   DT: Tầng 1 - 120m², tầng 2 - 180m².
+   <br/>
+   Giá cho thuê từ 277,700vnd/m² (chưa VAT).
+   <br/>
+   Ưu điểm: Sàn, trần, tường đẹp. Lắp đặt sẵn các trang thiết bị hiện đại như PCCC, thang máy, máy phát điện, điều hòa âm trần, thang máy. Thuộc khu vực trung tâm, trên tuyến đường lớn. Khu vực bãi xe rộng rãi.
+   <br/>
+   <br/>
+   5. VP đường Hoàng Diệu.
+   <br/>
+   DT: Tầng 1 - 100m².
+   <br/>
+   Giá cho thuê: 300,000vnd/m² (chưa VAT).
+   <br/>
+   Ưu điểm: Có thể làm việc 24/24. Free phí ngoài giờ, Free tiền nước. Bàn giao sàn trần, có ngăn sẵn phòng tiện lợi. Hệ thống PCCC, đèn điện chiếu sáng, có thang máy. An ninh đảm bảo.
+   <br/>
+   <br/>
+   6. VP đường Nguyễn Văn Linh.
+   <br/>
+   DT: Tầng 2 - 150m².
+   <br/>
+   Giá cho thuê: 356,500vnd/m² (chưa VAT, không phí dịch vụ).
+   <br/>
+   Ưu điểm: Tòa nhà kết hợp trung tâm thương mại và văn phòng. Sàn thiết kế vuông vức. Trang bị đủ trang thiết bị tiện nghi gồm hệ thống đèn điện, PCCC,... Ngay vị trí đắc địa, tuyến đường lớn, giao thông thuận tiện di chuyển. Xung quanh tập trung nhiều loại hoạt động dịch vụ tiện ích.
+   <br/>
+   <br/>
+   7 VP đường Hải Phòng.
+   <br/>
+   DT: Tầng 1 - 194m², tầng 11 - 141m².
+   <br/>
+   Giá cho thuê: 368,000vnd/m² (chưa VAT).
+   <br/>
+   Ưu điểm: Tòa nhà nằm ở vị trí tốt. Thiết kế chuẩn văn phòng hiện đại. Các tầng có sẵn sàn, trần. Đầy đủ các hệ thống điều hòa, hệ thống đèn chiếu sáng,. View tầng cao đẹp nhất thành phố.
+   <br/>
+   <br/>
+   Cảm ơn bạn đã đọc tin.
+   <br/>
+   Liên hệ tôi để được cung cấp các thông tin văn phòng cho thuê phù hợp với mọi nhu cầu!
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      150 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      133 nghìn/m²
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="2">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0614346,108.2204188&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   D
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Thúy Dung">
+     Thúy Dung
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/52c802de49e1805c" tracking-id="navigate-agent-profile">
+      Xem thêm 10 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38629206">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-phuong-phuoc-ninh" title="Văn phòng Phước Ninh Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Phước Ninh Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-duong-le-dinh-duong-46" title="Văn phòng Lê Đình Dương Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Lê Đình Dương Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-hai-chau-ddn" title="Văn phòng Hải Châu Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Hải Châu Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-van-phong-da-nang" title="Văn phòng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Văn phòng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-van-phong-gia-re-tai-da-nang" title="Thuê văn phòng giá rẻ tại đà nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê văn phòng giá rẻ tại đà nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    24/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    24/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38629206
+   </span>
+  </div>
+ </div>
+</div>

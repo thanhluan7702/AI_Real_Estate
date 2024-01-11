@@ -1,0 +1,230 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="37751776" uid="482126">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cần bán các khách sạn quy mô, tiêu chuẩn 5* MT đường Võ Nguyên Giáp view biển trực diện-
+  <span class="hidden-mobile m-on-title" raw="dd09fa1d0e1df9584c4863f8722ce883">
+   0932 560 ***
+  </span>
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Võ Nguyên Giáp, Phường Phước Mỹ, Sơn Trà, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    1.360 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":37751776,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/07/26/20230726103509-1a98_wm.jpg","vipType":0,"title":"Cần bán các khách sạn quy mô, tiêu chuẩn 5* MT đường Võ Nguyên Giáp view biển trực diện- &lt;span class=\"hidden-mobile m-on-title\" raw=\"dd09fa1d0e1df9584c4863f8722ce883\"&gt;0932 560 ***&lt;/span&gt;","titleHiddenMobile":"Cần bán các khách sạn quy mô, tiêu chuẩn 5* MT đường Võ Nguyên Giáp view biển trực diện- &lt;span class=\"hidden-mobile m-on-title\" raw=\"dd09fa1d0e1df9584c4863f8722ce883\"&gt;0932 560 ***&lt;/span&gt;","url":"https://batdongsan.com.vn/ban-nha-mat-pho-duong-vo-nguyen-giap-phuong-phuoc-my/can-ban-cac-khach-san-quy-mo-tieu-chuan-5-mt-view-bien-truc-dien-0932560868-pr37751776","productIdPrefix":"37751776$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-nha-mat-pho-duong-vo-nguyen-giap-phuong-phuoc-my/can-ban-cac-khach-san-quy-mo-tieu-chuan-5-mt-view-bien-truc-dien-0932560868-pr37751776&amp;t=Cần bán các khách sạn quy mô, tiêu chuẩn 5* MT đường Võ Nguyên Giáp view biển trực diện- 0932 560 ***" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-nha-mat-pho-duong-vo-nguyen-giap-phuong-phuoc-my/can-ban-cac-khach-san-quy-mo-tieu-chuan-5-mt-view-bien-truc-dien-0932560868-pr37751776" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=37751776">
+   Cần bán các khách sạn quy mô, tiêu chuẩn 5 sao MT đường Võ Nguyên Giáp, view biển trực diện, vị trí đắc địa cách biển vài bước chân.
+   <br/>
+   Số tầng: Trên 27 tầng + với gần 300 phòng + các phòng tổng thống.
+   <br/>
+   Gía trị từ 9xx - 1xxx tỷ, đang hoạt động tốt với doanh thu ổn định.
+   <br/>
+   Liên hệ: Mr M
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="dd09fa1d0e1df9584c4863f8722ce883" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=37751776">
+    0932 560 ***
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      1.360 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0574731,108.2465536&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   M
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Nguyễn Văn M">
+     Nguyễn Văn M
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/b650fbbf916ff774" tracking-id="user-listing-ldp">
+      Xem thêm 79 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=37751776">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-phuong-phuoc-my" title="Nhà mặt phố Phước Mỹ Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Phước Mỹ Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-duong-vo-nguyen-giap-49" title="Nhà mặt phố Võ Nguyên Giáp Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Võ Nguyên Giáp Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-son-tra-ddn" title="Nhà mặt phố Sơn Trà Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Sơn Trà Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-da-nang" title="Nhà mặt phố Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-duong-pham-van-dong-phuong-phuoc-my-prj-ct1-ct2-da-nang-times-square" title="Nhà mặt phố CT1&amp;CT2 - Đà Nẵng Times Square Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố CT1&amp;CT2 - Đà Nẵng Times Square Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-khach-san-da-nang" title="Bán khách sạn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán khách sạn Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    14/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    21/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin VIP Vàng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    37751776
+   </span>
+  </div>
+ </div>
+</div>

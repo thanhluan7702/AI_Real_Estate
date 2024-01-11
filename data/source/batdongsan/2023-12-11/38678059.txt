@@ -1,0 +1,363 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38678059" uid="2516822">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Đại Gia đình tôi gần định cư nước ngoài, ..............bán nhanh,...............................
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Tôn Thất Đạm, Phường Xuân Hà, Thanh Khê, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    45 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    3 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38678059,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/12/01/20231201100820-0626_wm.jpg","vipType":0,"title":"Đại Gia đình tôi gần định cư nước ngoài, ..............bán nhanh,...............................","titleHiddenMobile":"Đại Gia đình tôi gần định cư nước ngoài, ..............bán nhanh,...............................","url":"https://batdongsan.com.vn/ban-nha-rieng-duong-ton-that-dam-phuong-xuan-ha/ban-2-tang-kiet-o-to-lon-ngay-bien-nguyen-tat-thanh-pasteur-da-nang-pr38678059","productIdPrefix":"38678059$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-nha-rieng-duong-ton-that-dam-phuong-xuan-ha/ban-2-tang-kiet-o-to-lon-ngay-bien-nguyen-tat-thanh-pasteur-da-nang-pr38678059&amp;t=Đại Gia đình tôi gần định cư nước ngoài, ..............bán nhanh,..............................." id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-nha-rieng-duong-ton-that-dam-phuong-xuan-ha/ban-2-tang-kiet-o-to-lon-ngay-bien-nguyen-tat-thanh-pasteur-da-nang-pr38678059" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38678059">
+   1/
+   <br/>
+   Bán nhà 2 tầng kiệt ô tô lớn đường Tôn Thất Đạm Ngay Biển Nguyễn Tất Thành, Thanh Khê, Đà Nẵng.
+   <br/>
+   - Vị trí: Nhà đầu đường kiệt Tôn Thất Đạm hoặc Kiệt Trần Cao Vân, Phường Xuân Hà, Thanh Khê, Đà Nẵng.
+   <br/>
+   - DT đất 45 m² (ngang 8m3).
+   <br/>
+   - Nhà 2 tầng, DT sử dụng 92,5m².
+   <br/>
+   - Công năng: Nhà 2 tầng kiên cố, chính chủ lâu năm, có 3 phòng ngủ, P. Khách, P. Bếp phòng thờ, 2 WC, sân phơi.
+   <br/>
+   - Vị trí gần bãi tắm Xuân Hà, Vịnh Đà Nẵng, khu đô thị Đa Phước, trường Quốc Tế UK Academy Đà Nẵng.
+   <br/>
+   - Khu vực an ninh, hàng xóm thân thiện, văn minh.
+   <br/>
+   - Sổ đỏ chuẩn chỉnh.
+   <br/>
+   - Giá bán 3.3 tỷ có thương lượng cho khách thiện chí mua nhanh bán nhanh.
+   <br/>
+   <br/>
+   2/
+   <br/>
+   Nhà 3 tầng 2 mặt kiệt nhựa 5m Lê Đình Lý - sản phẩm vừa ở vừa kinh doanh, Thanh Khê.
+   <br/>
+   Mô tả thông tin:
+   <br/>
+   Chủ cần bán gấp trước tết nhà 3 tầng 3 mê, 2 mặt kiệt trải nhựa 5m Lê Đình Lý, Vĩnh Trung, Thanh Khê.
+   <br/>
+   - Vị trí trung tâm thành phố Đà Nẵng sở hữu bạt ngàn tiện ích (sân bay, bệnh viện, trường học, chợ).
+   <br/>
+   - Nằm tại khu vực kinh doanh buôn bán sầm uất. Hiện tại mặt bằng tầng 1 đang kinh doanh, dòng tiền đều đặn.
+   <br/>
+   - Diện tích 82m², ngang 3,5m, nở hậu.
+   <br/>
+   - Nhà gồm 5 phòng ngủ và 6wc (có mặt bằng kinh doanh tầng 1, phòng ngủ dưới và sân thượng rộng rãi).
+   <br/>
+   - Sổ đỏ cất két sẵn sàng giao dịch.
+   <br/>
+   Giá: 5.6 tỷ.
+   <br/>
+   <br/>
+   3/
+   <br/>
+   Nhỉnh 2 tỷ - trung tâm hải châu - nhà 2 tầng, DT 68m² - 2 mặt kiệt - cách đường chính Pasteur 30m.
+   <br/>
+   <br/>
+   Nhà 2 tầng 2 mặt kiệt đường Pasteur, cách đường chính chỉ 31m. Trung tâm phường Hải Châu 1, Quận Hải Châu, Đà Nẵng.
+   <br/>
+   Diện tích: 68,4m², mặt tiền nhà rộng đến 6,4m. Sổ vuông đẹp (7,5m x 9,1m).
+   <br/>
+   Công năng:
+   <br/>
+   Nhà chia làm 2 căn. Vừa ở rộng rãi vừa vừa cho thuê 1 bên lối đi riêng, có dòng tiền hàng tháng.
+   <br/>
+   Căn để ở công năng gồm: Xây dựng 2 tầng:
+   <br/>
+   - Tầng 1 gồm: Sân để xe máy được 3 - 4 chiếc, phòng khách, phòng bếp, phòng ngủ, wc.
+   <br/>
+   - Tầng 2 gồm 2Pn, wc, phòng thờ, ban công.
+   <br/>
+   Căn cho thuê gồm 2 tầng:
+   <br/>
+   - Tầng 1 gồm phòng khách, bếp, wc.
+   <br/>
+   - Tầng 2 gồm 1 Pn. Hiện đang cho thuê 3,5tr tháng.
+   <br/>
+   Giá đầu tư: 2,45 tỷ.
+   <br/>
+   <br/>
+   4/
+   <br/>
+   Bán lô đất 2MT Đông Kinh Nghĩa Thục vs An Cư 7,An Hải Bắc,Sơn Trà,Đà Nẵng.
+   <br/>
+   - DT104.1m²(5.53x20m),hướng Đông Nam
+   <br/>
+   - Đường 7.5m vỉa hè rộng 4.5m
+   <br/>
+   - Vị trí đắc địa sát biển ,khu vực sầm uất,cách công viên 100m,trục thông xuông bãi tắm Phạm Văn Đồng..
+   <br/>
+   - Giá 12.5 tỷ
+   <br/>
+   <br/>
+   5/
+   <br/>
+   Nhà 5 tầng có thang máy chỉ nhỉnh hơn giá đất đường này hiện đang 4 tỷ/lô.
+   <br/>
+   Giá bán 5 tỷ - Ngân hàng định giá cho vay 6,7 tỷ
+   <br/>
+   Vị trí :
+   <br/>
+   Mặt tiền đường đối lưng, song song với Yên Thế - Bắc Sơn, gần bến xe trung tâm thành phố
+   <br/>
+   Khu vực dân cư đông đúc
+   <br/>
+   Diện tích đất lên đến 125m2
+   <br/>
+   Chủ nhà để lại toàn bộ nội thất cao cấp - Riêng thang máy cũng đã ngốn 500 triệu
+   <br/>
+   Chắc chắn thị trường không có căn thứ 2.
+   <br/>
+   Mua ở hoặc đầu tư chắc chắn lãi lớn
+   <br/>
+   <br/>
+   <br/>
+   6/
+   <br/>
+   ---  Đất 80m² mặt tiền đường 7.5m Hoài Thanh, MỸ AN, NGŨ HÀNH SƠN
+   <br/>
+   Giá 3.6tỷ tl
+   <br/>
+   <br/>
+   ---- Nhà gác lửng kiệt ô tô Lương Thế Vinh , SƠNTRÀ
+   <br/>
+   85m²
+   <br/>
+   giá 2, 850 TỶ tl
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      45 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 tầng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0721942,108.201251&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   L
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Linh">
+     Linh
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38678059">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-rieng-phuong-xuan-ha" title="Nhà riêng Xuân Hà Thanh Khê" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà riêng Xuân Hà Thanh Khê
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-rieng-duong-ton-that-dam-50" title="Nhà riêng Tôn Thất Đạm Thanh Khê" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà riêng Tôn Thất Đạm Thanh Khê
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-rieng-thanh-khe-ddn" title="Nhà riêng Thanh Khê Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà riêng Thanh Khê Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-rieng-da-nang" title="Nhà riêng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà riêng Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    11/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    21/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38678059
+   </span>
+  </div>
+ </div>
+</div>

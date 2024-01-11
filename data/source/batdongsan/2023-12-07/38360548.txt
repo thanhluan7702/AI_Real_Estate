@@ -1,0 +1,266 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38360548" uid="1487445">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Chuyên cho thuê kho DT 200, 300, 400, 500, 600, 1000m2 kho nhà xưởng khu vực - Đà Nẵng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Trường Sơn, Phường Hòa Thọ Tây, Cẩm Lệ, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    40 nghìn/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    500 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38360548,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/10/19/20231019181049-5721_wm.jpg","vipType":0,"title":"Chuyên cho thuê kho DT 200, 300, 400, 500, 600, 1000m2 kho nhà xưởng khu vực - Đà Nẵng","titleHiddenMobile":"Chuyên cho thuê kho DT 200, 300, 400, 500, 600, 1000m2 kho nhà xưởng khu vực - Đà Nẵng","url":"https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-duong-truong-son-phuong-hoa-tho-tay/chuyen-cho-dt-200-300-400-500-600-1000m2-khu-vuc-cam-le-da-nang-pr38360548","productIdPrefix":"38360548$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-duong-truong-son-phuong-hoa-tho-tay/chuyen-cho-dt-200-300-400-500-600-1000m2-khu-vuc-cam-le-da-nang-pr38360548&amp;t=Chuyên cho thuê kho DT 200, 300, 400, 500, 600, 1000m2 kho nhà xưởng khu vực - Đà Nẵng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-duong-truong-son-phuong-hoa-tho-tay/chuyen-cho-dt-200-300-400-500-600-1000m2-khu-vuc-cam-le-da-nang-pr38360548" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=38360548">
+   Cho thuê kho DT 200, 300, 400, 500, 600, 1000m² kho nhà xưởng khu vực Cẩm Lệ - Đà Nẵng.
+   <br/>
+   Diện tích và giá kho cho thuê.
+   <br/>
+   <br/>
+   Tất cả các kho điều không ngập nước.
+   <br/>
+   * Kho khu vực Cẩm Lệ.
+   <br/>
+   + Kho 200m².
+   <br/>
+   + Kho 300m².
+   <br/>
+   + Kho 400m².
+   <br/>
+   + Kho 500m².
+   <br/>
+   + Kho 600m².
+   <br/>
+   + Kho 1000m².
+   <br/>
+   + Kho 1400m².
+   <br/>
+   + Kho 1500m².
+   <br/>
+   + Kho 2000m².
+   <br/>
+   + Kho 3000m².
+   <br/>
+   Mô tả.
+   <br/>
+   + Kho kiên cố chiều cao nhất là 11,5m chỗ thấp nhất là 7,5m.
+   <br/>
+   + Hệ thống PCCC đầy đủ.
+   <br/>
+   + Đường xe congtainer vào tận nơi.
+   <br/>
+   + Bảo vệ 24/24.
+   <br/>
+   + Phù hợp với chứa hàng và sản xuất.
+   <br/>
+   <br/>
+   Liên hệ em:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="14856bbe6474153785a6b3f1d390f40b" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=38360548">
+    0935 797 ***
+   </span>
+   em Thanh Thảo).
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      500 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      40 nghìn/m²
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="2">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.011646,108.1732255&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   T
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Thanh Thảo">
+     Thanh Thảo
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/7080e783823e51b1" tracking-id="navigate-agent-profile">
+      Xem thêm 14 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=38360548">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-duong-truong-son-45" title="Thuê nhà xưởng Trường Sơn Cẩm Lệ" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Trường Sơn Cẩm Lệ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-cam-le-ddn" title="Thuê nhà xưởng Cẩm Lệ Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Cẩm Lệ Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-da-nang" title="Thuê nhà xưởng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-nha-xuong-da-nang" title="Thuê nhà xưởng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-kho-nha-xuong-hoa-xuan" title="Thuê kho/ nhà xưởng Hoà Xuân" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê kho/ nhà xưởng Hoà Xuân
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/thue-kho-nha-xuong-khu-vuc-ben-xe-da-nang" title="Thuê kho/ nhà xưởng khu vực bến xe Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê kho/ nhà xưởng khu vực bến xe Đà Nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    04/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    11/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin VIP Bạc
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38360548
+   </span>
+  </div>
+ </div>
+</div>

@@ -1,0 +1,287 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38569539" uid="2285133">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Bán lô đất Nguyễn Tất Thành, Đà Nẵng. DT 125m2, giá tốt 13,6 tỷ, khu sầm uất kinh doanh tốt
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Nguyễn Tất Thành, Phường Thanh Khê Tây, Thanh Khê, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    13,6 tỷ
+   </span>
+   <span class="ext">
+    ~108,8 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    125 m²
+   </span>
+   <span class="ext">
+    Mặt tiền 5 m
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38569539,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/11/14/20231114162005-c945_wm.jpg","vipType":0,"title":"Bán lô đất Nguyễn Tất Thành, Đà Nẵng. DT 125m2, giá tốt 13,6 tỷ, khu sầm uất kinh doanh tốt","titleHiddenMobile":"Bán lô đất Nguyễn Tất Thành, Đà Nẵng. DT 125m2, giá tốt 13,6 tỷ, khu sầm uất kinh doanh tốt","url":"https://batdongsan.com.vn/ban-dat-duong-nguyen-tat-thanh-phuong-thanh-khe-tay/ban-lo-da-nang-dt-125m2-gia-tot-13-6-ty-khu-sam-uat-kinh-doanh-tot-pr38569539","productIdPrefix":"38569539$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-dat-duong-nguyen-tat-thanh-phuong-thanh-khe-tay/ban-lo-da-nang-dt-125m2-gia-tot-13-6-ty-khu-sam-uat-kinh-doanh-tot-pr38569539&amp;t=Bán lô đất Nguyễn Tất Thành, Đà Nẵng. DT 125m2, giá tốt 13,6 tỷ, khu sầm uất kinh doanh tốt" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-dat-duong-nguyen-tat-thanh-phuong-thanh-khe-tay/ban-lo-da-nang-dt-125m2-gia-tot-13-6-ty-khu-sam-uat-kinh-doanh-tot-pr38569539" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38569539">
+   Bán lô Nguyễn Tất Thành - Thanh Khê - Đà Nẵng.
+   <br/>
+   - Vị trí đất biển thoáng mát, khu kinh doanh sầm uất, đang thực hiện dự án 1000 tỷ để làm đẹp đoạn đường Nguyễn Tất Thành trở thành bãi biển đẹp số 2 đà nẵng. Phù hợp làm kinh doanh hoặc xây biệt thự biển. Đầy tiện ích.
+   <br/>
+   - Diện tích đất: 125m² ngang 5m.
+   <br/>
+   - Hướng: Đông Bắc.
+   <br/>
+   - Đường rộng: 30m, vỉa hè 10m.
+   <br/>
+   Giá siêu tốt 13,6 tỷ.
+   <br/>
+   LH Ms. Lộc
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="3560fe3956ceceb6369e591e2b21e0bd" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38569539">
+    0935 959 ***
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      125 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      13,6 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-home">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mặt tiền
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      5 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-road">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Đường vào
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      30 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đông - Bắc
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng.
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.077385,108.174609&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   L
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Lê Lộc">
+     Lê Lộc
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/a994301f4160ea7c" tracking-id="navigate-agent-profile">
+      Xem thêm 14 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38569539">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-phuong-thanh-khe-tay" title="Đất Thanh Khê Tây Thanh Khê" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Thanh Khê Tây Thanh Khê
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-duong-nguyen-tat-thanh-50" title="Đất Nguyễn Tất Thành Thanh Khê" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Nguyễn Tất Thành Thanh Khê
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-thanh-khe-ddn" title="Đất Thanh Khê Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Thanh Khê Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-da-nang" title="Đất Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-dat-bien-da-nang" title="Bán đất biển Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán đất biển Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-dat-chinh-chu-thanh-khe-da-nang" title="Bán đất chính chủ thanh khê đà nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán đất chính chủ thanh khê đà nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    27/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    07/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38569539
+   </span>
+  </div>
+ </div>
+</div>

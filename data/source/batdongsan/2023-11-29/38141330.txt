@@ -1,0 +1,348 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38141330" uid="248176">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Bán nhà đẹp 3 tầng thiết kế hiện đại phố vip Phạm Phú Tiết, Đà Nẵng. Dt: 100m2. Giá siêu nét 6,99tỷ
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Phạm Phú Tiết, Phường Khuê Trung, Cẩm Lệ, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    6,99 tỷ
+   </span>
+   <span class="ext">
+    ~69,9 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    100 m²
+   </span>
+   <span class="ext">
+    Mặt tiền 5 m
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    3 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38141330,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/09/20/20230920085621-f94e_wm.jpeg","vipType":0,"title":"Bán nhà đẹp 3 tầng thiết kế hiện đại phố vip Phạm Phú Tiết, Đà Nẵng. Dt: 100m2. Giá siêu nét 6,99tỷ","titleHiddenMobile":"Bán nhà đẹp 3 tầng thiết kế hiện đại phố vip Phạm Phú Tiết, Đà Nẵng. Dt: 100m2. Giá siêu nét 6,99tỷ","url":"https://batdongsan.com.vn/ban-nha-mat-pho-duong-pham-phu-tiet-phuong-khue-trung/ban-dep-3-tang-thiet-ke-hien-dai-vip-da-nang-dt-100m2-gia-si-net-6-99t-pr38141330","productIdPrefix":"38141330$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-nha-mat-pho-duong-pham-phu-tiet-phuong-khue-trung/ban-dep-3-tang-thiet-ke-hien-dai-vip-da-nang-dt-100m2-gia-si-net-6-99t-pr38141330&amp;t=Bán nhà đẹp 3 tầng thiết kế hiện đại phố vip Phạm Phú Tiết, Đà Nẵng. Dt: 100m2. Giá siêu nét 6,99tỷ" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-nha-mat-pho-duong-pham-phu-tiet-phuong-khue-trung/ban-dep-3-tang-thiet-ke-hien-dai-vip-da-nang-dt-100m2-gia-si-net-6-99t-pr38141330" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38141330">
+   Bán nhà đẹp 3 tầng thiết kế hiện đại, tt khu phố vip Phạm Phú Tiết, Đà Nẵng. Dt: 100m². Giá siêu nét chỉ 6,99 tỷ, lh:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="0f9df9abd7d1c219349efe4b7f539afd" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38141330">
+    0905 077 ***
+   </span>
+   .
+   <br/>
+   <br/>
+   Thông tin chi tiết:
+   <br/>
+   Nhà 3 tầng thiết kế hiện đại khu phố vip, MT Phạm Phú Tiết, Đà Nẵng.
+   <br/>
+   - DT: 100 m² - DTSD: 280m². Đường 7m5.
+   <br/>
+   + Công năng: 3 PN khép kín, phòng thờ, sân thượng, vườn trồng rau trên sân thượng, sân đỗ ô tô. Khách mua vào chỉ việc ở luôn.
+   <br/>
+   Vị trí: Nhà nằm ở vị trí đắc địa khu phố Vip Cao Cấp nhiều nhà đẹp dân trí cao, Khu an ninh, tiện ích công cộng, nơi an cư lập nghiệp lý tưởng nhiều cán bộ cao cấp Vip.
+   <br/>
+   Gần công viên Thanh Niên thành phố, gần Trường Đại Học Ngoại, Ngữ, Kiến Trúc, Đông Á, gần bệnh viện quốc tế Vinmec, siêu thi Metro, lotte và trường quốc tế Nicholas, nằm gần đại lý phân phối chính thức các dòng xe ô tô Suzuki, Nissan, Volkswagen, BMW, Toyota, Mercedes.
+   <br/>
+   Giá bán siêu tốt chỉ 6,99 tỷ chủ nhà vui vẻ tiếp khách thiện chí thương lượng trực tiếp.
+   <br/>
+   Vân biệt thự - nhà phố - Đất Nền Đà Nẵng -
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="0f9df9abd7d1c219349efe4b7f539afd" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38141330">
+    0905 077 ***
+   </span>
+   .
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      100 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      6,99 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-home">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mặt tiền
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      5 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-road">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Đường vào
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      7,5 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Tây - Nam
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-private-house">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng ban công
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Tây - Nam
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3 tầng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ Hồng chính chủ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Full nội thất
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0349777,108.2088378&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file1.batdongsan.com.vn/guestthumb200x200.20190410080450991.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Thinhphatland">
+     Thinhphatland
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38141330">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-phuong-khue-trung" title="Nhà mặt phố Khuê Trung Cẩm Lệ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Khuê Trung Cẩm Lệ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-duong-pham-phu-tiet-45" title="Nhà mặt phố Phạm Phú Tiết Cẩm Lệ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Phạm Phú Tiết Cẩm Lệ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-cam-le-ddn" title="Nhà mặt phố Cẩm Lệ Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Cẩm Lệ Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-nha-mat-pho-da-nang/3pn" title="Nhà mặt phố Đà Nẵng 3 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Nhà mặt phố Đà Nẵng 3 PN
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    29/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    09/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38141330
+   </span>
+  </div>
+ </div>
+</div>

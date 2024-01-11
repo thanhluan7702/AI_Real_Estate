@@ -1,0 +1,5 @@
+domain: real_estate
+rules: 
+  - type: "có"
+    regex: 
+      - "(b[aăâ]n\\s*c[oôơ]ng|s[aăâ]n\\s*th[uư][oôơọộợ]ng|t[aăâàằầ]ng\\s*th[uư][oôơọộợ]ng|s\\s*thuong|b\\s*cong)"

@@ -1,0 +1,321 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38598276" uid="582303">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Bán lô đất mặt tiền đường Bùi Tá Hán đoạn xây cao tầng được
+  <span class="hidden-mobile m-on-title" raw="d3fde8a3acb1066713e36d132d85696b">
+   0901 148 ***
+  </span>
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Bùi Tá Hán, Phường  Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    8 tỷ
+   </span>
+   <span class="ext">
+    ~70,18 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    114 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38598276,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/11/20/20231120153504-cace_wm.jpg","vipType":0,"title":"Bán lô đất mặt tiền đường Bùi Tá Hán đoạn xây cao tầng được &lt;span class=\"hidden-mobile m-on-title\" raw=\"d3fde8a3acb1066713e36d132d85696b\"&gt;0901 148 ***&lt;/span&gt;","titleHiddenMobile":"Bán lô đất mặt tiền đường Bùi Tá Hán đoạn xây cao tầng được &lt;span class=\"hidden-mobile m-on-title\" raw=\"d3fde8a3acb1066713e36d132d85696b\"&gt;0901 148 ***&lt;/span&gt;","url":"https://batdongsan.com.vn/ban-dat-nen-du-an-duong-bui-ta-han-phuong-khue-my-prj-khu-do-thi-nam-cau-tuyen-son/ban-lo-mat-tien-doan-xay-cao-ng-duoc-pr38598276","productIdPrefix":"38598276$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-dat-nen-du-an-duong-bui-ta-han-phuong-khue-my-prj-khu-do-thi-nam-cau-tuyen-son/ban-lo-mat-tien-doan-xay-cao-ng-duoc-pr38598276&amp;t=Bán lô đất mặt tiền đường Bùi Tá Hán đoạn xây cao tầng được 0901 148 ***" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-dat-nen-du-an-duong-bui-ta-han-phuong-khue-my-prj-khu-do-thi-nam-cau-tuyen-son/ban-lo-mat-tien-doan-xay-cao-ng-duoc-pr38598276" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38598276">
+   Cần bán gấp lô đất mặt tiền đường 15m Bùi Tá Hán, trục chính của KĐT Nam Việt Á, P. Khuê Mỹ, Q. Ngũ Hành Sơn, Đà Nẵng.
+   <br/>
+   Lô ống đoạn gần đầu đường, được xây cao tầng, kinh doanh sầm uất.
+   <br/>
+   Diện tích 114m².
+   <br/>
+   Hướng Bắc.
+   <br/>
+   Giá bán 8 tỷ.
+   <br/>
+   Liên hệ:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="d3fde8a3acb1066713e36d132d85696b" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38598276">
+    0901 148 ***
+   </span>
+   gặp em Huy đưa đi xem đất.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      114 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      8 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-road">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Đường vào
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      15 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Bắc
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-ban-khu-do-thi-nam-cau-tuyen-son" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 101 tin đăng bán
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-khu-do-thi-moi-ngu-hanh-son-ddn/khu-do-thi-nam-cau-tuyen-son-pj1791" target="_blank">
+      <img alt="Khu đô thị Nam Cầu Tuyên Sơn" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2017/04/22/hmcVYWuR/20170422103247-400d.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       Khu đô thị Nam Cầu Tuyên Sơn
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Đã bàn giao" class="re__prj-card-config-value re__wrap-long-text" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Đã bàn giao
+       </span>
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Công ty CP Đầu tư Xây dựng và Phát triển hạ tầng Nam Việt Á" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Công ty CP Đầu tư Xây dựng và Phát triển hạ tầng Nam Việt Á
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.029903411865234,108.24016571044922&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2017/12/16/JGcIp0rf/20171216111503-8e9e.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Nguyễn Giang Huy">
+     Nguyễn Giang Huy
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/90e166dd19ab37be" tracking-id="navigate-agent-profile">
+      Xem thêm 9 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38598276">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-nen-du-an-khu-do-thi-nam-cau-tuyen-son/dt-tu-100m2-den-150m2" title="Đất nền Nam Cầu Tuyên Sơn Nam Việt Á từ 100 m2 đến 150 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất nền Nam Cầu Tuyên Sơn Nam Việt Á từ 100 m2 đến 150 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-nen-du-an-phuong-khue-my" title="Đất nền Khuê Mỹ Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất nền Khuê Mỹ Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-nen-du-an-duong-bui-ta-han-48" title="Đất nền Bùi Tá Hán Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất nền Bùi Tá Hán Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-nen-du-an-ngu-hanh-son-ddn" title="Đất nền Ngũ Hành Sơn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất nền Ngũ Hành Sơn Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-nen-du-an-da-nang" title="Đất nền Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất nền Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-nen-du-an-da-nang/gia-tu-7-ty-den-10-ty" title="Đất nền Đà Nẵng từ 7 tỷ đến 10 tỷ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất nền Đà Nẵng từ 7 tỷ đến 10 tỷ
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    20/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    30/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38598276
+   </span>
+  </div>
+ </div>
+</div>

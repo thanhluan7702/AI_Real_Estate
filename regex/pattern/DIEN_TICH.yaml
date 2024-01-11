@@ -1,0 +1,8 @@
+domain: real_estate 
+rules: 
+
+  - type: "DT"
+    regex: 
+      - "(di[eêẹệ]n\\s*t[ií]ch|dt|s|S|dtich|dt|d t[íi]ch)\\s*(đ|d|[đd][aáâấ]t|xd|x[aâ]y\\s*d[ưựuụ]ng)[^0-9]*(\\d+(?:[.,]\\d+)?)\\s*(m2|m|m²)"
+      - "(di[eêẹệ]n\\s*t[ií]ch|dt|s|S|dtich|dt|d t[íi]ch)\\s*(đ|d|[đd][aáâấ]t|xd|x[aâ]y\\s*d[ưựuụ]ng)?[^0-9]*(\\d+(?:[.,]\\d+)?)\\s*(m2|m|m²)"
+      - "(di[eêẹệ]n\\s*t[ií]ch|dt|s|S|dtich|dt|d t[íi]ch)[^0-9]*(\\d+(?:[.,]\\d+)?)\\s*(m2|m|m²)"

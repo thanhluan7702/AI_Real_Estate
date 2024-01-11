@@ -1,0 +1,407 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38559232" uid="2559200">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Siêu phẩm căn gốc 3 mặt tiền Shophouse 3 tầng bến du thuyền Marina Complex - View sông Hàn Đà Nẵng
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án Marina Complex, Phố Phạm Huy Thông, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    11 tỷ
+   </span>
+   <span class="ext">
+    ~96,07 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    114,5 m²
+   </span>
+   <span class="ext">
+    Mặt tiền 6 m
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    3 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38559232,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/11/15/20231115092420-6293_wm.jpg","vipType":0,"title":"Siêu phẩm căn gốc 3 mặt tiền Shophouse 3 tầng bến du thuyền Marina Complex - View sông Hàn Đà Nẵng","titleHiddenMobile":"Siêu phẩm căn gốc 3 mặt tiền Shophouse 3 tầng bến du thuyền Marina Complex - View sông Hàn Đà Nẵng","url":"https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-pho-pham-huy-thong-phuong-nai-hien-dong-prj-marina-complex/sieu-can-goc-3-mat-tien-3-tang-ben-du-thuyen-view-song-han-da-nang-pr38559232","productIdPrefix":"38559232$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-pho-pham-huy-thong-phuong-nai-hien-dong-prj-marina-complex/sieu-can-goc-3-mat-tien-3-tang-ben-du-thuyen-view-song-han-da-nang-pr38559232&amp;t=Siêu phẩm căn gốc 3 mặt tiền Shophouse 3 tầng bến du thuyền Marina Complex - View sông Hàn Đà Nẵng" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-pho-pham-huy-thong-phuong-nai-hien-dong-prj-marina-complex/sieu-can-goc-3-mat-tien-3-tang-ben-du-thuyen-view-song-han-da-nang-pr38559232" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38559232">
+   Siêu phẩm căn gốc 3 mặt tiền view Công Viên - Sea Thuận Phước.
+   <br/>
+   Shophouse 3 tầng bến du thuyền marina complex - View sông Hàn Đà Nẵng.
+   <br/>
+   Mặt tiền đường lớn 10m5 Phạm Huy Thông - 7m5 - 7m5 view công viên.
+   <br/>
+   Diện tích 114,5m², ngang 6m, dài 20m.
+   <br/>
+   DT sàn 235,3m².
+   <br/>
+   Khu nhà phố thương mại ven sông Hàn đẹp nhất nhì Đà Nẵng.
+   <br/>
+   Di chuyển chỉ 5p ra bãi biển Phạm Văn Đồng, 10p đến trung tâm thương mại Vincom, sân bay.
+   <br/>
+   Giá bán: 11 tỷ.
+   <br/>
+   KH thiện chí thương lượng. Hiện tại lô ống đã rơi vào giá 9 - 10 tỷ/căn.
+   <br/>
+   Liên hệ làm việc CC
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" data-kyc-avatar="" data-kyc-name="Nguyễn Thị Linh Trang" raw="44ba36b6c5a01ea7f3bfd7373b538abd" tracking-id="click-kyc-lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38559232">
+    0934 710 ***
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      114,5 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      11 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-home">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mặt tiền
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      6 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-road">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Đường vào
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      10 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đông
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-private-house">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng ban công
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Tây
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3 tầng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Không nội thất.
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-ban-marina-complex" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 20 tin đăng bán
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-khu-phuc-hop-son-tra-ddn/marina-complex-pj2461" target="_blank">
+      <img alt="Marina Complex" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2016/03/15/0I4XNtd4/20160315094546-5ec2.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       Marina Complex
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Đang cập nhật tiến độ" class="re__prj-card-config-value re__wrap-long-text" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Đang cập nhật tiến độ
+       </span>
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Công ty CP Đất Xanh Miền Trung" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Công ty CP Đất Xanh Miền Trung
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="1">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.092119216918945,108.22557830810547&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   T
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Nguyễn Thị Linh Trang">
+     Nguyễn Thị Linh Trang
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38559232">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-shophouse-nha-pho-thuong-mai-marina-complex/dt-tu-100m2-den-150m2" title="Shophouse Marina Complex từ 100 m2 đến 150 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Shophouse Marina Complex từ 100 m2 đến 150 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-shophouse-nha-pho-thuong-mai-phuong-nai-hien-dong" title="Shophouse Nại Hiên Đông Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Shophouse Nại Hiên Đông Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-shophouse-nha-pho-thuong-mai-pho-pham-huy-thong-49" title="Shophouse Phạm Huy Thông Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Shophouse Phạm Huy Thông Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-shophouse-nha-pho-thuong-mai-son-tra-ddn" title="Shophouse Sơn Trà Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Shophouse Sơn Trà Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-shophouse-nha-pho-thuong-mai-da-nang/3pn" title="Shophouse Đà Nẵng 3 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Shophouse Đà Nẵng 3 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-shophouse-nha-pho-thuong-mai-da-nang/gia-tu-10-ty-den-20-ty" title="Shophouse Đà Nẵng từ 10 tỷ đến 20 tỷ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Shophouse Đà Nẵng từ 10 tỷ đến 20 tỷ
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    15/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    25/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38559232
+   </span>
+  </div>
+ </div>
+</div>

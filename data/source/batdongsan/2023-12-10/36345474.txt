@@ -1,0 +1,386 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="36345474" uid="555800">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Nguồn hàng 50 căn Monarchy B cho thuê 2 phòng ngủ giá chỉ từ 9 triệu/tháng
+  <span class="hidden-mobile m-on-title" raw="8ab74bff79e57bb59d7e84c07afbe716">
+   0935 655 ***
+  </span>
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án The Monarchy, Đường Trần Hưng Đạo, Phường An Hải Tây, Sơn Trà, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    9 triệu/tháng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    80 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    2 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":36345474,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/02/01/20230201160012-de29_wm.jpg","vipType":0,"title":"Nguồn hàng 50 căn Monarchy B cho thuê 2 phòng ngủ giá chỉ từ 9 triệu/tháng &lt;span class=\"hidden-mobile m-on-title\" raw=\"8ab74bff79e57bb59d7e84c07afbe716\"&gt;0935 655 ***&lt;/span&gt;","titleHiddenMobile":"Nguồn hàng 50 căn Monarchy B cho thuê 2 phòng ngủ giá chỉ từ 9 triệu/tháng &lt;span class=\"hidden-mobile m-on-title\" raw=\"8ab74bff79e57bb59d7e84c07afbe716\"&gt;0935 655 ***&lt;/span&gt;","url":"https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-tran-hung-dao-phuong-an-hai-tay-prj-the-monarchy/vo-hang-c-50-b-full-noi-that-gia-chi-tu-11-trieu-thang-pr36345474","productIdPrefix":"36345474$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-tran-hung-dao-phuong-an-hai-tay-prj-the-monarchy/vo-hang-c-50-b-full-noi-that-gia-chi-tu-11-trieu-thang-pr36345474&amp;t=Nguồn hàng 50 căn Monarchy B cho thuê 2 phòng ngủ giá chỉ từ 9 triệu/tháng 0935 655 ***" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-can-ho-chung-cu-duong-tran-hung-dao-phuong-an-hai-tay-prj-the-monarchy/vo-hang-c-50-b-full-noi-that-gia-chi-tu-11-trieu-thang-pr36345474" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=36345474">
+   Cho thuê căn hộ Monarchy B - Trần Hưng Đạo - P An Hải Tây - Q Sơn Trà - Đà Nẵng.
+   <br/>
+   Công năng sử dụng: 2PN, 2 toilet, Phòng khách, bếp, phòng giặt phơi,...
+   <br/>
+   Diện tích căn hộ: 70 - 90m² cho căn 2PN.
+   <br/>
+   Gía cho thuê từ 9 - 10 triệu/tháng cho căn nội thất cơ bản.
+   <br/>
+   Căn hộ full nội thất từ 10 - 11 - 12 - 14 triệu/tháng.
+   <br/>
+   <br/>
+   Tiện ích nội khu:
+   <br/>
+   - Công viên, sân vườn, khu vui chơi hồ bơi được thiết kế hài hòa trên diện tích 4.600m² bao gồm đầy đủ Hồ bơi, Khu cafe ngoài trời, Đồng cỏ xanh, các khu Gym, nhà hàng, siêu thị...
+   <br/>
+   - Thiết kế căn hộ thông mình từ 1 - 3 phòng ngủ với diện tích từ 50 - 110m².
+   <br/>
+   - Trải nghiệm cuộc sống Đẳng cấp hơn với thiết kế căn hộ sân vườn với view nhìn trực diện sông Hàn.
+   <br/>
+   - Nội thất sang trọng với Sàn gỗ, Hệ thống Intercom và thiết bị cảm ứng thông minh.
+   <br/>
+   - Khu vực lễ tân với sảnh sang trọng, Hệ thống Camera 24/7 đảm bảo an ninh.
+   <br/>
+   - Trải nghiệm trên 100 tiện ích có tại Khu Phức Hợp Nghĩ Dưỡng The Monarchy Đà Nẵng từ Sức khỏe, Giáo dục, Mua sắm, giải trí, Văn hóa...
+   <br/>
+   <br/>
+   - Gần Sân bóng đá, sân tennis, cách cung thể thao thành phố (3km)0.
+   <br/>
+   - Bến du thuyền Marine(đối diện, cách 1km),
+   <br/>
+   - Trung tâm thương mại Vincom(2km),
+   <br/>
+   - Siêu thị Lotte 4km,
+   <br/>
+   - Công viên thành phố 500m.
+   <br/>
+   - The Monarchy Đà Nẵng nằm trong khu dân cư đã hiện hữu, trí thức cao như: Euro Village, Đảo Xanh, Halla Kieves.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      80 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      9 triệu/tháng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-front-view">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng nhà
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Tây
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-private-house">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Hướng ban công
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đông
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Nội thất cao cấp.
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-cho-thue-the-monarchy" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 35 tin đăng cho thuê
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-khu-phuc-hop-son-tra-ddn/the-monarchy-pj1787" target="_blank">
+      <img alt="The Monarchy" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2016/04/13/0I4XNtd4/20160413153533-1e78.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       The Monarchy
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: Đã bàn giao" class="re__prj-card-config-value re__wrap-long-text" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        Đã bàn giao
+       </span>
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Công ty CP Đầu tư Phát triển Nhà Đà Nẵng" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Công ty CP Đầu tư Phát triển Nhà Đà Nẵng
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0561447143555,108.233322143555&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   Q
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Hồ Thị Hoa Quỳnh">
+     Hồ Thị Hoa Quỳnh
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/0f342d8f2b11af62" tracking-id="navigate-agent-profile">
+      Xem thêm 9 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=36345474">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-chung-cu-the-monarchy-son-tra" title="Cho thuê chung cư The Monarchy Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê chung cư The Monarchy Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-chung-cu-the-monarchy" title="Cho thuê chung cư The Monarchy" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê chung cư The Monarchy
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-can-ho-the-monarchy" title="Cho thuê căn hộ The Monarchy" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê căn hộ The Monarchy
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-can-ho-chung-cu-the-monarchy" title="Cho thuê căn hộ chung cư The Monarchy" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê căn hộ chung cư The Monarchy
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-can-ho-the-monarchy-son-tra" title="Cho thuê căn hộ The Monarchy Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê căn hộ The Monarchy Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-can-ho-chung-cu-the-monarchy-son-tra" title="Cho thuê căn hộ chung cư The Monarchy Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê căn hộ chung cư The Monarchy Sơn Trà
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    06/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    16/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin VIP Bạc
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    36345474
+   </span>
+  </div>
+ </div>
+</div>

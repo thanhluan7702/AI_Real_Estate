@@ -1,0 +1,283 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="36957495" uid="783487">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cho thuê kho xưởng tại Đà Nẵng 700m2, 800m2, 2800m2, 6000m2, 7600m2 từ 45k/m2/th. LH:
+  <span class="hidden-mobile m-on-title" raw="f9f983938dde784ad5fb642850d65195">
+   0905 385 ***
+  </span>
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Phường Hòa Khánh Bắc, Liên Chiểu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    50 nghìn/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    2.800 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":36957495,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/09/22/20230922093819-0beb_wm.jpg","vipType":0,"title":"Cho thuê kho xưởng tại Đà Nẵng 700m2, 800m2, 2800m2, 6000m2, 7600m2 từ 45k/m2/th. LH: &lt;span class=\"hidden-mobile m-on-title\" raw=\"f9f983938dde784ad5fb642850d65195\"&gt;0905 385 ***&lt;/span&gt;","titleHiddenMobile":"Cho thuê kho xưởng tại Đà Nẵng 700m2, 800m2, 2800m2, 6000m2, 7600m2 từ 45k/m2/th. LH: &lt;span class=\"hidden-mobile m-on-title\" raw=\"f9f983938dde784ad5fb642850d65195\"&gt;0905 385 ***&lt;/span&gt;","url":"https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-phuong-hoa-khanh-bac/chuyen-cho-lon-tai-da-nang-1500m2-2800m2-6000m2-7600m2-tu-45k-m2-th-lh-0905-385-382-pr36957495","productIdPrefix":"36957495$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-phuong-hoa-khanh-bac/chuyen-cho-lon-tai-da-nang-1500m2-2800m2-6000m2-7600m2-tu-45k-m2-th-lh-0905-385-382-pr36957495&amp;t=Cho thuê kho xưởng tại Đà Nẵng 700m2, 800m2, 2800m2, 6000m2, 7600m2 từ 45k/m2/th. LH: 0905 385 ***" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-phuong-hoa-khanh-bac/chuyen-cho-lon-tai-da-nang-1500m2-2800m2-6000m2-7600m2-tu-45k-m2-th-lh-0905-385-382-pr36957495" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=36957495">
+   CÔNG TY SS HOLDINGS
+   <br/>
+   Thông tin liên hệ:
+   <br/>
+   SDT:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="f9f983938dde784ad5fb642850d65195" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=36957495">
+    0905 385 ***
+   </span>
+   Em Sang)
+   <br/>
+   Email:
+   <a href="mailto:dinhsangbkdn@gmail.com">
+    dinhsangbkdn@gmail.com
+   </a>
+   <br/>
+   Website: sangta.info
+   <br/>
+   <br/>
+   Chuyên tư vấn kho bãi, nhà máy sản xuất phù hợp với nhu cầu về vị trí, loại kho chung theo ngày tháng, hoặc kho riêng tách biệt(CFS, cross - docking... ), PCCC (spinkler, vách.. ), dịch vụ kho (xe nâng, bốc xếp, pallet.. ), vận chuyển (logistic).
+   <br/>
+   <br/>
+   Các kho đang sẵn có: (Ngày 22/09/2023)
+   <br/>
+   1. Mặt tiền quốc lộ 1A, Liên Chiểu, 700m², xe container đậu đổ, xuất nhập hàng thuận lợi. Có văn phòng.
+   <br/>
+   <br/>
+   * KCN HOÀ KHÁNH: (10 phút đến trung tâm TP, 5 phút cảng Liên chiểu, 5 phút đến AH1, ngay trên QL1A).
+   <br/>
+   1. 1500m và 2800m, mái cao 11m, nền sika, 4 cửa container, cẩu trục 5T, giá 55k/m/th thuận lợi sản xuất, gia công cơ khí, xuất nhập hàng.
+   <br/>
+   2. 4000m giá 45k/m, 2 cửa xuất nhập hàng, điện 3 pha, bảo vệ 24/7, thuận lợi sản sản xuất, gia công cơ khí,..
+   <br/>
+   3. Kho 3250m, 3600m, 4000m, 5000m cho sản xuất giá từ 55 - 65k/m/th, nền sika, cao 11m, thuận tiện làm sản xuất, logistic,...
+   <br/>
+   <br/>
+   4. Kho 1400m giá 50k/m/th đường Số 3.
+   <br/>
+   5. Kho 3500 có cẩu trục 5 tấn - giá: 55 nghìn/m đường số 6.
+   <br/>
+   6. Kho 2500m có cẩu trục 2.5 tấn, nền sika - giá: 55 nghìn/m/th.
+   <br/>
+   7. Kho 6000m mới 100% có 12 bục container, nền sika, PCCC - Giá: 70k/m²/th. Đường Số 3.
+   <br/>
+   <br/>
+   * KCN LIÊN CHIỂU: (Ngay hầm Hải Vân, thuộc QL1A, đường tránh AH1, cách cảng Liên chiểu 5 phút).
+   <br/>
+   1. Kho từ 500 - 2000m giá từ 40k/m/th. Kho kiên cố, đẹp, kín, nền sika, PCCC đầy đủ.
+   <br/>
+   2. Kho 3150m có dock, PCCC, biệt lập giá 65k/m/th.
+   <br/>
+   <br/>
+   * KCN HOÀ CẦM:
+   <br/>
+   1. Kho 1100m giá 55k/m/th, sân bãi rộng, thuận lợi đậu đỗ.
+   <br/>
+   2. Kho ngăn cho thuê từ 500 - 2800m² giá 65k/m²/tháng, đầy đủ PCCC tự động, xe container đậu đỗ, xuất nhập hàng.
+   <br/>
+   <br/>
+   * KHU CẢNG TIÊN SA, THỌ QUANG: (cung cấp dịch vụ logistic).
+   <br/>
+   300m, dock container, cao 11m, nền sika giá 55k/m.
+   <br/>
+   650m, cẩu trục 7T5, cao 13m, nền sika, giá 50k/m.
+   <br/>
+   250m, 300m, 1600m kho kín, đầy đủ PCCC, giá 55k. M2.
+   <br/>
+   <br/>
+   * KHO XƯỞNG NỘI THÀNH ĐÀ NẴNG:
+   <br/>
+   500m Hoàng Văn Thái, Liên Chiểu - Giá: 42 nghìn/m/th.
+   <br/>
+   920m Hoàng Văn Thái, 950m, xây tường 100%, cao 8m, chứa hàng. Giá 50k/m/th.
+   <br/>
+   600m² Phạm Hùng, Hoà xuân Cẩm Lệ
+   <br/>
+   <br/>
+   Chuyên nhận ký gửi giới thiệu mua bán cho thuê đất, kho xưởng Đà Nẵng, Quảng Nam.
+   <br/>
+   Chuyên hỗ trợ tư vấn các giấy tờ về đầu tư dự án, DTM, giấy phép đầu tư về xây dựng, hoạt động kho xưởng,...
+   <br/>
+   Hỗ trợ doanh nghiệp nước ngoài (FDI) đầu tư tại các KCN tại Đà Nẵng, Quảng Nam.
+   <br/>
+   Tư vấn pháp lý, xây dựng, thi công..
+   <br/>
+   Tuyển dụng nhân sự và hỗ trợ sourcing, chuỗi cung ứng cho các doanh nghiệp mới thành lập.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2.800 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      50 nghìn/m²
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0794193412066,108.133496523847&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file1.batdongsan.com.vn/guestthumb200x200.20180707121426489.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Dinh Sang">
+     Dinh Sang
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/4d0017e11bc9bf11" tracking-id="user-listing-ldp">
+      Xem thêm 2 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=36957495">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-kho-phuong-hoa-khanh-bac" title="Cho thuê kho phường Hòa Khánh Bắc" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê kho phường Hòa Khánh Bắc
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/cho-thue/cho-thue-kho-phuong-hoa-khanh-bac-lien-chieu" title="Cho thuê kho phường Hòa Khánh Bắc Liên Chiểu" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Cho thuê kho phường Hòa Khánh Bắc Liên Chiểu
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    16/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    26/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    36957495
+   </span>
+  </div>
+ </div>
+</div>

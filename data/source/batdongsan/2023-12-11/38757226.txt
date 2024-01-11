@@ -1,0 +1,904 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38757226" uid="591123">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Căn hộ Sun Cosmo Đà Nẵng view mặt tiền Sông Hàn, giỏ hàng trực tiếp CDT, chiết khấu lên tới 19.5%.
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Dự án Sun Cosmo Residence, Ngũ Hành Sơn, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    2,7 tỷ
+   </span>
+   <span class="ext">
+    ~54 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    50 m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    1 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38757226,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/12/11/20231211090934-50e7_wm.jpg","vipType":0,"title":"Căn hộ Sun Cosmo Đà Nẵng view mặt tiền Sông Hàn, giỏ hàng trực tiếp CDT, chiết khấu lên tới 19.5%.","titleHiddenMobile":"Căn hộ Sun Cosmo Đà Nẵng view mặt tiền Sông Hàn, giỏ hàng trực tiếp CDT, chiết khấu lên tới 19.5%.","url":"https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-thi-ly-phuong-my-an-prj-sun-cosmo-residence/-da-nang-view-mat-tien-song-han-gio-hang-truc-tiep-cdt-chiet-khau-len-toi-19-5-pr38757226","productIdPrefix":"38757226$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-thi-ly-phuong-my-an-prj-sun-cosmo-residence/-da-nang-view-mat-tien-song-han-gio-hang-truc-tiep-cdt-chiet-khau-len-toi-19-5-pr38757226&amp;t=Căn hộ Sun Cosmo Đà Nẵng view mặt tiền Sông Hàn, giỏ hàng trực tiếp CDT, chiết khấu lên tới 19.5%." id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-thi-ly-phuong-my-an-prj-sun-cosmo-residence/-da-nang-view-mat-tien-song-han-gio-hang-truc-tiep-cdt-chiet-khau-len-toi-19-5-pr38757226" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+  <div class="re__clearfix clear">
+   <span class="re__link-pr re__ldp-pricing-cta js__ldp-pricing-cta" tracking-id="pricing-history-click-onboarding" tracking-label="loc=Sale-Listing Details">
+    Xem lịch sử giá Sun Cosmo Residence
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38757226">
+   Sun Cosmo Residence được quy hoạch với tổng diện tích 8,5 ha, được thiết kế xây dựng với mô hình tòa tháp căn hộ cao tầng và khu nhà ở thấp tầng.
+   <br/>
+   <br/>
+   Khu cao tầng có tổng diện tích 5,5 ha, được thiết kế với 2 tòa tháp căn hộ, cung cấp ra thị trường 650 căn hộ từ studio, căn hộ 1 - 3 phòng ngủ, căn duplex và 38 căn shophouse khối đế.
+   <br/>
+   <br/>
+   - Tháp 1: Có chiều cao 33 tầng nổi, sở hữu 30 tầng căn hộ cao cấp, 3 tầng khối đế (2 tầng shophouse &amp; 1 tầng tiện ích) cùng 3 tầng hầm để xe.
+   <br/>
+   <br/>
+   - Tháp 2: Có chiều cao 27 tầng nổi, trong đó sở hữu 24 tầng căn hộ cao cấp, 3 tầng khối đế (2 tầng shophouse &amp; 1 tầng tiện ích) và 3 tầng hầm để xe.
+   <br/>
+   <br/>
+   - Thông tin căn hộ.
+   <br/>
+   <br/>
+   Tòa P1.
+   <br/>
+   <br/>
+   - Căn 01 view sông Hàn - Cầu Rồng ban công Tây Bắc giá từ 1,65 tỷ.
+   <br/>
+   <br/>
+   - Căn 12A view sông Hàn - Vòng quay mặt trời - thành phố ban công tây nam giá từ 1,9 tỷ.
+   <br/>
+   <br/>
+   - Căn 16 view nội khu + view thành phố, nhìn chéo ra sông Hàn ban công đông bắc giá từ 1,65 tỷ.
+   <br/>
+   <br/>
+   - Căn 18 view sông Hàn + cầu Rồng, thành phố ban công tây bắc giá từ 2,2 tỷ.
+   <br/>
+   <br/>
+   - Ngoài ra còn các căn duplex thông tầng diện tích 200 - 300m...
+   <br/>
+   <br/>
+   Tòa P2.
+   <br/>
+   <br/>
+   - Căn 1 PN các căn 1 - 2 - 7 - 8 diện tích 51 m giá từ 2 - 4,4 tỷ. View trực diện sông hàn.
+   <br/>
+   <br/>
+   - Căn 2 PN các căn 03 - 09 - 12 diện 69 - 83 m giá từ 3,5-6 tỷ.
+   <br/>
+   <br/>
+   - Căn 3 PN căn 06 diện tích 99,6 m giá 9.2 tỷ.
+   <br/>
+   <br/>
+   - Các căn Căn Sky villa và Penthouse...
+   <br/>
+   <br/>
+   Tiện ích nội khu: Gym, spa, thể thao trong nhà, kid club, bể bơi, sky garden vườn ngoài trời, cửa hàng tiện lợi, công viên nội khu.
+   <br/>
+   Tiện ích ngoại khu: Quảng trường hoa hồng, công viên Nguyễn Văn Trỗi, Đài bắn pháo hoa DIFF, TT thể dục thể thao Sơn Trà, biển Mỹ Khê, Sun World Asian Park, sân bay quốc tế Đà Nẵng.
+   <br/>
+   ------------------
+   <br/>
+   Chính sách bán hàng tháng 12.
+   <br/>
+   Thanh toán tiến độ chiết khấu 9%.
+   <br/>
+   Thanh toán tiến độ 12 tháng chiết khấu 15 %.
+   <br/>
+   Thanh toán nhanh 95% trong tháng 12 chiết khấu lên đến 19.5%.
+   <br/>
+   * Ưu đãi miễn phí 3 năm phí quản lý.
+   <br/>
+   Chiết khấu khách hàng thân thiết 1 - 1,5%.
+   <br/>
+   Gói trãi nghiệm HST Sungroup từ 0,5-2%.
+   <br/>
+   Ngân hàng hỗ trợ miễn lãi trong vòng 30 tháng kể từ ngày ký HDMB.
+   <br/>
+   <br/>
+   + Ngoài ra dự án hiện đang bán các sản phẩm thấp tầng là Shophouse và biệt thự diện tích từ 140 - 400m.
+   <br/>
+   <br/>
+   Thông tin chi tiết về giá và chính sách bán hàng 2 tòa căn hộ view sông Hàn hoặc shophouse quý.
+   <br/>
+   Khách vui lòng liên hệ SĐT:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="a3b4c416d171b8e52bf1b3fe6cae960f" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38757226">
+    0932 677 ***
+   </span>
+   Thùy Linh
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      50 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      2,7 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      1 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      1 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Không nội thất
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__ldp-project-info">
+  <div class="re__project-card-info js__project-card-section">
+   <div class="re__section-header">
+    <div class="re__section-title">
+     Thông tin dự án
+    </div>
+    <a class="re__link-pr" href="https://batdongsan.com.vn/nha-dat-ban-sun-cosmo-residence" target="_blank" tracking-id="ldp-navigate-project-info-card-to-srp" tracking-label="project-detail">
+     <span>
+      Xem 97 tin đăng bán
+     </span>
+     <i class="re__icon-chevron-right--sm">
+     </i>
+    </a>
+   </div>
+   <div class="re__section-body js__project-card-section-body">
+    <div class="re__section-avatar">
+     <a href="https://batdongsan.com.vn/du-an-khu-phuc-hop-ngu-hanh-son-ddn/sun-cosmo-residence-pj5823" target="_blank">
+      <img alt="Sun Cosmo Residence" class="lazyload" src="https://file4.batdongsan.com.vn/crop/320x320/2023/03/29/20230329153719-8b6a_wm.jpg"/>
+     </a>
+    </div>
+    <div class="re__section-content">
+     <div class="re__row-item">
+      <div class="re__project-title">
+       Sun Cosmo Residence
+      </div>
+     </div>
+     <div class="re__row-item re__content-tool">
+      <span aria-label="Trạng thái: 6/2023: Đang bán khu cao tầng" class="re__prj-card-config-value re__wrap-long-text" data-microtip-position="bottom" data-microtip-size="auto" role="tooltip">
+       <i class="re__icon-info-circle--sm">
+       </i>
+       <span class="re__long-text">
+        6/2023: Đang bán khu cao tầng
+       </span>
+      </span>
+     </div>
+     <div class="re__row-item re__footer-content">
+      <span aria-label="Chủ đầu tư Tập đoàn Sun Group" class="re__prj-card-config-value" data-microtip-position="bottom" role="tooltip">
+       <i class="re__icon-office--sm">
+       </i>
+       <span class="re__long-text">
+        Tập đoàn Sun Group
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.ver5.msvbds.projectnet-common.min.css" rel="stylesheet"/>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="True" data-kyc-type="2">
+ </div>
+ <link href="https://staticfile.batdongsan.com.vn/css/web/filestatic.verf1c5f7ba.msvbds.pricing-history.min.css" rel="stylesheet"/>
+ <div class="lazyload js__pricing-history-scroll-to" data-func='new FrontEnd.Product.Details.PricingHistoryLazyload({"ProductId":38757226,"ProductType":0,"StrProductType":"a68626d3a1f2e0e7","CateId":0,"CityCode":null,"DistrictId":0,"WardId":0,"ProjectId":0,"TimeType":0,"StrTimeType":"337f86f8ccb80abc","IsExtented":false,"PriceDisplay":null,"PriceMillion":null,"RequestString":"98d96b7470c0a1d1148b111d74b168db552814b88c25c7ff040fecde7b9155c5a63833eef423a35e9297e17e47f0fc65f1310ed0fb5b9d89ad148e80b9d44d334e7cb76c279ae381ecaa5314e6da0186ea232580d82c1f1c270f6f64e9206550d6e8dce0767e9e8bf4a5dc8b6b4dc82b9a56194e229659e7bae6c977b0195cab9e124b127725b91e10e39e1b5f0d9a438bd00b48f0c314017a9bae07c0f5145e7afc8a1a625953a501c2908b36ce51dfd112c8db6283ebc655ca7894729546ed939029145abc6ad8d7fa3d0ab7efcd25d4700a0125c1233ad5bf9f0f0e0ec086afe3197972ca0709a359e1685da0fb8723aad2e832725a94e51fda3202c0916a"})' data-script="https://staticfile.batdongsan.com.vn/js/Charts/filestatic.verf1c5f7ba.msvbds.Chart.min.js;https://staticfile.batdongsan.com.vn/js/Product/Details/filestatic.verf1c5f7ba.msvbds.FrontEnd.Product.Details.PricingHistory.min.js">
+ </div>
+ <div class="js__pricing-history re__pricing-history re__pricing-history-v2" data-event="view-pricing-history" data-loc="Sale-Listing Details" data-url="/Origins/CommonData/GetPricingHistory" data-url-product-type="/Origins/CommonData/GetPricingHistoryByProductType" data-url-type="/Origins/CommonData/GetPricingHistoryByType">
+  <div class="pricing-history-content">
+   <div class="re__product-chart ph-product-chart js__pricing-history-chart">
+    <div class="chart-anchor">
+    </div>
+    <div class="re__detail-chart js__detail-chart">
+     <h3 class="re__title js__pricing-history--title">
+      Lịch sử giá bán căn hộ chung cư tại Sun Cosmo Residence
+     </h3>
+     <div class="re__chart-sapo">
+      <ul class="re__tab-box-group re__product-type-tab list-cate js__list-cate">
+       <li class="re__tab-box--sm re__tab-box--actived" data-price="3803b324c63b2c60" data-prid="38757226" data-val="a68626d3a1f2e0e7" tracking-id="pricing-history-select-product-type" tracking-label="loc=Sale-Listing Details,type=Sale">
+        Mua bán
+       </li>
+       <li class="re__tab-box--sm" data-price="5a311b15a372847d" data-prid="0" data-val="79a85b9ca957fb51" tracking-id="pricing-history-select-product-type" tracking-label="loc=Sale-Listing Details,type=Rent">
+        Cho thuê
+       </li>
+      </ul>
+      <ul class="re__tab-box-group re__product-type-tab list-time js__list-time">
+       <li class="re__tab-box--sm re__tab-box--actived" data-val="337f86f8ccb80abc" tracking-id="pricing-history-select-duration" tracking-label="loc=Sale-Listing Details,year=1">
+        1 năm
+       </li>
+       <li class="re__tab-box--sm" data-val="7bd57ad3dfa6ce4b" tracking-id="pricing-history-select-duration" tracking-label="loc=Sale-Listing Details,year=2">
+        2 năm
+       </li>
+       <li class="re__tab-box--sm" data-val="eb21d8a98dd1f1db" tracking-id="pricing-history-select-duration" tracking-label="loc=Sale-Listing Details,year=5">
+        5 năm
+       </li>
+      </ul>
+     </div>
+     <div class="re__chart-subsapo">
+      <div class="re__chart-col re__col-1 js__pricing-history--top-col-1">
+       <div class="text-big">
+        <strong>
+         0
+        </strong>
+        <span>
+         tr/tháng
+        </span>
+       </div>
+       <div class="text-small">
+        Giá đang cập nhật
+       </div>
+      </div>
+      <div class="re__chart-col re__col-2 js__pricing-history--top-col-2">
+       <div class="text-big">
+        <i class="re__icon-up-cl">
+         <span class="path1">
+         </span>
+         <span class="path2">
+         </span>
+        </i>
+        <strong>
+         23%
+        </strong>
+       </div>
+       <div class="text-small">
+        Giá thuê đã tăng trong vòng 1 năm qua (Q2/2022 - Q2/2023)
+       </div>
+      </div>
+      <div class="re__chart-col re__col-2 no-data">
+       <div class="text-big">
+        Dữ liệu đang được cập nhật
+       </div>
+       <div class="text-small">
+        So sánh biến động giá với các quý trước
+       </div>
+      </div>
+      <div class="re__chart-col re__col-3 js__pricing-history--top-col-3">
+       <div class="text-big">
+        <i class="re__icon-down-cl">
+         <span class="path1">
+         </span>
+         <span class="path2">
+         </span>
+        </i>
+        <strong>
+         6%
+        </strong>
+       </div>
+       <div class="text-small">
+        Giá hiện tại thấp hơn đỉnh 8,5 tr/tháng vào Q1/2022
+       </div>
+      </div>
+     </div>
+     <div class="re__div-chart js__div-chart">
+      <div class="re__div-chart-canvas" style="display: none">
+       <div class="chart-title">
+        <span class="ct-content">
+         tr/m²
+        </span>
+       </div>
+       <canvas id="chart-canvas">
+       </canvas>
+       <div class="chart-footer">
+        <div class="cf-content labels-1">
+         Giá cao nhất
+        </div>
+        <div class="cf-content labels-2">
+         Giá phổ biến nhất
+        </div>
+        <div class="cf-content labels-3">
+         Giá thấp nhất
+        </div>
+        <div class="cf-content labels-4 cf-hide">
+         Giá tin đang xem ~54 tr/m²
+        </div>
+       </div>
+      </div>
+      <div class="re__chart-no-data">
+       <div class="chart-img">
+        <img src="https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg"/>
+       </div>
+       <div class="chart-text">
+        Chúng tôi đang cập nhật dữ liệu. Bạn hãy quay lại sau nhé!
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="js__pricing-insight-extented pi-extented">
+    </div>
+    <div class="re__pricing-history-note js__pricing-history-note">
+     <div class="col col-1">
+      <i class="re__icon-info-cl">
+       <span class="path1">
+       </span>
+       <span class="path2">
+       </span>
+       <span class="path3">
+       </span>
+      </i>
+     </div>
+     <div class="col col-2">
+      Dữ liệu giá được tổng hợp và xử lý từ các tin đăng trên trang Batdongsan.com.vn. Bạn hãy lưu ý về tin đăng nằm ngoài khoảng giá chúng tôi gợi ý và xác minh thêm thông tin trước khi giao dịch.
+     </div>
+    </div>
+    <div class="ph-survey-ldp js__ph-survey">
+     <div class="_hj-widget-container _hj-widget-theme-light" id="survey_934264">
+      <div class="_hj-s3UIi__styles__globalStyles _hj-Pbej5__styles__resetStyles _hj-A4W17__styles__inlineSurvey">
+       <div id="hotjar-survey-a93afbcf-7cc6-4811-bab1-ff4d06b21c77" lang="en" style="--hjFeedbackAccentColor: #324FBE; --hjFeedbackAccentHoverColor: #1C3286; --hjFeedbackAccentActiveColor: #223582; --hjFeedbackAccentTextColor: rgba(255,255,255,0.94); --hjFeedbackDisabledAccentColor: #F1F2F6; --hjFeedbackDisabledAccentTextColor: rgba(0, 0, 0, 0.43); --hjFeedbackSecondaryTextColor: rgba(0, 0, 0, 0.60); --hjFeedbackPrimaryColor: #FFFFFF; --hjFeedbackSecondaryColor: #e6e6e6; --hjFeedbackBorderColor: #E0E2E8; --hjFeedbackOptionButtonBackgroundColor: #E0E2E8; --hjFeedbackInputPlaceholderColor: rgba(0,0,0,0.43); --hjFeedbackFontColor: #111;">
+        <div aria-label="Survey" role="dialog">
+         <div class="_hj-5vKq2__styles__surveyContainer _hj-7Itnd__styles__inline _hj-se0Ow__styles__openingAnimation" style="background: rgb(255, 255, 255);">
+          <form class="_hj-hRovs__styles__form">
+           <div class="_hj-c8PC+__styles__surveyBody" style="">
+            <div aria-live="off" class="_hj-S9XKO__styles__surveyTitle" id="hj-survey-lbl-1">
+             Hãy giúp chúng tôi đánh giá mức độ hữu ích của thông tin Lịch sử giá
+            </div>
+            <div class="_hj-E2-N0__styles__surveyAnswers">
+             <div class="css-vopqjt">
+              <div aria-labelledby="hj-survey-lbl-1" class="css-1a0x1zp" role="radiogroup">
+               <div class="css-u2ayx9">
+                <label class="css-1aokw2q">
+                 <input aria-label="1" class="css-kcesia" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                 <div class="css-xrn97w">
+                  <svg fill="none" height="40" width="40" xmlns="http://www.w3.org/2000/svg">
+                   <path d="M17.72 2a2.5 2.5 0 014.56 0l3.87 8.66a2.5 2.5 0 002.02 1.47l9.43 1a2.5 2.5 0 011.42 4.34l-7.05 6.35a2.5 2.5 0 00-.78 2.38l1.97 9.28a2.5 2.5 0 01-3.7 2.69l-8.21-4.74a2.5 2.5 0 00-2.5 0l-8.22 4.74a2.5 2.5 0 01-3.7-2.69l1.98-9.28a2.5 2.5 0 00-.78-2.38L.98 17.47a2.5 2.5 0 011.42-4.34l9.43-1a2.5 2.5 0 002.02-1.47L17.72 2z" fill="grey">
+                   </path>
+                  </svg>
+                 </div>
+                </label>
+                <label class="css-1aokw2q">
+                 <input aria-label="2" class="css-kcesia" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                 <div class="css-xrn97w">
+                  <svg fill="none" height="40" width="40" xmlns="http://www.w3.org/2000/svg">
+                   <path d="M17.72 2a2.5 2.5 0 014.56 0l3.87 8.66a2.5 2.5 0 002.02 1.47l9.43 1a2.5 2.5 0 011.42 4.34l-7.05 6.35a2.5 2.5 0 00-.78 2.38l1.97 9.28a2.5 2.5 0 01-3.7 2.69l-8.21-4.74a2.5 2.5 0 00-2.5 0l-8.22 4.74a2.5 2.5 0 01-3.7-2.69l1.98-9.28a2.5 2.5 0 00-.78-2.38L.98 17.47a2.5 2.5 0 011.42-4.34l9.43-1a2.5 2.5 0 002.02-1.47L17.72 2z" fill="grey">
+                   </path>
+                  </svg>
+                 </div>
+                </label>
+                <label class="css-1aokw2q">
+                 <input aria-label="3" class="css-kcesia" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                 <div class="css-xrn97w">
+                  <svg fill="none" height="40" width="40" xmlns="http://www.w3.org/2000/svg">
+                   <path d="M17.72 2a2.5 2.5 0 014.56 0l3.87 8.66a2.5 2.5 0 002.02 1.47l9.43 1a2.5 2.5 0 011.42 4.34l-7.05 6.35a2.5 2.5 0 00-.78 2.38l1.97 9.28a2.5 2.5 0 01-3.7 2.69l-8.21-4.74a2.5 2.5 0 00-2.5 0l-8.22 4.74a2.5 2.5 0 01-3.7-2.69l1.98-9.28a2.5 2.5 0 00-.78-2.38L.98 17.47a2.5 2.5 0 011.42-4.34l9.43-1a2.5 2.5 0 002.02-1.47L17.72 2z" fill="grey">
+                   </path>
+                  </svg>
+                 </div>
+                </label>
+                <label class="css-1aokw2q">
+                 <input aria-label="4" class="css-kcesia" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                 <div class="css-xrn97w">
+                  <svg fill="none" height="40" width="40" xmlns="http://www.w3.org/2000/svg">
+                   <path d="M17.72 2a2.5 2.5 0 014.56 0l3.87 8.66a2.5 2.5 0 002.02 1.47l9.43 1a2.5 2.5 0 011.42 4.34l-7.05 6.35a2.5 2.5 0 00-.78 2.38l1.97 9.28a2.5 2.5 0 01-3.7 2.69l-8.21-4.74a2.5 2.5 0 00-2.5 0l-8.22 4.74a2.5 2.5 0 01-3.7-2.69l1.98-9.28a2.5 2.5 0 00-.78-2.38L.98 17.47a2.5 2.5 0 011.42-4.34l9.43-1a2.5 2.5 0 002.02-1.47L17.72 2z" fill="grey">
+                   </path>
+                  </svg>
+                 </div>
+                </label>
+                <label class="css-1aokw2q">
+                 <input aria-label="5" class="css-kcesia" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" type="radio"/>
+                 <div class="css-xrn97w">
+                  <svg fill="none" height="40" width="40" xmlns="http://www.w3.org/2000/svg">
+                   <path d="M17.72 2a2.5 2.5 0 014.56 0l3.87 8.66a2.5 2.5 0 002.02 1.47l9.43 1a2.5 2.5 0 011.42 4.34l-7.05 6.35a2.5 2.5 0 00-.78 2.38l1.97 9.28a2.5 2.5 0 01-3.7 2.69l-8.21-4.74a2.5 2.5 0 00-2.5 0l-8.22 4.74a2.5 2.5 0 01-3.7-2.69l1.98-9.28a2.5 2.5 0 00-.78-2.38L.98 17.47a2.5 2.5 0 011.42-4.34l9.43-1a2.5 2.5 0 002.02-1.47L17.72 2z" fill="grey">
+                   </path>
+                  </svg>
+                 </div>
+                </label>
+               </div>
+               <div class="css-10fm8f7">
+                <span aria-label="Rất không hữu ích" class="css-1xxmljs" title="Rất không hữu ích">
+                 Rất không hữu ích
+                </span>
+                <span aria-label="Rất hữu ích" class="css-1xxmljs" title="Rất hữu ích">
+                 Rất hữu ích
+                </span>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="_hj-XpAaA__styles__surveyFooter _hj-xZ2ar__styles__inline">
+            <div class="_hj-8Lgv6__styles__surveyActions">
+             <button class="_hj-81Zzt__styles__surveyActionButton _hj-O-7CS__styles__surveysPrimaryButton _hj-SU8LU__styles__primaryButton" disabled="" type="button">
+              Kế tiếp
+             </button>
+            </div>
+            <div class="_hj-PZjqr__styles__surveyBranding">
+             <a class="_hj-fBs9+__styles__link" href="https://www.hotjar.com/feedback-surveys?utm_source=client&amp;utm_medium=poll&amp;utm_campaign=insights" rel="noopener noreferrer" style="color: rgb(50, 50, 50) !important;" target="_blank">
+              <img alt="Hotjar — Surveys page" class="_hj-KMFsk__styles__logo" src="https://www.hotjar.com/images/hotjar-logo-small.svg"/>
+              <div class="_hj-ex4tC__styles__brandingText">
+               <span style="text-decoration: underline;">
+                Made with Hotjar
+               </span>
+              </div>
+             </a>
+            </div>
+           </div>
+          </form>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="ph--skeleton pricing-history-skeleton js__ph--skeleton">
+   </div>
+  </div>
+  <div class="pricing-history-skeleton js__pricing-history-skeleton" data-type="ph" style="display: block;">
+   <div class="re__product-chart">
+    <div class="re__detail-chart">
+     <h3 class="re__title">
+      <span class="skeleton-content">
+      </span>
+     </h3>
+     <div class="re__chart-sapo">
+      <ul class="re__tab-box-group re__product-type-tab list-cate">
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+      </ul>
+      <ul class="re__tab-box-group re__product-type-tab list-time">
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+       <li class="re__tab-box--sm">
+        <span class="skeleton-content">
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="re__chart-subsapo">
+      <div class="re__chart-col re__col-1">
+       <div class="text-big">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content r2">
+        </span>
+       </div>
+      </div>
+      <div class="re__chart-col re__col-2">
+       <div class="text-big">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content r2">
+        </span>
+       </div>
+      </div>
+      <div class="re__chart-col re__col-3">
+       <div class="text-big">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content">
+        </span>
+       </div>
+       <div class="text-small">
+        <span class="skeleton-content r2">
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="re__div-chart">
+      <div class="re__div-chart-canvas">
+       <div class="chart-canvas">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="re__pricing-insight-extented">
+    <div class="pricing-insight-row pricing-insight-title">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="pricing-insight-row">
+     <div class="pricing-insight-col pricing-insight-col1">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col2">
+      <span class="skeleton-content">
+      </span>
+     </div>
+     <div class="pricing-insight-col pricing-insight-col3">
+      <a>
+       <span class="skeleton-content">
+       </span>
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="re__pricing-insight-extented-bottom">
+    <a class="re__btn re__btn-pr-ghost--sm re__btn-icon-right--sm">
+     <span class="skeleton-content">
+     </span>
+    </a>
+   </div>
+  </div>
+  <div class="re__pricing-history-kyc--block-v2">
+   <h3 class="re__pricing-history-kyc--ph-title">
+    Lịch sử giá khu vực
+   </h3>
+   <div class="re__pricing-history-kyc-v2">
+    <div class="re__pricing-history-kyc-v2-img">
+     <img src="https://staticfile.batdongsan.com.vn/images/Product/PricingHistory/illus_kyc_v2.svg"/>
+    </div>
+    <div class="re__pricing-history-kyc-v2-title">
+     <span>
+      Đây có phải là thời điểm tốt nhất để mua căn hộ chung cư tại Sun Cosmo Residence ?
+     </span>
+    </div>
+    <div class="re__pricing-history-kyc-v2-button">
+     <a class="re__btn re__btn-pr-solid--sm js__pricing-history-kyc-btn" tracking-id="pricing-history-call-kyc-form" tracking-label="loc=Sale-Listing Details">
+      Xem ngay
+     </a>
+    </div>
+   </div>
+  </div>
+  <div class="re__pricing-history-kyc--block-v2-skeleton js__pricing-history-skeleton" data-type="kyc-v2" style="display: none;">
+   <h3 class="re__pricing-history-kyc--ph-title">
+    <span class="skeleton-content">
+    </span>
+   </h3>
+   <div class="re__pricing-history-kyc-v2">
+    <div class="re__pricing-history-kyc-v2-img">
+     <img src="https://staticfile.batdongsan.com.vn/images/chart/img-kyc-skeleton.svg"/>
+    </div>
+    <div class="re__pricing-history-kyc-v2-title">
+     <span class="skeleton-content">
+     </span>
+     <br/>
+     <span class="skeleton-content r2">
+     </span>
+    </div>
+    <div class="re__pricing-history-kyc-v2-button">
+     <a>
+      <span class="skeleton-content">
+      </span>
+     </a>
+    </div>
+   </div>
+  </div>
+ </div>
+ <script src="https://staticfile.batdongsan.com.vn/js/Product/filestatic.verf1c5f7ba.msvbds.FrontEnd.Product.PricingHistory.min.js" type="text/javascript">
+ </script>
+ <script type="text/javascript">
+  (function callFunction(){
+            if (window.FrontEnd && window.FrontEnd.Product && window.FrontEnd.Product.PricingHistory && window.CommonJS && window.CommonJS.Common) {
+                new FrontEnd.Product.PricingHistory();
+            }
+            else {
+                setTimeout(callFunction, 100);
+            }
+        })();
+ </script>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.05078125,108.23290252685547&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/200x200/2023/12/11/20231211091523-7f93.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Nguyễn Thị Thùy Linh">
+     Nguyễn Thị Thùy Linh
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/4b802380df58bd66" tracking-id="navigate-agent-profile">
+      Xem thêm 1 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38757226">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/can-ho-sun-cosmo-residence-tu-30-m2-den-50-m2" title="Căn hộ Sun Cosmo Residence từ 30 m2 đến 50 m2" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Sun Cosmo Residence từ 30 m2 đến 50 m2
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/can-ho-my-an-ngu-hanh-son" title="Căn hộ Mỹ An Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Mỹ An Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/can-ho-tran-thi-ly-ngu-hanh-son" title="Căn hộ Trần Thị Lý Ngũ Hành Sơn" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Trần Thị Lý Ngũ Hành Sơn
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/can-ho-ngu-hanh-son-da-nang" title="Căn hộ Ngũ Hành Sơn Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Ngũ Hành Sơn Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/can-ho-da-nang-1-pn" title="Căn hộ Đà Nẵng 1 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Đà Nẵng 1 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/can-ho-da-nang-tu-2-ty-den-3-ty" title="Căn hộ Đà Nẵng từ 2 tỷ đến 3 tỷ" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Căn hộ Đà Nẵng từ 2 tỷ đến 3 tỷ
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    11/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    18/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin VIP Vàng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38757226
+   </span>
+  </div>
+ </div>
+</div>

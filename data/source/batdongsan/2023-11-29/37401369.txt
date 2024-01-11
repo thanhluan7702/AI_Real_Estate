@@ -1,0 +1,246 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="37401369" uid="454093">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cho thuê kho khu công nghiệp An Đồn - có thể làm văn phòng, kho hàng, thuận tiện, an ninh
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Phường  An Hải Bắc, Sơn Trà, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    755 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":37401369,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2022/09/13/20220913150559-5056_wm.jpg","vipType":0,"title":"Cho thuê kho khu công nghiệp An Đồn - có thể làm văn phòng, kho hàng, thuận tiện, an ninh","titleHiddenMobile":"Cho thuê kho khu công nghiệp An Đồn - có thể làm văn phòng, kho hàng, thuận tiện, an ninh","url":"https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-phuong-an-hai-bac/cho-khu-cong-nghiep-don-co-the-lam-v-phong-hg-thu-tien-ninh-pr37401369","productIdPrefix":"37401369$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Rent-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-phuong-an-hai-bac/cho-khu-cong-nghiep-don-co-the-lam-v-phong-hg-thu-tien-ninh-pr37401369&amp;t=Cho thuê kho khu công nghiệp An Đồn - có thể làm văn phòng, kho hàng, thuận tiện, an ninh" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/cho-thue-kho-nha-xuong-dat-phuong-an-hai-bac/cho-khu-cong-nghiep-don-co-the-lam-v-phong-hg-thu-tien-ninh-pr37401369" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Rent-Listing Details-body,prid=37401369">
+   Công ty TNHH TM Nam Anh.
+   <br/>
+   Địa chỉ: Lô 35 đường số 4, KCN An Đồn, P. An Hải Bắc, Q. Sơn Trà, TP Đà Nẵng.
+   <br/>
+   * Có 02 kho cho thuê:
+   <br/>
+   - Kho số 03: Diện tích 750m² (12,5mx60m).
+   <br/>
+   - Kho số 04: Tầng trên kho số 03 có diện tích 250m² với lối đi riêng. (có thể làm văn phòng, phòng tập yoga).
+   <br/>
+   <br/>
+   * Công năng: Có thể làm văn phòng, được cải tạo theo nhu cầu của người thuê; Chứa hàng, kho logistics.
+   <br/>
+   - Có đầy đủ hệ thống điện, nước, khu vệ sinh.
+   <br/>
+   - Sân bãi, khu vực đậu xe rộng. Xe tải và xe container vào tận kho.
+   <br/>
+   - Có giấy phép cho thuê kho xưởng.
+   <br/>
+   - An ninh, bảo vệ công ty trực tổng kho hằng ngày.
+   <br/>
+   - Vị trí: Cách TTTP 2km, cách Cảng Tiên Sa 2km, trên trục đường lớn Ngô Quyền.
+   <br/>
+   - Giá cả: Thương lượng khi xem kho.
+   <br/>
+   * Điện thoại liên hệ: Chú Thứ
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="80f6c99749ccc569749064e13d709323" tracking-id="lead-phone-ldp" tracking-label="loc=Rent-Listing Details-body,prid=37401369">
+    0913 421 ***
+   </span>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      755 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0783341392075,108.236459969098&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   M
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Mr.thứ">
+     Mr.thứ
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/51e02672135a52d6" tracking-id="navigate-agent-profile">
+      Xem thêm 1 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Rent-Listing Details,prid=37401369">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-phuong-an-hai-bac" title="Thuê nhà xưởng An Hải Bắc " tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng An Hải Bắc
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-da-nang" title="Thuê nhà xưởng Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-duong-ngo-quyen-49" title="Thuê nhà xưởng Ngô Quyền Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Ngô Quyền Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-duong-an-don-6-49" title="Thuê nhà xưởng An Đồn 6 Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng An Đồn 6 Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-phuong-tho-quang" title="Thuê nhà xưởng Thọ Quang Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Thọ Quang Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/cho-thue-kho-nha-xuong-dat-phuong-man-thai" title="Thuê nhà xưởng Mân Thái Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Rent-Listing Details;type=keyword">
+     Thuê nhà xưởng Mân Thái Sơn Trà
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    29/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    29/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    37401369
+   </span>
+  </div>
+ </div>
+</div>

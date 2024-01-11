@@ -1,0 +1,290 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="32028448" uid="482126">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Đất đường Võ Nguyên Giáp và danh sách cập nhật đất xây cao tầng, giá cạnh tranh,
+  <span class="hidden-mobile m-on-title" raw="dd09fa1d0e1df9584c4863f8722ce883">
+   0932 560 ***
+  </span>
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Võ Nguyên Giáp, Phường Phước Mỹ, Sơn Trà, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    Thỏa thuận
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    600 m²
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":32028448,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2021/12/27/tGeAfAMv/20211227214558-55b5_wm.jpg","vipType":0,"title":"Đất đường Võ Nguyên Giáp và danh sách cập nhật đất xây cao tầng, giá cạnh tranh, &lt;span class=\"hidden-mobile m-on-title\" raw=\"dd09fa1d0e1df9584c4863f8722ce883\"&gt;0932 560 ***&lt;/span&gt;","titleHiddenMobile":"Đất đường Võ Nguyên Giáp và danh sách cập nhật đất xây cao tầng, giá cạnh tranh, &lt;span class=\"hidden-mobile m-on-title\" raw=\"dd09fa1d0e1df9584c4863f8722ce883\"&gt;0932 560 ***&lt;/span&gt;","url":"https://batdongsan.com.vn/ban-dat-duong-vo-nguyen-giap-phuong-phuoc-my/-van-kiet-noi-dai-va-danh-sach-cap-nhat-xay-cao-tang-gia-canh-tranh-0932560868-pr32028448","productIdPrefix":"32028448$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-dat-duong-vo-nguyen-giap-phuong-phuoc-my/-van-kiet-noi-dai-va-danh-sach-cap-nhat-xay-cao-tang-gia-canh-tranh-0932560868-pr32028448&amp;t=Đất đường Võ Nguyên Giáp và danh sách cập nhật đất xây cao tầng, giá cạnh tranh, 0932 560 ***" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-dat-duong-vo-nguyen-giap-phuong-phuoc-my/-van-kiet-noi-dai-va-danh-sach-cap-nhat-xay-cao-tang-gia-canh-tranh-0932560868-pr32028448" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=32028448">
+   Cập nhật danh sách đất xây cao tầng ven biển - Nóng từng giờ sinh lời từng ngày.
+   <br/>
+   <br/>
+   Chớp ngay cơ hội sở hữu một trong những lô đất "vàng" tại Đà Nẵng. Số lượng có hạn, giá cạnh tranh, hội tụ tiềm năng sinh lời bên bãi biển đẹp nhất hành tinh.
+   <br/>
+   <br/>
+   - Vị trí: Mặt tiền Võ Văn Kiệt - Cung đường nối từ sân bay đến bãi biển Mỹ Khê.
+   <br/>
+   + Cách sân bay Đà Nẵng: 15 phút.
+   <br/>
+   + Cách trung tâm tài chính, công viên, khu phức hợp thương mại: 8 phút.
+   <br/>
+   <br/>
+   - Phù hợp với xây: Villa, boutique, khách sạn, căn hộ - chung cư. Diện tích phù hợp mọi nhu cầu:
+   <br/>
+   + Diện tích được NĐT quan tâm nhiều: 300m² - 500m².
+   <br/>
+   + Diện tích thuộc phân khúc cao cấp NĐT lớn săn tìm: 700m² - 3.000m².
+   <br/>
+   <br/>
+   Cập nhật danh sách đất ven biển mới nhất cho NĐT:
+   <br/>
+   1. Đất 2MT Phạm Văn Đồng 1745m² giá 2xxtr/m².
+   <br/>
+   2. Mặt tiền Võ Văn Kiệt, 300 triệu/m². 2600m².
+   <br/>
+   3. 4 lô liền kề Hoàng Sa B2. X, tổng DT 428m², giá 220tr/m².
+   <br/>
+   4. Mặt tiền Võ Nguyên Giáp, 600m², giá 35x triệu/m².
+   <br/>
+   5. Đất mặt tiền Lê Quang Đạo và An Thượng 30, 304m², giá 4x tỷ.
+   <br/>
+   6. Đất 3MT Trần Bạch Đằng, đường 10m5. 600m² 2xx tr/m².
+   <br/>
+   <br/>
+   * Tiện ích:
+   <br/>
+   - Trục thông biển, đường lớn. Gần biển.
+   <br/>
+   - Phù hợp xây khách sạn với lượng lớn khách du lịch tập trung.
+   <br/>
+   - Giá trị thương mại cao.
+   <br/>
+   - An ninh 24/24.
+   <br/>
+   <br/>
+   * Ngoài ra, còn có các thương vụ mua bán khách sạn từ 40 tỷ - Hơn 1000 tỷ hấp dẫn chào đón các nhà đầu tư.
+   <br/>
+   <br/>
+   Quý anh/chị có nhu cầu liên hệ ngay Hotline
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="dd09fa1d0e1df9584c4863f8722ce883" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=32028448">
+    0932 560 ***
+   </span>
+   để được tư vấn chi tiết!
+   <br/>
+   --------------------------------
+   <br/>
+   <br/>
+   - Thông tin liên hệ:
+   <br/>
+   Hotline:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" raw="dd09fa1d0e1df9584c4863f8722ce883" tracking-id="lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=32028448">
+    0932 560 ***
+   </span>
+   (SMS/Zalo/Viber).
+   <br/>
+   Email:
+   <a href="mailto:NVMinh.RTH@gmail.com">
+    NVMinh.RTH@gmail.com
+   </a>
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      600 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Thỏa thuận
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0574731,108.2465536&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <span class="re__contact-avatar">
+   M
+  </span>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Nguyễn Văn M">
+     Nguyễn Văn M
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/b650fbbf916ff774" tracking-id="user-listing-ldp">
+      Xem thêm 79 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=32028448">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-phuong-phuoc-my" title="Đất Phước Mỹ " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Phước Mỹ
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-duong-vo-nguyen-giap-45" title="Đất Võ Nguyên Giáp " tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Võ Nguyên Giáp
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-da-nang" title="Đất Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-phuong-an-hai-dong" title="Đất An Hải Đông Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất An Hải Đông Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-phuong-an-hai-bac" title="Đất An Hải Bắc Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất An Hải Bắc Sơn Trà
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/ban-dat-duong-an-thuong-30-49" title="Đất An Thượng 30 Sơn Trà" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Đất An Thượng 30 Sơn Trà
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    13/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    20/11/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin VIP Vàng
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    32028448
+   </span>
+  </div>
+ </div>
+</div>

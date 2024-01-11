@@ -1,0 +1,360 @@
+<div class="re__pr-info pr-info js__product-detail-web" id="product-detail-web" prid="38684037" uid="2537224">
+ <h1 class="re__pr-title pr-title js__pr-title">
+  Cần bán biệt thự 2 mặt tiền đẳng cấp, sang trọng view Sông Hàn rất đẹp nằm trung tâm quận Hải Châu
+ </h1>
+ <span class="re__pr-short-description js__pr-address">
+  Đường Thăng Long, Phường  Hải Châu I, Hải Châu, Đà Nẵng
+ </span>
+ <div class="re__pr-short-info js__pr-short-info">
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Mức giá
+   </span>
+   <span class="value">
+    21,5 tỷ
+   </span>
+   <span class="ext">
+    ~67,61 triệu/m²
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Diện tích
+   </span>
+   <span class="value">
+    318 m²
+   </span>
+   <span class="ext">
+    Mặt tiền 16 m
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-short-info-item">
+   <span class="title">
+    Phòng ngủ
+   </span>
+   <span class="value">
+    4 PN
+   </span>
+  </div>
+  <div aria-label="Lưu tin" class="js__marking-product re__btn re__btn-se-ghost--md re__btn-icon--md re__pr-short-info-action re__marking-product" data-aria-label-save="Lưu tin" data-aria-label-unsave="Bỏ lưu tin" data-marked-product-info-as-json='{"productId":38684037,"avatarinfowap":"https://file4.batdongsan.com.vn/crop/200x140/2023/12/01/20231201230550-80bf_wm.jpg","vipType":0,"title":"Cần bán biệt thự 2 mặt tiền đẳng cấp, sang trọng view Sông Hàn rất đẹp nằm trung tâm quận Hải Châu","titleHiddenMobile":"Cần bán biệt thự 2 mặt tiền đẳng cấp, sang trọng view Sông Hàn rất đẹp nằm trung tâm quận Hải Châu","url":"https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-thang-long-1-phuong-hai-chau-i/can-ban-2-mat-tien-dang-cap-sang-trong-view-song-han-rat-dep-nam-trung-tam-quan-chau-pr38684037","productIdPrefix":"38684037$"}' data-microtip-position="top" role="tooltip" tracking-id="save-listing" tracking-label="loc=Sale-Listing Details,status=save">
+   <i class="re__icon-heart">
+   </i>
+   <i class="re__icon-heart-pressed">
+   </i>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report">
+   <div aria-label="Báo xấu tin đăng" class="re__btn re__btn-se-ghost--md re__btn-icon--md js__bad-report" data-microtip-position="top" role="tooltip" tracking-id="report-ldp">
+    <i class="re__icon-warning-triangle">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action re__bad-report-recur js__bad-report-recur">
+   <div aria-label="Tin đã bị báo xấu. 
+ Bấm để hiện lại tin" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" role="tooltip">
+    <i class="re__icon-eye-open">
+    </i>
+   </div>
+  </div>
+  <div class="re__pr-short-info-action">
+   <div aria-label="Chia sẻ" class="re__btn re__btn-se-ghost--md re__btn-icon--md" data-microtip-position="top" element-id="product-share" role="tooltip">
+    <i class="re__icon-share">
+    </i>
+   </div>
+   <div class="re__pr-short-info-action-context" element-id="box-share">
+    <a class="re__list-standard-1line-no-underline--md" href="https://www.facebook.com/sharer/sharer.php?u=https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-thang-long-1-phuong-hai-chau-i/can-ban-2-mat-tien-dang-cap-sang-trong-view-song-han-rat-dep-nam-trung-tam-quan-chau-pr38684037&amp;t=Cần bán biệt thự 2 mặt tiền đẳng cấp, sang trọng view Sông Hàn rất đẹp nằm trung tâm quận Hải Châu" id="facebook" rel="nofollow" target="_blank" tracking-id="share-ldp" tracking-label="type=facebook">
+     <i class="re__icon-facebook-hover">
+     </i>
+     Facebook
+    </a>
+    <a class="zalo-share-button re__list-standard-1line-no-underline--md lazyload" data-color="blue" data-customize="true" data-href="https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-thang-long-1-phuong-hai-chau-i/can-ban-2-mat-tien-dang-cap-sang-trong-view-song-han-rat-dep-nam-trung-tam-quan-chau-pr38684037" data-layout="2" data-oaid="2606322533378009715" data-script="https://sp.zalo.me/plugins/sdk.js" id="zalo" tracking-id="share-ldp" tracking-label="type=zalo">
+     <i class="re__icon-zalo-hover">
+     </i>
+     Zalo
+    </a>
+    <a class="re__list-standard-1line-no-underline--md js__copyLink" tracking-id="share-ldp" tracking-label="type=link">
+     <i class="re__icon-link">
+     </i>
+     Sao chép liên kết
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__pr-description js__section js__li-description">
+  <span class="re__section-title">
+   Thông tin mô tả
+  </span>
+  <div class="re__section-body re__detail-content js__section-body js__pr-description js__tracking" trackingid="lead-phone-ldp" trackinglabel="loc=Sale-Listing Details-body,prid=38684037">
+   CC: Bán biệt thự biệt thự 2 mặt tiền siêu đẹp, rộng rãi thoáng mát nằm trên đường Thăng Long sát sông, trực diện mặt sông trung tâm Quận Hải Châu.
+   <br/>
+   Khu biệt thự đắt địa bật nhất Đà Nẵng. Thiết kế xây dựng đẳng cấp, sang trọng, đẹp.
+   <br/>
+   <br/>
+   - Diện tích 318m² ngang 16m.
+   <br/>
+   <br/>
+   - Thiết kế 3,5 tầng đầy đủ công năng, sân vườn, hồ cá, hòn non bộ.
+   <br/>
+   - Biệt Thự có 4PN rộng rãi, 4WC, 1 phòng thờ, phòng sinh hoạt, gara oto.
+   <br/>
+   - Đường Lớn: 21m.
+   <br/>
+   <br/>
+   - Nằm Trong khu biệt thự Thăng Long quy tụ những cư dân tinh hoa vip,
+   <br/>
+   <br/>
+   + Xung Quanh: Gần chợ, trường học, gần biển.
+   <br/>
+   <br/>
+   Có đầy đủ những tiện ích của Thành phố Đà Nẵng.
+   <br/>
+   + Gần Ngay siêu thị Lotte - phố Hàn, siêu thị MEga.
+   <br/>
+   + Gần công viên Châu Á - Phố đêm Helio - Điểm bắn pháo hoa mới của thành phố.
+   <br/>
+   + Gần làng thể dục thể thao.
+   <br/>
+   + Khu vui chơi và rạp chiếu phim Metiz.
+   <br/>
+   + Quảng trường trung tâm sự kiện thành phố Đà Nẵng.
+   <br/>
+   + Trường Quốc tế Skyline.
+   <br/>
+   + Cách sông Hàn 200m.
+   <br/>
+   + Cách biển 1,2km.
+   <br/>
+   + Cách sân bay quốc tế Đà Nẵng 3km.
+   <br/>
+   - Giá bán 21,5 tỷ (Thương lượng.
+   <br/>
+   Pháp Lý: Đã có sổ hồng, an toàn, uy tín.
+   <br/>
+   Liên hệ ngay:
+   <span class="hidden-mobile hidden-phone m-cover js__btn-tracking" data-kyc-avatar="https://file4.batdongsan.com.vn/resize/255x180/2023/11/24/20231124212626-4d38.jpg" data-kyc-name="Mai Thị Mỹ Tưởng" raw="9ef363f6ad64b5cdc826da4570f42cab" tracking-id="click-kyc-lead-phone-ldp" tracking-label="loc=Sale-Listing Details-body,prid=38684037">
+    0981 629 ***
+   </span>
+   để đi xem Biệt Thự.
+  </div>
+ </div>
+ <div class="re__section re__pr-specs re__pr-specs-v1 js__section js__li-specs">
+  <span class="re__section-title">
+   Đặc điểm bất động sản
+  </span>
+  <div class="re__section-body re__border--std js__section-body">
+   <div class="re__pr-specs-content js__other-info">
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-size">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Diện tích
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      318 m²
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-money">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mức giá
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      21,5 tỷ
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-home">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Mặt tiền
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      16 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-road">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Đường vào
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      21 m
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-apartment">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số tầng
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      3 tầng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bedroom">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số phòng ngủ
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      4 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-bath">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Số toilet
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      4 phòng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-document">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Pháp lý
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Sổ đỏ/ Sổ hồng
+     </span>
+    </div>
+    <div class="re__pr-specs-content-item">
+     <span class="re__pr-specs-content-item-icon">
+      <i class="re__icon-interior">
+      </i>
+     </span>
+     <span class="re__pr-specs-content-item-title">
+      Nội thất
+     </span>
+     <span class="re__pr-specs-content-item-value">
+      Đầy đủ
+     </span>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="js__li-pricing-history-chart js__pricing-history-display" data-display="False" data-kyc-type="1">
+ </div>
+ <div class="re__section re__pr-map js__section js__li-other">
+  <span class="re__section-title">
+   Xem trên bản đồ
+  </span>
+  <div class="re__section-body js__section-body">
+   <iframe allowfullscreen="" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?q=16.0288295,108.2258002&amp;key=AIzaSyAMd45cCGHSmsM2a5APxYRdOwV8kX-4m40" frameborder="0" style="border:0">
+   </iframe>
+   <div class="map-overlay">
+   </div>
+  </div>
+ </div>
+ <div class="re__section re__contact-box-tablet js__section js__contact-box-tablet">
+  <span class="re__section-title">
+   Liên hệ người đăng tin
+  </span>
+  <img class="re__contact-avatar" src="https://file4.batdongsan.com.vn/resize/255x180/2023/11/24/20231124212626-4d38.jpg"/>
+  <div class="re__tablet-contact-info re__vertical-align-middle">
+   <div>
+    <span class="re__contact-name js_contact-name" title="Mai Thị Mỹ Tưởng">
+     Mai Thị Mỹ Tưởng
+    </span>
+    <span class="re__contact-link">
+     <a class="re__link-pr" href="https://guru.batdongsan.com.vn/p/8467fb906117711f" tracking-id="navigate-agent-profile">
+      Xem thêm 5 tin khác
+     </a>
+    </span>
+   </div>
+  </div>
+  <a class="re__btn re__btn-se-border--md re__btn-icon-left--md re__btn-contact js__btnSendContact" data-type-rcb="1" href="javascript:void(0);" tracking-id="request-call-back-ldp" tracking-label="loc=Sale-Listing Details,prid=38684037">
+   <i class="re__icon-call-back">
+   </i>
+   <span>
+    Yêu cầu liên hệ lại
+   </span>
+  </a>
+ </div>
+ <div class="re__section re__pr-tags js__section">
+  <h2 class="re__section-title">
+   Tìm kiếm theo từ khóa
+  </h2>
+  <div class="re__section-body js__section-body">
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/biet-thu-hai-chau-i-hai-chau" title="Biệt thự Hải Châu I Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự Hải Châu I Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/biet-thu-thang-long-hai-chau" title="Biệt thự thăng long Hải Châu" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự thăng long Hải Châu
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/biet-thu-hai-chau-da-nang" title="Biệt thự Hải Châu Đà Nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự Hải Châu Đà Nẵng
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/biet-thu-da-nang-4-pn" title="Biệt thự Đà Nẵng 4 PN" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Biệt thự Đà Nẵng 4 PN
+    </a>
+   </h3>
+   <h3>
+    <a class="re__tag--md" href="/tags/ban/ban-biet-thu-gan-bien-da-nang" title="Bán biệt thự gần biển đà nẵng" tracking-id="srp-suggestion-link" tracking-label="loc=Sale-Listing Details;type=keyword">
+     Bán biệt thự gần biển đà nẵng
+    </a>
+   </h3>
+  </div>
+ </div>
+ <div class="re__pr-short-info re__pr-config js__pr-config">
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày đăng
+   </span>
+   <span class="value">
+    02/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Ngày hết hạn
+   </span>
+   <span class="value">
+    12/12/2023
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Loại tin
+   </span>
+   <span class="value">
+    Tin thường
+   </span>
+  </div>
+  <div class="re__pr-short-info-item js__pr-config-item">
+   <span class="title">
+    Mã tin
+   </span>
+   <span class="value">
+    38684037
+   </span>
+  </div>
+ </div>
+</div>
