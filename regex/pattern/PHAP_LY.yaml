@@ -3,7 +3,8 @@ rules:
 
   - type: "Sổ đỏ và Sổ hồng"
     regex: 
-      - "s[oôỏổ]\\s*([dđ][oỏ]|h[oòôồ]n?g).*s[oôỏổ]?\\s*([dđ][oỏ]|h[oòôồ]n?g)"
+      - "s[oôỏổ]\\s*[dđ][oỏ].*(s[oôỏổ])?\\s*h[oòôồ]n?g"
+      - "s[oôỏổ]\\s*h[oòôồ]n?g.*(s[oôỏổ])?\\s*[dđ][oỏ]"
 
   - type: "Sổ đỏ"
     regex: 
@@ -25,6 +26,6 @@ rules:
   
   - type: "Chính chủ"
     regex: 
-      - "(gi[aáâấ]y\\s*t[oòơờ]\\s*|s[oỏổ]|s[oỏổ]\\s*s[aá]ch).*ch[íi]nh\\s*ch[uủ]"
+      - "(gi[aáâấ]y\\s*t[oòơờ]\\s*|s[oỏổ]\\s|s[oỏổ]\\s*s[aá]ch).*ch[íi]nh\\s*ch[uủ]"
       - "ch[íi]nh\\s*ch[uủ]"
 

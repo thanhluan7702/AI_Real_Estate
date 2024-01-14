@@ -3,4 +3,4 @@ rules:
 
   - type: "TOILET"
     regex: 
-      - "(\\d+)\\s*(t[aàâầ]n?g|l[aàâầ]u)"
+      - "(\\d+(?:[.,]\\d+)?)\\s*(t[aàâầ]ng?|l[aàâầ]u)"

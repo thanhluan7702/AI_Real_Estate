@@ -3,4 +3,4 @@ rules:
 
   - type: "SO_PHONG_NGU"
     regex: 
-      - "(\\d+)\\s*(ph[oồòờ]ng\\s*ng[uủ]|pn|ng[uủ]|p\\s*ng[uủ])"
+      - "(\\d+)\\s*(ph[oồòờ]ng\\s*ng[uủ]|pn|ng[uủ]\\s|p\\s*ng[uủ])"
