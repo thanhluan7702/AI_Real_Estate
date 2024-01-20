@@ -1,0 +1,48 @@
+domain: real_estate 
+rules: 
+
+  - type: "Sân vườn"
+    regex: 
+      - "s[aâ]n\\s*v[ưừuù][oơòờ]n"
+      - "sân"
+      - "v[ưừuù][oơòờ]n\\s*(hoa|rau)"
+
+  - type: "Phòng khách"
+    regex: 
+      - "(ph[oôơòồờóốớỏổởọộợõỗỡ]ng\\s*kh[aăâàằầáắấạặậảẩẳãẵẫ]ách|pk|p\\s*khach)"
+      
+  - type: "Phòng Gym"
+    regex:
+      - "(ph[oôơòồờóốớỏổởọộợõỗỡ]ng)?\\s*(gym|th[eêèềéếẻểẹệẽễ]\\s*d[uụ]c|th[eêèềéếẻểẹệẽễ]\\s*h[iì]nh|yoga)"
+  
+  - type: "Hồ bơi"
+    regex:
+      - "(h[oôơòồờóốớỏổởọộợõỗỡ]|b[eêèềéếẻểẹệẽễ])\\s*(b[oôơòồờóốớỏổởọộợõỗỡ]i|t[aăâàằầáắấạặậảẩẳãẵẫ]m)"
+      
+  - type: "Bể cá"
+    regex:
+      - "(h[oôơòồờóốớỏổởọộợõỗỡ]|b[eêèềéếẻểẹệẽễ])\\s*c[aăâàằầáắấạặậảẩẳãẵẫ]"
+  
+  - type: "Phòng bếp"
+    regex: 
+      - "(ph[oôơòồờóốớỏổởọộợõỗỡ]ng\\s*b[eêèềéếẻểẹệẽễ]p|b[eêèềéếẻểẹệẽễ]p|pb|p\\s*b[eêèềéếẻểẹệẽễ]p|ph[oôơòồờóốớỏổởọộợõỗỡ]ng\\s*n[aăâàằầáắấạặậảẩẳãẵẫ]u\\s*([aăâàằầáắấạặậảẩẳãẵẫ]n)?)"
+  
+  - type: "Phòng thờ"
+    regex: 
+      - "(phờng\\s*thờ|p\\s*thờ|thờ)"
+      
+  - type: "Tầng hầm"
+    regex: 
+      - "(t[aàâầ]ng)?\\s*h[aâàầ]m"
+      
+  - type: "Phòng đọc sách"
+    regex: 
+      - "((ph[oôơòồờóốớỏổởọộợõỗỡ]ng|p)\\s*(đ[oôơòồờóốớỏổởọộợõỗỡ]c\\s*(s[aăâàằầáắấạặậảẩẳãẵẫ]ch)?|s[aăâàằầáắấạặậảẩẳãẵẫ]ch))"
+
+  - type: "Phòng hội nghị"
+    regex: 
+      - "((ph[oôơòồờóốớỏổởọộợõỗỡ]ng|p)\\s*h[oôơòồờóốớỏổởọộợõỗỡ]i\\s*ngh[iị]|ph[oôơòồờóốớỏổởọộợõỗỡ]ng\\s*h[oôơòồờóốớỏổởọộợõỗỡ]p|meeting\\s*room|(ph[oôơòồờóốớỏổởọộợõỗỡ]ng|p)g\\s*meeting)"
+
+  - type: "Phòng phơi"
+    regex: 
+      - "(ph[oôơòồờóốớỏổởọộợõỗỡ]ng|p)\\s*(ph[oôơòồờóốớỏổởọộợõỗỡ]i|g[ịi][aăâàằầáắấạặậảẩẳãẵẫ]c)"

@@ -1,38 +1,38 @@
 domain: real_estate 
 rules: 
-  - type: "hướng tây bắc"
+  - type: "Hướng tây bắc"
     regex:
       - "(h[uưúứ][oôơóốớ]ng|h)\\s*(b[aăâáấắ]c|t[aâă]y)\\s*(l[eêẹệ]ch)?\\s*(b[aăâáấắ]c|t[aâă]y)"
       - "(b[aăâáấắ]c|t[aâă]y)\\s*(l[eêẹệ]ch)?\\s*(b[aăâáấắ]c|t[aâă]y)"
 
-  - type: "hướng tây nam"
+  - type: "Hướng tây nam"
     regex:
       - "(h[uưúứ][oôơóốớ]ng|h)\\s*(nam|t[aâă]y)\\s*(l[eêẹệ]ch)?\\s*(nam|t[aâă]y)"
       - "(nam|t[aâă]y)\\s*(l[eêẹệ]ch)?\\s*(nam|t[aâă]y)"
       
-  - type: "hướng đông bắc"
+  - type: "Hướng đông bắc"
     regex:
       - "(h[uưúứ][oôơóốớ]ng|h)\\s*([dđ][oôơ]ng|b[aăâáấắ]c)\\s*(l[eêẹệ]ch)?\\s*([dđ][oôơ]ng|b[aăâáấắ]c)"
       - "([dđ][oôơ]ng|b[aăâáấắ]c)\\s*(l[eêẹệ]ch)?\\s*([dđ][oôơ]ng|b[aăâáấắ]c)"
       
-  - type: "hướng đông nam"
+  - type: "Hướng đông nam"
     regex:
       - "(h[uưúứ][oôơóốớ]ng|h)\\s*(nam|[dđ][oôơ]ng)\\s*(l[eêẹệ]ch)?\\s*(nam|[dđ][oôơ]ng)"
       - "(nam|[dđ][oôơ]ng)\\s*(l[eêẹệ]ch)?\\s*(nam|[dđ][oôơ]ng)"
 
-  - type: "hướng đông"
+  - type: "Hướng đông"
     regex: 
       - "(h[uưúứ][oôơóốớ]ng|h)\\s*[dđ][oôơ]ng"
       
-  - type: "hướng tây"
+  - type: "Hướng tây"
     regex: 
       - "(h[uưúứ][oôơóốớ]ng|h)\\s*t[aâă]y"
       
-  - type: "hướng nam"
+  - type: "Hướng nam"
     regex:
       - "(h[uưúứ][oôơóốớ]ng|h)\\s*nam"
       
-  - type: "hướng bắc"
+  - type: "Hướng bắc"
     regex:
       - "(h[uưúứ][oôơóốớ]ng|h)\\s*b[aăâáấắ]c"
       
