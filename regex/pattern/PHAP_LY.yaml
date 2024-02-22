@@ -3,7 +3,7 @@ rules:
 
   - type: "Sổ đỏ và Sổ hồng"
     regex: 
-      - "s[oôỏổ]\\s*[dđ][oỏ].*(s[oôỏổ])?\\s*h[oòôồ]n?g"
+      - "s[oôỏổ]\\s*[dđ][oỏ].*(s[oôỏổ])?\\sh[oòôồ]n?g"
       - "s[oôỏổ]\\s*h[oòôồ]n?g.*(s[oôỏổ])?\\s*[dđ][oỏ]"
 
   - type: "Sổ đỏ"

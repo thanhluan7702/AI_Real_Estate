@@ -1,6 +1,6 @@
 domain: real_estate 
 rules: 
 
-  - type: "TOILET"
+  - type: "Số tầng"
     regex: 
       - "(\\d+(?:[.,]\\d+)?)\\s*(t[aàâầ]ng?|l[aàâầ]u)"

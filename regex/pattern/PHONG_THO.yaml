@@ -1,0 +1,6 @@
+domain: real_estate 
+rules: 
+
+  - type: "Có"
+    regex: 
+      - "(ph[oờồ]ng\\s?thờ|p\\s?thờ|thờ[.,]?\\s)"

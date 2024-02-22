@@ -1,0 +1,8 @@
+Không nói tới giá trị khoảng cách:	
+	(g[ầâà]n|s[aá]t|view|ngay|m[ăặ]t|đ[oôóố]i\\s*di[ệêeẹ]n|tr[ưuụự]c\\s*di[eêẹệ]n|cạnh|ven|b[eê]n\\s*c[aạ]nh)\\s*(là|với)?\\s*(biển|b[aảã]i\\s*t[aăáắ]m|b[aảã]i\\s*bi[êeẻể]n)
+
+Có nói tới khoảng cách:
+	(ra|cách|đến|tới|xuống) + (biển|b[aảã]i\\s*t[aăáắ]m|b[aảã]i\\s*bi[êeẻể]n) + phút|giờ|m|km|bước chân
+	phút|giờ|m|km|bước chân + ra|đến|tới|xuống + (biển|b[aảã]i\\s*t[aăáắ]m|b[aảã]i\\s*bi[êeẻể]n)
+
+

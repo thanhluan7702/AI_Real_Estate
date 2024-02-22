@@ -1,0 +1,13 @@
+domain: real_estate 
+rules: 
+
+  - type: "Có"
+    regex: 
+    - "s[aâ]n\\s*v[ưừuù][oơòờ]n"
+    - "s[aâ]n\\s*(trước|sau)"
+    - "v[ưừuù][oơòờ]n\\s*(hoa|rau)?"
+    - "s[aâ]n\\s*ch[oơ]i"
+    - "s[aâ]n\\s*r[ộôọo]ng"
+    - "s[aâ]n\\s*b[ãả]i"
+
+  

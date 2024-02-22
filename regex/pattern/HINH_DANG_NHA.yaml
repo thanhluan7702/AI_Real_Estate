@@ -1,9 +1,13 @@
 domain: real_estate
 rules: 
-  - type: "nở hậu"
+  - type: "Nở hậu"
     regex: 
       - "n[oôơỏổởõỗỡ]\\s*h[aăâạặậ]u"
   
-  - type: "vuông vức"
+  - type: "Vuông vức"
     regex: 
       - "vu[oôơ]ng\\s*(đ[eêẹệ]p|v[uưúứ]c|v[aăâáắấ]n)"
+      
+  - type: "Chữ L"
+    regex: 
+      - "ch[ữửưu]\\s*(L[.,]?\\s|lờ|l[.,]?\\s)"
