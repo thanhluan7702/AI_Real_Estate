@@ -1,0 +1,31 @@
+domain: real_estate 
+rules: 
+
+  - type: "Sổ đỏ và Sổ hồng"
+    regex: 
+      - "s[oôỏổ]\\s*[dđ][oỏ].*(s[oôỏổ])?\\sh[oòôồ]n?g"
+      - "s[oôỏổ]\\s*h[oòôồ]n?g.*(s[oôỏổ])?\\s*[dđ][oỏ]"
+
+  - type: "Sổ đỏ"
+    regex: 
+      - "s[oôỏổ]\\s*[dđ][oỏ]"
+      
+  - type: "Sổ hồng"
+    regex:
+      - "s[oôỏổ]\\s*h[oòôồ]n?g"
+  
+  - type: "Giấy tờ đầy đủ"
+    regex:
+      - "([dđ][aàâầ]y\\s*[đd][uủ]|s[ẵãaă]n|h[oò][aà]n\\s*ch[iỉ]nh)\\s*(gi[aáâấ]y\\s*t[oòơờ]\\s*|s[oỏổ]|s[oỏổ]\\s*s[aá]ch)"
+      - "(gi[aáâấ]y\\s*t[oòơờ]\\s*|s[oỏổ]|s[oỏổ]\\s*s[aá]ch)\\s*c[oó]\\s*([dđ][aàâầ]y\\s*[đd][uủ]|s[ẵãaă]n|h[oò][aà]n\\s*ch[iỉ]nh)"
+  
+  - type: "Pháp lý rõ ràng/ đầy đủ"
+    regex: 
+      - "ph[áa]p\\s*l[ýy]\\s*(r[õo]\\s*r[aà]ng|[dđ][aàâầ]y\\s*[đd][uủ]|h[oò][aà]n\\s*ch[iỉ]nh)"
+      - "ph[áa]p\\s*l[ýy]"
+  
+  - type: "Chính chủ"
+    regex: 
+      - "(gi[aáâấ]y\\s*t[oòơờ]\\s*|s[oỏổ]\\s|s[oỏổ]\\s*s[aá]ch).*ch[íi]nh\\s*ch[uủ]"
+      - "ch[íi]nh\\s*ch[uủ]"
+

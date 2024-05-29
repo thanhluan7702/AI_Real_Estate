@@ -1,0 +1,18 @@
+                 precision    recall  f1-score   support
+
+           BIEN       0.51      0.68      0.58        50
+        DIA_CHI       0.78      0.79      0.78       163
+        DICH_VU       0.80      0.88      0.84       172
+      DIEN_TICH       0.86      0.95      0.90       170
+DUONG_TRUOC_NHA       0.91      0.93      0.92        92
+            GIA       0.91      0.97      0.94       149
+     KICH_THUOC       0.89      0.95      0.92       124
+      PHONG_NGU       0.83      0.99      0.90        79
+           SONG       0.00      0.00      0.00        16
+        SO_TANG       0.82      0.92      0.86       118
+         TOILET       0.75      0.84      0.80        58
+         VI_TRI       0.77      0.82      0.79       116
+
+      micro avg       0.82      0.88      0.85      1307
+      macro avg       0.74      0.81      0.77      1307
+   weighted avg       0.81      0.88      0.84      1307

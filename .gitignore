@@ -1,0 +1,14 @@
+.env
+*.csv
+*.json
+data/source/alonhadat/*
+data/source/batdongsan/*
+data/source/nhatot/*
+
+src/training/noise_filtering/models/*
+src/training/noise_filtering/best_models/*
+src/training/ner/models/*
+src/training/ner/best_models/*
+src/training/noise_filtering/error_analysis.ipynb
+
+transformers/

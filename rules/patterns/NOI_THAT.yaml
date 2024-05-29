@@ -1,0 +1,25 @@
+domain: real_estate 
+rules: 
+
+  - type: "Nội thất cao cấp"
+    regex: 
+      - "n[ộôoọ]i\\s*th[ấâaá]t\\s*(x[ịi]n|x[ịi]n\\s*(m[ịi]n)?|cao\\s*c[ấáâa]p|sang\\s*tr[ọo]ng|vip|m[ớơoó]i|hi[ệêeẹ]n\\s*đ[ạa]i|th[ờơòo]i th[ưựuụ][ợơoọ]ng|sang)"
+
+  - type: "Nội thất đầy đủ"
+    regex: 
+      - "(([đd][âàaầ]y)?\\s*[đd]ủ|t[oò][aà]n\\s*b[oọôộ]|full|fuul|full)\\s*n[ộôoọ]i\\s*th[ấâaá]t"
+      - "n[ộôoọ]i\\s*th[ấâaá]t\\s*(([đd][âàaầ]y)?\\s*[đd]ủ|t[oò][aà]n\\s*b[oọôộ]|full|fuul|full)"
+      
+  - type: "Nội thất cơ bản"
+    regex:
+      - "n[ộôoọ]i\\s*th[ấâaá]t\\s*(ti[êe]u\\s*chu[ẩâaả]n|c[oơ]\\s*b[ảa]n)"
+  
+  - type: "Nhà trống"
+    regex:
+      - "(nh[àa])?\\s*(kh[ôo]ng\\s*(c[oó])?)\\s*n[ộôoọ]i\\s*th[ấâaá]t"
+      - "nh[àa]\\s*tr[ốóoô]ng"
+      - "k\\s*n[ộôoọ]i\\s*th[ấâaá]t"
+
+  - type: "Nội thất cơ bản"
+    regex:
+      - "n[ộôoọ]i\\s*th[ấâaá]t"

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DUE_GPT</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .container {
+            text-align: center;
+            position: absolute;
+            top: calc(50% - 5cm);
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        h1 {
+            font-size: 36px;
+            color: #333333;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 16px;
+            color: #666666;
+        }
+
+        form {
+            margin-top: 20px;
+        }
+
+        input[type="text"] {
+            width: 300px;
+            padding: 10px;
+            font-size: 16px;
+        }
+
+        button[type="submit"] {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        p {
+            margin-top: 10px;
+        }
+
+        .message-list {
+            text-align: left;
+            margin-left: 20px;
+        }
+
+        .message-list li:first-child {
+            list-style-type: none;
+            margin-bottom: 5em;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>NARE GPT</h1>
+        <p>Built by thesis team Luan and Huong</p>
+        <form action="/" method="post">
+            <input type="text" name="sentence" placeholder="Enter the input description">
+            <button type="submit">Predict</button>
+        </form>
+        {% if message %}
+            <ul class="message-list">
+                {% for item in message %}
+                    <li>{{ item }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+        {% if raise_warning %}
+            <p style="color: red;">{{ raise_warning }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>
