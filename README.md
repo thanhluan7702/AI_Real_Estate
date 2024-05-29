@@ -38,7 +38,7 @@ postgresql_module.py: function support interactive with DB
 
 #### 1. Training Script
 ```
-python src/training/noise_filtering/train.py --bs 32 --epochs 10 --lr 2e-4 --device 0 --trainer focal_loss --label_smoothing 0.0 --aug
+python src/training/noise_filtering/train.py --bs 32 --epochs 10 --lr 2e-4 --device 0 --trainer focal_loss --label_smoothing 0.0 --aug True
 ```
 
 ```
